@@ -1,1 +1,296 @@
-[{"date":"2026-10-18","id":"S01","link":"https://aiweekly.co/alerts/deepseek-opens-v41-flash-1017-weights-and-075-search-api","title":"DeepSeek V4.1-Flash-1017 发布，开源 MIT 权重（旧版日报已报）"},{"date":"2026-10-18","id":"S02","link":"","title":"Agent 安全危机：OpenAI 累计 19 起 agent 失控事件，多家网站封堵 agent 访问（旧版日报已报）"},{"date":"2026-10-18","id":"S03","link":"","title":"GPT-6 Pro 并行 agent 与 ChatGPT Slides 产品更新（旧版日报已报）"},{"date":"2026-10-18","id":"S04","link":"","title":"Agent 评测论文：FDE-Gym 等落地导向评测（旧版日报已报）"},{"date":"2026-10-18","id":"S05","link":"","title":"英伟达 Nemotron 3.5 Bolt 发布、RTX Spark 相关动态（旧版日报已报）"},{"date":"2026-10-18","id":"S06","link":"https://startupfortune.com/deepseek-opens-its-search-and-fetch-apis-at-075-per-1000-calls/","title":"DeepSeek Search/Fetch API 正式定价 5 元/千次，11-01 起对工具调用收费（旧版晚间更新已报）"},{"date":"2026-10-18","id":"S07","link":"https://thelatent.co/models/opencode-says-breach-tied-to-distillation-attack-exposed-users-ai-provider-keys","title":"OpenCode“蒸馏攻击”：约 1.4% 用户第三方 API key 泄露（旧版晚间更新已报）"},{"date":"2026-10-18","id":"S08","link":"","title":"Anthropic 就业报告：agent 工时达员工 6 倍，初级技术岗招聘占比 27%→9%（旧版晚间更新已报）"},{"date":"2026-10-18","id":"S09","link":"","title":"三星用台积电 3nm 为英伟达 NVHBM 生产 base die（旧版晚间更新已报）"},{"date":"2026-10-18","id":"S10","link":"","title":"微软退出 Nscale 英国数据中心项目（旧版晚间更新已报）"},{"date":"2026-10-18","id":"A1","link":"https://www.engadget.com/2285040/openai-humanoid-robot-sam-altman-statement-real-challenge/","title":"OpenAI 确认自研人形机器人，Altman：2027 年出演示机"},{"date":"2026-10-18","id":"A2","link":"https://trendintech.com/github-copilot-drops-3-ai-models-november-2026/","title":"GitHub Copilot 11 月 16 日下线三个模型：Claude Opus 4.8、Claude Opus 5、GPT-5.6 Terra"},{"date":"2026-10-18","id":"A3","link":"http://dev.to/aicoding-guide/this-week-in-claude-code-codex-and-gemini-cli-week-of-october-18-2026-e6d","title":"Claude Code / Codex CLI / Gemini CLI 本周更新：空闲对话自动压缩、Daybreak 重回默认"},{"date":"2026-10-18","id":"A4","link":"https://m.economictimes.com/markets/us-stocks/news/ai-race-may-depend-more-on-access-to-power-infrastructure-than-chip-supply-morgan-stanley/amp_articleshow/135012540.cms","title":"摩根士丹利：美国数据中心到 2028 年面临 32GW 电力缺口"},{"date":"2026-10-18","id":"A5","link":"https://finance.sina.cn/stock/jdts/2026-10-17/detail-inivnvkv8239715.d.html","title":"湾芯展直击：AI 服务器功耗攀升，功率半导体打开新增长空间"},{"date":"2026-10-18","id":"A6","link":"https://finance.sina.cn/tech/2026-10-17/detail-inivnvku1460723.d.html","title":"国产半导体测试设备密集扩产，HBM 测试成新风口"},{"date":"2026-10-18","id":"A7","link":"https://www.vlsi.kr/en/daily-silicon-2026-10-17-en/","title":"韩国半导体日报：三星/SK 海力士技术性反弹，HBM4E 与传统 DRAM 短缺预警"},{"date":"2026-10-18","id":"A8","link":"https://wccftech.com/apple-14nm-chips-tsmc-2028-mass-production-ai-supply/","title":"J.P. 摩根：台积电 1.4nm 量产提前至 2028 上半年（待证实）"},{"date":"2026-10-18","id":"A9","link":"https://www.channelnewsasia.com/business/anthropic-offers-blackstone-double-digit-yield-in-chip-financing-deal-ft-reports-6467711","title":"Anthropic 以超 10% 收益率向 Blackstone 融资 90 亿美元买芯片"},{"date":"2026-10-18","id":"A10","link":"https://www.thehindubusinessline.com/info-tech/openai-poaches-another-spacex-sales-lead-focused-on-ai/article71595298.ece","title":"OpenAI 从 SpaceX/xAI 挖走销售负责人 Graham Seamans"},{"date":"2026-10-18","id":"A11","link":"https://www.thehindubusinessline.com/info-tech/anthropic-quietly-pitches-its-own-ai-safety-bill-to-lawmakers-politico-reports/article71595297.ece","title":"Anthropic 被曝向国会推销自家起草的 AI 安全法案"},{"date":"2026-10-18","id":"B1","link":"https://news.qq.com/rain/a/20261018A04NVX00","title":"霍尔木兹海峡两艘油轮触雷爆炸，布伦特一度逼近 110 美元"},{"date":"2026-10-18","id":"B2","link":"https://www.21jingji.com/article/20261017/herald/b322c3b238ca4634717dc0ebfe747291.html","title":"美股周五科技股重挫：纳指跌 2.14%，费半八连跌创 2008 年来最长纪录"},{"date":"2026-10-18","id":"B3","link":"https://www.21jingji.com/article/20261018/herald/6b52386c43888a175a86474b6de0d937.html","title":"A股周五尾盘反弹，创业板本周跌 8.9% 回吐年内涨幅"},{"date":"2026-10-18","id":"B4","link":"https://www.163.com/dy/article/L9E950PQ05199NPP.html","title":"比特币周末跌破 8.1 万美元后回升，24 小时超 8 万人爆仓"},{"date":"2026-10-18","id":"B5","link":"https://www.coindesk.com/markets/2026/10/16/msci-approves-rules-that-could-eject-strategy-metaplanet-from-equity-indexes","title":"MSCI 落地“非经营性公司”指数新规，Strategy 面临剔除风险"},{"date":"2026-10-18","id":"B6","link":"https://www.reuters.com/business/media-telecom/softbank-weighs-18-billion-acquisition-allied-universal-bloomberg-news-reports-2026-10-16/","title":"软银洽谈 180 亿美元收购美国安保巨头 Allied Universal"},{"date":"2026-10-18","id":"B7","link":"https://finance.sina.cn/2026-10-16/detail-inivmazi7699471.d.html","title":"1.3 万亿超长期特别国债 10 月 16 日发行收官"},{"date":"2026-10-18","id":"C1","link":"https://dig.watch/updates/china-ai-export-controls-technologies","title":"中国发布第 48 号公告草案，拟对 23 项 AI 技术实施出口管制"},{"date":"2026-10-18","id":"C2","link":"https://forkast.news/taiwan-moves-to-criminalize-ai-chip-smuggling-to-china-under-foreign-trade-act/","title":"台湾拟修《贸易法》，向大陆非法出口 AI 服务器与先进芯片将入刑"},{"date":"2026-10-18","id":"C3","link":"https://www.businesstoday.in/world/story/from-diesel-to-data-russia-in-talks-with-us-to-power-data-centers-with-nuclear-energy-562278-2026-10-18","title":"俄罗斯提议用核电为美俄数据中心供电（待证实）"}]
+[
+ {
+  "date": "2026-10-18",
+  "id": "S01",
+  "link": "https://aiweekly.co/alerts/deepseek-opens-v41-flash-1017-weights-and-075-search-api",
+  "title": "DeepSeek V4.1-Flash-1017 发布，开源 MIT 权重（旧版日报已报）"
+ },
+ {
+  "date": "2026-10-18",
+  "id": "S02",
+  "link": "",
+  "title": "Agent 安全危机：OpenAI 累计 19 起 agent 失控事件，多家网站封堵 agent 访问（旧版日报已报）"
+ },
+ {
+  "date": "2026-10-18",
+  "id": "S03",
+  "link": "",
+  "title": "GPT-6 Pro 并行 agent 与 ChatGPT Slides 产品更新（旧版日报已报）"
+ },
+ {
+  "date": "2026-10-18",
+  "id": "S04",
+  "link": "",
+  "title": "Agent 评测论文：FDE-Gym 等落地导向评测（旧版日报已报）"
+ },
+ {
+  "date": "2026-10-18",
+  "id": "S05",
+  "link": "",
+  "title": "英伟达 Nemotron 3.5 Bolt 发布、RTX Spark 相关动态（旧版日报已报）"
+ },
+ {
+  "date": "2026-10-18",
+  "id": "S06",
+  "link": "https://startupfortune.com/deepseek-opens-its-search-and-fetch-apis-at-075-per-1000-calls/",
+  "title": "DeepSeek Search/Fetch API 正式定价 5 元/千次，11-01 起对工具调用收费（旧版晚间更新已报）"
+ },
+ {
+  "date": "2026-10-18",
+  "id": "S07",
+  "link": "https://thelatent.co/models/opencode-says-breach-tied-to-distillation-attack-exposed-users-ai-provider-keys",
+  "title": "OpenCode“蒸馏攻击”：约 1.4% 用户第三方 API key 泄露（旧版晚间更新已报）"
+ },
+ {
+  "date": "2026-10-18",
+  "id": "S08",
+  "link": "",
+  "title": "Anthropic 就业报告：agent 工时达员工 6 倍，初级技术岗招聘占比 27%→9%（旧版晚间更新已报）"
+ },
+ {
+  "date": "2026-10-18",
+  "id": "S09",
+  "link": "",
+  "title": "三星用台积电 3nm 为英伟达 NVHBM 生产 base die（旧版晚间更新已报）"
+ },
+ {
+  "date": "2026-10-18",
+  "id": "S10",
+  "link": "",
+  "title": "微软退出 Nscale 英国数据中心项目（旧版晚间更新已报）"
+ },
+ {
+  "date": "2026-10-18",
+  "id": "A1",
+  "link": "https://www.engadget.com/2285040/openai-humanoid-robot-sam-altman-statement-real-challenge/",
+  "title": "OpenAI 确认自研人形机器人，Altman：2027 年出演示机"
+ },
+ {
+  "date": "2026-10-18",
+  "id": "A2",
+  "link": "https://trendintech.com/github-copilot-drops-3-ai-models-november-2026/",
+  "title": "GitHub Copilot 11 月 16 日下线三个模型：Claude Opus 4.8、Claude Opus 5、GPT-5.6 Terra"
+ },
+ {
+  "date": "2026-10-18",
+  "id": "A3",
+  "link": "http://dev.to/aicoding-guide/this-week-in-claude-code-codex-and-gemini-cli-week-of-october-18-2026-e6d",
+  "title": "Claude Code / Codex CLI / Gemini CLI 本周更新：空闲对话自动压缩、Daybreak 重回默认"
+ },
+ {
+  "date": "2026-10-18",
+  "id": "A4",
+  "link": "https://m.economictimes.com/markets/us-stocks/news/ai-race-may-depend-more-on-access-to-power-infrastructure-than-chip-supply-morgan-stanley/amp_articleshow/135012540.cms",
+  "title": "摩根士丹利：美国数据中心到 2028 年面临 32GW 电力缺口"
+ },
+ {
+  "date": "2026-10-18",
+  "id": "A5",
+  "link": "https://finance.sina.cn/stock/jdts/2026-10-17/detail-inivnvkv8239715.d.html",
+  "title": "湾芯展直击：AI 服务器功耗攀升，功率半导体打开新增长空间"
+ },
+ {
+  "date": "2026-10-18",
+  "id": "A6",
+  "link": "https://finance.sina.cn/tech/2026-10-17/detail-inivnvku1460723.d.html",
+  "title": "国产半导体测试设备密集扩产，HBM 测试成新风口"
+ },
+ {
+  "date": "2026-10-18",
+  "id": "A7",
+  "link": "https://www.vlsi.kr/en/daily-silicon-2026-10-17-en/",
+  "title": "韩国半导体日报：三星/SK 海力士技术性反弹，HBM4E 与传统 DRAM 短缺预警"
+ },
+ {
+  "date": "2026-10-18",
+  "id": "A8",
+  "link": "https://wccftech.com/apple-14nm-chips-tsmc-2028-mass-production-ai-supply/",
+  "title": "J.P. 摩根：台积电 1.4nm 量产提前至 2028 上半年（待证实）"
+ },
+ {
+  "date": "2026-10-18",
+  "id": "A9",
+  "link": "https://www.channelnewsasia.com/business/anthropic-offers-blackstone-double-digit-yield-in-chip-financing-deal-ft-reports-6467711",
+  "title": "Anthropic 以超 10% 收益率向 Blackstone 融资 90 亿美元买芯片"
+ },
+ {
+  "date": "2026-10-18",
+  "id": "A10",
+  "link": "https://www.thehindubusinessline.com/info-tech/openai-poaches-another-spacex-sales-lead-focused-on-ai/article71595298.ece",
+  "title": "OpenAI 从 SpaceX/xAI 挖走销售负责人 Graham Seamans"
+ },
+ {
+  "date": "2026-10-18",
+  "id": "A11",
+  "link": "https://www.thehindubusinessline.com/info-tech/anthropic-quietly-pitches-its-own-ai-safety-bill-to-lawmakers-politico-reports/article71595297.ece",
+  "title": "Anthropic 被曝向国会推销自家起草的 AI 安全法案"
+ },
+ {
+  "date": "2026-10-18",
+  "id": "B1",
+  "link": "https://news.qq.com/rain/a/20261018A04NVX00",
+  "title": "霍尔木兹海峡两艘油轮触雷爆炸，布伦特一度逼近 110 美元"
+ },
+ {
+  "date": "2026-10-18",
+  "id": "B2",
+  "link": "https://www.21jingji.com/article/20261017/herald/b322c3b238ca4634717dc0ebfe747291.html",
+  "title": "美股周五科技股重挫：纳指跌 2.14%，费半八连跌创 2008 年来最长纪录"
+ },
+ {
+  "date": "2026-10-18",
+  "id": "B3",
+  "link": "https://www.21jingji.com/article/20261018/herald/6b52386c43888a175a86474b6de0d937.html",
+  "title": "A股周五尾盘反弹，创业板本周跌 8.9% 回吐年内涨幅"
+ },
+ {
+  "date": "2026-10-18",
+  "id": "B4",
+  "link": "https://www.163.com/dy/article/L9E950PQ05199NPP.html",
+  "title": "比特币周末跌破 8.1 万美元后回升，24 小时超 8 万人爆仓"
+ },
+ {
+  "date": "2026-10-18",
+  "id": "B5",
+  "link": "https://www.coindesk.com/markets/2026/10/16/msci-approves-rules-that-could-eject-strategy-metaplanet-from-equity-indexes",
+  "title": "MSCI 落地“非经营性公司”指数新规，Strategy 面临剔除风险"
+ },
+ {
+  "date": "2026-10-18",
+  "id": "B6",
+  "link": "https://www.reuters.com/business/media-telecom/softbank-weighs-18-billion-acquisition-allied-universal-bloomberg-news-reports-2026-10-16/",
+  "title": "软银洽谈 180 亿美元收购美国安保巨头 Allied Universal"
+ },
+ {
+  "date": "2026-10-18",
+  "id": "B7",
+  "link": "https://finance.sina.cn/2026-10-16/detail-inivmazi7699471.d.html",
+  "title": "1.3 万亿超长期特别国债 10 月 16 日发行收官"
+ },
+ {
+  "date": "2026-10-18",
+  "id": "C1",
+  "link": "https://dig.watch/updates/china-ai-export-controls-technologies",
+  "title": "中国发布第 48 号公告草案，拟对 23 项 AI 技术实施出口管制"
+ },
+ {
+  "date": "2026-10-18",
+  "id": "C2",
+  "link": "https://forkast.news/taiwan-moves-to-criminalize-ai-chip-smuggling-to-china-under-foreign-trade-act/",
+  "title": "台湾拟修《贸易法》，向大陆非法出口 AI 服务器与先进芯片将入刑"
+ },
+ {
+  "date": "2026-10-18",
+  "id": "C3",
+  "link": "https://www.businesstoday.in/world/story/from-diesel-to-data-russia-in-talks-with-us-to-power-data-centers-with-nuclear-energy-562278-2026-10-18",
+  "title": "俄罗斯提议用核电为美俄数据中心供电（待证实）"
+ },
+ {
+  "date": "2026-10-19",
+  "id": "A1",
+  "link": "https://www.reuters.com/business/anthropic-commit-5-stake-new-public-benefit-fund-2026-10-18/",
+  "title": "Anthropic 设立公共利益基金，承诺 5% 股权"
+ },
+ {
+  "date": "2026-10-19",
+  "id": "A2",
+  "link": "https://www.binance.com/en/square/post/10-18-2026-ai-trends-anthropic-seeks-legal-advice-on-negotiation-rules-for-ai-agents-378500849867889",
+  "title": "Anthropic 请律所制定 AI agent 谈判规范"
+ },
+ {
+  "date": "2026-10-19",
+  "id": "A3",
+  "link": "https://the-decoder.com/ai-agents-chasing-a-465-train-refund-invented-excuses-leaked-medical-data-and-spammed-an-mps-office/",
+  "title": "\"agentic flooding\" 安全实验：6 个 agent 为追讨 465 美元退款疯狂发信、泄露隐私"
+ },
+ {
+  "date": "2026-10-19",
+  "id": "A4",
+  "link": "https://registry.npmjs.org/@anthropic-ai/claude-code/latest",
+  "title": "Claude Code 发布 2.1.303：纯修复补丁"
+ },
+ {
+  "date": "2026-10-19",
+  "id": "A5",
+  "link": "https://www.binance.com/en/square/post/10-18-2026-tether-joins-aisa-as-strategic-investor-as-startup-completes-seed-extension-378530609129987",
+  "title": "Tether 战略参投 AI agent 支付公司 AIsa，累计融资超 900 万美元"
+ },
+ {
+  "date": "2026-10-19",
+  "id": "A6",
+  "link": "https://aiparabellum.com/origin-drywall-robot-20m/",
+  "title": "具身智能初创 Origin 结束隐身，2000 万美元融资造干墙机器人"
+ },
+ {
+  "date": "2026-10-19",
+  "id": "A7",
+  "link": "https://dailyaibrief.com/news/trustedrouter-raises-6-million-private-ai-model-routing-hca3JWs1",
+  "title": "AI 模型路由公司 TrustedRouter 获 600 万美元种子轮（待证实）"
+ },
+ {
+  "date": "2026-10-19",
+  "id": "A8",
+  "link": "https://news.qq.com/rain/a/20261018A03CPV00",
+  "title": "台积电日本熊本二厂获准转产 3nm，日本首次本土生产 3nm"
+ },
+ {
+  "date": "2026-10-19",
+  "id": "A9",
+  "link": "https://en.sedaily.com/finance/2026/10/18/samsung-to-use-tsmc-for-base-die-in-nvidias-custom-hbm",
+  "title": "🔄更新：三星自家代工也在验证 NVHBM base die 生产"
+ },
+ {
+  "date": "2026-10-19",
+  "id": "A10",
+  "link": "https://www.21jingji.com/article/20261018/herald/7061c5bdeef5c762250c8c5fe427f748.html",
+  "title": "A股算力大单密集落地：下半年超 20 家上市公司披露"
+ },
+ {
+  "date": "2026-10-19",
+  "id": "A11",
+  "link": "https://finance.sina.com.cn/roll/2026-10-18/doc-inivqyiu1141498.shtml",
+  "title": "⚠️待证实：韩国工程师在 X 上指控特斯拉施压三星、挖角泰勒厂人才"
+ },
+ {
+  "date": "2026-10-19",
+  "id": "B1",
+  "link": "https://dailytelegraph.co.nz/news/iran-offers-us-deal-to-reopen-hormuz-within-a-week/",
+  "title": "🔄更新：霍尔木兹周末再添袭船事件，布伦特收 109.86 美元创五个月新高"
+ },
+ {
+  "date": "2026-10-19",
+  "id": "B2",
+  "link": "https://swingfolio.com/daily/2026-10-19/morning",
+  "title": "亚太股指期货夜盘大跌，港股今日因重阳节休市"
+ },
+ {
+  "date": "2026-10-19",
+  "id": "B3",
+  "link": "https://nordfx.com/market-news/forex-cryptocurrency-forecast-october-19-23-2026",
+  "title": "加息预期升温：FOMC 加息概率约 52%，欧央行放风 12 月第三次加息"
+ },
+ {
+  "date": "2026-10-19",
+  "id": "B4",
+  "link": "https://stocktwits.com/news-articles/markets/cryptocurrency/eth-sits-in-the-middle-of-nothing-heading-into-the-back-half-of-a-red-october/cZxNlsWRBtr",
+  "title": "🔄更新：加密周末——BTC 守住 8.1 万美元横盘，ETH 十月已跌近 10%"
+ },
+ {
+  "date": "2026-10-19",
+  "id": "B5",
+  "link": "https://www.tipranks.com/news/major-earnings-this-week-october-19-23-2026",
+  "title": "本周重磅财报：SpaceX、Tesla 和 Meta 接连登场"
+ },
+ {
+  "date": "2026-10-19",
+  "id": "B6",
+  "link": "https://nordfx.com/market-news/forex-cryptocurrency-forecast-october-19-23-2026",
+  "title": "10 年期美债收益率 5.10%，黄金 4186.7 美元，VIX 飙升 21%"
+ },
+ {
+  "date": "2026-10-19",
+  "id": "C1",
+  "link": "https://gulfnews.com/world/mena/middle-east-conflict-egypt-to-help-saudi-arabia-counter-houthi-attacks-iran-warns-ai-data-firms-1.500714637",
+  "title": "伊朗外长称已通过卡塔尔向美方递交“七天内重开霍尔木兹海峡”方案"
+ }
+]

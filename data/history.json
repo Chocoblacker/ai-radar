@@ -292,5 +292,149 @@
   "id": "C1",
   "link": "https://gulfnews.com/world/mena/middle-east-conflict-egypt-to-help-saudi-arabia-counter-houthi-attacks-iran-warns-ai-data-firms-1.500714637",
   "title": "伊朗外长称已通过卡塔尔向美方递交“七天内重开霍尔木兹海峡”方案"
+ },
+ {
+  "date": "2026-10-20",
+  "id": "A1",
+  "link": "https://siliconangle.com/2026/10/19/minimax-launches-m3-1-flash-model-says-it-cuts-ai-agent-costs-by-70/",
+  "title": "MiniMax 发布 M3.1 Flash：428B MoE，agent 任务成本号称降 70%，权重 10-23 开源"
+ },
+ {
+  "date": "2026-10-20",
+  "id": "A2",
+  "link": "https://www.reuters.com/world/openai-seeks-accelerate-fundraising-ahead-anthropic-ipo-sources-say-2026-10-19/",
+  "title": "Reuters 独家：OpenAI 加速推进约 300 亿美元融资，抢在 Anthropic 11 月中旬 IPO 前"
+ },
+ {
+  "date": "2026-10-20",
+  "id": "A3",
+  "link": "https://www.reuters.com/business/autos-transportation/ai-chip-startup-tenstorrent-more-than-doubles-its-valuation-62-billion-funding-2026-10-19/",
+  "title": "Tenstorrent 完成 15 亿美元 E 轮融资，投后估值 62 亿美元翻倍"
+ },
+ {
+  "date": "2026-10-20",
+  "id": "A4",
+  "link": "https://www.morningstar.com/news/globe-newswire/9848649/nvidia-runs-record-simulation-of-fault-tolerant-quantum-computing-at-jlich-supercomputing-centre",
+  "title": "英伟达在欧洲首台百亿亿次超算 JUPITER 上完成创纪录容错量子计算模拟"
+ },
+ {
+  "date": "2026-10-20",
+  "id": "A5",
+  "link": "http://k.sina.com.cn/article_5952915720_162d24908067050vgk.html",
+  "title": "🔄更新：DeepSeek-V4.1-Flash-1017 登顶 Arena Code WebDev 开源榜首（待证实）"
+ },
+ {
+  "date": "2026-10-20",
+  "id": "A6",
+  "link": "https://www.pymnts.com/news/artificial-intelligence/2026/anthropic-turns-to-lawyers-to-teach-ai-agents-to-negotiate/",
+  "title": "Anthropic 找外部律所制定 AI agent「议价规范」"
+ },
+ {
+  "date": "2026-10-20",
+  "id": "A7",
+  "link": "https://www.globenewswire.com/news-release/2026/10/19/3383462/0/en/proof-and-circle-show-how-ai-agents-can-prove-who-they-act-for-and-pay-in-usdc.html",
+  "title": "Proof 联手 Circle 演示：agent 用 x401 出示身份凭证、用 USDC 经 x402 付款"
+ },
+ {
+  "date": "2026-10-20",
+  "id": "A8",
+  "link": "https://www.thehindubusinessline.com/news/cert-in-agent-alert-organisations-lacked-basic-cyber-controls-some-not-aware-of-incident-say-authorities/article71599643.ece/amp/",
+  "title": "印度 CERT-In agent 预警后续：官员称受影响机构缺基本安全措施"
+ },
+ {
+  "date": "2026-10-20",
+  "id": "A9",
+  "link": "https://www.globenewswire.com/news-release/2026/10/19/3383488/0/en/axonius-introduces-ai-workforce-providing-security-teams-with-virtual-workers-to-act-on-verified-data.html",
+  "title": "Axonius 推出 AI Workforce：50 余种「虚拟员工」做安全运维（待证实）"
+ },
+ {
+  "date": "2026-10-20",
+  "id": "A10",
+  "link": "http://news.sina.com.cn/o/2026-10-19/doc-inivueum6137240.shtml",
+  "title": "大晓机器人发布具身基模型 ACE-Brain-0.6，对标 GPT-6 Astra"
+ },
+ {
+  "date": "2026-10-20",
+  "id": "A11",
+  "link": "https://www.channelnewsasia.com/media-release/aolani-signs-letters-intent-up-500mw-ai-data-centre-capacity-in-malaysia-6470831",
+  "title": "Aolani 签马来西亚 500MW AI 数据中心意向书，2027 下半年投产"
+ },
+ {
+  "date": "2026-10-20",
+  "id": "A12",
+  "link": "https://dig.watch/updates/meta-website-crawling-terms-ai-training-concerns",
+  "title": "Meta 删除网站抓取条款中「train」表述，澄清抓取内容不用于 AI 训练"
+ },
+ {
+  "date": "2026-10-20",
+  "id": "A13",
+  "link": "https://registry.npmjs.org/@anthropic-ai/claude-code/latest",
+  "title": "Claude Code 发布 2.1.304"
+ },
+ {
+  "date": "2026-10-20",
+  "id": "A14",
+  "link": "https://finance.sina.com.cn/jjxw/2026-10-19/doc-inivtynm7633430.shtml",
+  "title": "铭芯启睿完成超 4 亿元 A 轮融资，前 Graphcore 总裁卢涛出任 CEO"
+ },
+ {
+  "date": "2026-10-20",
+  "id": "B1",
+  "link": "https://www.lanacion.com.ar/usa/how-major-us-stock-indexes-fared-monday-10192026-nid19102026/",
+  "title": "🔄更新：美股周一反弹，纳指涨 1.1% 终结连跌，VIX 回落至 18.44"
+ },
+ {
+  "date": "2026-10-20",
+  "id": "B2",
+  "link": "https://en.cryptonomist.ch/2026/10/19/kevin-warsh-federal-reserve-rate-hike/",
+  "title": "🔄更新：美联储进入静默期，10 月加息概率跌至约 14%，12 月加息押注升至约 92%"
+ },
+ {
+  "date": "2026-10-20",
+  "id": "B3",
+  "link": "https://www.channelnewsasia.com/business/oil-slips-five-month-highs-hormuz-crossings-russian-sanctions-waiver-in-focus-6470481",
+  "title": "🔄更新：油价自五个月高点回落，布伦特跌至 108 美元附近"
+ },
+ {
+  "date": "2026-10-20",
+  "id": "B4",
+  "link": "https://edgeconsultancykw.com/us-market-wrap-19-october-2026/",
+  "title": "法国、意大利爆发抗议，法国对德利差逼近 150 基点"
+ },
+ {
+  "date": "2026-10-20",
+  "id": "B5",
+  "link": "https://news.qq.com/rain/a/20261019A08SIV00",
+  "title": "A股分化：沪指涨 0.39% 收 3730 点，创业板指再创年内新低；三季度 GDP 增长 4.5%"
+ },
+ {
+  "date": "2026-10-20",
+  "id": "B6",
+  "link": "https://www.coindesk.com/markets/2026/10/19/live-updates-bitcoin-tags-usd83-000-and-slips-back-as-chip-stocks-lead-a-rebound?post-id=a90b4c571829",
+  "title": "🔄更新：比特币守住 8.2 万美元，Bitmine 再购 12,535 枚 ETH"
+ },
+ {
+  "date": "2026-10-20",
+  "id": "B7",
+  "link": "https://www.etnownews.com/markets/gold-price-today-october-19-gold-nears-4200-as-weak-us-dollar-treasury-yields-support-bullion-silver-gains-article-156364266/",
+  "title": "美国住宅建筑商信心跌至 2012 年以来最低；黄金回落、白银站上 57 美元"
+ },
+ {
+  "date": "2026-10-20",
+  "id": "C1",
+  "link": "https://www.reuters.com/technology/us-banning-chinese-ai-deepseek-government-agency-it-systems-2026-10-19/",
+  "title": "美国土安全部公开对 DeepSeek 的排除/移除令，要求联邦文职机构清除其产品及基于其模型的第三方工具"
+ },
+ {
+  "date": "2026-10-20",
+  "id": "C2",
+  "link": "https://www.mondaq.com/unitedstates/government-contracts-procurement-ppp/1856580/gsa-issues-final-rule-on-large-language-model-procurements",
+  "title": "美国 GSA 的 AI 采购数据保护条款 552.239-7001 于 10 月 19 日正式生效"
+ },
+ {
+  "date": "2026-10-20",
+  "id": "C3",
+  "link": "https://www.scmp.com/economy/global-economy/article/3371382/us-china-should-learn-cold-war-era-arms-control-tackle-ai-risks-ex-us-official",
+  "title": "外滩金融峰会开幕，前美财长 Rubin 呼吁中美借鉴冷战军控经验合作应对 AI 安全"
  }
 ]

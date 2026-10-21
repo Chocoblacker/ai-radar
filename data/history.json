@@ -436,5 +436,155 @@
   "id": "C3",
   "link": "https://www.scmp.com/economy/global-economy/article/3371382/us-china-should-learn-cold-war-era-arms-control-tackle-ai-risks-ex-us-official",
   "title": "外滩金融峰会开幕，前美财长 Rubin 呼吁中美借鉴冷战军控经验合作应对 AI 安全"
+ },
+ {
+  "date": "2026-10-21",
+  "id": "A1",
+  "link": "https://teslanewswire.com/articles/deepseek-deepinfer-open-source-inference-engine-v4-1-flash-nvidia-huawei-ascend-950-oct-20-2026",
+  "title": "DeepSeek 开源推理引擎 DeepInfer（Apache-2.0，支持华为 Ascend 950）"
+ },
+ {
+  "date": "2026-10-21",
+  "id": "A2",
+  "link": "https://www.unite.ai/google-open-sources-torchtpu-putting-native-pytorch-on-its-tpus/",
+  "title": "谷歌开源 TorchTPU（PyTorch Cloud TPU 原生后端）"
+ },
+ {
+  "date": "2026-10-21",
+  "id": "A3",
+  "link": "https://www.unite.ai/llm-d-1-0-debuts-at-pytorch-conference-with-production-inference-stack/",
+  "title": "llm-d 1.0 发布（CNCF 托管的 K8s 原生分布式推理栈）"
+ },
+ {
+  "date": "2026-10-21",
+  "id": "A4",
+  "link": "https://www.reuters.com/legal/government/how-one-hacker-used-ai-agents-few-thousand-dollars-break-into-scores-sites-2026-10-19/",
+  "title": "Reuters：单名黑客用 AI Agent 攻破 100+ 企业网站（约 5000 美元）"
+ },
+ {
+  "date": "2026-10-21",
+  "id": "A5",
+  "link": "https://www.scworld.com/brief/opencode-breach-exposes-api-keys-in-distillation-attack",
+  "title": "🔄更新：OpenCode 蒸馏攻击后续——用户被盗刷最高超 1700 美元"
+ },
+ {
+  "date": "2026-10-21",
+  "id": "A6",
+  "link": "https://github.com/anthropics/claude-code/releases/tag/v2.1.305",
+  "title": "Claude Code 2.1.305（修复 Vertex/Bedrock 回归 bug，沙箱支持 user namespace）"
+ },
+ {
+  "date": "2026-10-21",
+  "id": "A7",
+  "link": "https://www.redpacketsecurity.com/cve-alert-cve-2026-109440-ginlix-ai-langalpha/",
+  "title": "CVE-2026-109440：LangAlpha 间接提示注入可致远程代码执行"
+ },
+ {
+  "date": "2026-10-21",
+  "id": "A8",
+  "link": "https://www.financialcontent.com/article/bizwire-2026-10-20-korn-ferry-report-ai-isnt-eliminating-the-entry-level-job-its-redefining-it",
+  "title": "Korn Ferry 报告：81% 雇主计划两年内增加初级岗招聘（待证实）"
+ },
+ {
+  "date": "2026-10-21",
+  "id": "A9",
+  "link": "https://www.thehindubusinessline.com/info-tech/google-cloud-outage-takes-down-c-and-other-banks-in-uk/article71604294.ece/amp/",
+  "title": "Google Cloud 伦敦区域故障，多家英国银行服务中断"
+ },
+ {
+  "date": "2026-10-21",
+  "id": "A10",
+  "link": "https://www.reuters.com/business/retail-consumer/bytedance-alibaba-tencent-place-over-35-billion-worth-nvidia-chip-orders-2026-10-20/",
+  "title": "中企向英伟达下单超 300 万张 RTX PRO 5500（货值超 350 亿美元）"
+ },
+ {
+  "date": "2026-10-21",
+  "id": "A11",
+  "link": "https://newsroom.amd.com/news/amd-intel-collaborate-simplify-ai-development-on-x86-cpus-pytorch/",
+  "title": "AMD 与 Intel 联手统一 x86 CPU 优化至 oneDNN"
+ },
+ {
+  "date": "2026-10-21",
+  "id": "A12",
+  "link": "https://biz.chosun.com/en/en-it/2026/10/21/VBOLMO3NYBFF7JAJ5AR5U7RF3M/",
+  "title": "🔄更新：SK 海力士 Q3 一致预期 77 万亿韩元，HBM4 出货不及预期"
+ },
+ {
+  "date": "2026-10-21",
+  "id": "A13",
+  "link": "https://www.reuters.com/business/ai-startup-asi-valued-3-billion-latest-funding-round-2026-10-20/",
+  "title": "ASI 完成 3.25 亿美元 C 轮，估值 30 亿美元"
+ },
+ {
+  "date": "2026-10-21",
+  "id": "A14",
+  "link": "https://teslanewswire.com/articles/openai-30-billion-funding-round-1-4-trillion-valuation-anthropic-ipo-oct-2026",
+  "title": "🔄更新：OpenAI 约 300 亿美元融资估值或超 1.4T、年化收入 500 亿美元"
+ },
+ {
+  "date": "2026-10-21",
+  "id": "B1",
+  "link": "https://teslanorth.com/2026/10/20/spacex-q3-2026-results/",
+  "title": "SpaceX Q3：营收 145.8 亿美元，上市后首个盈利季度"
+ },
+ {
+  "date": "2026-10-21",
+  "id": "B2",
+  "link": "https://www.lapost.com/content/nasdaq-futures-dip-as-oil-prices-climb-earnings-loom",
+  "title": "美股周二：道指涨 1.02%，纳指持平；Netflix/GM 超预期股价仍跌"
+ },
+ {
+  "date": "2026-10-21",
+  "id": "B3",
+  "link": "https://news.qq.com/rain/a/20261020A09HLQ00",
+  "title": "A股周二：沪指收 3735，北证 50 大涨 3.88%"
+ },
+ {
+  "date": "2026-10-21",
+  "id": "B4",
+  "link": "https://www.newtimespace.com/en/finance/1454377.html",
+  "title": "港股复市跌 1.32%，KOSPI 跌 3.73% 领跌亚太"
+ },
+ {
+  "date": "2026-10-21",
+  "id": "B5",
+  "link": "https://www.moneyweb.co.za/news/markets/oil-wavers-near-five-month-high-as-iran-threats-vie-with-flows/",
+  "title": "🔄更新：布伦特盘中逼近 112 美元后回落"
+ },
+ {
+  "date": "2026-10-21",
+  "id": "B6",
+  "link": "https://www.investopedia.com/5-things-to-know-before-the-stock-market-opens-on-tuesday-october-20-2026-12183821",
+  "title": "🔄更新：10 年期美债收益率回落，黄金三连跌，12 月加息押注约 90-94%"
+ },
+ {
+  "date": "2026-10-21",
+  "id": "B7",
+  "link": "https://www.capitalstreetfx.com/market-analysis/daily-crypto-report-20-oct-2026/",
+  "title": "🔄更新：比特币 8.2 万下方挣扎，ETF 单日净流入 5.27 亿美元"
+ },
+ {
+  "date": "2026-10-21",
+  "id": "B8",
+  "link": "https://edgeconsultancykw.com/asia-market-wrap-20-october-2026/",
+  "title": "中国央行连续第 17 个月维持 LPR 不变"
+ },
+ {
+  "date": "2026-10-21",
+  "id": "C1",
+  "link": "https://www.aa.com.tr/en/americas/us-bans-chinese-ai-firm-deepseek-from-federal-civilian-networks-over-security-risks/4094238",
+  "title": "🔄更新：DHS DeepSeek 排除令在联邦公报公示，披露豁免机制"
+ },
+ {
+  "date": "2026-10-21",
+  "id": "C2",
+  "link": "https://news.sbs.co.kr/english/article.do?news_id=N1008806469",
+  "title": "日本警告数月内耗尽钇供应，中国稀土管制冲击芯片耗材"
+ },
+ {
+  "date": "2026-10-21",
+  "id": "C3",
+  "link": "https://www.defenseone.com/policy/2026/10/state-department-super-intelligence/416705/",
+  "title": "美国国务院要求官方文书改用 Super Intelligence 替代 AI"
  }
 ]

@@ -820,5 +820,131 @@
   "date": "2026-10-23",
   "title": "伊朗称一夜击伤 7 艘油轮，并暗示将海底光缆与数据中心纳入打击范围",
   "link": "https://www.haaretz.com/middle-east-news/iran/2026-10-22/ty-article/iran-says-four-ships-caught-fire-in-gulf-three-others-hit-mines/000001a1-620f-d05a-abe9-671f63000000"
+ },
+ {
+  "id": "2026-10-24-A1",
+  "date": "2026-10-24",
+  "title": "Kimi K3.1 Pro 发布，智能指数 55 分逼近 Claude Opus 5.5",
+  "link": "https://madrobot.blog/2026/10/23/kimi-k3-1-pro-moonshot-open-weight-nearly-matches-claude-opus-5-5-coding/"
+ },
+ {
+  "id": "2026-10-24-A2",
+  "date": "2026-10-24",
+  "title": "MiniMax M3.1 Flash 权重 10-23 如期开源，官方称 72 小时真实用户 token 超 1 万亿",
+  "link": "https://technode.com/2026/10/23/minimax-releases-open-weights-for-428-billion-parameter-m3-1-flash-model/"
+ },
+ {
+  "id": "2026-10-24-A3",
+  "date": "2026-10-24",
+  "title": "Hi3D V1.0 开源（原 Sparc3D），号称首个「生产验证」的开源 AI 3D 模型",
+  "link": "https://www.prnewswire.com/news-releases/hi3d-v1-0-goes-open-source-the-first-production-validated-open-source-ai-3d-model-302917973.html"
+ },
+ {
+  "id": "2026-10-24-A4",
+  "date": "2026-10-24",
+  "title": "OpenAI Decisions API 正式 GA：GPT-6 Luna 驱动的「决策型」接口",
+  "link": "https://vectorwire.ai/article/openai-opens-decisions-api-at-0-10-per-million-input-tokens-targets-typesafe-s-j-3fa377"
+ },
+ {
+  "id": "2026-10-24-A5",
+  "date": "2026-10-24",
+  "title": "Google 发布 Agent Compute Engine：一 agent 一台硬件隔离 microVM",
+  "link": "https://cloud.google.com/blog/topics/ai-infrastructure/introducing-agent-compute-engine-and-expanded-agent-governance"
+ },
+ {
+  "id": "2026-10-24-A6",
+  "date": "2026-10-24",
+  "title": "Uber 把 ChatGPT Work 从 1000 人试点推广到全球 3 万员工",
+  "link": "https://techcrunch.com/2026/10/22/uber-puts-all-30000-employees-on-chatgpt-work/"
+ },
+ {
+  "id": "2026-10-24-A7",
+  "date": "2026-10-24",
+  "title": "美国运通宣布裁员约 5%（约 3500 人），CEO 称「为 AI 做准备」",
+  "link": "https://nypost.com/2026/10/23/business/american-express-to-slash-5-of-workforce-in-latest-ai-driven-layoffs/"
+ },
+ {
+  "id": "2026-10-24-A8",
+  "date": "2026-10-24",
+  "title": "SK 海力士放弃旗下美国 NAND 子公司 Solidigm 的 IPO 计划",
+  "link": "https://asia.nikkei.com/business/tech/semiconductors/sk-hynix-abandons-plan-for-us-unit-s-ipo-citing-market-volatility"
+ },
+ {
+  "id": "2026-10-24-A9",
+  "date": "2026-10-24",
+  "title": "三星为得州 Taylor 一厂追加 2nm 设备订单，目标 2027 年下半年月产能 2 万片",
+  "link": "https://www.digitimes.com/news/a20261023VL219/samsung-texas-2nm-fab.html"
+ },
+ {
+  "id": "2026-10-24-A10",
+  "date": "2026-10-24",
+  "title": "AI 可穿戴 Nirva 获 2500 万美元 Pre-Series A，累计 3300 万美元",
+  "link": "https://theaiinsider.tech/2026/10/23/nirva-announces-25m-in-funding-for-ai-pendant-that-listens-only-to-its-wearer/"
+ },
+ {
+  "id": "2026-10-24-A11",
+  "date": "2026-10-24",
+  "title": "DeepSeek 第二轮融资落地约 150 亿美元，投前估值 740 亿美元",
+  "link": "https://www.pymnts.com/news/artificial-intelligence/2026/deepseek-raises-15-billion-ahead-of-planned-shanghai-ipo/"
+ },
+ {
+  "id": "2026-10-24-A12",
+  "date": "2026-10-24",
+  "title": "OpenAI 自曝：自家 agent 曾关闭安全监控，其中一次被质问时撒谎否认",
+  "link": "https://www.gmanetwork.com/news/scitech/technology/1006749/openai-says-its-ai-agents-disabled-their-own-safety-monitors/story/"
+ },
+ {
+  "id": "2026-10-24-B1",
+  "date": "2026-10-24",
+  "title": "美股周五：道指跌 652 点收官，抛售从科技蔓延至消费医疗",
+  "link": "https://www.investopedia.com/stock-market-today-dow-jones-s-and-p-500-10232026-12189475"
+ },
+ {
+  "id": "2026-10-24-B2",
+  "date": "2026-10-24",
+  "title": "A 股周五放量反弹：创业板 +4.16%，沪深成交 1.96 万亿；恒指 +0.69%",
+  "link": "https://hkbusinesswire.com/hk-stocks-back-up-as-asian-markets-rally-for-most-part/"
+ },
+ {
+  "id": "2026-10-24-B3",
+  "date": "2026-10-24",
+  "title": "SpaceX 洽谈租用 8 万个美国基站，要做第四大全国无线运营商",
+  "link": "https://www.morningstar.com/news/dow-jones/202610233475/us-european-telecoms-slide-on-report-spacex-plans-wireless-network-expansion"
+ },
+ {
+  "id": "2026-10-24-B4",
+  "date": "2026-10-24",
+  "title": "10 年期美债重回 5.00%，路透调查 100 名经济学家全员预期 12 月加息",
+  "link": "https://www.reuters.com/business/us-business-activity-cools-october-strong-demand-fueling-price-pressures-2026-10-23/"
+ },
+ {
+  "id": "2026-10-24-B5",
+  "date": "2026-10-24",
+  "title": "布伦特 +3.4% 至 117 美元、WTI +4% 至 103.45 美元，创五个月新高",
+  "link": "https://www.investopedia.com/stock-market-today-dow-jones-s-and-p-500-10232026-12189475"
+ },
+ {
+  "id": "2026-10-24-B6",
+  "date": "2026-10-24",
+  "title": "比特币 8.1 万美元上方横盘，现货 ETF 单日净流出 6.36 亿美元创 6 月来最大",
+  "link": "https://www.coindesk.com/markets/2026/10/23/live-updates-bitcoin-holds-above-usd81-000-as-the-ai-rout-fades-and-oil-climbs?post-id=ac982f02a7fb"
+ },
+ {
+  "id": "2026-10-24-C1",
+  "date": "2026-10-24",
+  "title": "美国财政部发布 COINS 法案实施细则草案，对华高科技投资禁令扩至超算、高超声速与生物科技",
+  "link": "https://www.thehindubusinessline.com/news/world/us-treasury-proposes-a-rule-to-crack-down-on-high-tech-investments-in-china-other-adversaries/article71615293.ece/amp/"
+ },
+ {
+  "id": "2026-10-24-C2",
+  "date": "2026-10-24",
+  "title": "FCC 同日两记组合拳：禁售含海思芯片的行车记录仪与图传，同时给 Intel 晶圆厂外国机器人一年豁免",
+  "link": "https://srnnews.com/fcc-grants-intel-waiver-for-foreign-made-robotic-devices/"
+ },
+ {
+  "id": "2026-10-24-C3",
+  "date": "2026-10-24",
+  "title": "韩国公布 AIDC 生态扶持计划：2027 年 2000 亿韩元专项 + 监管松绑",
+  "link": "https://www.digitaltoday.co.kr/en/view/118805/permit-simplification-regulatory-easing-to-lower-barrier-for-ai-data-center-buildout"
  }
 ]

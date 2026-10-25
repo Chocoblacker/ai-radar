@@ -946,5 +946,101 @@
   "date": "2026-10-24",
   "title": "韩国公布 AIDC 生态扶持计划：2027 年 2000 亿韩元专项 + 监管松绑",
   "link": "https://www.digitaltoday.co.kr/en/view/118805/permit-simplification-regulatory-easing-to-lower-barrier-for-ai-data-center-buildout"
+ },
+ {
+  "id": "2026-10-25-A1",
+  "date": "2026-10-25",
+  "title": "OpenAI 前沿模型训练全面断网，红队 agent 挖出 Brotli 远程代码执行漏洞",
+  "link": "https://openai.com/index/securing-our-frontier-model-training-environment/"
+ },
+ {
+  "id": "2026-10-25-A2",
+  "date": "2026-10-25",
+  "title": "Block 发布 Dessa：只用人类对话语音训练的全双工语音模型，可在 MacBook 本地运行",
+  "link": "https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/"
+ },
+ {
+  "id": "2026-10-25-A3",
+  "date": "2026-10-25",
+  "title": "Moonshot 主动削弱 Kimi K3.1 Pro 的网络攻击能力，内部基准从 90.5% 降至 81.0%",
+  "link": "https://www.reuters.com/technology/moonshot-curbs-hacking-ability-new-kimi-model-fears-grow-over-ai-powered-2026-10-24/"
+ },
+ {
+  "id": "2026-10-25-A4",
+  "date": "2026-10-25",
+  "title": "Claude 一夜三度报错，claude.ai、API 与 Claude Code 均受影响",
+  "link": "https://www.technobezz.com/news/claude-service-incident-d8ed48f7"
+ },
+ {
+  "id": "2026-10-25-A5",
+  "date": "2026-10-25",
+  "title": "英伟达“AI 金主”角色首次遭遇大考，neocloud 股价月跌超 30%、债息破 15%",
+  "link": "https://marketspeaker.com/nvidia-ai-financing-neoclouds-credit-risk/"
+ },
+ {
+  "id": "2026-10-25-A6",
+  "date": "2026-10-25",
+  "title": "AWS 欧洲主权云按计划断开全球骨干网，做数小时独立运行测试",
+  "link": "https://en.it-daily.net/shortnews-en/aws-to-disconnect-eu-sovereign-cloud"
+ },
+ {
+  "id": "2026-10-25-A7",
+  "date": "2026-10-25",
+  "title": "AMD RDNA 5 显卡与微软下一代 Xbox 或推迟至 2028 年底",
+  "link": "https://en.gamegpu.com/news/zhelezo/videokarty-na-baze-amd-rdna-5-i-konsol-xbox-helix-mogut-zaderzhatsya-do-2028-goda"
+ },
+ {
+  "id": "2026-10-25-A8",
+  "date": "2026-10-25",
+  "title": "英国投 1 亿英镑建全球首个 AI 生物安全实验室，OpenAI、Anthropic 以算力额度入股",
+  "link": "https://www.gov.uk/government/news/introducing-the-ai-biosecurity-lab"
+ },
+ {
+  "id": "2026-10-25-A9",
+  "date": "2026-10-25",
+  "title": "得州总检察长起诉 OpenAI 及 Altman：要求禁未成年人用 ChatGPT，新模型上线须经法院指定评估方批准",
+  "link": "https://www.washingtonexaminer.com/policy/technology/4778611/paxton-sues-openai-as-campaign-races-win-over-voters/"
+ },
+ {
+  "id": "2026-10-25-A10",
+  "date": "2026-10-25",
+  "title": "Meta 商务条款生效日从 10 月 30 日推迟至 11 月 20 日，出版商仍要求叫停",
+  "link": "https://econotimes.com/Meta-Delays-Business-Terms-to-Nov-20-After-Publisher-Objections-1761836"
+ },
+ {
+  "id": "2026-10-25-B1",
+  "date": "2026-10-25",
+  "title": "美股周五收跌细节确认，电信三巨头单日跌近 8%、美国运通裁员拖累道指",
+  "link": "https://menafn.com/1111859047/Dow-Sinks-123-Percent-as-AI-Fears-USD117-Oil-Rattle-Wall-Street"
+ },
+ {
+  "id": "2026-10-25-B2",
+  "date": "2026-10-25",
+  "title": "布伦特结算 116.72 美元创近六个月新高，胡塞袭击沙特能源设施",
+  "link": "https://www.thenationalnews.com/business/energy/2026/10/23/oil-prices-rise-as-houthis-launch-another-wave-of-attacks-on-saudi-arabia/"
+ },
+ {
+  "id": "2026-10-25-B3",
+  "date": "2026-10-25",
+  "title": "比特币周六跌破 8 万美元，现货 ETF 再净流出 1.38 亿美元",
+  "link": "https://el7.ai/en/news/2026-10-24-bitcoin-drops-below-80000-amid-rising-middle-east-geopolitical-tensions"
+ },
+ {
+  "id": "2026-10-25-B4",
+  "date": "2026-10-25",
+  "title": "黄金跌 4.14% 至 4007.90 美元，10 年期美债收益率收 4.988%",
+  "link": "https://swingfolio.com/daily/us/2026-10-24/weekend"
+ },
+ {
+  "id": "2026-10-25-C1",
+  "date": "2026-10-25",
+  "title": "中方要求美方停止扩大对外投资限制，称 COINS 草案“歧视性”扩大、保留反制权利",
+  "link": "https://www.reuters.com/world/china/china-urges-us-halt-proposed-expansion-outbound-investment-curbs-2026-10-24/"
+ },
+ {
+  "id": "2026-10-25-C2",
+  "date": "2026-10-25",
+  "title": "伊朗官员称已制定打击海湾海底光缆的“详细计划”，并意图阻止修复以延长断网",
+  "link": "https://www.haaretz.com/middle-east-news/iran/2026-10-24/ty-article/iran-has-plans-to-hit-gulf-undersea-cables-if-war-resumes-officials-say/000001a1-6a66-d29a-a1a5-eae7e53d0000"
  }
 ]

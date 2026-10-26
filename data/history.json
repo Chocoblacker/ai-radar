@@ -1126,5 +1126,131 @@
     "date": "2026-10-26",
     "title": "胡塞新一轮袭击沙特机场与能源设施，沙特称拦截 10 枚导弹，利雅得机场部分重开",
     "link": "https://www.dailymaverick.co.za/article/2026-10-25-saudis-say-riyadh-airport-partly-reopens-despite-renewed-houthi-threats/"
+  },
+  {
+    "id": "2026-10-27-A1",
+    "date": "2026-10-27",
+    "title": "Anthropic 公开 S-1 文件，拟纳斯达克上市「ANT」，上半年收入 163 亿美元",
+    "link": "https://www.reuters.com/legal/transactional/anthropic-opens-books-ais-explosive-growth-staggering-costs-2026-10-26/"
+  },
+  {
+    "id": "2026-10-27-A2",
+    "date": "2026-10-27",
+    "title": "Anthropic 下一代旗舰模型训练暂停逾月，4 个模型曾逃出测试环境",
+    "link": "https://www.reuters.com/legal/litigation/anthropic-discloses-month-long-training-pause-ai-security-breaches-ipo-filing-2026-10-26/"
+  },
+  {
+    "id": "2026-10-27-A3",
+    "date": "2026-10-27",
+    "title": "OpenAI 融资估值目标从 1.4 万亿美元下调至 1.25 万亿美元，投资者 10 月 30 日前承诺",
+    "link": "https://www.wealthprofessional.ca/investments/equity-markets/openai-trims-valuation-target-to-us125-trillion-after-investor-pushback/393861"
+  },
+  {
+    "id": "2026-10-27-A4",
+    "date": "2026-10-27",
+    "title": "OpenAI 发布 GPT-6.1 Terra：中端模型降价一半，主打计算机操作",
+    "link": "https://community.openai.com/t/gpt-6-1-terra-delivering-fast-and-capable-computer-use-at-a-lower-price/1409900"
+  },
+  {
+    "id": "2026-10-27-A5",
+    "date": "2026-10-27",
+    "title": "Meta 启动约 350 亿美元股票发行，另计划 600 亿美元市价增发，总规模可达 950 亿美元",
+    "link": "https://www.reuters.com/legal/transactional/meta-launches-35-billion-stock-offering-fund-ai-expansion-2026-10-26/"
+  },
+  {
+    "id": "2026-10-27-A6",
+    "date": "2026-10-27",
+    "title": "SpaceX 与 Apollo 达成约 400 亿美元 AI 芯片融资租赁协议",
+    "link": "https://www.reuters.com/business/media-telecom/spacex-enters-40-billion-deal-with-apollo-ai-chip-financing-2026-10-26/"
+  },
+  {
+    "id": "2026-10-27-A7",
+    "date": "2026-10-27",
+    "title": "初创安全公司 Cathedral 称其 AI Agent 不到 12 小时攻入 Anthropic 内部系统",
+    "link": "https://www.siliconreport.com/cathedral-says-ai-agents-found-paths-into-anthropic-s-systems"
+  },
+  {
+    "id": "2026-10-27-A8",
+    "date": "2026-10-27",
+    "title": "Cohere 披露开源模型 Qwen3.8 在沙箱测试中擅自探测本机并试图向北京阿里云桶上传文件",
+    "link": "https://cohere.com/blog/concerning-behaviour-popular-open-weight-ai-model"
+  },
+  {
+    "id": "2026-10-27-A9",
+    "date": "2026-10-27",
+    "title": "LiteLLM 供应链攻击事后分析出炉，祸根是 5 月泄露后未吊销的万能密钥",
+    "link": "https://www.theregister.com/security/2026/10/26/litellm-supply-chain-attack-started-with-an-exposed-master-key/5305544"
+  },
+  {
+    "id": "2026-10-27-A10",
+    "date": "2026-10-27",
+    "title": "IIT Madras 白皮书：AI 先吃掉初级岗位的重复性任务，可能切断年轻人积累经验的学徒通道",
+    "link": "https://www.thehindubusinessline.com/info-tech/ai-could-change-how-young-employees-start-their-careers-in-india-iit-madras-paper/article71625989.ece/amp/"
+  },
+  {
+    "id": "2026-10-27-A11",
+    "date": "2026-10-27",
+    "title": "SK 海力士 Q3 前瞻——营业利润率或近 78%，2027 年产能已售罄",
+    "link": "https://www.trendforce.com/news/2026/10/26/news-sk-hynix-3q-earnings-preview-record-profit-at-78-operating-margin-hbm4-ltas-solidigm-in-focus/"
+  },
+  {
+    "id": "2026-10-27-A12",
+    "date": "2026-10-27",
+    "title": "韩国政府拟下调 AI 数据中心电力需求预测，或削减 3–4GW",
+    "link": "https://www.mk.co.kr/en/business/12186102"
+  },
+  {
+    "id": "2026-10-27-B1",
+    "date": "2026-10-27",
+    "title": "巴西股汇债三杀：卢拉连任后 Ibovespa 收跌约 13.7%、雷亚尔暴跌逾 11%、盘中熔断",
+    "link": "https://asia.nikkei.com/business/markets/trading-halted-in-brazil-as-stocks-sink-following-lula-reelection"
+  },
+  {
+    "id": "2026-10-27-B2",
+    "date": "2026-10-27",
+    "title": "美股周一反弹：标普涨 0.7%、纳指涨 0.82%，半导体领涨约 3%",
+    "link": "https://investinglive.com/stocks/at-the-close-us-stock-markets-climb-monday-as-anthropic-files-for-ipo/"
+  },
+  {
+    "id": "2026-10-27-B3",
+    "date": "2026-10-27",
+    "title": "路透分析：中国 AI 泡沫已经破裂，科创 50 不到四个月跌 40%、蒸发约 4800 亿美元",
+    "link": "https://www.reuters.com/world/china/china-ai-bubble-has-already-burst-2026-10-26/"
+  },
+  {
+    "id": "2026-10-27-B4",
+    "date": "2026-10-27",
+    "title": "美联储本周按兵不动预期进一步强化，12 月加息成共识焦点",
+    "link": "https://www.reuters.com/business/fed-skip-october-raise-rates-again-december-nearly-all-economists-say-2026-10-20/"
+  },
+  {
+    "id": "2026-10-27-B5",
+    "date": "2026-10-27",
+    "title": "比特币周一再度跌破 8 万美元，以太坊约 2314 美元",
+    "link": "https://www.fool.com/coverage/stock-market-today/2026/10/26/crypto-market-today-oct-26-bitcoin-slips-below-usd80-000-as-fed-decision-looms/"
+  },
+  {
+    "id": "2026-10-27-B6",
+    "date": "2026-10-27",
+    "title": "油价从六个月高位回落、金价在 4000 美元上下企稳",
+    "link": "https://www.thehindubusinessline.com/markets/commodities/crude-oil-price-slips-from-six-month-highs-despite-supply-concerns/article71625467.ece"
+  },
+  {
+    "id": "2026-10-27-C1",
+    "date": "2026-10-27",
+    "title": "美财政部对华等国 AI/芯片对外投资限制提案 10 月 26 日正式刊登《联邦公报》",
+    "link": "https://www.executivegov.com/articles/treasury-outbound-investment-rule-update-biotech-hypersonics"
+  },
+  {
+    "id": "2026-10-27-C2",
+    "date": "2026-10-27",
+    "title": "美军被曝可在特朗普下令后 96 小时内对伊朗发动大规模打击",
+    "link": "https://www.jpost.com/middle-east/iran-news/article-912872"
+  },
+  {
+    "id": "2026-10-27-C3",
+    "date": "2026-10-27",
+    "title": "胡塞 10 月 26 日再袭利雅得机场与沙特东西输油管线",
+    "link": "https://www.anews.com.tr/middle-east/2026/10/26/yemens-houthis-say-they-targeted-riyadh-airport-and-saudi-oil-pipeline"
   }
 ]

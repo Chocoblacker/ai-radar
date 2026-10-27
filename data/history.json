@@ -1252,5 +1252,131 @@
     "date": "2026-10-27",
     "title": "胡塞 10 月 26 日再袭利雅得机场与沙特东西输油管线",
     "link": "https://www.anews.com.tr/middle-east/2026/10/26/yemens-houthis-say-they-targeted-riyadh-airport-and-saudi-oil-pipeline"
+  },
+  {
+    "id": "2026-10-28-A1",
+    "date": "2026-10-28",
+    "title": "DeepMind 发布世界模型 Genie 4：实时交互模拟首次原生生成音频",
+    "link": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/"
+  },
+  {
+    "id": "2026-10-28-A2",
+    "date": "2026-10-28",
+    "title": "OpenAI 称其模型证伪指数时间假说，并同时公布数学与物理三项成果",
+    "link": "https://www.engadget.com/2297941/openai-new-discoveries-mathematics-computer-science-physics/"
+  },
+  {
+    "id": "2026-10-28-A3",
+    "date": "2026-10-28",
+    "title": "Anthropic IPO 规模浮出水面——WSJ 称拟募资至多 1000 亿美元，估值约 2 万亿美元，目标 11 月 16 日当周上市",
+    "link": "https://www3.nhk.or.jp/nhkworld/news/20261027de66649/"
+  },
+  {
+    "id": "2026-10-28-A4",
+    "date": "2026-10-28",
+    "title": "Meta 融资总盘升至至多 950 亿美元——350 亿美元即时发行 + 600 亿美元市价发行计划，英伟达、Broadcom、AMD 拟合计认购至多 50 亿美元",
+    "link": "https://www3.nhk.or.jp/nhkworld/news/20261027de66649/"
+  },
+  {
+    "id": "2026-10-28-A5",
+    "date": "2026-10-28",
+    "title": "英伟达向 Meta 投资 30 亿美元，Meta 将扩大部署 Vera Rubin 算力",
+    "link": "https://www.globenewswire.com/news-release/2026/10/27/3388683/0/en/nvidia-and-meta-to-expand-collaboration-on-muse-and-muse-family-of-models-amid-robust-growth.html"
+  },
+  {
+    "id": "2026-10-28-A6",
+    "date": "2026-10-28",
+    "title": "英伟达与甲骨文将 Vera Rubin 扩至多吉瓦规模，Vera Rubin NVL72 与 Vera CPU 在 OCI 全面可用",
+    "link": "https://www.morningstar.com/news/globe-newswire/9853667/nvidia-and-oracle-expand-nvidia-vera-rubin-to-multi-gigawatt-scale-and-bring-nvidia-vera-cpu-to-oracle-cloud-infrastructure"
+  },
+  {
+    "id": "2026-10-28-A7",
+    "date": "2026-10-28",
+    "title": "甲骨文云首度引入谷歌 TPU，同时接入 Cerebras 与 SambaNova，算力供应走向多供应商",
+    "link": "https://srnnews.com/oracle-expands-chip-supply-deal-with-nvidia-adds-google-and-cerebras-offerings/"
+  },
+  {
+    "id": "2026-10-28-A8",
+    "date": "2026-10-28",
+    "title": "台积电据报拟将 CoWoS 先进封装涨价 10%–20%，AI 芯片封装产能吃紧",
+    "link": "https://stocktwits.com/news-articles/markets/equity/nvidia-chipmakers-face-higher-costs-tsmc-reportedly-plans-up-to-20-price-hike-for-advanced-chip-packaging/cZUIDHERBzm"
+  },
+  {
+    "id": "2026-10-28-A9",
+    "date": "2026-10-28",
+    "title": "AMD 与英特尔联手统一 x86 CPU 的 PyTorch 优化，以 oneDNN 为共同路径",
+    "link": "https://smbtech.au/news/amd-and-intel-to-combine-x86-cpu-optimisation-work-for-pytorch/"
+  },
+  {
+    "id": "2026-10-28-A10",
+    "date": "2026-10-28",
+    "title": "Manifold 发布 Agent Incident Ledger：自 2025 年 7 月以来 59 起已公开的 AI Agent 越界事件，中位 70 天才被公开",
+    "link": "https://menafn.com/1111871101/AI-Agent-Incidents-Take-More-Than-Two-Months-To-Reach-The-Public-New-Agent-Incident-Ledger-Shows"
+  },
+  {
+    "id": "2026-10-28-A11",
+    "date": "2026-10-28",
+    "title": "Akamai 推出 Akamai Inference 与 Akamai Agent Sandbox（Beta），补齐 Agent 推理与代码执行隔离层",
+    "link": "https://www.globenewswire.com/news-release/2026/10/27/3388793/0/en/akamai-launches-ai-inference-service-and-agent-execution-environment.html"
+  },
+  {
+    "id": "2026-10-28-A12",
+    "date": "2026-10-28",
+    "title": "Opera 开始在浏览器内置本地 AI，首发 WebAI 早期预览，数据不出本机",
+    "link": "https://press.opera.com/2026/10/27/opera-doubles-down-on-local-ai-shipping-models-directly-in-its-browsers/"
+  },
+  {
+    "id": "2026-10-28-A13",
+    "date": "2026-10-28",
+    "title": "Socure 推出 Agent Intelligence，检测并给 AI Agent 打可信度分",
+    "link": "https://www.pymnts.com/news/artificial-intelligence/2026/socure-launches-tools-to-determine-ai-agents-trustworthiness/"
+  },
+  {
+    "id": "2026-10-28-A14",
+    "date": "2026-10-28",
+    "title": "O'Reilly 调研：员工用 AI 的速度已超过企业培训与治理，39% 的英国员工先问 AI 再问同事",
+    "link": "https://www.oreilly.com/pub/pr/3490"
+  },
+  {
+    "id": "2026-10-28-B1",
+    "date": "2026-10-28",
+    "title": "美股周二继续上涨，纳指领涨 1.18%，芯片股大涨，波音暴跌约 11%",
+    "link": "https://www.wsj.com/finance/stocks/u-s-stocks-add-to-gains-ahead-of-earnings-fed-statement-d996e176"
+  },
+  {
+    "id": "2026-10-28-B2",
+    "date": "2026-10-28",
+    "title": "FOMC 两日会议 10 月 27 日开幕，周三决议预计按兵不动，12 月加息成真正悬念",
+    "link": "https://www.kitco.com/news/off-the-wire/2026-10-20/fed-skip-october-raise-rates-again-december-nearly-all-economists-say"
+  },
+  {
+    "id": "2026-10-28-B3",
+    "date": "2026-10-28",
+    "title": "美国 10 月消费者信心超预期反弹至 91.7，耐用品订单增 1.8%，新屋销售年化 67.6 万套",
+    "link": "https://www.wsj.com/finance/stocks/u-s-stocks-add-to-gains-ahead-of-earnings-fed-statement-d996e176"
+  },
+  {
+    "id": "2026-10-28-B4",
+    "date": "2026-10-28",
+    "title": "韩国三季度 GDP 环比增 1.0% 大超预期，Kospi 收涨 3.09%，三星、SK 海力士领涨",
+    "link": "https://www.ndtvprofit.com/markets/asian-markets-today-south-korea-kospi-japan-nikkei-q3-gdp-growth-japan-services-inflation-boj-monetary-policy-sensex-today-12240387/amp/1"
+  },
+  {
+    "id": "2026-10-28-B5",
+    "date": "2026-10-28",
+    "title": "比特币连续第二天守在 8 万美元下方，约 79,650 美元，现货 ETF 恢复净流入",
+    "link": "https://www.coindesk.com/markets/2026/10/27/bitcoin-drops-below-usd80-000-as-crypto-ignores-asian-tech-rally-fed-meeting-begins"
+  },
+  {
+    "id": "2026-10-28-B6",
+    "date": "2026-10-28",
+    "title": "金价守住 4,000 美元关口，油价高位震荡，美元走强至近两周高点",
+    "link": "https://www.kitco.com/news/off-the-wire/2026-10-27/gold-retreats-stronger-dollar-traders-brace-fed"
+  },
+  {
+    "id": "2026-10-28-C1",
+    "date": "2026-10-28",
+    "title": "胡塞 10 月 27 日称以弹道导弹袭击沙特最大炼油厂 Ras Tanura，并引发火灾",
+    "link": "https://www.reuters.com/business/energy/yemens-houthis-say-they-launched-an-attack-saudi-ras-tanura-oil-refinery-2026-10-27/"
   }
 ]

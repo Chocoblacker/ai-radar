@@ -13,6 +13,7 @@
 - [microVM](microvm.md) — Agent 算力隔离，2026 年四家云厂商一致选定的隔离原语
 - [间接提示注入](indirect-prompt-injection.md) — 攻击者把恶意指令藏在 Agent 抓取的内容里
 - [供应链攻击](supply-chain-attack.md) — 污染软件依赖，LiteLLM 投毒版获 49,000 次下载
+- [coding agent](coding-agent.md) — 自主写代码修 bug 的 AI，9 月 40%+ PR 由其首发
 
 ## 资本与市场
 

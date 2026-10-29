@@ -1,1 +1,191 @@
-[{"calls":["P-2026-10-30-01"],"id":"anthropic-ipo","last_update":"2026-10-29","next_checkpoint":"2026-11-09 当周 IPO 路演是否按期启动","related_items":["2026-10-18-A9","2026-10-19-A1","2026-10-23-A1","2026-10-26-A1","2026-10-26-A2","2026-10-27-A1","2026-10-28-A3","2026-10-29-A9"],"related_threads":["ai-funding-wave","agent-security"],"started":"2026-10-18","status":"进行中","title":"Anthropic IPO 冲刺：史上最大科技 IPO 候选"},{"calls":["P-2026-10-30-03"],"id":"ai-funding-wave","last_update":"2026-10-29","next_checkpoint":"2026-10-30 OpenAI 300 亿美元融资投资者承诺截止","related_items":["2026-10-18-A9","2026-10-20-A9","2026-10-23-A2","2026-10-24-A11","2026-10-27-A3","2026-10-27-A5","2026-10-28-A4","2026-10-28-A5"],"related_threads":["anthropic-ipo"],"started":"2026-10-18","status":"进行中","title":"AI 融资潮：万亿级资本抢筹，算力融资进入千亿美元量级"},{"calls":["P-2026-10-30-02"],"id":"fed-rate-path","last_update":"2026-10-29","next_checkpoint":"2026-12-31 12 月 FOMC 决议是否加息","related_items":["2026-10-19-B3","2026-10-20-B2","2026-10-24-B4","2026-10-29-B1","2026-10-29-B4"],"related_threads":["middle-east-oil"],"started":"2026-10-19","status":"进行中","title":"美联储利率路径：10 月 10-2 分裂按兵不动，12 月加息成全票预期"},{"calls":["P-2026-10-30-06"],"id":"middle-east-oil","last_update":"2026-10-29","next_checkpoint":"2026-11-03 美国中期选举后是否对伊朗采取军事行动","related_items":["2026-10-18-B1","2026-10-21-B5","2026-10-24-B5","2026-10-26-B4","2026-10-28-C1","2026-10-29-C2"],"related_threads":["fed-rate-path"],"started":"2026-10-18","status":"进行中","title":"中东局势与油价：袭船常态化，布伦特冲高后高位震荡"},{"calls":["P-2026-10-30-04","P-2026-10-30-09"],"id":"memory-hbm-shortage","last_update":"2026-10-29","next_checkpoint":"2026-12-31 Q4 DRAM 合约价是否兑现 10% 以上上涨","related_items":["2026-10-18-A7","2026-10-22-A10","2026-10-26-A5","2026-10-27-A11","2026-10-28-A8","2026-10-29-A8"],"related_threads":["ai-funding-wave"],"started":"2026-10-18","status":"进行中","title":"存储/HBM 短缺：从涨价预期到“按供货可靠性分层定价”"},{"calls":[],"id":"agent-security","last_update":"2026-10-29","next_checkpoint":"持续跟踪重大 Agent 安全事件披露","related_items":["2026-10-21-A4","2026-10-22-A13","2026-10-23-A9","2026-10-24-A5","2026-10-27-A9","2026-10-28-A10","2026-10-29-A6"],"related_threads":["anthropic-ipo","ai-export-controls"],"started":"2026-10-19","status":"进行中","title":"Agent 安全：从预警进入“实战受害”，攻守工具同周密集出现"},{"calls":["P-2026-10-30-05"],"id":"ai-export-controls","last_update":"2026-10-29","next_checkpoint":"2026-11-15 中国 AI 出口管制草案征求意见截止","related_items":["2026-10-18-C1","2026-10-20-C1","2026-10-24-C1","2026-10-27-C1","2026-10-29-C1"],"related_threads":["agent-security","memory-hbm-shortage"],"started":"2026-10-18","status":"进行中","title":"AI 出口管制：从“芯片出口”延伸到“资本与技术出口”，双向筑墙"}]
+[
+  {
+    "calls": [
+      "P-2026-10-30-01"
+    ],
+    "id": "anthropic-ipo",
+    "last_update": "2026-10-29",
+    "next_checkpoint": "2026-11-09 当周 IPO 路演是否按期启动",
+    "related_items": [
+      "2026-10-18-A9",
+      "2026-10-19-A1",
+      "2026-10-23-A1",
+      "2026-10-26-A1",
+      "2026-10-26-A2",
+      "2026-10-27-A1",
+      "2026-10-28-A3",
+      "2026-10-29-A9"
+    ],
+    "related_threads": [
+      "ai-funding-wave",
+      "agent-security"
+    ],
+    "started": "2026-10-18",
+    "status": "进行中",
+    "title": "Anthropic IPO 冲刺：史上最大科技 IPO 候选"
+  },
+  {
+    "calls": [
+      "P-2026-10-30-03"
+    ],
+    "id": "ai-funding-wave",
+    "last_update": "2026-10-30",
+    "next_checkpoint": "OpenAI 300 亿美元融资承诺截止后是否有官宣或延期",
+    "related_items": [
+      "2026-10-18-A9",
+      "2026-10-20-A9",
+      "2026-10-23-A2",
+      "2026-10-24-A11",
+      "2026-10-27-A3",
+      "2026-10-27-A5",
+      "2026-10-28-A4",
+      "2026-10-28-A5",
+      "2026-10-30-A1",
+      "2026-10-30-A2",
+      "2026-10-30-A6"
+    ],
+    "related_threads": [
+      "anthropic-ipo",
+      "ai-capex-reckoning"
+    ],
+    "started": "2026-10-18",
+    "status": "进行中",
+    "title": "AI 融资潮：万亿级资本抢筹，算力融资进入千亿美元量级"
+  },
+  {
+    "calls": [
+      "P-2026-10-30-02"
+    ],
+    "id": "fed-rate-path",
+    "last_update": "2026-10-30",
+    "next_checkpoint": "2026-11-10 10 月 CPI 公布（12 月 FOMC 前最后一份通胀数据）",
+    "related_items": [
+      "2026-10-19-B3",
+      "2026-10-20-B2",
+      "2026-10-24-B4",
+      "2026-10-29-B1",
+      "2026-10-29-B4",
+      "2026-10-30-B3"
+    ],
+    "related_threads": [
+      "middle-east-oil"
+    ],
+    "started": "2026-10-19",
+    "status": "进行中",
+    "title": "美联储利率路径：10 月 10-2 分裂按兵不动，12 月加息成全票预期"
+  },
+  {
+    "calls": [
+      "P-2026-10-30-06"
+    ],
+    "id": "middle-east-oil",
+    "last_update": "2026-10-30",
+    "next_checkpoint": "2026-11-03 美国中期选举后是否对伊朗采取军事行动",
+    "related_items": [
+      "2026-10-18-B1",
+      "2026-10-21-B5",
+      "2026-10-24-B5",
+      "2026-10-26-B4",
+      "2026-10-28-C1",
+      "2026-10-29-C2",
+      "2026-10-30-C2"
+    ],
+    "related_threads": [
+      "fed-rate-path"
+    ],
+    "started": "2026-10-18",
+    "status": "进行中",
+    "title": "中东局势与油价：袭船常态化，布伦特冲高后高位震荡"
+  },
+  {
+    "calls": [
+      "P-2026-10-30-04",
+      "P-2026-10-30-09"
+    ],
+    "id": "memory-hbm-shortage",
+    "last_update": "2026-10-30",
+    "next_checkpoint": "2026-12-31 Q4 DRAM 合约价是否兑现 10% 以上上涨",
+    "related_items": [
+      "2026-10-18-A7",
+      "2026-10-22-A10",
+      "2026-10-26-A5",
+      "2026-10-27-A11",
+      "2026-10-28-A8",
+      "2026-10-29-A8",
+      "2026-10-30-A4",
+      "2026-10-30-A5"
+    ],
+    "related_threads": [
+      "ai-funding-wave"
+    ],
+    "started": "2026-10-18",
+    "status": "进行中",
+    "title": "存储/HBM 短缺：从涨价预期到“按供货可靠性分层定价”"
+  },
+  {
+    "calls": [],
+    "id": "agent-security",
+    "last_update": "2026-10-30",
+    "next_checkpoint": "持续跟踪重大 Agent 安全事件披露",
+    "related_items": [
+      "2026-10-21-A4",
+      "2026-10-22-A13",
+      "2026-10-23-A9",
+      "2026-10-24-A5",
+      "2026-10-27-A9",
+      "2026-10-28-A10",
+      "2026-10-29-A6",
+      "2026-10-30-A7",
+      "2026-10-30-A8"
+    ],
+    "related_threads": [
+      "anthropic-ipo",
+      "ai-export-controls"
+    ],
+    "started": "2026-10-19",
+    "status": "进行中",
+    "title": "Agent 安全：从预警进入“实战受害”，攻守工具同周密集出现"
+  },
+  {
+    "calls": [
+      "P-2026-10-30-05"
+    ],
+    "id": "ai-export-controls",
+    "last_update": "2026-10-29",
+    "next_checkpoint": "2026-11-15 中国 AI 出口管制草案征求意见截止",
+    "related_items": [
+      "2026-10-18-C1",
+      "2026-10-20-C1",
+      "2026-10-24-C1",
+      "2026-10-27-C1",
+      "2026-10-29-C1"
+    ],
+    "related_threads": [
+      "agent-security",
+      "memory-hbm-shortage"
+    ],
+    "started": "2026-10-18",
+    "status": "进行中",
+    "title": "AI 出口管制：从“芯片出口”延伸到“资本与技术出口”，双向筑墙"
+  },
+  {
+    "id": "ai-capex-reckoning",
+    "title": "AI 资本开支\"算账\"：市场从增长故事转向现金流纪律",
+    "status": "进行中",
+    "started": "2026-10-30",
+    "last_update": "2026-10-30",
+    "related_items": [
+      "2026-10-29-B2",
+      "2026-10-30-B1",
+      "2026-10-30-B2",
+      "2026-10-30-B5",
+      "2026-10-30-A6"
+    ],
+    "next_checkpoint": "2026-11-30 英伟达 Q3 财报的数据中心指引",
+    "related_threads": [
+      "ai-funding-wave",
+      "memory-hbm-shortage"
+    ],
+    "calls": []
+  }
+]

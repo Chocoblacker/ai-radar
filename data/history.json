@@ -1378,5 +1378,221 @@
     "date": "2026-10-28",
     "title": "胡塞 10 月 27 日称以弹道导弹袭击沙特最大炼油厂 Ras Tanura，并引发火灾",
     "link": "https://www.reuters.com/business/energy/yemens-houthis-say-they-launched-an-attack-saudi-ras-tanura-oil-refinery-2026-10-27/"
+  },
+  {
+    "id": "2026-10-29-A1",
+    "date": "2026-10-29",
+    "title": "Google 发布 Gemini 4 Carbon：安全专长前沿模型，先向防御者开放",
+    "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/"
+  },
+  {
+    "id": "2026-10-29-A2",
+    "date": "2026-10-29",
+    "title": "GitHub Universe：Copilot Fusion 全面可用，多模型路由单任务成本约减半",
+    "link": "https://www.theregister.com/ai-and-ml/2026/10/28/github-powering-up-four-million-extra-cores-to-stop-its-service-going-down/5305863"
+  },
+  {
+    "id": "2026-10-29-A3",
+    "date": "2026-10-29",
+    "title": "Oracle 与 OpenAI 扩大合作：ChatGPT 与 Codex 接入企业核心应用",
+    "link": "https://www.moneycontrol.com/technology/oracle-partners-with-openai-to-bring-chatgpt-codex-and-ai-tools-to-enterprise-businesses-article-14062400.html/amp"
+  },
+  {
+    "id": "2026-10-29-A4",
+    "date": "2026-10-29",
+    "title": "Virtana 推出 Agentic Observability：让 Agent 团队接管 IT 故障响应",
+    "link": "https://genznewz.com/virtana-agentic-observability-lets-ai-agent-teams-run-it-response"
+  },
+  {
+    "id": "2026-10-29-A5",
+    "date": "2026-10-29",
+    "title": "Jedify 推出 Data Agents：用自然语言搭建“自主分析师”",
+    "link": "https://www.manilatimes.net/2026/10/28/tmt-newswire/globenewswire/jedify-launches-data-agents-autonomous-analysts-built-on-its-context-graph/2456234/amp"
+  },
+  {
+    "id": "2026-10-29-A6",
+    "date": "2026-10-29",
+    "title": "Anthropic 红队披露：未发布 Claude 模型链式挖出五大平台可用 exploit",
+    "link": "https://cybersecuritynews.com/claude-ai-builds-exploit/"
+  },
+  {
+    "id": "2026-10-29-A7",
+    "date": "2026-10-29",
+    "title": "OpenAI 拟直接购买谷歌 TPU，英伟达最大客户们加速找“第二货源”",
+    "link": "https://bworldonline.com/technology/2026/10/28/789847/openai-plans-to-buy-googles-ai-chips-the-information-reports/"
+  },
+  {
+    "id": "2026-10-29-A8",
+    "date": "2026-10-29",
+    "title": "SK 海力士 Q3 创纪录：营收首破 100 万亿韩元，营业利润率近 80%",
+    "link": "https://m-en.yna.co.kr/view/AEN20261028001651320?section=economy-finance/economy"
+  },
+  {
+    "id": "2026-10-29-A9",
+    "date": "2026-10-29",
+    "title": "Anthropic IPO 新进展：拟向散户配售 15%–20%，摩根大通牵头美国散户认购",
+    "link": "https://www.el-fondo.com/en/news/jpmorgan-to-lead-retail-sales-in-anthropic-ipo"
+  },
+  {
+    "id": "2026-10-29-A10",
+    "date": "2026-10-29",
+    "title": "独立开发者开源 Qwen3.5-4B-3D-Coder：一句话生成可交互 Three.js 场景",
+    "link": "https://aiweekly.co/alerts/solo-dev-opens-qwen35-4b-3d-coder-an-apache-20-fine-tune-specialized-for"
+  },
+  {
+    "id": "2026-10-29-B1",
+    "date": "2026-10-29",
+    "title": "美联储 10 月按兵不动：利率维持 3.75%–4%，10-2 鹰派分裂",
+    "link": "https://www.anews.com.tr/economy/2026/10/28/fed-holds-benchmark-interest-rate-steady-at-375-4"
+  },
+  {
+    "id": "2026-10-29-B2",
+    "date": "2026-10-29",
+    "title": "Alphabet Q3：云收入翻倍仍难救 EPS 大 miss，盘后跌超 7%",
+    "link": "https://9to5google.com/2026/10/28/alphabet-q3-2026-earnings/"
+  },
+  {
+    "id": "2026-10-29-B3",
+    "date": "2026-10-29",
+    "title": "微软 FY2027 Q1 超预期：EPS 4.89 美元、营收 922.8 亿美元",
+    "link": "https://www.marketbeat.com/earnings/reports/2026-10-28-microsoft-co-stock/"
+  },
+  {
+    "id": "2026-10-29-B4",
+    "date": "2026-10-29",
+    "title": "加拿大央行 2023 年 7 月以来首次加息：上调 25 个基点至 2.50%",
+    "link": "https://www.reuters.com/business/canadian-2-year-yield-hits-two-year-high-boc-hikes-interest-rates-2026-10-28/"
+  },
+  {
+    "id": "2026-10-29-B5",
+    "date": "2026-10-29",
+    "title": "美股 10 月 28 日小幅收涨：标普 +0.28%、纳指 +0.27%，盘后随财报分化",
+    "link": "https://www.fool.com/coverage/stock-market-today/2026/10/28/stock-market-today-oct-28-boston-scientific-slips-6-after-cutting-q4-sales-and-full-year-eps-guidance-on-cyberattack-impact/"
+  },
+  {
+    "id": "2026-10-29-B6",
+    "date": "2026-10-29",
+    "title": "亚太普涨：A 股创业板 +3.40%、KOSPI +6.63% 收复 6000 点、恒指 +0.23%",
+    "link": "https://www.panews.io/articles/01a18152-33a1-7390-9d99-bbf49c756f97"
+  },
+  {
+    "id": "2026-10-29-B7",
+    "date": "2026-10-29",
+    "title": "比特币站回 8.1 万美元上方，现货 ETF 连续第二日净流入；油金高位震荡",
+    "link": "https://www.coindesk.com/markets/2026/10/28/bitcoin-rebounds-above-usd81-000-as-asian-chip-rally-spills-into-crypto-pepe-jumps-9"
+  },
+  {
+    "id": "2026-10-29-C1",
+    "date": "2026-10-29",
+    "title": "路透分析中国 AI 出口管制草案：技术留境内、只向海外卖使用权",
+    "link": "https://www.reuters.com/business/retail-consumer/chinas-new-export-curbs-draw-line-around-its-ai-crown-jewels-2026-10-28/"
+  },
+  {
+    "id": "2026-10-29-C2",
+    "date": "2026-10-29",
+    "title": "WSJ：美国已告知海湾国家，为中期选举后对伊新一轮军事行动做准备",
+    "link": "https://www.wsj.com/world/middle-east/u-s-warns-gulf-of-possible-short-intense-renewal-of-iran-war-after-midterms-cd1a55e1"
+  },
+  {
+    "id": "2026-10-30-A1",
+    "date": "2026-10-30",
+    "title": "Cohere 完成加拿大史上最大私人融资：Series E 目标 70 亿加元，联邦政府直接入股",
+    "link": "https://www.newswire.ca/news-releases/cohere-announces-series-e-fundraise-targeting-cad-7-billion-to-meet-surging-global-demand-for-secure-sovereign-ai-811489745.html"
+  },
+  {
+    "id": "2026-10-30-A2",
+    "date": "2026-10-30",
+    "title": "美国司法部询问英伟达 129.3 亿美元收购 Hugging Face 对 AI 竞争的影响",
+    "link": "https://www.reuters.com/world/us-doj-is-inquiring-about-nvidias-purchase-hugging-face-sources-say-2026-10-28/"
+  },
+  {
+    "id": "2026-10-30-A3",
+    "date": "2026-10-30",
+    "title": "ServiceNow 与 OpenAI 扩大合作：ChatGPT 里直接跑企业工作流",
+    "link": "https://www.businesswire.com/news/home/20261028776113/en/ServiceNow-and-OpenAI-accelerate-enterprise-AI-from-models-and-operations-to-cybersecurity-and-agentic-development"
+  },
+  {
+    "id": "2026-10-30-A4",
+    "date": "2026-10-30",
+    "title": "三星 Q3 创纪录：营业利润 107.44 万亿韩元同比增 783%，HBM4 销售额环比翻三倍",
+    "link": "https://www.reuters.com/world/china/samsung-posts-record-profit-q3-ai-chip-boom-2026-10-29/"
+  },
+  {
+    "id": "2026-10-30-A5",
+    "date": "2026-10-30",
+    "title": "Sandisk FY27 Q1：营收 110.3 亿美元同比增 378%，NAND 涨价周期同样凶猛",
+    "link": "https://www.wsj.com/business/earnings/sandisk-profit-soars-as-ai-demand-drives-up-prices-6a83fffd"
+  },
+  {
+    "id": "2026-10-30-A6",
+    "date": "2026-10-30",
+    "title": "Neocloud 板块分化：CoreWeave 盘前跌近 6%，债市开始按发行人区别定价",
+    "link": "https://www.tipranks.com/news/why-are-coreweave-nebius-and-iren-stocks-tumbling-in-pre-market-today-oct-29"
+  },
+  {
+    "id": "2026-10-30-A7",
+    "date": "2026-10-30",
+    "title": "Anthropic 红队披露后续：CVE 细节公布，补丁覆盖现分歧",
+    "link": "https://www.cyberkendra.com/2026/10/anthropic-claude-exploit-chains-chrome-safari-linux.html"
+  },
+  {
+    "id": "2026-10-30-A8",
+    "date": "2026-10-30",
+    "title": "Arize 实测：网页一句伪装成常规对账步骤的注入让客服 Agent 在 28% 运行中泄露陌生客户数据",
+    "link": "https://arize.com/blog/indirect-prompt-injection-ai-agents/"
+  },
+  {
+    "id": "2026-10-30-A9",
+    "date": "2026-10-30",
+    "title": "GitHub Octoverse 2026：9 月单月 1.1 亿个 PR 由 Agent 首发",
+    "link": "https://github.blog/news-insights/octoverse/octoverse-commits-pushes-reach-new-highs-in-2026-as-developers-build-with-agents/"
+  },
+  {
+    "id": "2026-10-30-A10",
+    "date": "2026-10-30",
+    "title": "Gartner：近半供应链企业过去两年因 AI 减员，平均 10.5%",
+    "link": "https://www.gartner.com/en/newsroom/press-releases/2026-10-28-gartner-survey-shows-47-percent-of-supply-chains-reduced-headcount-by-an-average-of-10-5-percent-over-the-past-two-years-primarily-due-to-the-impact-of-ai"
+  },
+  {
+    "id": "2026-10-30-B1",
+    "date": "2026-10-30",
+    "title": "亚马逊 Q3：AWS 增速 39% 创 5 年最快，但 EPS miss、盘后大跌",
+    "link": "https://www.businesswire.com/news/home/20261028373648/en/Amazon.com-Announces-Third-Quarter-Results"
+  },
+  {
+    "id": "2026-10-30-B2",
+    "date": "2026-10-30",
+    "title": "Alphabet 周四常规交易再跌约 13%，AI 烧钱担忧蔓延至全天",
+    "link": "https://www.barchart.com/story/news/8539407/stocks-close-lower-as-alphabet-disappoints-and-chip-stocks-fall"
+  },
+  {
+    "id": "2026-10-30-B3",
+    "date": "2026-10-30",
+    "title": "9 月 PCE 反弹至 3.6%，Q3 GDP 超预期 3.4%，12 月加息定价升至约 85%",
+    "link": "https://www.tradingview.com/news/te_news:596308:0-us-pce-inflation-accelerated-as-expected/"
+  },
+  {
+    "id": "2026-10-30-B4",
+    "date": "2026-10-30",
+    "title": "拉加德宣布提前离任欧洲央行行长，2027 年 2 月 7 日生效",
+    "link": "https://www.reuters.com/business/finance/ecb-president-lagarde-resigns-effective-feb-7-2026-10-29/"
+  },
+  {
+    "id": "2026-10-30-B5",
+    "date": "2026-10-30",
+    "title": "Intel Q3：数据中心 AI 业务增长 78%，但 Q4 指引暴雷",
+    "link": "https://www.reuters.com/business/intel-signals-slower-growth-pc-market-remains-under-pressure-2026-10-29/"
+  },
+  {
+    "id": "2026-10-30-C1",
+    "date": "2026-10-30",
+    "title": "美 DHS 将华大基因系三家公司列入 UFLPA 实体清单",
+    "link": "https://www.theweek.in/wire-updates/international/2026/10/29/us-bans-imports-from-3-chinese-biotech-companies-over-forced-labour-allegations.html"
+  },
+  {
+    "id": "2026-10-30-C2",
+    "date": "2026-10-30",
+    "title": "美军中央司令部司令库珀上将亲赴白宫汇报对伊军事选项",
+    "link": "https://www.wsj.com/politics/national-security/top-admiral-briefs-trump-on-iran-attack-options-5bd6f13c"
   }
 ]

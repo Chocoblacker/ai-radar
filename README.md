@@ -14,13 +14,13 @@
 
 ## 最新 7 天
 
+- [2026-10-30（周五）](daily/2026/10/2026-10-30.md) —— 科技巨头 Q3 迎"算账日"：Alphabet 再跌约 13%、亚马逊 AWS +39% 仍盘后大跌；9 月 PCE 3.6%、12 月加息定价约 85%；库珀上将赴白宫汇报对伊选项
+- [2026-10-29（周四）](daily/2026/10/2026-10-29.md) —— 美联储按兵不动但 10-2 鹰派分裂；Alphabet 云翻倍仍因 EPS miss 盘后跌超 7%；Google 发布 Gemini 4 Carbon、GitHub Copilot Fusion 全面可用
 - [2026-10-28（周三）](daily/2026/10/2026-10-28.md) —— Anthropic 拟募资至多 1000 亿美元、估值约 2 万亿美元；英伟达向 Meta 投 30 亿美元、Vera Rubin 扩至多吉瓦；DeepMind 发布世界模型 Genie 4
 - [2026-10-27（周二）](daily/2026/10/2026-10-27.md) —— Anthropic 公开 S-1 冲刺上市；Meta 拟募资至多 950 亿美元、SpaceX 约 400 亿美元 GPU 租赁；巴西股汇债三杀、中国 AI 泡沫论
 - [2026-10-26（周一）](daily/2026/10/2026-10-26.md) —— OpenAI 以 30%+ 折扣抢走 Replit 年超 1 亿美元合同；本周超级央行周，美联储 10 月 28 日议息；特朗普排除周日对伊动武、布伦特周涨近 7%
 - [2026-10-25（周日）](daily/2026/10/2026-10-25.md) —— OpenAI 前沿模型训练全面断网、红队挖出 Brotli 漏洞；英国建全球首个 AI 生物安全实验室；英伟达 neocloud 融资承压
 - [2026-10-24（周六）](daily/2026/10/2026-10-24.md) —— DeepSeek 约 150 亿美元融资落地、Kimi K3.1 Pro 逼近 Claude 旗舰；美股周五抛售扩散、10 年期美债重回 5%；Google 发布 Agent Compute Engine
-- [2026-10-23（周五）](daily/2026/10/2026-10-23.md) —— 美股半导体大屠杀、费半 -6.72%；Anthropic S-1 今日公开、11 月 9 日当周路演；Microsoft 披露国家级黑客用 AI Agent 发动供应链攻击
-- [2026-10-22（周四）](daily/2026/10/2026-10-22.md) —— AI 发现 PHP 史上最严重漏洞引全球打补丁；LiteLLM 供应链再被攻破；Meta Q3 广告 +26% 盘后涨超 4%
 
 ## 🔥 活跃故事线
 
@@ -31,6 +31,7 @@
 - [存储/HBM 短缺](threads/memory-hbm-shortage.md) — SK 海力士利润率 79.7%，2027 年产能售罄
 - [Agent 安全](threads/agent-security.md) — 从预警进入实战，攻守工具同周密集出现
 - [AI 出口管制](threads/ai-export-controls.md) — 中美双向筑墙，23 项技术清单待通过
+- [AI 资本开支"算账"](threads/ai-capex-reckoning.md) — Alphabet 两日重挫、亚马逊 AWS +39% 仍被抛售，市场从增长故事转向现金流纪律
 
 [完整故事线总览 →](threads/index.md)
 

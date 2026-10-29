@@ -2,13 +2,15 @@
 
 每日 AI + 科技经济雷达，由 Muse 自动整理。
 
-每天北京时间 06:00 自动生成一份中文日报，覆盖过去 24 小时（昨天 06:00 至今天 06:00）：
+每天北京时间 05:00 自动生成一份中文日报，覆盖过去 24 小时（昨天 05:00 至今天 05:00）：
 
 - **AI 主线**（约 65%）：模型与产品、Agent 与工具、AI 与工作、芯片与算力、资本与人事、政策监管
 - **科技 · 经济 · 金融**（约 35%）：科技巨头、半导体产业链、央行与宏观、美股及港股/A 股科技板块、加密资产、能源与大宗商品
 - **地缘与政策影响**：只收明确影响科技 / 供应链 / 市场 / AI 监管的动态
 
 每条新闻至少 2 个独立来源交叉验证；新闻用自己的话概括，引用原文不超过一句，必附原链接，不转载全文。
+
+日报是地基，在此之上持续沉淀故事线、概念卡和预判，目标是看懂事情怎么演变，并尽量提前判断接下来会发生什么。
 
 ## 最新 7 天
 
@@ -20,10 +22,24 @@
 - [2026-10-23（周五）](daily/2026/10/2026-10-23.md) —— 美股半导体大屠杀、费半 -6.72%；Anthropic S-1 今日公开、11 月 9 日当周路演；Microsoft 披露国家级黑客用 AI Agent 发动供应链攻击
 - [2026-10-22（周四）](daily/2026/10/2026-10-22.md) —— AI 发现 PHP 史上最严重漏洞引全球打补丁；LiteLLM 供应链再被攻破；Meta Q3 广告 +26% 盘后涨超 4%
 
+## 🔥 活跃故事线
+
+- [Anthropic IPO 冲刺](threads/anthropic-ipo.md) — S-1 已公开，目标 11 月中下旬上市，募资至多 1000 亿美元
+- [AI 融资潮](threads/ai-funding-wave.md) — OpenAI 300 亿、Meta 950 亿、SpaceX 400 亿，万亿级资本抢筹
+- [美联储利率路径](threads/fed-rate-path.md) — 10 月 10-2 分裂按兵不动，12 月加息成全票预期
+- [中东局势与油价](threads/middle-east-oil.md) — 袭船常态化，布伦特 111–115 美元震荡
+- [存储/HBM 短缺](threads/memory-hbm-shortage.md) — SK 海力士利润率 79.7%，2027 年产能售罄
+- [Agent 安全](threads/agent-security.md) — 从预警进入实战，攻守工具同周密集出现
+- [AI 出口管制](threads/ai-export-controls.md) — 中美双向筑墙，23 项技术清单待通过
+
+[完整故事线总览 →](threads/index.md)
+
 ## 目录结构
 
-- `daily/YYYY/MM/YYYY-MM-DD.md` — 每日日报
-- `weekly/YYYY-Www.md` — 每周日发布的周报（本周 Top 10、趋势变化）
-- `config/scope.md` — 内容范围与来源规则
-- `config/preferences.md` — 内容偏好（根据读者反馈调整）
-- `data/history.json` — 近 14 天事件去重索引
+- `daily/YYYY/MM/YYYY-MM-DD.md` — 每日日报（地基）
+- `threads/` — 故事线：跨越多天的事件追踪（[总览](threads/index.md)）
+- `glossary/` — 概念卡：反复出现的专业概念解释（[索引](glossary/index.md)）
+- `weekly/YYYY-Www.md` — 每周日发布的周报（本周 Top 10、故事线进展、预判复盘）
+- `monthly/YYYY-MM.md` — 每月 1 日发布的月报（最重要的 5 条故事线、预判成绩单）
+- `config/` — 规则配置：scope.md（日报结构）、knowledge.md（沉淀规则）、foresight.md（预判规则）
+- `data/` — 结构化数据：history.json（近 14 天事件索引）、threads.json（故事线）、calls.json（预判）

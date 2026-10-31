@@ -1,11 +1,11 @@
 # AI 融资潮：万亿级资本抢筹，算力融资进入千亿美元量级
 
-状态：进行中 · 开始：2026-10-18 · 最近更新：2026-10-30
+状态：进行中 · 开始：2026-10-18 · 最近更新：2026-10-31
 下一个验证点：OpenAI 300 亿美元融资承诺截止后是否有官宣或延期（10-30 截止，截至发稿无公告）
 
 ## 一句话现状
 
-OpenAI 与 Anthropic 在数周内向同一批投资人要钱；头部玩家不再靠经营现金流支撑算力扩张，Meta、SpaceX 同周开出史上最大融资支票，"租芯片、债主买单"与股权大增发成为新常态；DeepSeek 第二轮融资三天内从传闻变落地。10 月 30 日新增：Cohere 完成加拿大史上最大私人融资（Series E 目标 70 亿加元，联邦政府入股 16 亿加元）；DOJ 询问英伟达 129.3 亿美元收购 Hugging Face；Neocloud 板块分化，债市开始"按发行人区别定价"。
+OpenAI 与 Anthropic 在数周内向同一批投资人要钱；头部玩家不再靠经营现金流支撑算力扩张，Meta、SpaceX 同周开出史上最大融资支票，"租芯片、债主买单"与股权大增发成为新常态；DeepSeek 第二轮融资三天内从传闻变落地。10 月 30 日新增：Cohere 完成加拿大史上最大私人融资（Series E 目标 70 亿加元，联邦政府入股 16 亿加元）；DOJ 询问英伟达 129.3 亿美元收购 Hugging Face；Neocloud 板块分化。10 月 31 日更新：Blackstone 称 Anthropic IPO 后或仅获垃圾级评级；英伟达洽谈为 Nscale-Anthropic 数据中心交易提供数十亿美元信用担保；印度 AM Intelligence 拟募 30 亿美元采购 Vera Rubin 芯片；OpenAI 300 亿美元承诺截止后仍无公告。
 
 ## 来龙去脉
 
@@ -20,6 +20,7 @@ OpenAI 与 Anthropic 在数周内向同一批投资人要钱；头部玩家不�
 - 10-27 Meta 启动约 350 亿美元即时发行 + 至多 600 亿美元市价增发；SpaceX 与 Apollo 约 400 亿美元 GPU 融资租赁；OpenAI 投资者 10 月 30 日前承诺（[2026-10-27 A5](../daily/2026/10/2026-10-27.md)、A6、A3）
 - 10-28 Meta 融资盘升至 950–975 亿美元；英伟达向 Meta 直接投资 30 亿美元（[2026-10-28 A4](../daily/2026/10/2026-10-28.md)、A5）
 - 10-30 Cohere Series E 目标 70 亿加元、加拿大联邦政府入股 16 亿加元；DOJ 询问英伟达 129.3 亿美元收购 Hugging Face；Neocloud 板块分化（CoreWeave 盘前 -6%）；OpenAI 300 亿美元承诺今日截止、截至发稿无公告（[2026-10-30 A1](../daily/2026/10/2026-10-30.md)、A2、A6）
+- 10-31 Blackstone 下调 Anthropic IPO 后评级预期；英伟达洽谈为 Nscale 交易提供信用担保；印度 AM Intelligence 拟募 30 亿美元买 Vera Rubin；OpenAI 300 亿美元承诺截止后仍无公告（[2026-10-31 A1](../daily/2026/10/2026-10-31.md)、A2、A3）
 
 ## 关键数字
 
@@ -29,6 +30,7 @@ OpenAI 与 Anthropic 在数周内向同一批投资人要钱；头部玩家不�
 - SpaceX-Apollo：约 400 亿美元 GPU 融资租赁（2026-10-27）
 - 英伟达→Meta：30 亿美元直接投资（2026-10-28）
 - Cohere：目标 70 亿加元 / 估值 357 亿加元 / 联邦政府出资 16 亿加元（2026-10-30）
+- AM Intelligence：拟募 30 亿美元买 Vera Rubin（2026-10-31）
 
 ## 各方观点
 
@@ -58,3 +60,4 @@ OpenAI 与 Anthropic 在数周内向同一批投资人要钱；头部玩家不�
 - ai-valuation-divergence（AI 估值分化）
 - chips-compute（芯片算力）
 - ai-capex-reckoning（AI 资本开支"算账"）
+

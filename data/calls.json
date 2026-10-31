@@ -14,14 +14,20 @@
       "散户认购通道（摩根大通牵头）正式开放"
     ],
     "outcome": null,
-    "probability": 0.7,
+    "probability": 0.65,
     "resolution_criteria": "纳斯达克官网 / SEC EDGAR 查询 ANT 的上市公告与首日交易记录",
     "resolved_date": null,
     "review": null,
     "statement": "Anthropic 在 2026 年 11 月 30 日前完成在纳斯达克的 IPO 上市（代码 ANT）",
     "status": "open",
     "thread": "anthropic-ipo",
-    "updates": []
+    "updates": [
+      {
+        "date": "2026-10-31",
+        "probability": 0.65,
+        "reason": "Blackstone 告知投资者 Anthropic IPO 后或仅获垃圾级（BB 区间）评级，抬升融资成本、扰动上市进程；纳指周五 -4% 市场环境不利（2026-10-31 A1、B1）"
+      }
+    ]
   },
   {
     "basis": [
@@ -38,7 +44,7 @@
       "主席 Warsh 公开表态的措辞转向"
     ],
     "outcome": null,
-    "probability": 0.85,
+    "probability": 0.75,
     "resolution_criteria": "美联储官网 12 月 FOMC 声明",
     "resolved_date": null,
     "review": null,
@@ -50,6 +56,11 @@
         "date": "2026-10-30",
         "probability": 0.85,
         "reason": "9 月 PCE 反弹至 3.6%（5 月以来最高）、Q3 GDP 初值 3.4% 超预期；CME 12 月加息定价升至约 85%"
+      },
+      {
+        "date": "2026-10-31",
+        "probability": 0.75,
+        "reason": "Q3 ECI 温和、工资增速创 2021 年以来最低，CME/Polymarket/Kalshi 三线定价回落至约 70%（2026-10-31 B2）"
       }
     ]
   },
@@ -137,14 +148,20 @@
       "OPEC+ 是否释放增产对冲信号"
     ],
     "outcome": null,
-    "probability": 0.45,
+    "probability": 0.55,
     "resolution_criteria": "ICE 布伦特期货日收盘价（路透/彭博行情）",
     "resolved_date": null,
     "review": null,
     "statement": "2026 年 11 月 30 日前，布伦特原油期货任意交易日收盘价达到或超过 120 美元/桶",
     "status": "open",
     "thread": "middle-east-oil",
-    "updates": []
+    "updates": [
+      {
+        "date": "2026-10-31",
+        "probability": 0.55,
+        "reason": "布伦特结算价升至 117.64 美元、距 120 仅差约 2%，Louise 1 水雷袭击后供给中断风险实物化（2026-10-31 C1）"
+      }
+    ]
   },
   {
     "basis": [

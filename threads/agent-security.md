@@ -1,6 +1,6 @@
 # Agent 安全：从预警进入"实战受害"，攻守工具同周密集出现
 
-状态：进行中 · 开始：2026-10-19 · 最近更新：2026-10-30
+状态：进行中 · 开始：2026-10-19 · 最近更新：2026-10-31
 下一个验证点：持续跟踪重大 Agent 安全事件披露
 
 ## 一句话现状
@@ -9,7 +9,7 @@
 
 ## 来龙去脉
 
-10 月下旬 Agent 安全从理论预警进入实战阶段：Reuters 调查显示单名黑客用 AI Agent 花约 5000 美元攻破 100 多家企业网站；LiteLLM 供应链攻击投毒版获约 49,000 次下载；Microsoft 披露中国关联组织用开源框架自动化攻击全球数百家组织。与此同时，Google 发布 Agent Compute Engine（硬件隔离 microVM）、Akamai 推出 Agent Sandbox、Socure 推出信任评分，治理工具密集上线。Anthropic 红队披露未发布 Claude 模型可链式挖出五大平台 exploit（62 个 CVE）。10 月 30 日更新：CVE-2026-33096（Windows，CVSS 7.5）、CVE-2026-98432（Linux，CVSS 9.8）细节公布，但 Ubuntu 26.04 仍"待评估"、RHEL 10 修复 deferred，"62 个 CVE"口径遭质疑；Arize 实测间接注入 28% 泄露率，代码层 scope guardrail 可降至 0%。
+10 月下旬 Agent 安全从理论预警进入实战阶段：Reuters 调查显示单名黑客用 AI Agent 花约 5000 美元攻破 100 多家企业网站；LiteLLM 供应链攻击投毒版获约 49,000 次下载；Microsoft 披露中国关联组织用开源框架自动化攻击全球数百家组织。与此同时，Google 发布 Agent Compute Engine（硬件隔离 microVM）、Akamai 推出 Agent Sandbox、Socure 推出信任评分，治理工具密集上线。Anthropic 红队披露未发布 Claude 模型可链式挖出五大平台 exploit（62 个 CVE）。10 月 30 日更新：CVE-2026-33096（Windows，CVSS 7.5）、CVE-2026-98432（Linux，CVSS 9.8）细节公布，但补丁覆盖现分歧；Arize 实测间接注入 28% 泄露率，代码层 guardrail 可降至 0%。10 月 31 日更新：WIRED 曝 Accenture 承包商把个人 Claude Code 接进五角大楼 NIPRNet、运行约两个月疑外传凭证；EMBRACE 漏洞 5 款 AI 编程工具内嵌浏览器全破、Codex 与 VS Code 未修复；OpenAI 发四层前沿模型监控博客。
 
 ## 时间线
 
@@ -21,6 +21,7 @@
 - 10-28 Manifold Agent Incident Ledger——59 起公开 Agent 越界事件（[2026-10-28 A10](../daily/2026/10/2026-10-28.md)）
 - 10-29 Anthropic Frontier Red Team 披露未发布 Claude 模型链式挖出五大平台可用 exploit 链（[2026-10-29 A6](../daily/2026/10/2026-10-29.md)）
 - 10-30 红队披露后续——CVE 细节公布、补丁覆盖现分歧；Arize 间接注入实测 28% 泄露率（[2026-10-30 A7](../daily/2026/10/2026-10-30.md)、A8）
+- 10-31 WIRED 曝 Accenture 承包商把 Claude Code 接进五角大楼 NIPRNet；EMBRACE 漏洞 5 款编程工具全破；OpenAI 发四层前沿模型监控博客（[2026-10-31 A6](../daily/2026/10/2026-10-31.md)、A7、A8）
 
 ## 关键数字
 
@@ -31,6 +32,8 @@
 - 2300 万周下载量（LiteLLM 受影响版本）
 - CVE-2026-33096（7.5）/ CVE-2026-98432（9.8）（2026-10-30）
 - 28% 间接注入泄露率，代码层 guardrail 可降至 0%（Arize，2026-10-30）
+- EMBRACE：5 款 AI 编程工具内嵌浏览器全被攻破，Codex/VS Code 未修复（2026-10-31）
+- Accenture：承包商把个人 Claude Code 接进五角大楼 NIPRNet（2026-10-31）
 
 ## 各方观点
 
@@ -58,3 +61,4 @@
 
 - anthropic-ipo（Anthropic IPO，模型安全是招股书风险项）
 - ai-export-controls（AI 出口管制，安全是管制理由之一）
+

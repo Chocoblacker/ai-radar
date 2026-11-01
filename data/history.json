@@ -1,131 +1,5 @@
 [
  {
-  "id": "2026-10-18-A1",
-  "date": "2026-10-18",
-  "title": "OpenAI 确认自研人形机器人，Altman：2027 年出演示机",
-  "link": "https://www.engadget.com/2285040/openai-humanoid-robot-sam-altman-statement-real-challenge/"
- },
- {
-  "id": "2026-10-18-A2",
-  "date": "2026-10-18",
-  "title": "GitHub Copilot 11 月 16 日下线三个模型：Claude Opus 4.8、Claude Opus 5、GPT-5.6 Terra",
-  "link": "https://trendintech.com/github-copilot-drops-3-ai-models-november-2026/"
- },
- {
-  "id": "2026-10-18-A3",
-  "date": "2026-10-18",
-  "title": "Claude Code / Codex CLI / Gemini CLI 本周更新：空闲对话自动压缩、Daybreak 重回默认",
-  "link": "http://dev.to/aicoding-guide/this-week-in-claude-code-codex-and-gemini-cli-week-of-october-18-2026-e6d"
- },
- {
-  "id": "2026-10-18-A4",
-  "date": "2026-10-18",
-  "title": "摩根士丹利：美国数据中心到 2028 年面临 32GW 电力缺口",
-  "link": "https://m.economictimes.com/markets/us-stocks/news/ai-race-may-depend-more-on-access-to-power-infrastructure-than-chip-supply-morgan-stanley/amp_articleshow/135012540.cms"
- },
- {
-  "id": "2026-10-18-A5",
-  "date": "2026-10-18",
-  "title": "湾芯展直击：AI 服务器功耗攀升，功率半导体打开新增长空间",
-  "link": "https://finance.sina.cn/stock/jdts/2026-10-17/detail-inivnvkv8239715.d.html"
- },
- {
-  "id": "2026-10-18-A6",
-  "date": "2026-10-18",
-  "title": "国产半导体测试设备密集扩产，HBM 测试成新风口",
-  "link": "https://finance.sina.cn/tech/2026-10-17/detail-inivnvku1460723.d.html"
- },
- {
-  "id": "2026-10-18-A7",
-  "date": "2026-10-18",
-  "title": "韩国半导体日报：三星/SK 海力士技术性反弹，HBM4E 与传统 DRAM 短缺预警",
-  "link": "https://www.vlsi.kr/en/daily-silicon-2026-10-17-en/"
- },
- {
-  "id": "2026-10-18-A8",
-  "date": "2026-10-18",
-  "title": "J.P. 摩根：台积电 1.4nm 量产提前至 2028 上半年",
-  "link": "https://wccftech.com/apple-14nm-chips-tsmc-2028-mass-production-ai-supply/"
- },
- {
-  "id": "2026-10-18-A9",
-  "date": "2026-10-18",
-  "title": "Anthropic 以超 10% 收益率向 Blackstone 融资 90 亿美元买芯片",
-  "link": "https://www.channelnewsasia.com/business/anthropic-offers-blackstone-double-digit-yield-in-chip-financing-deal-ft-reports-6467711"
- },
- {
-  "id": "2026-10-18-A10",
-  "date": "2026-10-18",
-  "title": "OpenAI 从 SpaceX/xAI 挖走销售负责人 Graham Seamans",
-  "link": "https://www.thehindubusinessline.com/info-tech/openai-poaches-another-spacex-sales-lead-focused-on-ai/article71595298.ece"
- },
- {
-  "id": "2026-10-18-A11",
-  "date": "2026-10-18",
-  "title": "Anthropic 被曝向国会推销自家起草的 AI 安全法案",
-  "link": "https://www.thehindubusinessline.com/info-tech/anthropic-quietly-pitches-its-own-ai-safety-bill-to-lawmakers-politico-reports/article71595297.ece"
- },
- {
-  "id": "2026-10-18-B1",
-  "date": "2026-10-18",
-  "title": "霍尔木兹海峡两艘油轮触雷爆炸，布伦特一度逼近 110 美元",
-  "link": "https://news.qq.com/rain/a/20261018A04NVX00"
- },
- {
-  "id": "2026-10-18-B2",
-  "date": "2026-10-18",
-  "title": "美股周五科技股重挫：纳指跌 2.14%，费半八连跌创 2008 年来最长纪录",
-  "link": "https://www.21jingji.com/article/20261017/herald/b322c3b238ca4634717dc0ebfe747291.html"
- },
- {
-  "id": "2026-10-18-B3",
-  "date": "2026-10-18",
-  "title": "A股周五尾盘反弹，创业板本周跌 8.9% 回吐年内涨幅",
-  "link": "https://www.21jingji.com/article/20261018/herald/6b52386c43888a175a86474b6de0d937.html"
- },
- {
-  "id": "2026-10-18-B4",
-  "date": "2026-10-18",
-  "title": "比特币周末跌破 8.1 万美元后回升，24 小时超 8 万人爆仓",
-  "link": "https://www.163.com/dy/article/L9E950PQ05199NPP.html"
- },
- {
-  "id": "2026-10-18-B5",
-  "date": "2026-10-18",
-  "title": "MSCI 落地“非经营性公司”指数新规，Strategy 面临剔除风险",
-  "link": "https://www.coindesk.com/markets/2026/10/16/msci-approves-rules-that-could-eject-strategy-metaplanet-from-equity-indexes"
- },
- {
-  "id": "2026-10-18-B6",
-  "date": "2026-10-18",
-  "title": "软银洽谈 180 亿美元收购美国安保巨头 Allied Universal",
-  "link": "https://www.reuters.com/business/media-telecom/softbank-weighs-18-billion-acquisition-allied-universal-bloomberg-news-reports-2026-10-16/"
- },
- {
-  "id": "2026-10-18-B7",
-  "date": "2026-10-18",
-  "title": "1.3 万亿超长期特别国债 10 月 16 日发行收官",
-  "link": "https://finance.sina.cn/2026-10-16/detail-inivmazi7699471.d.html"
- },
- {
-  "id": "2026-10-18-C1",
-  "date": "2026-10-18",
-  "title": "中国发布第 48 号公告草案，拟对 23 项 AI 技术实施出口管制",
-  "link": "https://dig.watch/updates/china-ai-export-controls-technologies"
- },
- {
-  "id": "2026-10-18-C2",
-  "date": "2026-10-18",
-  "title": "台湾拟修《贸易法》，向大陆非法出口 AI 服务器与先进芯片将入刑",
-  "link": "https://forkast.news/taiwan-moves-to-criminalize-ai-chip-smuggling-to-china-under-foreign-trade-act/"
- },
- {
-  "id": "2026-10-18-C3",
-  "date": "2026-10-18",
-  "title": "俄罗斯提议用核电为美俄数据中心供电",
-  "link": "https://www.businesstoday.in/world/story/from-diesel-to-data-russia-in-talks-with-us-to-power-data-centers-with-nuclear-energy-562278-2026-10-18"
- },
- {
   "id": "2026-10-19-A1",
   "date": "2026-10-19",
   "title": "Anthropic 设立公共利益基金，承诺 5% 股权",
@@ -1702,5 +1576,113 @@
   "date": "2026-10-31",
   "title": "美军大批运输机抵以色列与海湾基地，传为补充 THAAD/爱国者拦截弹",
   "link": "https://www.vietnam.vn/en/my-tang-cuong-trien-khai-quan-su-trong-khi-tiep-tuc-dam-phan-voi-iran"
+ },
+ {
+  "id": "2026-11-01-A1",
+  "date": "2026-11-01",
+  "title": "阿里 Qwen 接入 Apple Intelligence 中国区，11 月 4 日起开发者 beta 可测",
+  "link": "https://news.cgtn.com/news/2026-10-31/Alibaba-s-Qwen-to-integrate-into-Apple-Intelligence-in-landmark-deal-1RHilSeJsbK/p.html"
+ },
+ {
+  "id": "2026-11-01-A2",
+  "date": "2026-11-01",
+  "title": "DeepSeek Harness 团队发布 Super-agent 架构设计探索",
+  "link": "https://www.panews.io/articles/01a1928e-5db7-7202-9a3f-794f3f0e1a2d"
+ },
+ {
+  "id": "2026-11-01-A3",
+  "date": "2026-11-01",
+  "title": "ModelBest 与 OpenBMB 开源 MiniCPM-OCR 系列",
+  "link": "http://www.prnasia.com/story/archive/5086192_CN86192_0"
+ },
+ {
+  "id": "2026-11-01-A4",
+  "date": "2026-11-01",
+  "title": "DeepSeek 服务端 Search/Fetch API 结束免费，11 月 1 日零点起按量计费",
+  "link": "https://www.ebnewsdaily.co.za/2026/10/31/deepseek-search-fetch-api-billing-31-october-2026/"
+ },
+ {
+  "id": "2026-11-01-A5",
+  "date": "2026-11-01",
+  "title": "OpenAI 募资目标砍三分之一至约 200 亿美元，WSJ 称承诺截止日仅获约 110 亿美元",
+  "link": "https://www.cnbctv18.com/business/openai-cuts-funding-target-by-usd-10-billion-chatgpt-20023854.htm"
+ },
+ {
+  "id": "2026-11-01-A6",
+  "date": "2026-11-01",
+  "title": "Anthropic S-1 财务深挖：Q2 经营利润 9.74 亿美元首次转正，算力基建承诺约 7500 亿–9000 亿美元",
+  "link": "https://www.fool.com/investing/2026/10/31/anthropic-ipo-1300-growth-163-billion-in-revenue-a/"
+ },
+ {
+  "id": "2026-11-01-A7",
+  "date": "2026-11-01",
+  "title": "The Information：DeepSeek 二轮融资约 27% 来自国资，近 30 家投资方",
+  "link": "https://tech-insider.org/deepseek-16-billion-funding-round-state-funds-27-percent-2026/"
+ },
+ {
+  "id": "2026-11-01-A8",
+  "date": "2026-11-01",
+  "title": "英国 CMA 对 Meta「AI 训练数据条款」立案反垄断调查，Meta 已暂停条款 rollout",
+  "link": "https://www.thetimes.com/business/technology/article/meta-investigation-cma-terms-news-publishers-ktwdhxg7l"
+ },
+ {
+  "id": "2026-11-01-A9",
+  "date": "2026-11-01",
+  "title": "Chainalysis 披露遭「进攻性 agentic AI 技术」攻击，客户姓名邮箱职位标签被盗",
+  "link": "https://beincrypto.com/chainalysis-hacked-ai-agents-client-data/"
+ },
+ {
+  "id": "2026-11-01-A10",
+  "date": "2026-11-01",
+  "title": "Anthropic 未发布模型 53 分钟写出 Linux 内核远程 root 漏洞利用；Ubuntu/RHEL 仍未发补丁",
+  "link": "https://www.bleepingcomputer.com/news/security/critical-linux-kernel-flaw-allows-remote-root-attacks-on-mptcp-servers/"
+ },
+ {
+  "id": "2026-11-01-A11",
+  "date": "2026-11-01",
+  "title": "英特尔披露以色列 Fab 28 爆炸：Q4+Q1 约 6 亿美元营收损失，股价 -28.6% 为 1974 年以来第二大单日跌幅",
+  "link": "https://www.straitstimes.com/business/intel-shares-drop-21-on-israel-factory-blast-pc-weakness?ref=latest"
+ },
+ {
+  "id": "2026-11-01-A12",
+  "date": "2026-11-01",
+  "title": "英特尔产能从 PC 转向服务器：俄勒冈 18A 产线改产 Intel 3，加速扩产",
+  "link": "https://www.siliconreport.com/intel-reallocates-chip-capacity-from-client-to-server-cpus"
+ },
+ {
+  "id": "2026-11-01-B1",
+  "date": "2026-11-01",
+  "title": "币安称已补回约 80% 被盗资产，目标今日起分阶段恢复提币；链上分析高度怀疑系朝鲜黑客所为",
+  "link": "https://www.coindesk.com/zh/business/2026/10/30/binance-hack-drained-wallets-backing-customer-assets-reserve-data-shows"
+ },
+ {
+  "id": "2026-11-01-B2",
+  "date": "2026-11-01",
+  "title": "纳斯达克上市公司 NXTT 拟出售约 4.5 亿美元比特币，称币安被黑+量子风险促使董事会重新评估",
+  "link": "https://www.coindesk.com/zh/markets/2026/10/31/a-nasdaq-listed-company-may-sell-usd450-million-bitcoin-citing-binance-hack-and-quantum-fears"
+ },
+ {
+  "id": "2026-11-01-B3",
+  "date": "2026-11-01",
+  "title": "达拉斯联储主席 Logan：至少还需再加息两次；三位联储官员周五集体放鹰，12 月加息概率约 73%",
+  "link": "https://www.reuters.com/business/fed-needs-least-two-more-rate-hikes-logan-says-2026-10-30/"
+ },
+ {
+  "id": "2026-11-01-B4",
+  "date": "2026-11-01",
+  "title": "黄金周五收盘确认一年新低 3,874.58 美元，分析师下调 2026 年均值预期至 4,495 美元",
+  "link": "https://www.kitco.com/news/off-the-wire/2026-10-30/gold-hits-3-12-month-low-fed-hike-fears-set-monthly-loss"
+ },
+ {
+  "id": "2026-11-01-C1",
+  "date": "2026-11-01",
+  "title": "白宫发布特习釜山协议细则：稀土发通用许可、Nexperia 恢复供货、关税降至约 47%",
+  "link": "https://www.channelnewsasia.com/east-asia/trump-xi-summit-busan-tariffs-export-controls-fentanyl-soybeans-5436071"
+ },
+ {
+  "id": "2026-11-01-C2",
+  "date": "2026-11-01",
+  "title": "霍尔木兹再发多起事故：阿曼从起火油轮撤离 25 人，IRGC 称拦截 3 艘；鲁比奥称特朗普尚未决定对伊动武",
+  "link": "https://www.haaretz.com/middle-east-news/iran/2026-10-31/ty-article/trump-yet-to-decide-on-iran-strikes-u-s-open-to-diplomacy-rubio-says/000001a1-92df-d03f-aded-daff49480000"
  }
 ]

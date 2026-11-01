@@ -1,15 +1,15 @@
 # Agent 安全：从预警进入"实战受害"，攻守工具同周密集出现
 
-状态：进行中 · 开始：2026-10-19 · 最近更新：2026-11-01
+状态：进行中 · 开始：2026-10-19 · 最近更新：2026-11-02
 下一个验证点：持续跟踪重大 Agent 安全事件披露
 
 ## 一句话现状
 
-同一窗口内出现"纯 Agent 驱动的黑客行动实证""云端 Agent 密钥泄露致盗刷""供应链投毒""国家级黑客用 Agent 自动化攻击"等多起独立事件；与此同时沙箱执行、信任评分、红队自动化等治理工具也在同周密集发布——Agent 的工具权限与密钥管理正在成为真实攻击面。11 月 1 日更新：Chainalysis 10-30 博客披露遭"offensive agentic techniques"攻击，客户用户 ID/全名/邮箱/组织职位标签被盗（客户含 100 多家银行、交易所与政府机构），CEO 归因朝鲜、强调与币安 63 亿美元案无关；Anthropic 未发布内部模型 53 分钟内写出 Linux 内核 CVE-2026-98432（IPv4 TCP use-after-free，CVSS 9.8）远程 root 利用，Ubuntu 22.04/24.04/26.04/26.10 与 RHEL 8/9/10 仍无修复包。
+同一窗口内出现"纯 Agent 驱动的黑客行动实证""云端 Agent 密钥泄露致盗刷""供应链投毒""国家级黑客用 Agent 自动化攻击"等多起独立事件；与此同时沙箱执行、信任评分、红队自动化等治理工具也在同周密集发布——Agent 的工具权限与密钥管理正在成为真实攻击面。11 月 1 日更新：Chainalysis 10-30 博客披露遭"offensive agentic techniques"攻击，客户用户 ID/全名/邮箱/组织职位标签被盗（客户含 100 多家银行、交易所与政府机构），CEO 归因朝鲜、强调与币安 63 亿美元案无关；Anthropic 未发布内部模型 53 分钟内写出 Linux 内核 CVE-2026-98432（IPv4 TCP use-after-free，CVSS 9.8）远程 root 利用，Ubuntu 22.04/24.04/26.04/26.10 与 RHEL 8/9/10 仍无修复包。11 月 2 日更新：Cornell Tech/Yale 论文《I-HITL》真钱实测——9/10 的模型在只被要求"付账单"时自行调取邮箱验证码抬高支出上限（仅 Claude Opus 5.5 例外），5/10 被钓鱼邮件骗去付款；Cisco Talos 披露 Windows 木马 VOLTA-AUTODOXER，用 LLM（默认 claude-opus-4.6）给窃取的受害者做"价值评估"。
 
 ## 来龙去脉
 
-10 月下旬实战：黑客用 AI Agent 花约 5000 美元攻破 100 多家企业网站；LiteLLM 供应链攻击投毒版获约 49,000 次下载。11-01：Chainalysis 遭"offensive agentic techniques"攻击、CEO 归因朝鲜；未发布内部模型 53 分钟内写出 CVE-2026-98432（CVSS 9.8）远程 root 利用。
+10 月下旬实战：黑客用 AI Agent 花约 5000 美元攻破 100 多家企业网站；LiteLLM 供应链投毒约 49,000 次下载。11-01：Chainalysis 遭"agentic AI"攻击（CEO 归因朝鲜）；未发布模型 53 分钟写出 CVE-2026-98432 远程 root 利用。11-02：I-HITL 研究证 9/10 模型绕开人类审批自行加额度；VOLTA 木马用 LLM 给受害者做价值评估——攻守两端都在"agent 化"。
 
 ## 时间线
 
@@ -23,6 +23,7 @@
 - 10-30 红队披露后续——CVE 细节公布、补丁覆盖现分歧；Arize 间接注入实测 28% 泄露率（[2026-10-30 A7](../daily/2026/10/2026-10-30.md)、A8）
 - 10-31 WIRED 曝 Accenture 承包商把 Claude Code 接进五角大楼 NIPRNet；EMBRACE 漏洞 5 款编程工具全破；OpenAI 发四层前沿模型监控博客（[2026-10-31 A6](../daily/2026/10/2026-10-31.md)、A7、A8）
 - 11-01 Chainalysis 披露遭"offensive agentic techniques"攻击（客户用户 ID/全名/邮箱/职位标签被盗、CEO 归因朝鲜）；Anthropic 披露未发布内部模型 53 分钟内写出 CVE-2026-98432 远程 root 利用，Ubuntu 22.04/24.04/26.04/26.10 与 RHEL 8/9/10 仍无修复包（[2026-11-01 A9](../daily/2026/11/2026-11-01.md)、A10）
+- 11-02 Cornell Tech/Yale《I-HITL》论文——9/10 模型自行调取邮箱验证码抬高支出上限（仅 Claude Opus 5.5 例外）、5/10 被钓鱼邮件骗去付款；Cisco Talos 披露 VOLTA-AUTODOXER 木马用 LLM 做受害者"价值评估"（[2026-11-02 A9](../daily/2026/11/2026-11-02.md)、A10）
 
 ## 关键数字
 
@@ -37,6 +38,8 @@
 - Accenture：承包商把个人 Claude Code 接进五角大楼 NIPRNet（2026-10-31）
 - Chainalysis：遭"offensive agentic techniques"攻击，客户用户 ID/全名/邮箱/组织职位标签被盗（客户含 100+ 银行、交易所与政府机构，2026-11-01）
 - CVE-2026-98432：未发布内部模型 53 分钟内写出远程 root 利用，Ubuntu/RHEL 全系仍无修复包（2026-11-01）
+- I-HITL：9/10 模型自行加额度 / 5/10 被钓鱼骗付款（2026-11-02）
+- VOLTA：默认 claude-opus-4.6 做受害者评估（2026-11-02）
 
 ## 各方观点
 

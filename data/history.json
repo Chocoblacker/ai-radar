@@ -1684,5 +1684,113 @@
   "date": "2026-11-01",
   "title": "霍尔木兹再发多起事故：阿曼从起火油轮撤离 25 人，IRGC 称拦截 3 艘；鲁比奥称特朗普尚未决定对伊动武",
   "link": "https://www.haaretz.com/middle-east-news/iran/2026-10-31/ty-article/trump-yet-to-decide-on-iran-strikes-u-s-open-to-diplomacy-rubio-says/000001a1-92df-d03f-aded-daff49480000"
+ },
+ {
+  "id": "2026-11-02-A1",
+  "date": "2026-11-02",
+  "title": "DeepSeek 发布 super-agent 完整技术文章并开源原型，首日获 1500+ star",
+  "link": "https://chinamodelapi.com/news/deepseek-superagent-open-source"
+ },
+ {
+  "id": "2026-11-02-A2",
+  "date": "2026-11-02",
+  "title": "Nace AI 开源 27B 决策模型 Drex Max v1 权重",
+  "link": "https://www.marktechpost.com/2026/11/01/nace-ai-open-sources-drex-max-v1-local-inference/"
+ },
+ {
+  "id": "2026-11-02-A3",
+  "date": "2026-11-02",
+  "title": "OpenAI 募资首轮仅获约 110 亿美元承诺，估值从 1.4 万亿降至约 1.25 万亿美元",
+  "link": "https://www.manilatimes.net/2026/11/01/business/openai-slashes-funding-target-by-10-billion/2458702"
+ },
+ {
+  "id": "2026-11-02-A4",
+  "date": "2026-11-02",
+  "title": "Anthropic S-1 新细节：创始人拟捐出约 800 亿美元个人持股",
+  "link": "https://pivotnews.ai/five/anthropic-s-ipo-filing-pledges-cofounder-stock-and"
+ },
+ {
+  "id": "2026-11-02-A5",
+  "date": "2026-11-02",
+  "title": "英国主权 AI 基金参投 Fractile，约 7 亿美元融资、估值 65 亿美元",
+  "link": "https://www.telecompaper.com/news/uk-sovereign-ai-fund-invests-in-ai-chip-start-up-fractile-report--1587427"
+ },
+ {
+  "id": "2026-11-02-A6",
+  "date": "2026-11-02",
+  "title": "OpenAI 拟从 11 月 29 日起用 Daybreak Blue 会话数据训练模型",
+  "link": "https://www.abijita.com/openai-daybreak-blue-training-data/"
+ },
+ {
+  "id": "2026-11-02-A7",
+  "date": "2026-11-02",
+  "title": "纽约州 S.10731 法案：拟授权州政府限制前沿模型训练算力",
+  "link": "https://catenaa.com/markets/regulations/new-york-ai-safety-bill-raise-act/"
+ },
+ {
+  "id": "2026-11-02-A8",
+  "date": "2026-11-02",
+  "title": "Anthropic 11 月 3 日起对 4 款旧 Claude 模型启用文本水印",
+  "link": "https://fourweekmba.com/ai-anthropic-to-watermark-4-older-claude-models-for-eu-ai-act/"
+ },
+ {
+  "id": "2026-11-02-A9",
+  "date": "2026-11-02",
+  "title": "Cornell/Yale 研究：9/10 的 AI 模型会自己给自己“加额度”，绕开人类审批",
+  "link": "https://www.coindesk.com/tech/2026/11/01/ai-agents-bypassed-crypto-spending-limits-without-human-approval-researchers-find-in-a-new-test"
+ },
+ {
+  "id": "2026-11-02-A10",
+  "date": "2026-11-02",
+  "title": "Cisco Talos 披露 Windows 木马 VOLTA，用 LLM 给窃取的受害者做“价值评估”",
+  "link": "https://blog.talosintelligence.com/category/ai/"
+ },
+ {
+  "id": "2026-11-02-A11",
+  "date": "2026-11-02",
+  "title": "Aramco 完成收购沙特 HUMAIN 49% 股权，锁定 2030 年 3GW AI 数据中心目标",
+  "link": "https://el7.ai/en/news/2026-11-01-aramco-acquires-49-stake-in-humain-ai-for-2-6-billion"
+ },
+ {
+  "id": "2026-11-02-A12",
+  "date": "2026-11-02",
+  "title": "Intel 产能重组新细节：Nova Lake 首用 18A-P，Wildcat Lake 售罄",
+  "link": "https://hwbusters.com/news/intel-18a-capacity-shifts-from-panther-lake-to-xeon-as-memory-prices-choke-pc-demand/"
+ },
+ {
+  "id": "2026-11-02-A13",
+  "date": "2026-11-02",
+  "title": "KT Cloud 双轨扩产：目标 2031 年供应 1GW AI 数据中心容量",
+  "link": "https://en.sedaily.com/finance/2026/11/01/kt-cloud-pursues-two-track-push-to-expand-ai-data-centers"
+ },
+ {
+  "id": "2026-11-02-B1",
+  "date": "2026-11-02",
+  "title": "中国 10 月官方制造业 PMI 跌至 49.3，重回收缩区",
+  "link": "https://borneobulletin.com.bn/chinas-factory-activity-returns-to-contraction-in-october/"
+ },
+ {
+  "id": "2026-11-02-B2",
+  "date": "2026-11-02",
+  "title": "币安 11 月 1 日恢复提币，自报已补回 95% 被盗资产",
+  "link": "https://crypto.news/binance-reopens-bitcoin-withdrawals-after-hack/"
+ },
+ {
+  "id": "2026-11-02-B3",
+  "date": "2026-11-02",
+  "title": "加密周末：BTC 回升至约 7.8 万美元，现货 ETH ETF 单周净流出 4.31 亿美元",
+  "link": "https://crypto.news/crypto-prices-today-bitcoin-78k-lit-altcoin-gainers/"
+ },
+ {
+  "id": "2026-11-02-B4",
+  "date": "2026-11-02",
+  "title": "莫斯科交易所确认 12 月 1 日上线 BTC/ETH/USDT 交易",
+  "link": "https://crypto.news/moscow-exchange-bitcoin-ethereum-usdt-trading-december/"
+ },
+ {
+  "id": "2026-11-02-C1",
+  "date": "2026-11-02",
+  "title": "美日印澳 Quad 外长联合声明：谴责“经济胁迫”式出口管制",
+  "link": "https://asia.nikkei.com/politics/international-relations/indo-pacific/quad-ministers-discuss-supply-chains-denounce-export-restrictions"
  }
 ]

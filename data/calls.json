@@ -1,304 +1,346 @@
 [
-  {
-    "basis": [
-      "2026-10-26-A1",
-      "2026-10-28-A3",
-      "2026-10-29-A9"
-    ],
-    "created": "2026-10-30",
-    "deadline": "2026-11-30",
-    "id": "P-2026-10-30-01",
-    "leading_indicators": [
-      "S-1 修订版披露发行股数与定价区间",
-      "IPO 路演在 11 月 9 日当周按期启动",
-      "散户认购通道（摩根大通牵头）正式开放"
-    ],
-    "outcome": null,
+ {
+  "basis": [
+   "2026-10-26-A1",
+   "2026-10-28-A3",
+   "2026-10-29-A9"
+  ],
+  "created": "2026-10-30",
+  "deadline": "2026-11-30",
+  "id": "P-2026-10-30-01",
+  "leading_indicators": [
+   "S-1 修订版披露发行股数与定价区间",
+   "IPO 路演在 11 月 9 日当周按期启动",
+   "散户认购通道（摩根大通牵头）正式开放"
+  ],
+  "outcome": null,
+  "probability": 0.6,
+  "resolution_criteria": "纳斯达克官网 / SEC EDGAR 查询 ANT 的上市公告与首日交易记录",
+  "resolved_date": null,
+  "review": null,
+  "statement": "Anthropic 在 2026 年 11 月 30 日前完成在纳斯达克的 IPO 上市（代码 ANT）",
+  "status": "open",
+  "thread": "anthropic-ipo",
+  "updates": [
+   {
+    "date": "2026-10-31",
     "probability": 0.65,
-    "resolution_criteria": "纳斯达克官网 / SEC EDGAR 查询 ANT 的上市公告与首日交易记录",
-    "resolved_date": null,
-    "review": null,
-    "statement": "Anthropic 在 2026 年 11 月 30 日前完成在纳斯达克的 IPO 上市（代码 ANT）",
-    "status": "open",
-    "thread": "anthropic-ipo",
-    "updates": [
-      {
-        "date": "2026-10-31",
-        "probability": 0.65,
-        "reason": "Blackstone 告知投资者 Anthropic IPO 后或仅获垃圾级（BB 区间）评级，抬升融资成本、扰动上市进程；纳指周五 -4% 市场环境不利（2026-10-31 A1、B1）"
-      }
-    ]
-  },
-  {
-    "basis": [
-      "2026-10-29-B1",
-      "2026-10-24-B4",
-      "2026-10-28-B2"
-    ],
-    "created": "2026-10-30",
-    "deadline": "2026-12-31",
-    "id": "P-2026-10-30-02",
-    "leading_indicators": [
-      "11 月 CPI / 非农就业数据是否高于预期",
-      "9 月 PCE（10 月 29 日公布）与后续通胀数据",
-      "主席 Warsh 公开表态的措辞转向"
-    ],
-    "outcome": null,
+    "reason": "Blackstone 告知投资者 Anthropic IPO 后或仅获垃圾级（BB 区间）评级，抬升融资成本、扰动上市进程；纳指周五 -4% 市场环境不利（2026-10-31 A1、B1）"
+   },
+   {
+    "date": "2026-11-04",
+    "probability": 0.6,
+    "reason": "S-1/A 显示 Q3 增速放缓（环比 +47%）、经营由盈转亏，WSJ 称机构要求估值从 2 万亿压至 1.5–1.6 万亿美元（2026-11-04-A1）"
+   }
+  ]
+ },
+ {
+  "basis": [
+   "2026-10-29-B1",
+   "2026-10-24-B4",
+   "2026-10-28-B2"
+  ],
+  "created": "2026-10-30",
+  "deadline": "2026-12-31",
+  "id": "P-2026-10-30-02",
+  "leading_indicators": [
+   "11 月 CPI / 非农就业数据是否高于预期",
+   "9 月 PCE（10 月 29 日公布）与后续通胀数据",
+   "主席 Warsh 公开表态的措辞转向"
+  ],
+  "outcome": null,
+  "probability": 0.8,
+  "resolution_criteria": "美联储官网 12 月 FOMC 声明",
+  "resolved_date": null,
+  "review": null,
+  "statement": "美联储在 2026 年 12 月 FOMC 会议上将联邦基金利率上调 25bp 至 4.00%–4.25%",
+  "status": "open",
+  "thread": "fed-rate-path",
+  "updates": [
+   {
+    "date": "2026-10-30",
     "probability": 0.85,
-    "resolution_criteria": "美联储官网 12 月 FOMC 声明",
-    "resolved_date": null,
-    "review": null,
-    "statement": "美联储在 2026 年 12 月 FOMC 会议上将联邦基金利率上调 25bp 至 4.00%–4.25%",
-    "status": "open",
-    "thread": "fed-rate-path",
-    "updates": [
-      {
-        "date": "2026-10-30",
-        "probability": 0.85,
-        "reason": "9 月 PCE 反弹至 3.6%（5 月以来最高）、Q3 GDP 初值 3.4% 超预期；CME 12 月加息定价升至约 85%"
-      },
-      {
-        "date": "2026-10-31",
-        "probability": 0.75,
-        "reason": "Q3 ECI 温和、工资增速创 2021 年以来最低，CME/Polymarket/Kalshi 三线定价回落至约 70%（2026-10-31 B2）"
-      },
-      {
-        "date": "2026-11-01",
-        "probability": 0.8,
-        "reason": "达拉斯联储主席 Logan 称至少还需再加息两次，Musalem、Barkin 同日放鹰；CME 12 月加息 25bp 概率约 73%（2026-11-01 B3）"
-      },
-      {
-        "date": "2026-11-03",
-        "probability": 0.85,
-        "reason": "ISM 10 月制造业 PMI 55.5、投入价格指数 75.2 高企，强化 12 月加息预期（2026-11-03-B3）"
-      }
-    ]
-  },
-  {
-    "basis": [
-      "2026-10-27-A3",
-      "2026-10-21-A14"
-    ],
-    "created": "2026-10-30",
-    "deadline": "2026-11-15",
-    "id": "P-2026-10-30-03",
-    "leading_indicators": [
-      "10 月 30 日承诺截止后是否有延期或追加承诺的报道",
-      "估值口径是否再次下调",
-      "Anthropic IPO 认购热度（同类资产定价参照）"
-    ],
-    "outcome": null,
-    "probability": 0.2,
-    "resolution_criteria": "Reuters / OpenAI 官方确认的融资公告",
-    "resolved_date": null,
-    "review": null,
-    "statement": "OpenAI 在 2026 年 11 月 15 日前宣布新一轮约 300 亿美元融资完成或已锁定足额投资人承诺，投后估值不低于 1.25 万亿美元",
-    "status": "open",
-    "thread": "ai-funding-wave",
-    "updates": [
-      {
-        "date": "2026-11-01",
-        "probability": 0.4,
-        "reason": "FT/WSJ 称 OpenAI 募资目标从约 300 亿下调至约 200 亿美元，承诺截止日仅获约 110 亿美元；300 亿美元足额承诺已无可能（2026-11-01 A1）"
-      },
-      {
-        "date": "2026-11-02",
-        "probability": 0.2,
-        "reason": "WSJ 称首轮实际承诺仅约 110 亿美元，FT 称投后估值从 1.4 万亿降至约 1.25 万亿美元；募资目标已下调至约 200 亿美元，300 亿美元口径在 11 月 15 日前兑现的可能性极低（2026-11-02-A3）"
-      }
-    ]
-  },
-  {
-    "basis": [
-      "2026-10-18-A7",
-      "2026-10-21-A12"
-    ],
-    "created": "2026-10-30",
-    "deadline": "2026-12-31",
-    "id": "P-2026-10-30-04",
-    "leading_indicators": [
-      "三星/SK 海力士财报电话会关于 Q4 议价的表述",
-      "10–11 月存储现货价格走势",
-      "HBM4 出货是否继续不及预期"
-    ],
-    "outcome": null,
-    "probability": 0.7,
-    "resolution_criteria": "TrendForce / DRAMeXchange 公布的 Q4 合约价数据",
-    "resolved_date": null,
-    "review": null,
-    "statement": "2026 年 Q4 传统 DRAM 合约价较 Q3 上涨至少 10%（兑现 TrendForce 10–15% 的涨幅预测），NAND 合约价同步上涨至少 10%",
-    "status": "open",
-    "thread": "memory-hbm-shortage",
-    "updates": []
-  },
-  {
-    "basis": [
-      "2026-10-18-C1",
-      "2026-10-29-C1"
-    ],
-    "created": "2026-10-30",
-    "deadline": "2026-12-31",
-    "id": "P-2026-10-30-05",
-    "leading_indicators": [
-      "11 月 15 日征求意见如期截止且无延期公告",
-      "商务部发言人是否在 11 月例行记者会提及修订进展",
-      "AI 条目数量若被大幅删减至 10 项以下即视为部分证伪"
-    ],
-    "outcome": null,
-    "probability": 0.65,
-    "resolution_criteria": "商务部 / 科技部官网公告，或路透对通过消息的报道",
-    "resolved_date": null,
-    "review": null,
-    "statement": "中国将 23 项 AI 相关技术列入禁限出口清单的提案在 2026 年 12 月 31 日前正式通过（或公布实施细则）",
-    "status": "open",
-    "thread": "ai-export-controls",
-    "updates": []
-  },
-  {
-    "basis": [
-      "2026-10-26-B4",
-      "2026-10-29-C2",
-      "2026-10-28-C1"
-    ],
-    "created": "2026-10-30",
-    "deadline": "2026-11-30",
-    "id": "P-2026-10-30-06",
-    "leading_indicators": [
-      "11 月 3 日美国中期选举后美方是否兑现打击",
-      "霍尔木兹海峡航运是否出现中断或保险费率跳升",
-      "OPEC+ 是否释放增产对冲信号"
-    ],
-    "outcome": null,
-    "probability": 0.35,
-    "resolution_criteria": "ICE 布伦特期货日收盘价（路透/彭博行情）",
-    "resolved_date": null,
-    "review": null,
-    "statement": "2026 年 11 月 30 日前，布伦特原油期货任意交易日收盘价达到或超过 120 美元/桶",
-    "status": "open",
-    "thread": "middle-east-oil",
-    "updates": [
-      {
-        "date": "2026-10-31",
-        "probability": 0.55,
-        "reason": "布伦特结算价升至 117.64 美元、距 120 仅差约 2%，Louise 1 水雷袭击后供给中断风险实物化（2026-10-31 C1）"
-      },
-      {
-        "date": "2026-11-01",
-        "probability": 0.5,
-        "reason": "鲁比奥称特朗普尚未决定是否对伊动武、多哈谈判重启，降温信号抵消了新增袭船事件带来的溢价（2026-11-01 C2）"
-      },
-      {
-        "date": "2026-11-03",
-        "probability": 0.35,
-        "reason": "美伊多哈谈判进入第三天、伊朗提出两天内重开霍尔木兹海峡方案，布伦特回落至 109.7 美元（2026-11-03-B6）"
-      }
-    ]
-  },
-  {
-    "basis": [
-      "2026-10-18-B5"
-    ],
-    "created": "2026-10-30",
-    "deadline": "2026-11-11",
-    "id": "P-2026-10-30-07",
-    "leading_indicators": [
-      "11 月 11 日前 MSCI 是否宣布延迟公布",
-      "Strategy 在名单公布前的资本运作"
-    ],
-    "outcome": null,
+    "reason": "9 月 PCE 反弹至 3.6%（5 月以来最高）、Q3 GDP 初值 3.4% 超预期；CME 12 月加息定价升至约 85%"
+   },
+   {
+    "date": "2026-10-31",
     "probability": 0.75,
-    "resolution_criteria": "MSCI 官方发布的最终名单",
-    "resolved_date": null,
-    "review": null,
-    "statement": "MSCI 在 2026 年 11 月 11 日公布的“非经营性公司”最终剔除名单中，同时包含 Strategy 与日本 Metaplanet（11 月 30 日收盘正式生效）",
-    "status": "open",
-    "thread": null,
-    "updates": []
-  },
-  {
-    "basis": [
-      "2026-11-01-C1"
-    ],
-    "created": "2026-11-01",
-    "deadline": "2026-12-31",
-    "id": "P-2026-11-01-01",
-    "leading_indicators": [
-      "商务部例行记者会正面表态",
-      "中方否认白宫清单内容",
-      "Nexperia 恢复供货落地"
-    ],
-    "outcome": null,
-    "probability": 0.6,
-    "resolution_criteria": "商务部发布通用许可名单或实施细则公告",
-    "resolved_date": null,
-    "review": null,
-    "statement": "中国在 2026 年 12 月 31 日前公布或实施对稀土（及镓、锗、锑、石墨）出口的通用许可安排",
-    "status": "open",
-    "thread": "ai-export-controls",
-    "updates": []
-  },
-  {
-    "basis": [
-      "2026-10-27-A1",
-      "2026-11-01-A6"
-    ],
-    "created": "2026-11-01",
-    "deadline": "2026-11-15",
-    "id": "P-2026-11-01-02",
-    "leading_indicators": [
-      "11 月 9 日当周路演确认启动",
-      "SEC 新一轮问询",
-      "Blackstone 评级扰动发酵"
-    ],
-    "outcome": null,
-    "probability": 0.6,
-    "resolution_criteria": "向 SEC 提交的 S-1/A 修正案或承销商公告中的发行价区间",
-    "resolved_date": null,
-    "review": null,
-    "statement": "Anthropic 在 2026 年 11 月 15 日前公布 IPO 发行价区间",
-    "status": "open",
-    "thread": "anthropic-ipo",
-    "updates": []
-  },
-  {
-    "id": "P-2026-11-03-01",
-    "created": "2026-11-03",
-    "thread": "anthropic-ipo",
-    "statement": "Anthropic 在 11 月 9 日当周按期启动 IPO 路演",
-    "probability": 0.7,
-    "deadline": "2026-11-16",
-    "basis": [
-      "2026-11-03-A1"
-    ],
-    "resolution_criteria": "媒体报道路演启动或发行价区间公布",
-    "leading_indicators": [
-      "路演定价区间公布",
-      "OpenAI 融资关账延期拖累市场情绪"
-    ],
-    "updates": [],
-    "status": "open",
-    "outcome": null,
-    "resolved_date": null,
-    "review": null
-  },
-  {
-    "id": "P-2026-11-03-02",
-    "created": "2026-11-03",
-    "thread": "fed-rate-path",
-    "statement": "美财政部 11 月 4 日季度再融资声明削减 20 年/30 年期国债发行",
-    "probability": 0.6,
-    "deadline": "2026-11-04",
-    "basis": [
-      "2026-11-03-B3"
-    ],
-    "resolution_criteria": "11 月 4 日官方声明文本",
-    "leading_indicators": [
-      "声明加码长债发行"
-    ],
-    "updates": [],
-    "status": "open",
-    "outcome": null,
-    "resolved_date": null,
-    "review": null
-  }
+    "reason": "Q3 ECI 温和、工资增速创 2021 年以来最低，CME/Polymarket/Kalshi 三线定价回落至约 70%（2026-10-31 B2）"
+   },
+   {
+    "date": "2026-11-01",
+    "probability": 0.8,
+    "reason": "达拉斯联储主席 Logan 称至少还需再加息两次，Musalem、Barkin 同日放鹰；CME 12 月加息 25bp 概率约 73%（2026-11-01 B3）"
+   },
+   {
+    "date": "2026-11-03",
+    "probability": 0.85,
+    "reason": "ISM 10 月制造业 PMI 55.5、投入价格指数 75.2 高企，强化 12 月加息预期（2026-11-03-B3）"
+   },
+   {
+    "date": "2026-11-04",
+    "probability": 0.8,
+    "reason": "CME 12 月加息定价约 73%–76%（路透口径约 73%），低于此前 85% 口径（2026-11-04-B2）"
+   }
+  ]
+ },
+ {
+  "basis": [
+   "2026-10-27-A3",
+   "2026-10-21-A14"
+  ],
+  "created": "2026-10-30",
+  "deadline": "2026-11-15",
+  "id": "P-2026-10-30-03",
+  "leading_indicators": [
+   "10 月 30 日承诺截止后是否有延期或追加承诺的报道",
+   "估值口径是否再次下调",
+   "Anthropic IPO 认购热度（同类资产定价参照）"
+  ],
+  "outcome": null,
+  "probability": 0.2,
+  "resolution_criteria": "Reuters / OpenAI 官方确认的融资公告",
+  "resolved_date": null,
+  "review": null,
+  "statement": "OpenAI 在 2026 年 11 月 15 日前宣布新一轮约 300 亿美元融资完成或已锁定足额投资人承诺，投后估值不低于 1.25 万亿美元",
+  "status": "open",
+  "thread": "ai-funding-wave",
+  "updates": [
+   {
+    "date": "2026-11-01",
+    "probability": 0.4,
+    "reason": "FT/WSJ 称 OpenAI 募资目标从约 300 亿下调至约 200 亿美元，承诺截止日仅获约 110 亿美元；300 亿美元足额承诺已无可能（2026-11-01 A1）"
+   },
+   {
+    "date": "2026-11-02",
+    "probability": 0.2,
+    "reason": "WSJ 称首轮实际承诺仅约 110 亿美元，FT 称投后估值从 1.4 万亿降至约 1.25 万亿美元；募资目标已下调至约 200 亿美元，300 亿美元口径在 11 月 15 日前兑现的可能性极低（2026-11-02-A3）"
+   }
+  ]
+ },
+ {
+  "basis": [
+   "2026-10-18-A7",
+   "2026-10-21-A12"
+  ],
+  "created": "2026-10-30",
+  "deadline": "2026-12-31",
+  "id": "P-2026-10-30-04",
+  "leading_indicators": [
+   "三星/SK 海力士财报电话会关于 Q4 议价的表述",
+   "10–11 月存储现货价格走势",
+   "HBM4 出货是否继续不及预期"
+  ],
+  "outcome": null,
+  "probability": 0.75,
+  "resolution_criteria": "TrendForce / DRAMeXchange 公布的 Q4 合约价数据",
+  "resolved_date": null,
+  "review": null,
+  "statement": "2026 年 Q4 传统 DRAM 合约价较 Q3 上涨至少 10%（兑现 TrendForce 10–15% 的涨幅预测），NAND 合约价同步上涨至少 10%",
+  "status": "open",
+  "thread": "memory-hbm-shortage",
+  "updates": [
+   {
+    "date": "2026-11-04",
+    "probability": 0.75,
+    "reason": "DDR5 大宗价连续 9 个月上涨、达 2025 年底约 2 倍（2026-11-04-A9）"
+   }
+  ]
+ },
+ {
+  "basis": [
+   "2026-10-18-C1",
+   "2026-10-29-C1"
+  ],
+  "created": "2026-10-30",
+  "deadline": "2026-12-31",
+  "id": "P-2026-10-30-05",
+  "leading_indicators": [
+   "11 月 15 日征求意见如期截止且无延期公告",
+   "商务部发言人是否在 11 月例行记者会提及修订进展",
+   "AI 条目数量若被大幅删减至 10 项以下即视为部分证伪"
+  ],
+  "outcome": null,
+  "probability": 0.65,
+  "resolution_criteria": "商务部 / 科技部官网公告，或路透对通过消息的报道",
+  "resolved_date": null,
+  "review": null,
+  "statement": "中国将 23 项 AI 相关技术列入禁限出口清单的提案在 2026 年 12 月 31 日前正式通过（或公布实施细则）",
+  "status": "open",
+  "thread": "ai-export-controls",
+  "updates": []
+ },
+ {
+  "basis": [
+   "2026-10-26-B4",
+   "2026-10-29-C2",
+   "2026-10-28-C1"
+  ],
+  "created": "2026-10-30",
+  "deadline": "2026-11-30",
+  "id": "P-2026-10-30-06",
+  "leading_indicators": [
+   "11 月 3 日美国中期选举后美方是否兑现打击",
+   "霍尔木兹海峡航运是否出现中断或保险费率跳升",
+   "OPEC+ 是否释放增产对冲信号"
+  ],
+  "outcome": null,
+  "probability": 0.25,
+  "resolution_criteria": "ICE 布伦特期货日收盘价（路透/彭博行情）",
+  "resolved_date": null,
+  "review": null,
+  "statement": "2026 年 11 月 30 日前，布伦特原油期货任意交易日收盘价达到或超过 120 美元/桶",
+  "status": "open",
+  "thread": "middle-east-oil",
+  "updates": [
+   {
+    "date": "2026-10-31",
+    "probability": 0.55,
+    "reason": "布伦特结算价升至 117.64 美元、距 120 仅差约 2%，Louise 1 水雷袭击后供给中断风险实物化（2026-10-31 C1）"
+   },
+   {
+    "date": "2026-11-01",
+    "probability": 0.5,
+    "reason": "鲁比奥称特朗普尚未决定是否对伊动武、多哈谈判重启，降温信号抵消了新增袭船事件带来的溢价（2026-11-01 C2）"
+   },
+   {
+    "date": "2026-11-03",
+    "probability": 0.35,
+    "reason": "美伊多哈谈判进入第三天、伊朗提出两天内重开霍尔木兹海峡方案，布伦特回落至 109.7 美元（2026-11-03-B6）"
+   },
+   {
+    "date": "2026-11-04",
+    "probability": 0.25,
+    "reason": "多哈谈判推进、特朗普称选举后不打伊朗，布伦特跌超 7% 收 104.77 美元（2026-11-04-B6/C1）"
+   }
+  ]
+ },
+ {
+  "basis": [
+   "2026-10-18-B5"
+  ],
+  "created": "2026-10-30",
+  "deadline": "2026-11-11",
+  "id": "P-2026-10-30-07",
+  "leading_indicators": [
+   "11 月 11 日前 MSCI 是否宣布延迟公布",
+   "Strategy 在名单公布前的资本运作"
+  ],
+  "outcome": null,
+  "probability": 0.75,
+  "resolution_criteria": "MSCI 官方发布的最终名单",
+  "resolved_date": null,
+  "review": null,
+  "statement": "MSCI 在 2026 年 11 月 11 日公布的“非经营性公司”最终剔除名单中，同时包含 Strategy 与日本 Metaplanet（11 月 30 日收盘正式生效）",
+  "status": "open",
+  "thread": null,
+  "updates": []
+ },
+ {
+  "basis": [
+   "2026-11-01-C1"
+  ],
+  "created": "2026-11-01",
+  "deadline": "2026-12-31",
+  "id": "P-2026-11-01-01",
+  "leading_indicators": [
+   "商务部例行记者会正面表态",
+   "中方否认白宫清单内容",
+   "Nexperia 恢复供货落地"
+  ],
+  "outcome": null,
+  "probability": 0.6,
+  "resolution_criteria": "商务部发布通用许可名单或实施细则公告",
+  "resolved_date": null,
+  "review": null,
+  "statement": "中国在 2026 年 12 月 31 日前公布或实施对稀土（及镓、锗、锑、石墨）出口的通用许可安排",
+  "status": "open",
+  "thread": "ai-export-controls",
+  "updates": []
+ },
+ {
+  "basis": [
+   "2026-10-27-A1",
+   "2026-11-01-A6"
+  ],
+  "created": "2026-11-01",
+  "deadline": "2026-11-15",
+  "id": "P-2026-11-01-02",
+  "leading_indicators": [
+   "11 月 9 日当周路演确认启动",
+   "SEC 新一轮问询",
+   "Blackstone 评级扰动发酵"
+  ],
+  "outcome": null,
+  "probability": 0.6,
+  "resolution_criteria": "向 SEC 提交的 S-1/A 修正案或承销商公告中的发行价区间",
+  "resolved_date": null,
+  "review": null,
+  "statement": "Anthropic 在 2026 年 11 月 15 日前公布 IPO 发行价区间",
+  "status": "open",
+  "thread": "anthropic-ipo",
+  "updates": []
+ },
+ {
+  "id": "P-2026-11-03-01",
+  "created": "2026-11-03",
+  "thread": "anthropic-ipo",
+  "statement": "Anthropic 在 11 月 9 日当周按期启动 IPO 路演",
+  "probability": 0.7,
+  "deadline": "2026-11-16",
+  "basis": [
+   "2026-11-03-A1"
+  ],
+  "resolution_criteria": "媒体报道路演启动或发行价区间公布",
+  "leading_indicators": [
+   "路演定价区间公布",
+   "OpenAI 融资关账延期拖累市场情绪"
+  ],
+  "updates": [],
+  "status": "open",
+  "outcome": null,
+  "resolved_date": null,
+  "review": null
+ },
+ {
+  "id": "P-2026-11-03-02",
+  "created": "2026-11-03",
+  "thread": "fed-rate-path",
+  "statement": "美财政部 11 月 4 日季度再融资声明削减 20 年/30 年期国债发行",
+  "probability": 0.6,
+  "deadline": "2026-11-04",
+  "basis": [
+   "2026-11-03-B3"
+  ],
+  "resolution_criteria": "11 月 4 日官方声明文本",
+  "leading_indicators": [
+   "声明加码长债发行"
+  ],
+  "updates": [],
+  "status": "open",
+  "outcome": null,
+  "resolved_date": null,
+  "review": null
+ },
+ {
+  "id": "P-2026-11-04-01",
+  "created": "2026-11-04",
+  "thread": null,
+  "statement": "民主党在 11 月 4 日（美东）公布的众议院选举结果中获得至少 218 席",
+  "probability": 0.75,
+  "deadline": "2026-11-05",
+  "basis": [
+   "DDHQ 模型预测民主党夺回众议院概率 84%（预计 241 席），Cook 政治报告预测翻转 12–25 席"
+  ],
+  "resolution_criteria": "AP 宣布的众议院席位结果",
+  "leading_indicators": [
+   "出口民调显示郊区选票大幅流向民主党",
+   "共和党守住关键摇摆选区"
+  ],
+  "updates": [],
+  "status": "open",
+  "outcome": null,
+  "resolved_date": null,
+  "review": null
+ }
 ]

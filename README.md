@@ -14,24 +14,25 @@
 
 ## 最新 7 天
 
+- [2026-11-04（周三）](daily/2026/11/2026-11-04.md) —— Anthropic Q3 增速放缓、机构要求 IPO 估值压到 1.5–1.6 万亿美元；FT 独家：英伟达云合同设 51% 对华限制；苹果毛利率指引塌陷、AI 概念股遭抛售
+
 - [2026-11-03（周二）](daily/2026/11/2026-11-03.md) —— Anthropic 修订 S-1：Q3 收入 169.6 亿美元、算力承诺 8954 亿；Marvell 1150 亿美元全股票收购 Lumentum；Oracle 200 亿美元股债融资、股价跌约 6%
 - [2026-11-02（周一）](daily/2026/11/2026-11-02.md) —— OpenAI 募资首轮仅获约 110 亿美元承诺、估值降至约 1.25 万亿美元；Quad 联合声明谴责"经济胁迫"式出口管制；币安恢复提币、自报补回 95%
 - [2026-11-01（周日）](daily/2026/11/2026-11-01.md) —— OpenAI 募资目标砍至约 200 亿美元、仅获约 110 亿承诺；特习釜山协议细则：稀土发通用许可；币安已补回约 80% 被盗资产
 - [2026-10-31（周六）](daily/2026/10/2026-10-31.md) —— 纳指周五 -4%、英特尔 -29% 创 1974 年来最惨单日；12 月加息定价回落至约 70%；油轮遭水雷袭击、布油逼近 120
 - [2026-10-30（周五）](daily/2026/10/2026-10-30.md) —— 科技巨头 Q3 迎"算账日"：Alphabet 再跌约 13%、亚马逊 AWS +39% 仍盘后大跌；9 月 PCE 3.6%、12 月加息定价约 85%；库珀上将赴白宫汇报对伊选项
 - [2026-10-29（周四）](daily/2026/10/2026-10-29.md) —— 美联储按兵不动但 10-2 鹰派分裂；Alphabet 云翻倍仍因 EPS miss 盘后跌超 7%；Google 发布 Gemini 4 Carbon、GitHub Copilot Fusion 全面可用
-- [2026-10-28（周三）](daily/2026/10/2026-10-28.md) —— Anthropic 拟募资至多 1000 亿美元、估值约 2 万亿美元；英伟达向 Meta 投 30 亿美元、Vera Rubin 扩至多吉瓦；DeepMind 发布世界模型 Genie 4
 
 ## 🔥 活跃故事线
 
-- [Anthropic IPO 冲刺](threads/anthropic-ipo.md) — S-1 深挖：Q2 经营利润 9.74 亿美元转正、算力基建承诺约 7500 亿–9000 亿美元
+- [Anthropic IPO 冲刺](threads/anthropic-ipo.md) — Q3 增速放缓（环比 +47%）、经营转亏，机构要求估值压到 1.5–1.6 万亿美元
 - [AI 融资潮](threads/ai-funding-wave.md) — OpenAI 募资目标 300 亿→200 亿、DeepSeek 二轮约 27% 来自国资，一级市场也开始"算账"
-- [美联储利率路径](threads/fed-rate-path.md) — Logan 称至少还需加息两次，12 月加息定价约 73%
-- [中东局势与油价](threads/middle-east-oil.md) — 油轮再遭袭击，鲁比奥称特朗普尚未决定对伊动武、多哈谈判重启
-- [存储/HBM 短缺](threads/memory-hbm-shortage.md) — SK 海力士利润率 79.7%，2027 年产能售罄；英特尔 18A 产能转向服务器
-- [Agent 安全](threads/agent-security.md) — Chainalysis 遭 agentic AI 攻击；Anthropic 模型 53 分钟写出 Linux 内核远程利用
-- [AI 出口管制](threads/ai-export-controls.md) — 釜山细则：稀土发通用许可、Nexperia 恢复供货、关税降至约 47%
-- [AI 资本开支"算账"](threads/ai-capex-reckoning.md) — Alphabet 两日重挫、亚马逊 AWS +39% 仍被抛售，市场从增长故事转向现金流纪律
+- [美联储利率路径](threads/fed-rate-path.md) — CME 定价 12 月加息约 73%，低于此前 85% 口径
+- [中东局势与油价](threads/middle-east-oil.md) — 多哈谈判推进、美方被曝批准草案备忘录，布油跌超 7% 至 104.77 美元
+- [存储/HBM 短缺](threads/memory-hbm-shortage.md) — DDR5 大宗价连涨 9 个月达 2025 年底约 2 倍；苹果称存储涨价“前所未有”
+- [Agent 安全](threads/agent-security.md) — GitBook 遭“AI Agent 作案”攻击；Check Point 披露“Prompt Adware”海鸥包
+- [AI 出口管制](threads/ai-export-controls.md) — FT 独家：英伟达云合同设 51% 对华限制，管控延伸到云端租赁
+- [AI 资本开支"算账"](threads/ai-capex-reckoning.md) — 苹果毛利率指引塌陷、Marvell/Oracle 遭抛售，“算账”烧进利润表
 
 [完整故事线总览 →](threads/index.md)
 

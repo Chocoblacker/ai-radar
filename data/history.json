@@ -1,149 +1,5 @@
 [
  {
-  "id": "2026-10-22-A1",
-  "date": "2026-10-22",
-  "title": "Recursive 发布开源代码模型 Flint，宣称由 AI 自动化科研系统 Eureka Machine 建成",
-  "link": "https://www.marktechpost.com/2026/10/21/recursive-flint-local-coding-model/"
- },
- {
-  "id": "2026-10-22-A2",
-  "date": "2026-10-22",
-  "title": "NVIDIA 发布 Agent Knowledge Foundation，开源 Kumo 关系型数据基础模型",
-  "link": "https://huggingface.co/blog/nvidia/kumo-relational"
- },
- {
-  "id": "2026-10-22-A3",
-  "date": "2026-10-22",
-  "title": "NVIDIA 联手华盛顿大学发布开源蛋白设计模型 RFD4-Proteina",
-  "link": "https://blogs.nvidia.com/blog/open-models-europe-industry/"
- },
- {
-  "id": "2026-10-22-A4",
-  "date": "2026-10-22",
-  "title": "IBM 发布 Granite Speech 5.0 系列更新：新增 2B 语音语言模型",
-  "link": "https://huggingface.co/blog/ibm-granite/granite-speech-5"
- },
- {
-  "id": "2026-10-22-A5",
-  "date": "2026-10-22",
-  "title": "Google Cloud 上架 OpenAI 模型，成为唯一同时提供 Gemini、Claude、GPT 的主流云厂商",
-  "link": "https://cloud.google.com/blog/products/ai-machine-learning/google-cloud-brings-openai-models-to-customers"
- },
- {
-  "id": "2026-10-22-A6",
-  "date": "2026-10-22",
-  "title": "Anthropic 推出 Claude Duet：基于 Opus 5.5 的主动式 AI Agent 应用",
-  "link": "https://www.reuters.com/technology/anthropic-unveils-claude-duet-ai-agent-app-2026-10-21/"
- },
- {
-  "id": "2026-10-22-A7",
-  "date": "2026-10-22",
-  "title": "ServiceNow 宣布 Arc 正式可用，联手 NVIDIA 把 Agent 治理做到硬件层",
-  "link": "https://www.pymnts.com/news/artificial-intelligence/2026/servicenow-announces-new-ai-agent-services-with-nvidia/"
- },
- {
-  "id": "2026-10-22-A8",
-  "date": "2026-10-22",
-  "title": "eBay 第二轮裁员约 1000 人（9%），资源转向增长最快的业务",
-  "link": "https://www.reuters.com/business/world-at-work/ebay-lay-off-9-workforce-push-simplify-operations-internal-memo-shows-2026-10-21/"
- },
- {
-  "id": "2026-10-22-A9",
-  "date": "2026-10-22",
-  "title": "英伟达 GTC Berlin 发布 DSX POD：模块化 AI 数据中心，部署从 6 个月压到 14 天",
-  "link": "https://www.thehindu.com/business/Industry/nvidia-targets-14-day-ai-data-centre-deployment-with-modular-system/article71607755.ece"
- },
- {
-  "id": "2026-10-22-A10",
-  "date": "2026-10-22",
-  "title": "美光台湾罢工：桃园工会 10 月 22 日罢工 24 小时，台中工会同日与公司达成协议",
-  "link": "https://srnnews.com/micron-says-it-has-reached-agreement-with-taiwan-union/"
- },
- {
-  "id": "2026-10-22-A11",
-  "date": "2026-10-22",
-  "title": "路透独家：三星、SK 海力士升级在华 NAND 工厂，应对长江存储追赶与 AI 存储需求",
-  "link": "https://www.reuters.com/world/china/samsung-sk-hynix-upgrading-china-plants-make-more-advanced-chips-people-say-2026-10-21/"
- },
- {
-  "id": "2026-10-22-A12",
-  "date": "2026-10-22",
-  "title": "美光技术路线披露：押注 3D DRAM、推出垂直 HBM（vHBM），供应紧张至少再持续两年",
-  "link": "https://stocktwits.com/news-articles/markets/equity/micron-says-rival-dram-design-has-fundamental-problems-targets-next-gen-memory-with-3-d-dram-new-chips-planned-for-2027/cZxMITgRBvV"
- },
- {
-  "id": "2026-10-22-A13",
-  "date": "2026-10-22",
-  "title": "LiteLLM v1.107.0 供应链攻击：恶意版本窃取云凭证并植入远控后门",
-  "link": "https://docs.litellm.ai/blog/security-incident-oct-21-2026"
- },
- {
-  "id": "2026-10-22-A14",
-  "date": "2026-10-22",
-  "title": "PHP2Shell：AI 发现 PHP 史上最严重漏洞之一，全球网站被迫下线打补丁",
-  "link": "https://www.channelnewsasia.com/world/websites-go-dark-worldwide-ai-exposes-critical-security-flaws-6478206"
- },
- {
-  "id": "2026-10-22-B1",
-  "date": "2026-10-22",
-  "title": "Meta Q3：营收 646 亿美元 +26% 超预期，诉讼计提 98.9 亿美元拖累 GAAP 利润",
-  "link": "https://www.tradingkey.com/analysis/stocks/us-stocks/262230293-meta-platforms-earnings-report-q3-2026-advertising-muse-wonder-capex-tradingkey"
- },
- {
-  "id": "2026-10-22-B2",
-  "date": "2026-10-22",
-  "title": "Tesla Q3：营收 280.5 亿美元基本持平，FSD 北美新车装机率超 75%",
-  "link": "https://teslanorth.com/2026/10/21/tesla-q3-2026-earnings/"
- },
- {
-  "id": "2026-10-22-B3",
-  "date": "2026-10-22",
-  "title": "Lam Research 2027 财年 Q1：营收 82.2 亿美元 +54%，超三分之一收入来自中国",
-  "link": "https://www.morningstar.com/news/dow-jones/2026102110450/lam-research-1q-sales-pop-with-ai-demand-from-asia"
- },
- {
-  "id": "2026-10-22-B4",
-  "date": "2026-10-22",
-  "title": "美股周三：纳指 +1.05%，费城半导体 +1.97% 领涨，AI 交易回暖",
-  "link": "https://swingfolio.com/daily/us/2026-10-21/afternoon"
- },
- {
-  "id": "2026-10-22-B5",
-  "date": "2026-10-22",
-  "title": "A股周三：沪指跌 0.6% 报 3713，创业板失守 2700 点，宁德时代绩后跌 12%",
-  "link": "https://finance.sina.com.cn/tob/2026-10-21/doc-inivynsp6135239.shtml"
- },
- {
-  "id": "2026-10-22-B6",
-  "date": "2026-10-22",
-  "title": "港股周三：恒指跌 0.9% 报 23651，宁德时代 H 股绩后跌 11.4%",
-  "link": "https://news.qq.com/rain/a/20261021A0AWKZ00"
- },
- {
-  "id": "2026-10-22-B7",
-  "date": "2026-10-22",
-  "title": "比特币周三反弹约 2.4% 重回 8.4 万美元上方，OCC 最终敲定稳定币规则",
-  "link": "https://www.fool.com/coverage/stock-market-today/2026/10/21/crypto-market-today-oct-21-bitcoin-rebounds-on-tech-rally/"
- },
- {
-  "id": "2026-10-22-B8",
-  "date": "2026-10-22",
-  "title": "原油周三反弹 1.5% 至 110.38 美元，黄金维持一周低点附近",
-  "link": "https://ktwb.com/2026/10/20/oil-rises-on-middle-east-supply-worries/"
- },
- {
-  "id": "2026-10-22-C1",
-  "date": "2026-10-22",
-  "title": "欧盟理事会通过「数字规则包」谈判立场，简化数据保护与网络安全合规",
-  "link": "https://www.consilium.europa.eu/en/press/press-releases/2026/10/21/digital-rulebook-council-agrees-position-to-simplify-data-protection-privacy-and-cyber-reporting-rules/"
- },
- {
-  "id": "2026-10-22-C2",
-  "date": "2026-10-22",
-  "title": "中国工信部宣布正研究制定新一代智能制造政策，推动 AI 融入工业体系",
-  "link": "http://english.scio.gov.cn/pressroom/2026-10/21/content_118742486.html"
- },
- {
   "id": "2026-10-23-A1",
   "date": "2026-10-23",
   "title": "Anthropic IPO 冲刺：S-1 最早今日公开，11月9日当周启动路演",
@@ -1606,5 +1462,113 @@
   "date": "2026-11-04",
   "title": "霍尔木兹海峡三艘油轮触雷起火（伊方单方声称），沙特阿美加速扩建绕行管道",
   "link": "https://www3.nhk.or.jp/nhkworld/news/20261103de69889/"
+ },
+ {
+  "id": "2026-11-05-A1",
+  "date": "2026-11-05",
+  "title": "腾讯正式发布混元 Hy4：新增视觉理解与计算机使用能力，权重尚未开源",
+  "link": "https://www.tencent.com/tencent-launches-hy4-joining-the-ranks-of-the-worlds-leading-open-source-ai-models/"
+ },
+ {
+  "id": "2026-11-05-A2",
+  "date": "2026-11-05",
+  "title": "ChatGPT 上线 GIF 生成功能，随 Images 2.6 模型推送",
+  "link": "https://the-decoder.com/chatgpt-can-now-turn-text-prompts-and-photos-into-animated-gifs-with-openais-images-2-6-model/"
+ },
+ {
+  "id": "2026-11-05-A3",
+  "date": "2026-11-05",
+  "title": "AI 推理云 Fal 完成 13 亿美元 F 轮，估值翻倍至 160 亿美元",
+  "link": "https://techcrunch.com/2026/11/03/ai-inference-startup-fal-doubles-its-valuation-to-16b-as-demand-surges/"
+ },
+ {
+  "id": "2026-11-05-A4",
+  "date": "2026-11-05",
+  "title": "Canva 裁员/重组 1271 人（22%）：\"AI 太贵了\"的裁员",
+  "link": "https://www.businesstimes.com.sg/companies-markets/telcos-media-tech/canva-announces-layoffs-job-changes-about-22-workforce?ref=article-see-also"
+ },
+ {
+  "id": "2026-11-05-A5",
+  "date": "2026-11-05",
+  "title": "NICE 发布 Q3 财报：AI 年经常性收入 +46%，利润下滑并确认裁员 500 人",
+  "link": "https://www.calcalistech.com/ctechnews/article/6apcspzm8"
+ },
+ {
+  "id": "2026-11-05-A6",
+  "date": "2026-11-05",
+  "title": "Oumi 发布\"做 AI 的 AI\"FAiE：Agent 自动开发+训练一体化",
+  "link": "https://www.businesswire.com/news/home/20261104154139/en/Oumi-Launches-the-Agent-That-Builds-Trains-and-Continuously-Improves-AI-Agents"
+ },
+ {
+  "id": "2026-11-05-A7",
+  "date": "2026-11-05",
+  "title": "Agent 治理产品化两连发：Redis Iris 扩展、Leidos 推跨供应商管控平台",
+  "link": "https://www.prnewswire.co.uk/news-releases/redis-expands-redis-iris-to-give-ai-agents-the-memory-context-and-messaging-they-need-to-get-to-production-302925456.html"
+ },
+ {
+  "id": "2026-11-05-A8",
+  "date": "2026-11-05",
+  "title": "xAI 用 8 台退役 747 发动机改装发电机组，给 Colossus 2 供电约 400MW",
+  "link": "https://techcrunch.com/2026/11/03/data-centers-are-turning-to-old-jet-engines-as-the-wait-for-power-grows/"
+ },
+ {
+  "id": "2026-11-05-A9",
+  "date": "2026-11-05",
+  "title": "长鑫存储服务器级 DRAM 预计年底前送样，采用 4F² 架构",
+  "link": "https://invezz.com/news/2026/11/04/micron-sk-hynix-sandisk-stocks-fall-why-dems-texas-win-is-spooking-investors/"
+ },
+ {
+  "id": "2026-11-05-A10",
+  "date": "2026-11-05",
+  "title": "对华算力管控同日两连击：Oracle 据报取消与腾讯约 70 亿美元算力租赁，英伟达只交付中国 RTX Pro 5500 订单约 1%",
+  "link": "https://invezz.com/news/2026/11/04/oracle-stock-in-green-despite-reported-7b-tencent-chip-deal-cancellation/"
+ },
+ {
+  "id": "2026-11-05-B1",
+  "date": "2026-11-05",
+  "title": "中期选举后市场：美元周三创三周最大单日跌幅、美股盘中大涨约 2%",
+  "link": "https://www.globalbankingandfinance.com/dollar-dips-us-midterm-results-focus/"
+ },
+ {
+  "id": "2026-11-05-B2",
+  "date": "2026-11-05",
+  "title": "12 月加息定价升至 82.6%，ADP 10 月新增 8.6 万超预期",
+  "link": "https://www.globalbankingandfinance.com/dollar-dips-us-midterm-results-focus/"
+ },
+ {
+  "id": "2026-11-05-B3",
+  "date": "2026-11-05",
+  "title": "美财政部季度再融资声明：1250 亿美元规模不变，7 年期券种改季度发行",
+  "link": "https://home.treasury.gov/news/press-releases/sb0678"
+ },
+ {
+  "id": "2026-11-05-B4",
+  "date": "2026-11-05",
+  "title": "原油暴跌约 9%：布伦特收 94.29 美元，战争溢价一周蒸发约 25%",
+  "link": "https://www.businessday.co.za/markets/2026-11-04-oil-prices-plunge-as-trumps-midterm-defeat-raises-hopes-of-peace/"
+ },
+ {
+  "id": "2026-11-05-B5",
+  "date": "2026-11-05",
+  "title": "A 股/港股 11 月 4 日大涨：科创 50 +9.92%、恒指连升四日",
+  "link": "https://chriswealthlab.com/asia-market-close-2026-11-04/"
+ },
+ {
+  "id": "2026-11-05-B6",
+  "date": "2026-11-05",
+  "title": "BTC 回升至 7.8 万附近；币安 63 亿美元被盗初步报告：FBI 归因朝鲜 TraderTraitor",
+  "link": "https://www.coindesk.com/markets/2026/11/04/bitcoin-rebounds-from-midterm-dip-as-defi-leads-gains"
+ },
+ {
+  "id": "2026-11-05-C1",
+  "date": "2026-11-05",
+  "title": "中期选举：民主党赢下众议院和参议院两院",
+  "link": "https://apnews.com/projects/elections-2026/?ap_doc=ap%2Frg1%2FWyJhcC92Mi8yMDI2MTEwMy9sLzk5OTk5OS9VUy9uIixbIjE3ODUwNiIsIjE3ODUwNyIsIjE3ODUwOCJdXQ"
+ },
+ {
+  "id": "2026-11-05-C2",
+  "date": "2026-11-05",
+  "title": "美伊升级：特朗普证实美军空袭 Qeshm 岛防空设施，伊朗称谈判无突破",
+  "link": "https://www.aljazeera.com/news/2026/11/4/iran-says-us-reply-to-hormuz-plan-unconvincing-trump-confirms-strikes"
  }
 ]

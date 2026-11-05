@@ -1,155 +1,5 @@
 [
  {
-  "id": "2026-10-23-A1",
-  "date": "2026-10-23",
-  "title": "Anthropic IPO 冲刺：S-1 最早今日公开，11月9日当周启动路演",
-  "link": "https://www.channelnewsasia.com/business/analysisanthropic-ipo-stands-alone-ai-market-jitters-sideline-others-6482816"
- },
- {
-  "id": "2026-10-23-A2",
-  "date": "2026-10-23",
-  "title": "OpenAI 300 亿美元融资：估值 1.25 万亿美元，较此前 1.4T 下调",
-  "link": "https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/"
- },
- {
-  "id": "2026-10-23-A3",
-  "date": "2026-10-23",
-  "title": "DeepSeek 传融资约 150 亿美元，投资方包括宁德时代与腾讯",
-  "link": "https://techcrunch.com/2026/10/22/deepseek-reportedly-raises-15b-days-after-us-restrictions/"
- },
- {
-  "id": "2026-10-23-A4",
-  "date": "2026-10-23",
-  "title": "CB Insights：2026 年成立的公司中已有 19 家成为独角兽，合计估值 605 亿美元",
-  "link": "https://www.cbinsights.com/research/newsletter-october-22-2026/"
- },
- {
-  "id": "2026-10-23-A5",
-  "date": "2026-10-23",
-  "title": "Hugging Face 发布开源 DNA 对话模型 Carbon-X（148 亿参数）",
-  "link": "https://theoutpost.ai/news-story/hugging-face-releases-carbon-x-open-source-ai-model-lets-researchers-chat-with-dna-32521/"
- },
- {
-  "id": "2026-10-23-A6",
-  "date": "2026-10-23",
-  "title": "xAI 推出 SpaceX Super Intelligence Partner Network，Grok 转向平台化",
-  "link": "https://blockchain.news/news/xai-spacex-super-intelligence-partner-network-grok"
- },
- {
-  "id": "2026-10-23-A7",
-  "date": "2026-10-23",
-  "title": "AAIF 一次纳新 4 个项目：Agent Skills、Open Responses、OpenEnv、OpenSandbox",
-  "link": "https://www.linuxfoundation.org/press/agentic-ai-foundation-announces-four-new-projects-agent-skills-open-responses-openenv-and-opensandbox"
- },
- {
-  "id": "2026-10-23-A8",
-  "date": "2026-10-23",
-  "title": "Trust3 AI 推出 Agent DOS 与 Claude Code 集成：企业级 Agent 治理",
-  "link": "https://www.businesswire.com/news/home/20261022743314/en/Trust3-AI-Brings-Enterprise-Agent-Security-to-Claude-Code"
- },
- {
-  "id": "2026-10-23-A9",
-  "date": "2026-10-23",
-  "title": "Microsoft 披露 Storm-0940 用 ARTEX AI Agent 发动 ConnectWise 供应链攻击",
-  "link": "https://www.microsoft.com/en-us/security/blog/2026/10/21/storm-0940-uses-artex-agentic-ai-connectwise-supply-chain-compromise/"
- },
- {
-  "id": "2026-10-23-A10",
-  "date": "2026-10-23",
-  "title": "安全公司 Straiker：犯罪团伙用 Claude/Grok/Kimi Agent 袭击拉美 400 余家银行",
-  "link": "https://www.businesstoday.in/technology/news/story/ai-agents-powered-by-claude-grok-kimi-allegedly-target-400-banks-in-latin-america-563085-2026-10-22"
- },
- {
-  "id": "2026-10-23-A11",
-  "date": "2026-10-23",
-  "title": "Barclays 年内裁员 5,000 人直指 AI 效率；美联储褐皮书 5 个地区报告 AI 致用工收缩",
-  "link": "https://www.morningstar.com/news/marketwatch/20261022106/why-a-global-bank-is-slashing-thousands-of-jobs-and-what-the-fed-says-about-ai-replacing-workers"
- },
- {
-  "id": "2026-10-23-A12",
-  "date": "2026-10-23",
-  "title": "Supermicro 发布 256 颗 Nvidia Vera CPU 全液冷机架，主攻 Agent 推理",
-  "link": "https://www.morningstar.com/news/pr-newswire/20261022sf78620/supermicro-introduces-the-nvidia-vera-cpu-rack-a-256-cpu-100-liquid-cooled-rack-scale-solution-complementing-the-nvidia-vera-rubin-platform-for-agentic-ai-at-scale"
- },
- {
-  "id": "2026-10-23-A13",
-  "date": "2026-10-23",
-  "title": "TI Q3 超预期且 Q4 指引高于预期，模拟芯片风向标回暖",
-  "link": "https://www.reuters.com/business/analog-chipmaker-texas-instruments-sees-quarterly-sales-above-estimates-2026-10-21/"
- },
- {
-  "id": "2026-10-23-A14",
-  "date": "2026-10-23",
-  "title": "Besi Q3 订单大超预期，混合键合设备需求翻倍",
-  "link": "https://srnnews.com/besis-quarterly-orders-beat-expectations-as-ai-data-centre-demand-stays-strong/"
- },
- {
-  "id": "2026-10-23-B1",
-  "date": "2026-10-23",
-  "title": "美股周四半导体大屠杀：纳指创 6 月以来最大单日跌幅，费半 -6.72%",
-  "link": "https://cappnotes.substack.com/p/closing-look-thursday-october-22"
- },
- {
-  "id": "2026-10-23-B2",
-  "date": "2026-10-23",
-  "title": "亚太周四普跌：恒指 -3.1%、KOSPI -3.8%，芯片与 AI 股领跌",
-  "link": "https://iol.co.za/business/economy/2026-10-22-asian-stocks-slide-as-tech-giants-revive-fears-over-ai-investment-boom/"
- },
- {
-  "id": "2026-10-23-B3",
-  "date": "2026-10-23",
-  "title": "原油大涨：布伦特突破 111 美元，胡塞袭击沙特阿美油田",
-  "link": "https://iol.co.za/business/economy/2026-10-22-asian-stocks-slide-as-tech-giants-revive-fears-over-ai-investment-boom/"
- },
- {
-  "id": "2026-10-23-B4",
-  "date": "2026-10-23",
-  "title": "比特币回落至 8.1 万美元：单日 -3.3%，全市场爆仓 4.55 亿美元",
-  "link": "https://www.fool.com/coverage/stock-market-today/2026/10/22/crypto-market-today-oct-22-bitcoin-and-altcoins-slide-as-wall-street-fears-spill-into-crypto-markets/"
- },
- {
-  "id": "2026-10-23-B5",
-  "date": "2026-10-23",
-  "title": "黄金回落至 4,050 美元：-2.2%，4,200 美元阻力位未站稳",
-  "link": "https://news.metal.com/newscontent/104173809-macro-front-bearish-factors-regain-dominance-market-focuses-on-month-end-fed-rate-meeting-smm-precious-metals-macro-analysis"
- },
- {
-  "id": "2026-10-23-B6",
-  "date": "2026-10-23",
-  "title": "美联储 12 月加息押注降温：从约 92% 回落至 72–76%",
-  "link": "https://defirate.com/odds/fed-decision/"
- },
- {
-  "id": "2026-10-23-B7",
-  "date": "2026-10-23",
-  "title": "Musk：SpaceX 已着手考虑与特斯拉潜在合并",
-  "link": "https://www.dtnext.in/news/business/asian-shares-retreat-after-strong-profits-lead-a-rally-on-wall-street"
- },
- {
-  "id": "2026-10-23-B8",
-  "date": "2026-10-23",
-  "title": "Meta 被判向新墨西哥州支付 250 亿美元隐私罚金",
-  "link": "https://www.usatoday.com/story/money/2026/10/21/meta-fined-25-billion-in-new-mexico-privacy-lawsuit/92367324007/"
- },
- {
-  "id": "2026-10-23-C1",
-  "date": "2026-10-23",
-  "title": "特朗普要求大型数据中心自发电，并向周边居民支付社区分红",
-  "link": "https://www.businesstoday.in/world/story/make-deals-and-get-them-built-trump-tells-tech-giants-to-give-local-communities-data-centre-dividend-562949-2026-10-22"
- },
- {
-  "id": "2026-10-23-C2",
-  "date": "2026-10-23",
-  "title": "路透独家：台积电正探索工厂设备去稀土化，应对中国稀土出口管制风险",
-  "link": "https://www.reuters.com/world/china/tsmc-seeks-factory-equipment-alternatives-thwart-chinas-rare-earths-grip-sources-2026-10-22/"
- },
- {
-  "id": "2026-10-23-C3",
-  "date": "2026-10-23",
-  "title": "伊朗称一夜击伤 7 艘油轮，并暗示将海底光缆与数据中心纳入打击范围",
-  "link": "https://www.haaretz.com/middle-east-news/iran/2026-10-22/ty-article/iran-says-four-ships-caught-fire-in-gulf-three-others-hit-mines/000001a1-620f-d05a-abe9-671f63000000"
- },
- {
   "id": "2026-10-24-A1",
   "date": "2026-10-24",
   "title": "Kimi K3.1 Pro 发布，智能指数 55 分逼近 Claude Opus 5.5",
@@ -1570,5 +1420,113 @@
   "date": "2026-11-05",
   "title": "美伊升级：特朗普证实美军空袭 Qeshm 岛防空设施，伊朗称谈判无突破",
   "link": "https://www.aljazeera.com/news/2026/11/4/iran-says-us-reply-to-hormuz-plan-unconvincing-trump-confirms-strikes"
+ },
+ {
+  "id": "2026-11-06-A1",
+  "date": "2026-11-06",
+  "title": "OpenAI 发布 GPT-6 Cyber：一次运行验证 948 个 Linux 内核提权漏洞，成本 121 万美元",
+  "link": "https://www.theregister.com/security/2026/11/05/openai-releases-gpt-6-cyber-and-promises-this-one-stays-within-rules-of-engagement/5307855"
+ },
+ {
+  "id": "2026-11-06-A2",
+  "date": "2026-11-06",
+  "title": "Google 一日双发：Gemini Omni 1.2 Flash 视频 GA 降价 30%，Canvas 草图变 App",
+  "link": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/"
+ },
+ {
+  "id": "2026-11-06-A3",
+  "date": "2026-11-06",
+  "title": "百度开源 ERNIE-5.5-Flash-Base：280B 参数 MoE 基座模型，33.5T token 预训练",
+  "link": "https://the-decoder.com/baidu-releases-ernie-5-5-flash-base-with-280-billion-parameters-as-an-open-source-foundation-model/"
+ },
+ {
+  "id": "2026-11-06-A4",
+  "date": "2026-11-06",
+  "title": "Claude 接入个人理财：只读读银行账户，Pro/Max/Ultra 美国用户本周 Beta 上线",
+  "link": "https://letsdatascience.com/news/anthropic-adds-read-only-personal-finance-feature-to-claude-c37a00b0"
+ },
+ {
+  "id": "2026-11-06-A5",
+  "date": "2026-11-06",
+  "title": "Salesforce Agentforce Coworker 三个月用量涨 21 倍，定价 50 美元/人/月",
+  "link": "https://www.salesforce.com/ap/news/press-releases/2026/11/05/sg-salesforces-agentforce-coworker-usage-soars-21x-in-three-months-as-enterprises-delegate-real-work-to-ai/?bc=OTH"
+ },
+ {
+  "id": "2026-11-06-A6",
+  "date": "2026-11-06",
+  "title": "同一天两起 AI 编程工具并购：Meta 收 Conductor，OpenAI 拟收 Pierre",
+  "link": "https://techcrunch.com/2026/11/04/meta-acquires-ai-coding-startup-conductor/"
+ },
+ {
+  "id": "2026-11-06-A7",
+  "date": "2026-11-06",
+  "title": "月之暗面 Kimi 正式推出 Hosted Agents：托管运行长任务、多 Agent 协作",
+  "link": "https://www.unite.ai/kimi-formally-launches-hosted-agents-for-enterprise-ai-workloads/"
+ },
+ {
+  "id": "2026-11-06-A8",
+  "date": "2026-11-06",
+  "title": "Shield AI 53 亿美元收购反无人机雷达公司 Echodyne，融资 25 亿美元、估值 288 亿美元",
+  "link": "https://www.prnewswire.com/news-releases/shield-to-acquire-echodyne-in-a-transaction-valued-at-5-3-billion-and-raise-2-5-billion-at-a-28-8-billion-valuation-302930012.html"
+ },
+ {
+  "id": "2026-11-06-A9",
+  "date": "2026-11-06",
+  "title": "高通 Q4：手机芯片收入同比跌 26% 至 51.37 亿美元，存储涨价挤压手机需求",
+  "link": "https://s204.q4cdn.com/645488518/files/content_files/FY2026-4th-Quarter-Earnings-Release.pdf"
+ },
+ {
+  "id": "2026-11-06-A10",
+  "date": "2026-11-06",
+  "title": "谷歌为 Anthropic 的 190 亿美元 TeraWulf 租约提供信用担保，违约可接管租约或换取项目股权",
+  "link": "https://www.coindesk.com/tech/2026/11/05/google-could-take-ownership-stake-in-bitcoin-miner-terawulf-s-ai-project-if-anthropic-defaults"
+ },
+ {
+  "id": "2026-11-06-A11",
+  "date": "2026-11-06",
+  "title": "美光被曝暂停 45 亿美元台湾 Fab 11E 工厂建设，劳资纠纷升级",
+  "link": "https://www.ad-hoc-news.de/boerse/corporate-news/micron-technology-stock-faces-taiwan-expansion-pause-report/70464912"
+ },
+ {
+  "id": "2026-11-06-B1",
+  "date": "2026-11-06",
+  "title": "美股周四暴跌：道指 -3.4%、标普 -4.4%、纳指 -5.5% 进入技术性修正",
+  "link": "https://www.marketwatch.com/livecoverage/stock-market-today-dow-s-p-500-nasdaq-democrat-sweep-midterm-elections-rally/card/u-s-stocks-end-sharply-lower-as-nasdaq-enters-correction-xVitICpiEnyNJay19Rrk"
+ },
+ {
+  "id": "2026-11-06-B2",
+  "date": "2026-11-06",
+  "title": "美国初请失业金降至 189,000 创 57 年新低，生产率 +3.6%；联储官员放鹰，12 月加息定价回落至约 76%",
+  "link": "https://ktwb.com/2026/11/05/us-weekly-jobless-claims-at-57-year-lows-amid-low-layoffs/"
+ },
+ {
+  "id": "2026-11-06-B3",
+  "date": "2026-11-06",
+  "title": "亚洲 11 月 5 日分化：恒生大涨 3.67% 五连涨，韩国 Kospi 暴跌 5.28%，A 股小涨",
+  "link": "https://www.thestandard.com.hk/finance/article/347630/Hang-Seng-Index-surges-nearly-900-points-at-close"
+ },
+ {
+  "id": "2026-11-06-B4",
+  "date": "2026-11-06",
+  "title": "加密与大宗日内反转：比特币冲上 8 万美元后回落至 7.6 万美元下方，黄金守住 4,100 美元，布伦特反弹 3.9% 至 98.29 美元",
+  "link": "https://www.coindesk.com/markets/2026/11/05/bitcoin-holds-above-usd80-000-as-zcash-jumps-12-in-post-election-crypto-rebound"
+ },
+ {
+  "id": "2026-11-06-B5",
+  "date": "2026-11-06",
+  "title": "英国央行加息 25bp 至 4%：8-1 投票，通胀峰值预测上调至约 4.9%",
+  "link": "https://jack1065.com/2026/11/05/bank-of-england-policymakers-set-out-views-on-rates-outlook-2/"
+ },
+ {
+  "id": "2026-11-06-C1",
+  "date": "2026-11-06",
+  "title": "约 60 万颗英伟达 H200 芯片滞留香港，北京迟迟不批大规模进口",
+  "link": "https://www.reuters.com/world/china/nvidia-chips-pile-up-hong-kong-china-withholds-import-approval-2026-11-05/"
+ },
+ {
+  "id": "2026-11-06-C2",
+  "date": "2026-11-06",
+  "title": "中期选举后续：三州新当选州长拟冻结数据中心建设，141GW 规划产能面临审查；OpenAI 承诺自付全部电费回应",
+  "link": "https://www.firstpost.com/tech/us-midterm-aftermath-can-democrats-put-the-brakes-on-americas-ai-data-centre-boom-14057956.html"
  }
 ]

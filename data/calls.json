@@ -91,6 +91,11 @@
     "date": "2026-11-06",
     "probability": 0.78,
     "reason": "12 月加息定价从 82.6% 回落至约 76%（Barchart），Kalshi 口径 79.5%；初请失业金 189,000 创 57 年新低、Hammack 放鹰（2026-11-06-B2）"
+   },
+   {
+    "date": "2026-11-07",
+    "probability": 0.8,
+    "reason": "非农新增 16.5 万远超预期、失业率降至 4.1%，Hammack、Barkin、Williams 三位联储官员同日放鹰；CME 12 月加息定价升至约 77%–78%（2026-11-07-B1、B4）"
    }
   ]
  },
@@ -195,7 +200,7 @@
    "OPEC+ 是否释放增产对冲信号"
   ],
   "outcome": null,
-  "probability": 0.25,
+  "probability": 0.05,
   "resolution_criteria": "ICE 布伦特期货日收盘价（路透/彭博行情）",
   "resolved_date": null,
   "review": null,
@@ -232,6 +237,11 @@
     "date": "2026-11-06",
     "probability": 0.1,
     "reason": "布伦特反弹至 98.29 美元但仍远低于 120 美元，欧亚集团下调美伊协议概率至 10%、摩根大通称市场重回供应过剩（2026-11-06-B4）"
+   },
+   {
+    "date": "2026-11-07",
+    "probability": 0.05,
+    "reason": "伊朗经卡塔尔递交核提案、布伦特单周跌超 13% 至约 97.44 美元，距 120 美元目标更远（2026-11-07-C2、B5）"
    }
   ]
  },
@@ -302,86 +312,108 @@
   "updates": []
  },
  {
-  "id": "P-2026-11-03-01",
-  "created": "2026-11-03",
-  "thread": "anthropic-ipo",
-  "statement": "Anthropic 在 11 月 9 日当周按期启动 IPO 路演",
-  "probability": 0.7,
-  "deadline": "2026-11-16",
   "basis": [
    "2026-11-03-A1"
   ],
-  "resolution_criteria": "媒体报道路演启动或发行价区间公布",
+  "created": "2026-11-03",
+  "deadline": "2026-11-16",
+  "id": "P-2026-11-03-01",
   "leading_indicators": [
    "路演定价区间公布",
    "OpenAI 融资关账延期拖累市场情绪"
   ],
-  "updates": [],
-  "status": "open",
   "outcome": null,
+  "probability": 0.7,
+  "resolution_criteria": "媒体报道路演启动或发行价区间公布",
   "resolved_date": null,
-  "review": null
+  "review": null,
+  "statement": "Anthropic 在 11 月 9 日当周按期启动 IPO 路演",
+  "status": "open",
+  "thread": "anthropic-ipo",
+  "updates": []
  },
  {
-  "id": "P-2026-11-03-02",
-  "created": "2026-11-03",
-  "thread": "fed-rate-path",
-  "statement": "美财政部 11 月 4 日季度再融资声明削减 20 年/30 年期国债发行",
-  "probability": 0.6,
-  "deadline": "2026-11-04",
   "basis": [
    "2026-11-03-B3"
   ],
-  "resolution_criteria": "11 月 4 日官方声明文本",
+  "created": "2026-11-03",
+  "deadline": "2026-11-04",
+  "id": "P-2026-11-03-02",
   "leading_indicators": [
    "声明加码长债发行"
   ],
-  "updates": [],
-  "status": "resolved",
   "outcome": false,
+  "probability": 0.6,
+  "resolution_criteria": "11 月 4 日官方声明文本",
   "resolved_date": "2026-11-05",
-  "review": "落空：财政部维持 1250 亿美元季度再融资规模不变，\"未来几个季度\"拍卖规模不变，未削减 20 年/30 年期发行。市场\"缩减长债\"的共识错了。"
+  "review": "落空：财政部维持 1250 亿美元季度再融资规模不变，\"未来几个季度\"拍卖规模不变，未削减 20 年/30 年期发行。市场\"缩减长债\"的共识错了。",
+  "statement": "美财政部 11 月 4 日季度再融资声明削减 20 年/30 年期国债发行",
+  "status": "resolved",
+  "thread": "fed-rate-path",
+  "updates": []
  },
  {
-  "id": "P-2026-11-04-01",
-  "created": "2026-11-04",
-  "thread": null,
-  "statement": "民主党在 11 月 4 日（美东）公布的众议院选举结果中获得至少 218 席",
-  "probability": 0.75,
-  "deadline": "2026-11-05",
   "basis": [
    "DDHQ 模型预测民主党夺回众议院概率 84%（预计 241 席），Cook 政治报告预测翻转 12–25 席"
   ],
-  "resolution_criteria": "AP 宣布的众议院席位结果",
+  "created": "2026-11-04",
+  "deadline": "2026-11-05",
+  "id": "P-2026-11-04-01",
   "leading_indicators": [
    "出口民调显示郊区选票大幅流向民主党",
    "共和党守住关键摇摆选区"
   ],
-  "updates": [],
-  "status": "resolved",
   "outcome": true,
+  "probability": 0.75,
+  "resolution_criteria": "AP 宣布的众议院席位结果",
   "resolved_date": "2026-11-05",
-  "review": "命中：AP 确认民主党在众议院获得 232 席（计票中仍在增加）。DDHQ 84% 模型与 Cook 预测方向正确，实际席位超预期。"
+  "review": "命中：AP 确认民主党在众议院获得 232 席（计票中仍在增加）。DDHQ 84% 模型与 Cook 预测方向正确，实际席位超预期。",
+  "statement": "民主党在 11 月 4 日（美东）公布的众议院选举结果中获得至少 218 席",
+  "status": "resolved",
+  "thread": null,
+  "updates": []
  },
  {
-  "id": "P-2026-11-05-01",
-  "created": "2026-11-05",
-  "thread": "fed-rate-path",
-  "statement": "英国央行在 11 月 5 日会议上将基准利率上调 25bp 至 4%",
-  "probability": 0.9,
-  "deadline": "2026-11-05",
   "basis": [
    "2026-11-05-B2"
   ],
-  "resolution_criteria": "英国央行 11 月 5 日利率决议公告",
+  "created": "2026-11-05",
+  "deadline": "2026-11-05",
+  "id": "P-2026-11-05-01",
   "leading_indicators": [
    "决议声明出现偏鸽措辞",
    "英国 10 月 CPI 意外回落"
   ],
-  "updates": [],
-  "status": "resolved",
   "outcome": true,
+  "probability": 0.9,
+  "resolution_criteria": "英国央行 11 月 5 日利率决议公告",
   "resolved_date": "2026-11-05",
-  "review": "英国央行 8-1 投票加息 25bp 至 4.00%，Mann 一人主张 50bp；定价与经济学家预期一致，唯一意外是 Mann 的 50bp 异议票。"
+  "review": "英国央行 8-1 投票加息 25bp 至 4.00%，Mann 一人主张 50bp；定价与经济学家预期一致，唯一意外是 Mann 的 50bp 异议票。",
+  "statement": "英国央行在 11 月 5 日会议上将基准利率上调 25bp 至 4%",
+  "status": "resolved",
+  "thread": "fed-rate-path",
+  "updates": []
+ },
+ {
+  "basis": [
+   "2026-11-06-C2",
+   "2026-11-07-C3"
+  ],
+  "created": "2026-11-07",
+  "deadline": "2027-03-31",
+  "id": "P-2026-11-07-01",
+  "leading_indicators": [
+   "得州 2027 年议会会期出现冻结提案",
+   "OpenAI 等厂商与州政府达成电费分摊协议缓解压力"
+  ],
+  "outcome": null,
+  "probability": 0.6,
+  "resolution_criteria": "州议会通过的法案文本或州长行政令",
+  "resolved_date": null,
+  "review": null,
+  "statement": "2027 年 3 月 31 日前，至少一个美国州通过立法或行政命令暂停/冻结新数据中心审批",
+  "status": "open",
+  "thread": "data-center-regulation",
+  "updates": []
  }
 ]

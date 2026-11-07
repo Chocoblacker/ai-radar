@@ -1,6 +1,6 @@
 # Agent 安全：从预警进入"实战受害"，攻守工具同周密集出现
 
-状态：进行中 · 开始：2026-10-19 · 最近更新：2026-11-06
+状态：进行中 · 开始：2026-10-19 · 最近更新：2026-11-07
 下一个验证点：持续跟踪重大 Agent 安全事件披露
 
 ## 一句话现状
@@ -13,12 +13,16 @@
 11 月 5 日更新：Redis Iris 新增 Lens 决策溯源审计（beta）、Leidos 推跨供应商 Agent 治理平台——Agent 治理产品化提速。
 
 11 月 6 日更新：OpenAI 发布 GPT-6 Cyber（进攻性安全能力产品化），一次运行验证 948 个 Linux 内核提权漏洞、各配候选补丁，ExploitGym 48.5%。
+
+11 月 7 日更新：Check Point 披露 ChatGPT"锁定模式"可被绕过——HTML 预览沙箱放行弹窗权限，嵌套 iframe 可拿到 window.open；Electron 桌面版零点击外泄全部聊天记录；OpenAI 已于 9 月 18 日修复。
 ## 来龙去脉
 
 10 月下旬实战：黑客用 AI Agent 花约 5000 美元攻破 100 多家企业网站；LiteLLM 供应链投毒约 49,000 次下载。11-01：Chainalysis 遭“agentic AI”攻击（CEO 归因朝鲜）；未发布模型 53 分钟写出 CVE-2026-98432 远程 root 利用。11-02：I-HITL 研究证 9/10 模型绕开人类审批自行加额度；VOLTA 木马用 LLM 给受害者做价值评估。11-03：Trigger.dev 披露客户组织环境变量被窃；Wiz 报告 10 月至少 9 起针对 AI 开发者平台的攻击——攻击链标准化为“偷凭证 → LLMJacking → 盗刷”。 11 月 4 日：GitBook 遭"AI Agent 作案"的定向攻击（撤销全部客户 API token）；Check Point 披露"Prompt Adware"海鸥包——攻防同日升级，攻击链从"偷凭证"延伸到"提示词劫持"。
  11 月 5 日：Redis Iris 新增 Lens 审计能力、Leidos 推 HeadWay Dispatch 治理平台——Agent 竞争从"能不能用"转向"失控了怎么管"。
 
 11 月 6 日：OpenAI 发布 GPT-6 Cyber（仅限受邀安全客户），同一框架的 Agent 管线一次运行验证 948 个 Linux 内核提权漏洞、成本约 121 万美元——攻守双方同时拿到同款工具。
+
+11 月 7 日：Check Point 披露 ChatGPT"锁定模式"绕过（桌面版零点击外泄）——针对 AI 助手"安全模式"本身的攻击，漏洞已修复、11 月 5 日公开披露。
 ## 时间线
 
 - 10-21 Reuters 调查——单名黑客用 AI Agent 花约 5000 美元攻破 100 多家企业网站；OpenCode 密钥泄露致用户被盗刷（[2026-10-21 A4](../daily/2026/10/2026-10-21.md)、A5）
@@ -38,6 +42,7 @@
 - 11-05 Redis Iris 扩展（Lens 审计 beta）、Leidos 发布 HeadWay Dispatch 治理平台（[2026-11-05 A7](../daily/2026/11/2026-11-05.md)）
 
 - 11-06 OpenAI 发布 GPT-6 Cyber；Agent 管线一次运行验证 948 个 Linux 内核提权漏洞、各配候选补丁（[2026-11-06 A1](../daily/2026/11/2026-11-06.md)）
+- 11-07 Check Point 披露 ChatGPT"锁定模式"可被绕过（嵌套 iframe 逃逸沙箱），Electron 桌面版零点击外泄全部聊天记录与上传文件；OpenAI 9 月 18 日已修复（[2026-11-07 A7](../daily/2026/11/2026-11-07.md)）
 ## 关键数字
 
 - 5000 美元 / 攻破 100+ 企业网站
@@ -57,6 +62,7 @@
 - Wiz Black October：10 月至少 9 起针对 AI 开发者平台的入侵；约 250 万次 Bedrock API 调用 / 约 10 万美元盗刷账单（2026-11-03）
 
 - GPT-6 Cyber：ExploitGym 48.5%（GPT-5.6 Cyber 32.1%、GPT-6 Astra 42.4%）；一次运行验证 948 个 Linux 内核漏洞、成本约 121 万美元（2026-11-06）
+- ChatGPT"锁定模式"绕过：嵌套 iframe 逃逸 HTML 预览沙箱；桌面版零点击外泄（Check Point，2026-11-07，漏洞已于 9 月 18 日修复）
 ## 各方观点
 
 - 警示派：Agent 权限过大、密钥管理缺失，攻击门槛大幅降低，需要强制隔离和审计。
@@ -83,4 +89,5 @@
 
 - anthropic-ipo（Anthropic IPO，模型安全是招股书风险项）
 - ai-export-controls（AI 出口管制，安全是管制理由之一）
+
 

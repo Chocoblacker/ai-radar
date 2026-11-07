@@ -1528,5 +1528,113 @@
   "date": "2026-11-06",
   "title": "中期选举后续：三州新当选州长拟冻结数据中心建设，141GW 规划产能面临审查；OpenAI 承诺自付全部电费回应",
   "link": "https://www.firstpost.com/tech/us-midterm-aftermath-can-democrats-put-the-brakes-on-americas-ai-data-centre-boom-14057956.html"
+ },
+ {
+  "id": "2026-11-07-A1",
+  "date": "2026-11-07",
+  "title": "Kakao 开源 3.67B 参数决策模型 Kanana-2-v-decide，不生成文本、只输出判断结果",
+  "link": "https://huggingface.co/kakaocorp/kanana-2-v-decide-3b-2611"
+ },
+ {
+  "id": "2026-11-07-A2",
+  "date": "2026-11-07",
+  "title": "Salesforce 推出决策模型 Koa Decisions，基于 Google 开源权重 Gemma",
+  "link": "https://www.salesforce.com/news/stories/koa-decisions-salesforce-decision-models/?bc=OTH"
+ },
+ {
+  "id": "2026-11-07-A3",
+  "date": "2026-11-07",
+  "title": "Airbnb 宣布自研 AI 旅行 Agent，2027 年上半年上线",
+  "link": "https://techcrunch.com/2026/11/05/airbnb-says-its-launching-an-ai-travel-agent-in-the-first-half-of-2027/"
+ },
+ {
+  "id": "2026-11-07-A4",
+  "date": "2026-11-07",
+  "title": "亚马逊上线短信版 Alexa 购物 Agent，可发文字买东西",
+  "link": "https://techcrunch.com/2026/11/06/after-blocking-muse-amazon-now-lets-users-text-alexa-to-help-them-shop/"
+ },
+ {
+  "id": "2026-11-07-A5",
+  "date": "2026-11-07",
+  "title": "腾讯云发布主权 Agent AI 私有云套件，3 台服务器可起步",
+  "link": "http://www.prnewswire.co.uk/news-releases/tencent-cloud-enterprise-unveils-full-stack-intelligent-private-cloud-for-sovereign-agentic-ai-302932000.html"
+ },
+ {
+  "id": "2026-11-07-A6",
+  "date": "2026-11-07",
+  "title": "ServiceNow 再裁员：美英印三地受影响，称 AI 增效、年底总人数不变",
+  "link": "https://www.peoplematters.in/amp/news/strategic-hr/servicenow-layoffs-hit-uk-us-and-india-as-company-restructures-workforce-53222"
+ },
+ {
+  "id": "2026-11-07-A7",
+  "date": "2026-11-07",
+  "title": "Check Point 披露 ChatGPT\"锁定模式\"可被绕过，桌面版零点击窃取全部聊天记录",
+  "link": "https://research.checkpoint.com/2026/chatgpt-lockdown-mode-bypass-phishing-malware-delivery-and-silent-data-exfiltration/"
+ },
+ {
+  "id": "2026-11-07-A8",
+  "date": "2026-11-07",
+  "title": "台积电筹划应英伟达要求生产 3D DRAM，或打破纯代工边界",
+  "link": "https://www.reuters.com/world/asia-pacific/tsmc-considers-making-advanced-memory-chips-information-reports-2026-11-06/"
+ },
+ {
+  "id": "2026-11-07-A9",
+  "date": "2026-11-07",
+  "title": "先进封装成 AI 芯片新战场，2026 年收入首超传统封装",
+  "link": "https://www.reuters.com/world/asia-pacific/ai-boom-turns-chip-packaging-into-next-battleground-semiconductors-2026-11-06/"
+ },
+ {
+  "id": "2026-11-07-A10",
+  "date": "2026-11-07",
+  "title": "英伟达完成 10 亿美元入股 Naver，持股 4.13%，加速韩国 AI 工厂合作",
+  "link": "https://m-en.yna.co.kr/view/AEN20261106010300320"
+ },
+ {
+  "id": "2026-11-07-B1",
+  "date": "2026-11-07",
+  "title": "美国 10 月非农新增 16.5 万人，远超预期，失业率降至 4.1%",
+  "link": "https://www.reuters.com/business/us-job-growth-beats-expectations-october-unemployment-rate-falls-41-2026-11-06/"
+ },
+ {
+  "id": "2026-11-07-B2",
+  "date": "2026-11-07",
+  "title": "美股周五反弹，芯片领涨，纳指涨约 1.7%",
+  "link": "https://www.tradingview.com/news/benzinga:9bd57133b094b:0-nasdaq-100-rebounds-2-after-worst-day-since-2020-payrolls-smash-estimates-stock-market-today/"
+ },
+ {
+  "id": "2026-11-07-B3",
+  "date": "2026-11-07",
+  "title": "亚洲股市 11 月 6 日暴跌：日经、Kospi 均跌 6%，台股盘中暴跌 3737 点",
+  "link": "https://telanganatoday.com/global-shares-skid-as-technology-stocks-face-mounting-selling-pressure"
+ },
+ {
+  "id": "2026-11-07-B4",
+  "date": "2026-11-07",
+  "title": "12 月加息定价升至约 77%–78%，三位美联储官员齐放鹰",
+  "link": "https://invezz.com/news/2026/11/06/fed-rate-hike-odds-jump-after-october-jobs-report-as-officials-signal-more-tightening/"
+ },
+ {
+  "id": "2026-11-07-B5",
+  "date": "2026-11-07",
+  "title": "加密与大宗：现货 ETF 单日净流出 5.3 亿美元，黄金跌破 4100 美元，布伦特收 97.44 美元",
+  "link": "https://cryptocompass.com/articles/us-bitcoin-ether-etfs-see-530-million-outflow-as-rally-reverses"
+ },
+ {
+  "id": "2026-11-07-C1",
+  "date": "2026-11-07",
+  "title": "美国延长 BIS\"50% 关联企业规则\"暂停期至 2027 年 1 月 10 日，中美贸易休战再续",
+  "link": "https://asia.nikkei.com/politics/international-relations/us-china-tensions/us-extends-suspension-of-export-restrictions-on-chinese-firms"
+ },
+ {
+  "id": "2026-11-07-C2",
+  "date": "2026-11-07",
+  "title": "伊朗经卡塔尔向美方递交核提案，布伦特单周跌超 13%",
+  "link": "https://www.financialexpress.com/world-news/brent-crude-slides-to-98-how-us-midterms-and-iran-tensions-shook-oil-markets/4378788/"
+ },
+ {
+  "id": "2026-11-07-C3",
+  "date": "2026-11-07",
+  "title": "参议员推数据中心电费法案，达拉斯联储称数据中心推高西南批发电价 8.6%",
+  "link": "https://www.organmountainnews.com/data-centers-southwest-electricity-costs-heinrich-bill-2026/"
  }
 ]

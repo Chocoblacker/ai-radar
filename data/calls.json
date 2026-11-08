@@ -415,5 +415,27 @@
   "status": "open",
   "thread": "data-center-regulation",
   "updates": []
+ },
+ {
+  "id": "P-2026-11-08-01",
+  "created": "2026-11-08",
+  "thread": "ai-export-controls",
+  "statement": "美国商务部（BIS）在 2026 年 11 月 30 日前就 H200 对华许可审查公开采取行动（收紧审批规则、撤销个别许可或发布正式回应）",
+  "probability": 0.6,
+  "deadline": "2026-11-30",
+  "basis": [
+   "2026-11-08-C1"
+  ],
+  "resolution_criteria": "BIS 官网公告，或路透/彭博对 BIS 行动的报道",
+  "leading_indicators": [
+   "BIS 发言人回应 NYT 调查",
+   "获批公司被曝更多空壳关联",
+   "白宫/商务部称审查程序无问题"
+  ],
+  "updates": [],
+  "status": "open",
+  "outcome": null,
+  "resolved_date": null,
+  "review": null
  }
 ]

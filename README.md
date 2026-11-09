@@ -14,6 +14,8 @@
 
 ## 最新 7 天
 
+- [2026-11-10（周二）](daily/2026/11/2026-11-10.md) —— Anthropic 发布 Claude Fable 5.2（降价 20%）、Meta 推出 Muse Ember；美股周一大涨、英伟达逆势跌约 4.9%；中美稀土与 BIS 规则暂停双双延至 2027 年 1 月 10 日
+
 - [2026-11-09（周一）](daily/2026/11/2026-11-09.md) —— 英伟达董事会启动独立调查黄仁勋遭 targeting；Claude Code 泄露 2,539 个密钥；比特币 ETF 单周净流出 12.8 亿美元
 
 - [2026-11-08（周日）](daily/2026/11/2026-11-08.md) —— WorkOS 失控 Agent 真实得手、协作实验泄露 token；美股周五芯片领涨反弹、全周仍跌 3.4%；NYT 调查 H200 许可审查现漏洞
@@ -22,20 +24,19 @@
 - [2026-11-05（周四）](daily/2026/11/2026-11-05.md) —— 民主党横扫参众两院，美元大跌、美股油市一日重定价；对华算力管控同日两连击；Canva 因 AI 成本裁员 22%
 - [2026-11-04（周三）](daily/2026/11/2026-11-04.md) —— Anthropic Q3 增速放缓、机构要求 IPO 估值压到 1.5–1.6 万亿美元；FT 独家：英伟达云合同设 51% 对华限制；苹果毛利率指引塌陷、AI 概念股遭抛售
 
-- [2026-11-03（周二）](daily/2026/11/2026-11-03.md) —— Anthropic 修订 S-1：Q3 收入 169.6 亿美元、算力承诺 8954 亿；Marvell 1150 亿美元全股票收购 Lumentum；Oracle 200 亿美元股债融资、股价跌约 6%
 
 
 ## 🔥 活跃故事线
 
-- [Anthropic IPO 冲刺](threads/anthropic-ipo.md) — Q3 增速放缓（环比 +47%）、经营转亏，机构要求估值压到 1.5–1.6 万亿美元
-- [AI 融资潮](threads/ai-funding-wave.md) — OpenAI 募资目标 300 亿→200 亿、DeepSeek 二轮约 27% 来自国资，一级市场也开始"算账"
-- [美联储利率路径](threads/fed-rate-path.md) — CME 定价 12 月加息约 80%；11 月 10 日 CPI 是最后变量
-- [中东局势与油价](threads/middle-east-oil.md) — 原油全周跌超 12%、黄金创 8 月来最强周涨幅
+- [Anthropic IPO 冲刺](threads/anthropic-ipo.md) — Fable 5.2 发布、路演仍未启动，估值讨论降至 1.2–1.3 万亿美元
+- [AI 融资潮](threads/ai-funding-wave.md) — Anthropic 被曝 34 亿美元接手 1.7GW 燃气发电机订单（待证实）；OpenAI 修订目标仍无新进展
+- [美联储利率路径](threads/fed-rate-path.md) — 10 月 CPI 今晚公布（只公布环比、无同比）；12 月加息定价约 77%–80%
+- [中东局势与油价](threads/middle-east-oil.md) — 特朗普称极不可能再打击伊朗，布伦特单日跌约 4% 至约 94 美元
 - [存储/HBM 短缺](threads/memory-hbm-shortage.md) — 台积电否认应英伟达要求生产 3D DRAM；DDR5 大宗价连涨 9 个月达 2025 年底约 2 倍
-- [Agent 安全](threads/agent-security.md) — Claude Code 配置文件泄露 2,539 个密钥；WorkOS 失控 Agent 真实得手
-- [AI 出口管制](threads/ai-export-controls.md) — 英伟达董事会就黄仁勋遭 targeting 启动独立调查；NYT 调查 H200 空壳买家
-- [AI 资本开支"算账"](threads/ai-capex-reckoning.md) — 芯片领涨反弹、全周纳指仍跌 3.4%；Oracle 800 人裁员备案曝光
-- [数据中心监管](threads/data-center-regulation.md) — 参议员推电费法案，达拉斯联储称数据中心推高西南批发电价 8.6%
+- [Agent 安全](threads/agent-security.md) — GitGuardian 称密钥泄露历史全量达 31,088 个，另波及 Docker Hub
+- [AI 出口管制](threads/ai-export-controls.md) — 中美稀土与 BIS 关联企业规则暂停双双延至 2027 年 1 月 10 日
+- [AI 资本开支"算账"](threads/ai-capex-reckoning.md) — 美股周一大涨、英伟达逆势跌约 4.9%；11 月 17 日英伟达 Q3 财报在即
+- [数据中心监管](threads/data-center-regulation.md) — 参议院辩论 BAAJA，要求数据中心承担更多电网升级成本；通过概率被下调至 25%
 
 [完整故事线总览 →](threads/index.md)
 

@@ -1,89 +1,5 @@
 [
  {
-  "id": "2026-10-26-A1",
-  "date": "2026-10-26",
-  "title": "OpenAI 以 30%+ 折扣抢走 Replit 年超 1 亿美元合同，Anthropic 临近 IPO 丢大客户",
-  "link": "https://aiweekly.co/alerts/replit-shifts-100m-ai-spend-to-openai-after-30-price-cut"
- },
- {
-  "id": "2026-10-26-A2",
-  "date": "2026-10-26",
-  "title": "AI21 发布 LIFT-Bench：专治 RL 训练里的“奖励作弊”",
-  "link": "https://www.ai21.com/blog/lift-bench-blog/"
- },
- {
-  "id": "2026-10-26-A3",
-  "date": "2026-10-26",
-  "title": "猫王遗产方起诉 Anthropic：274 首歌未经授权拿去训练 Claude，索赔约 4110 万美元",
-  "link": "https://www.nme.com/news/music/elvis-presley-rightsholders-sue-anthropic-copyright-infringement-274-songs-3974178"
- },
- {
-  "id": "2026-10-26-A4",
-  "date": "2026-10-26",
-  "title": "三星与 SK 海力士本周公布 Q3 财报，合计营业利润预计约 185 万亿韩元",
-  "link": "https://en.yna.co.kr/view/AEN20261025001200320?section=economy-finance/economy"
- },
- {
-  "id": "2026-10-26-A5",
-  "date": "2026-10-26",
-  "title": "三星 HBM 报价比对手高出至多 25%，数据中心为保供愿付溢价",
-  "link": "https://wccftech.com/samsung-hbm-pricing-premium-data-center-supply-chain/"
- },
- {
-  "id": "2026-10-26-A6",
-  "date": "2026-10-26",
-  "title": "英伟达哈萨克斯坦项目披露新细节：二期容量约 500 MW，长期目标 1 GW",
-  "link": "https://www.eenewseurope.com/en/nvidia-kazakhstan-ai-infrastructure-firebird/"
- },
- {
-  "id": "2026-10-26-B1",
-  "date": "2026-10-26",
-  "title": "美联储本周大概率按兵不动，12 月加息仍是悬念",
-  "link": "https://www.malaymail.com/news/money/2026/10/25/despite-trump-pressure-fed-likely-to-hold-interest-rates-steady-ahead-of-us-midterms/240508"
- },
- {
-  "id": "2026-10-26-B2",
-  "date": "2026-10-26",
-  "title": "欧洲央行、日本央行本周接连议息，叠加美国 Q3 GDP 与 9 月 PCE",
-  "link": "https://econotimes.com/Fed-ECB-and-BOJ-Face-Rate-Decisions-as-Inflation-Risks-Persist-1762786"
- },
- {
-  "id": "2026-10-26-B3",
-  "date": "2026-10-26",
-  "title": "比特币周末跌破 8 万美元后收回，周日回升至约 80,166 美元",
-  "link": "https://stocktwits.com/news-articles/markets/cryptocurrency/bitcoin-slips-below-80-k-as-peter-schiff-warns-of-very-long-weekend-for-btc-investors-mike-mc-glone-says-don-t-fight-the-fed/cZUcY1JRBUm"
- },
- {
-  "id": "2026-10-26-B4",
-  "date": "2026-10-26",
-  "title": "布伦特原油周涨近 7%，分析师称霍尔木兹海峡若中断或冲 120 美元",
-  "link": "https://www.deccanherald.com/amp/story/business/crude-oil-prices-may-hit-120-a-barrel-as-west-asia-tensions-fuel-supply-fears-ahead-of-fed-decision-4194699"
- },
- {
-  "id": "2026-10-26-B5",
-  "date": "2026-10-26",
-  "title": "黄金现货跌破 4,000 美元，出现“死亡交叉”技术信号",
-  "link": "https://invezz.com/news/2026/10/25/gold-price-outlook-can-bulls-survive-the-death-cross-and-oil-surge/"
- },
- {
-  "id": "2026-10-26-B6",
-  "date": "2026-10-26",
-  "title": "菲律宾电子产品出口创纪录，政府要从组装向芯片设计攀升",
-  "link": "https://bworldonline.com/economy/2026/10/25/789130/next-step-is-climbing-value-ladder-after-phl-electronics-exports-surge-recto/"
- },
- {
-  "id": "2026-10-26-C1",
-  "date": "2026-10-26",
-  "title": "特朗普周日排除对伊朗动武，但保留后续动武或达成协议两种可能",
-  "link": "https://www.aljazeera.com/news/liveblog/2026/10/25/iran-war-live-trump-hints-at-possible-sunday-iran-attack-or-deal-reached"
- },
- {
-  "id": "2026-10-26-C2",
-  "date": "2026-10-26",
-  "title": "胡塞新一轮袭击沙特机场与能源设施，沙特称拦截 10 枚导弹，利雅得机场部分重开",
-  "link": "https://www.dailymaverick.co.za/article/2026-10-25-saudis-say-riyadh-airport-partly-reopens-despite-renewed-houthi-threats/"
- },
- {
   "id": "2026-10-27-A1",
   "date": "2026-10-27",
   "title": "Anthropic 公开 S-1 文件，拟纳斯达克上市「ANT」，上半年收入 163 亿美元",
@@ -1558,5 +1474,101 @@
   "date": "2026-11-09",
   "title": "英伟达董事会启动独立调查，回应黄仁勋遭外国情报 targeting 的报道",
   "link": "https://www.reuters.com/world/china/nvidia-launches-probe-after-report-ceo-huang-was-target-foreign-intelligence-2026-11-08/"
+ },
+ {
+  "id": "2026-11-10-A1",
+  "date": "2026-11-10",
+  "title": "Anthropic 发布 Claude Fable 5.2 与 Mythos 5.2，定价降 20%、输出快 30%",
+  "link": "https://www.anthropic.com/claude-fable-and-mythos-5-2"
+ },
+ {
+  "id": "2026-11-10-A2",
+  "date": "2026-11-10",
+  "title": "Meta 发布 Muse Ember，定位 Agent 重复性任务的小模型，每任务成本约 0.14 美元",
+  "link": "https://research.meta.ai/blog/muse-ember"
+ },
+ {
+  "id": "2026-11-10-A3",
+  "date": "2026-11-10",
+  "title": "Claude Code 密钥泄露：GitGuardian 称规模远大于 Apiiro 统计，另波及 Docker Hub",
+  "link": "https://blog.gitguardian.com/claude-code-settings-local-json-secrets-docker-hub/"
+ },
+ {
+  "id": "2026-11-10-A4",
+  "date": "2026-11-10",
+  "title": "Anthropic IPO 路演：截至 11 月 9 日仍未提交定价区间文件，路演最早 11 月 10 日启动",
+  "link": "https://financefeeds.com/anthropic-ipo-roadshow-looms-with-no-price-range/"
+ },
+ {
+  "id": "2026-11-10-A5",
+  "date": "2026-11-10",
+  "title": "Anthropic 被曝 34 亿美元接手 1.7GW 燃气发电机订单",
+  "link": "https://www.unite.ai/anthropic-reported-to-buy-gas-turbines-as-ai-power-access-tightens/"
+ },
+ {
+  "id": "2026-11-10-A6",
+  "date": "2026-11-10",
+  "title": "谷歌发布第八代 TPU 系统 TPU 8tx 与 8i Max",
+  "link": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/tpu-8i-max-and-8tx/"
+ },
+ {
+  "id": "2026-11-10-A7",
+  "date": "2026-11-10",
+  "title": "英伟达 Q3 财报前瞻：RBC 预期超预期，存储成本压毛利率",
+  "link": "https://www.tipranks.com/news/article/nvidia-stocks-nvda-sell-off-looks-overdone-ahead-of-q3"
+ },
+ {
+  "id": "2026-11-10-B1",
+  "date": "2026-11-10",
+  "title": "美股周一大幅反弹，创 4 月以来最大单日涨幅，英伟达逆势跌约 4.9%",
+  "link": "https://www.kitco.com/news/off-the-wire/2026-11-09/wall-st-jumps-back-oil-slide-eases-inflation-worries-nvidia-slumps"
+ },
+ {
+  "id": "2026-11-10-B2",
+  "date": "2026-11-10",
+  "title": "10 月 CPI 前瞻：只公布环比、无同比，12 月加息定价约 77%–80%",
+  "link": "https://www.tipranks.com/news/u-s-stocks-rebound-as-oil-prices-fall-and-nvidia-sinks"
+ },
+ {
+  "id": "2026-11-10-B3",
+  "date": "2026-11-10",
+  "title": "芝加哥联储主席 Goolsbee：AI 数据中心建设已现“老式需求过热”",
+  "link": "https://news.bloomberglaw.com/banking-law/feds-goolsbee-says-officials-must-address-inflation-failure"
+ },
+ {
+  "id": "2026-11-10-B4",
+  "date": "2026-11-10",
+  "title": "比特币跌破 7.5 万美元、以太坊跌破 2,100 美元，24 小时全网爆仓超 10 亿美元",
+  "link": "https://www.cryptotimes.io/2026/11/09/ethereum-price-drops-4-4-to-2136-as-449m-eth-liquidations-hit-longs/"
+ },
+ {
+  "id": "2026-11-10-B5",
+  "date": "2026-11-10",
+  "title": "油价单日跌约 4%、金价反弹：特朗普称不太可能再打击伊朗",
+  "link": "https://www.reuters.com/world/middle-east/trump-meet-iran-war-mediator-qatar-no-imminent-deal-seen-end-war-2026-11-09/"
+ },
+ {
+  "id": "2026-11-10-B6",
+  "date": "2026-11-10",
+  "title": "中港股市周一分化：恒生微跌 0.13%、恒生科技跌 0.92%，上证涨 0.32%",
+  "link": "https://peoplesdaily.pdnews.cn/business/er/30053525799"
+ },
+ {
+  "id": "2026-11-10-C1",
+  "date": "2026-11-10",
+  "title": "中国稀土等出口管制暂停延至 2027 年 1 月 10 日",
+  "link": "https://www.reuters.com/world/china/china-extends-suspension-new-rare-earth-controls-until-january-2026-11-09/"
+ },
+ {
+  "id": "2026-11-10-C2",
+  "date": "2026-11-10",
+  "title": "美国 BIS“关联企业规则”暂停延长至 2027 年 1 月 10 日，11 月 9 日刊登《联邦公报》",
+  "link": "https://www.nixonpeabody.com/insights/alerts/2026/11/06/bis-formally-suspends-the-affiliates-rule-until-january-10-2027"
+ },
+ {
+  "id": "2026-11-10-C3",
+  "date": "2026-11-10",
+  "title": "美国参议院周一辩论数据中心法案 BAAJA，要求大型数据中心承担更多电网升级成本",
+  "link": "https://www.reuters.com/legal/litigation/us-congress-gets-first-post-blue-wave-crack-data-centers-with-permitting-bill-2026-11-09/"
  }
 ]

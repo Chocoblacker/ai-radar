@@ -1,131 +1,5 @@
 [
  {
-  "id": "2026-10-27-A1",
-  "date": "2026-10-27",
-  "title": "Anthropic 公开 S-1 文件，拟纳斯达克上市「ANT」，上半年收入 163 亿美元",
-  "link": "https://www.reuters.com/legal/transactional/anthropic-opens-books-ais-explosive-growth-staggering-costs-2026-10-26/"
- },
- {
-  "id": "2026-10-27-A2",
-  "date": "2026-10-27",
-  "title": "Anthropic 下一代旗舰模型训练暂停逾月，4 个模型曾逃出测试环境",
-  "link": "https://www.reuters.com/legal/litigation/anthropic-discloses-month-long-training-pause-ai-security-breaches-ipo-filing-2026-10-26/"
- },
- {
-  "id": "2026-10-27-A3",
-  "date": "2026-10-27",
-  "title": "OpenAI 融资估值目标从 1.4 万亿美元下调至 1.25 万亿美元，投资者 10 月 30 日前承诺",
-  "link": "https://www.wealthprofessional.ca/investments/equity-markets/openai-trims-valuation-target-to-us125-trillion-after-investor-pushback/393861"
- },
- {
-  "id": "2026-10-27-A4",
-  "date": "2026-10-27",
-  "title": "OpenAI 发布 GPT-6.1 Terra：中端模型降价一半，主打计算机操作",
-  "link": "https://community.openai.com/t/gpt-6-1-terra-delivering-fast-and-capable-computer-use-at-a-lower-price/1409900"
- },
- {
-  "id": "2026-10-27-A5",
-  "date": "2026-10-27",
-  "title": "Meta 启动约 350 亿美元股票发行，另计划 600 亿美元市价增发，总规模可达 950 亿美元",
-  "link": "https://www.reuters.com/legal/transactional/meta-launches-35-billion-stock-offering-fund-ai-expansion-2026-10-26/"
- },
- {
-  "id": "2026-10-27-A6",
-  "date": "2026-10-27",
-  "title": "SpaceX 与 Apollo 达成约 400 亿美元 AI 芯片融资租赁协议",
-  "link": "https://www.reuters.com/business/media-telecom/spacex-enters-40-billion-deal-with-apollo-ai-chip-financing-2026-10-26/"
- },
- {
-  "id": "2026-10-27-A7",
-  "date": "2026-10-27",
-  "title": "初创安全公司 Cathedral 称其 AI Agent 不到 12 小时攻入 Anthropic 内部系统",
-  "link": "https://www.siliconreport.com/cathedral-says-ai-agents-found-paths-into-anthropic-s-systems"
- },
- {
-  "id": "2026-10-27-A8",
-  "date": "2026-10-27",
-  "title": "Cohere 披露开源模型 Qwen3.8 在沙箱测试中擅自探测本机并试图向北京阿里云桶上传文件",
-  "link": "https://cohere.com/blog/concerning-behaviour-popular-open-weight-ai-model"
- },
- {
-  "id": "2026-10-27-A9",
-  "date": "2026-10-27",
-  "title": "LiteLLM 供应链攻击事后分析出炉，祸根是 5 月泄露后未吊销的万能密钥",
-  "link": "https://www.theregister.com/security/2026/10/26/litellm-supply-chain-attack-started-with-an-exposed-master-key/5305544"
- },
- {
-  "id": "2026-10-27-A10",
-  "date": "2026-10-27",
-  "title": "IIT Madras 白皮书：AI 先吃掉初级岗位的重复性任务，可能切断年轻人积累经验的学徒通道",
-  "link": "https://www.thehindubusinessline.com/info-tech/ai-could-change-how-young-employees-start-their-careers-in-india-iit-madras-paper/article71625989.ece/amp/"
- },
- {
-  "id": "2026-10-27-A11",
-  "date": "2026-10-27",
-  "title": "SK 海力士 Q3 前瞻——营业利润率或近 78%，2027 年产能已售罄",
-  "link": "https://www.trendforce.com/news/2026/10/26/news-sk-hynix-3q-earnings-preview-record-profit-at-78-operating-margin-hbm4-ltas-solidigm-in-focus/"
- },
- {
-  "id": "2026-10-27-A12",
-  "date": "2026-10-27",
-  "title": "韩国政府拟下调 AI 数据中心电力需求预测，或削减 3–4GW",
-  "link": "https://www.mk.co.kr/en/business/12186102"
- },
- {
-  "id": "2026-10-27-B1",
-  "date": "2026-10-27",
-  "title": "巴西股汇债三杀：卢拉连任后 Ibovespa 收跌约 13.7%、雷亚尔暴跌逾 11%、盘中熔断",
-  "link": "https://asia.nikkei.com/business/markets/trading-halted-in-brazil-as-stocks-sink-following-lula-reelection"
- },
- {
-  "id": "2026-10-27-B2",
-  "date": "2026-10-27",
-  "title": "美股周一反弹：标普涨 0.7%、纳指涨 0.82%，半导体领涨约 3%",
-  "link": "https://investinglive.com/stocks/at-the-close-us-stock-markets-climb-monday-as-anthropic-files-for-ipo/"
- },
- {
-  "id": "2026-10-27-B3",
-  "date": "2026-10-27",
-  "title": "路透分析：中国 AI 泡沫已经破裂，科创 50 不到四个月跌 40%、蒸发约 4800 亿美元",
-  "link": "https://www.reuters.com/world/china/china-ai-bubble-has-already-burst-2026-10-26/"
- },
- {
-  "id": "2026-10-27-B4",
-  "date": "2026-10-27",
-  "title": "美联储本周按兵不动预期进一步强化，12 月加息成共识焦点",
-  "link": "https://www.reuters.com/business/fed-skip-october-raise-rates-again-december-nearly-all-economists-say-2026-10-20/"
- },
- {
-  "id": "2026-10-27-B5",
-  "date": "2026-10-27",
-  "title": "比特币周一再度跌破 8 万美元，以太坊约 2314 美元",
-  "link": "https://www.fool.com/coverage/stock-market-today/2026/10/26/crypto-market-today-oct-26-bitcoin-slips-below-usd80-000-as-fed-decision-looms/"
- },
- {
-  "id": "2026-10-27-B6",
-  "date": "2026-10-27",
-  "title": "油价从六个月高位回落、金价在 4000 美元上下企稳",
-  "link": "https://www.thehindubusinessline.com/markets/commodities/crude-oil-price-slips-from-six-month-highs-despite-supply-concerns/article71625467.ece"
- },
- {
-  "id": "2026-10-27-C1",
-  "date": "2026-10-27",
-  "title": "美财政部对华等国 AI/芯片对外投资限制提案 10 月 26 日正式刊登《联邦公报》",
-  "link": "https://www.executivegov.com/articles/treasury-outbound-investment-rule-update-biotech-hypersonics"
- },
- {
-  "id": "2026-10-27-C2",
-  "date": "2026-10-27",
-  "title": "美军被曝可在特朗普下令后 96 小时内对伊朗发动大规模打击",
-  "link": "https://www.jpost.com/middle-east/iran-news/article-912872"
- },
- {
-  "id": "2026-10-27-C3",
-  "date": "2026-10-27",
-  "title": "胡塞 10 月 26 日再袭利雅得机场与沙特东西输油管线",
-  "link": "https://www.anews.com.tr/middle-east/2026/10/26/yemens-houthis-say-they-targeted-riyadh-airport-and-saudi-oil-pipeline"
- },
- {
   "id": "2026-10-28-A1",
   "date": "2026-10-28",
   "title": "DeepMind 发布世界模型 Genie 4：实时交互模拟首次原生生成音频",
@@ -1570,5 +1444,107 @@
   "date": "2026-11-10",
   "title": "美国参议院周一辩论数据中心法案 BAAJA，要求大型数据中心承担更多电网升级成本",
   "link": "https://www.reuters.com/legal/litigation/us-congress-gets-first-post-blue-wave-crack-data-centers-with-permitting-bill-2026-11-09/"
+ },
+ {
+  "id": "2026-11-11-A1",
+  "date": "2026-11-11",
+  "title": "Anthropic 启动 IPO 路演，定价 70–78 美元、拟募资最高约 644 亿美元",
+  "link": "https://www.anthropic.com/news/roadshow-launch"
+ },
+ {
+  "id": "2026-11-11-A2",
+  "date": "2026-11-11",
+  "title": "谷歌 Gemini 4 Carbon 全面开放，同步预览多 Agent 协作工具 /swarm",
+  "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-carbon-now-available/"
+ },
+ {
+  "id": "2026-11-11-A3",
+  "date": "2026-11-11",
+  "title": "Anthropic 推出 Claude Meetings、Sheets、Whiteboards，Claude Data 正式 GA",
+  "link": "https://techcrunch.com/2026/11/10/anthropic-launches-claude-meetings-to-turn-workplace-discussions-into-plans-and-tasks/"
+ },
+ {
+  "id": "2026-11-11-A4",
+  "date": "2026-11-11",
+  "title": "OpenAI 在 ChatGPT 内推出 Businesses（beta），企业可认领主页、部署自有 Business Agent",
+  "link": "https://www.reuters.com/technology/openai-lets-businesses-claim-chatgpt-profiles-adds-ai-agents-us-e-commerce-firms-2026-11-10/"
+ },
+ {
+  "id": "2026-11-11-A5",
+  "date": "2026-11-11",
+  "title": "AMD 发布第六代 EPYC（Zen 6），最高 256 核、面向 Agent 与 GPU 机架的服务器 CPU 全面上市",
+  "link": "https://newsroom.amd.com/news/6th-gen-epyc-lead-ai-enterprise-computing/"
+ },
+ {
+  "id": "2026-11-11-A6",
+  "date": "2026-11-11",
+  "title": "台积电 10 月营收创历史新高，同比大涨近六成",
+  "link": "https://el7.ai/en/news/2026-11-10-tsmc-october-revenue-surges-60-on-robust-ai-chip-demand"
+ },
+ {
+  "id": "2026-11-11-A7",
+  "date": "2026-11-11",
+  "title": "NEAR AI 披露 SGLang 远程代码执行漏洞遭利用，约 100 名用户与 18 个 Agent 数据泄露",
+  "link": "https://crypto.news/near-ai-cloud-restored-security-breach-user-data/"
+ },
+ {
+  "id": "2026-11-11-A8",
+  "date": "2026-11-11",
+  "title": "澳大利亚强制 AI 公司上报“失控行为”并设专门监管机构，源于 OpenAI 智能体闯入政府医保网站",
+  "link": "https://www.reuters.com/world/australia-tightens-ai-oversight-rules-after-openai-agent-breached-government-2026-11-10/"
+ },
+ {
+  "id": "2026-11-11-B1",
+  "date": "2026-11-11",
+  "title": "美国 10 月 CPI 超预期：环比 +0.4%、核心 +0.3%，Waller 把 50bp 加息摆上台面",
+  "link": "https://srnnews.com/hot-october-inflation-report-rattles-markets/"
+ },
+ {
+  "id": "2026-11-11-B2",
+  "date": "2026-11-11",
+  "title": "美股周二回吐涨幅，英伟达收跌约 5.5%、微软盘中一度反超成全球第二大市值公司",
+  "link": "https://www.channelnewsasia.com/business/us-yields-rise-stocks-fall-inflation-data-boosts-odds-larger-december-rate-hike-6537931"
+ },
+ {
+  "id": "2026-11-11-B3",
+  "date": "2026-11-11",
+  "title": "中国 10 月出口 +35.2%、进口 +41.6%，前 10 个月顺差突破 1.04 万亿美元",
+  "link": "https://www.malaymail.com/news/money/2026/11/10/chinas-export-boom-drives-a-us1t-trade-surplus-ahead-of-high-stakes-trump-xi-apec-meeting/242686"
+ },
+ {
+  "id": "2026-11-11-B4",
+  "date": "2026-11-11",
+  "title": "比特币跌破 7.4 万美元至约 73,600 美元创近三个月新低，金价跌超 2%",
+  "link": "https://www.coindesk.com/markets/2026/11/10/live-news-traders-price-in-fed-rate-hike-for-december-as-bitcoin-and-gold-retreat?post-id=c4cae4b157b8"
+ },
+ {
+  "id": "2026-11-11-B5",
+  "date": "2026-11-11",
+  "title": "油价周二继续下跌，布伦特跌 2.4% 至约 90.3 美元/桶",
+  "link": "https://www.morningstar.com/news/dow-jones/202611105056/global-stocks-strengthen-as-oil-dips-below-90-a-barrel-update"
+ },
+ {
+  "id": "2026-11-11-B6",
+  "date": "2026-11-11",
+  "title": "中港股市周二小幅收涨，韩股芯片大反弹、摩根士丹利同日下调目标价",
+  "link": "https://hkbusinesswire.com/tech-gains-oil-price-falls-lift-hk-mainland-markets/"
+ },
+ {
+  "id": "2026-11-11-C1",
+  "date": "2026-11-11",
+  "title": "The Information 曝约 24 万枚英伟达芯片流入中国，涉资至少 75 亿美元",
+  "link": "https://www.telegraphindia.com/business/suspected-chinese-spy-used-nvidia-ceo-links-to-secure-7-5-billion-in-restricted-chip-shipments/cid/2188796"
+ },
+ {
+  "id": "2026-11-11-C2",
+  "date": "2026-11-11",
+  "title": "黄仁勋仍未确认出席 11 月 18 日国会简报；英伟达及黄仁勋遭股东集体诉讼",
+  "link": "https://aistockwire.com/blog/nvidia-nvda-jensen-huang-house-briefing-alice-huang-november-18-2026"
+ },
+ {
+  "id": "2026-11-11-C3",
+  "date": "2026-11-11",
+  "title": "参议院 73-25 通过 BAAJA 程序性投票，数据中心须承担新旧电网成本",
+  "link": "https://www.techtimes.com/articles/330362/20261110/senate-votes-73-25-advance-bill-making-data-centers-pay-old-new-grid-costs.htm"
  }
 ]

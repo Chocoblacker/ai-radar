@@ -14,7 +14,7 @@
    "散户认购通道（摩根大通牵头）正式开放"
   ],
   "outcome": null,
-  "probability": 0.6,
+  "probability": 0.75,
   "resolution_criteria": "纳斯达克官网 / SEC EDGAR 查询 ANT 的上市公告与首日交易记录",
   "resolved_date": null,
   "review": null,
@@ -31,6 +31,11 @@
     "date": "2026-11-04",
     "probability": 0.6,
     "reason": "S-1/A 显示 Q3 增速放缓（环比 +47%）、经营由盈转亏，WSJ 称机构要求估值从 2 万亿压至 1.5–1.6 万亿美元（2026-11-04-A1）"
+   },
+   {
+    "date": "2026-11-11",
+    "probability": 0.75,
+    "reason": "路演已启动、定价区间 70–78 美元已公布，CNBC 称 11 月 18 日定价、11 月 19 日首日交易（待证实）（2026-11-11-A1）"
    }
   ]
  },
@@ -301,13 +306,13 @@
    "SEC 新一轮问询",
    "Blackstone 评级扰动发酵"
   ],
-  "outcome": null,
+  "outcome": true,
   "probability": 0.6,
   "resolution_criteria": "向 SEC 提交的 S-1/A 修正案或承销商公告中的发行价区间",
-  "resolved_date": null,
-  "review": null,
+  "resolved_date": "2026-11-11",
+  "review": "命中：11 月 10 日 S-1/A 公布发行价区间 70–78 美元，比截止日早 5 天；区间本身低于市场早期预期，引用估值时须注明完全稀释口径。",
   "statement": "Anthropic 在 2026 年 11 月 15 日前公布 IPO 发行价区间",
-  "status": "open",
+  "status": "resolved",
   "thread": "anthropic-ipo",
   "updates": []
  },
@@ -322,13 +327,13 @@
    "路演定价区间公布",
    "OpenAI 融资关账延期拖累市场情绪"
   ],
-  "outcome": null,
+  "outcome": true,
   "probability": 0.7,
   "resolution_criteria": "媒体报道路演启动或发行价区间公布",
-  "resolved_date": null,
-  "review": null,
+  "resolved_date": "2026-11-11",
+  "review": "命中：11 月 10 日官宣启动路演并提交 S-1/A，定价 70–78 美元；启动日卡在 SEC 15 天规则的最早合法日，与预判一致。",
   "statement": "Anthropic 在 11 月 9 日当周按期启动 IPO 路演",
-  "status": "open",
+  "status": "resolved",
   "thread": "anthropic-ipo",
   "updates": []
  },

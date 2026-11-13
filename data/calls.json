@@ -41,6 +41,11 @@
     "date": "2026-11-12",
     "probability": 0.8,
     "reason": "路演首日认购踊跃，FT 称投行拟将定价抬到 70–78 美元区间之上、估值或超 1.5 万亿美元（待证实）；Bloomberg 与 CNBC 交叉印证需求强劲（2026-11-12-A7）"
+   },
+   {
+    "date": "2026-11-13",
+    "probability": 0.85,
+    "reason": "路演仅两天认购已达可供股份数倍，海外散户认购同步开启，定价上调概率进一步上升（2026-11-13-A3）"
    }
   ]
  },
@@ -106,6 +111,11 @@
     "date": "2026-11-07",
     "probability": 0.8,
     "reason": "非农新增 16.5 万远超预期、失业率降至 4.1%，Hammack、Barkin、Williams 三位联储官员同日放鹰；CME 12 月加息定价升至约 77%–78%（2026-11-07-B1、B4）"
+   },
+   {
+    "date": "2026-11-13",
+    "probability": 0.85,
+    "reason": "初请升至 20 万人、官员放鹰、CME 12 月加息 25bp 定价约 90.8%（2026-11-13-B2）"
    }
   ]
  },
@@ -266,13 +276,13 @@
    "11 月 11 日前 MSCI 是否宣布延迟公布",
    "Strategy 在名单公布前的资本运作"
   ],
-  "outcome": null,
+  "outcome": true,
   "probability": 0.75,
   "resolution_criteria": "MSCI 官方发布的最终名单",
-  "resolved_date": null,
-  "review": null,
+  "resolved_date": "2026-11-13",
+  "review": "命中。MSCI 最终名单同时剔除 Strategy（MSCI USA 指数）与 Metaplanet（MSCI 日本小盘指数），11 月 30 日收盘生效。筛查规则如期执行，名单与 10 月潜在影响名单一致；75% 的概率略偏保守。",
   "statement": "MSCI 在 2026 年 11 月 11 日公布的“非经营性公司”最终剔除名单中，同时包含 Strategy 与日本 Metaplanet（11 月 30 日收盘正式生效）",
-  "status": "open",
+  "status": "resolved",
   "thread": null,
   "updates": [
    {
@@ -447,6 +457,34 @@
    "BIS 发言人回应 NYT 调查",
    "获批公司被曝更多空壳关联",
    "白宫/商务部称审查程序无问题"
+  ],
+  "updates": [
+   {
+    "date": "2026-11-13",
+    "probability": 0.65,
+    "reason": "BIS 拟将 7 国纳入 AI 芯片许可范围、国会追责升级，H200 许可审查收紧压力上升（2026-11-13-C1、C2）"
+   }
+  ],
+  "status": "open",
+  "outcome": null,
+  "resolved_date": null,
+  "review": null
+ },
+ {
+  "id": "P-2026-11-13-01",
+  "created": "2026-11-13",
+  "thread": "nvidia-ceo-transition",
+  "statement": "英伟达在 2026 年 12 月 31 日前任命常任 CEO（非临时）",
+  "probability": 0.55,
+  "deadline": "2026-12-31",
+  "basis": [
+   "2026-11-13-A1"
+  ],
+  "resolution_criteria": "英伟达官网 / SEC 8-K 公告常任 CEO 任命",
+  "leading_indicators": [
+   "内部候选人浮现",
+   "董事会称遴选将持续数月",
+   "Kress 获明确转正信号"
   ],
   "updates": [],
   "status": "open",

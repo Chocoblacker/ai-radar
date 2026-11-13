@@ -14,6 +14,7 @@
 
 ## 最新 7 天
 
+- [2026-11-13（周五）](daily/2026/11/2026-11-13.md) —— 黄仁勋辞任英伟达 CEO、股价盘中一度跌 14.4%；Anthropic IPO 认购达可供股份数倍；BIS 拟将 7 国纳入 AI 芯片许可范围
 - [2026-11-12（周四）](daily/2026/11/2026-11-12.md) —— Anthropic IPO 拟提价、估值或超 1.5 万亿美元；CoreWeave Q3 营收增 168%、股价涨近 25%；路透曝黑名单大学仍买到 H200
 - [2026-11-11（周三）](daily/2026/11/2026-11-11.md) —— Anthropic IPO 路演启动、定价 70–78 美元；10 月 CPI 超预期、Waller 提 50bp；TI 曝约 24 万枚英伟达芯片流入中国
 
@@ -23,20 +24,20 @@
 
 - [2026-11-08（周日）](daily/2026/11/2026-11-08.md) —— WorkOS 失控 Agent 真实得手、协作实验泄露 token；美股周五芯片领涨反弹、全周仍跌 3.4%；NYT 调查 H200 许可审查现漏洞
 - [2026-11-07（周六）](daily/2026/11/2026-11-07.md) —— 非农新增 16.5 万远超预期、12 月加息定价升至约 77%–78%；亚洲股市暴跌、美股周五反弹；Kakao 与 Salesforce 同日推决策模型
-- [2026-11-06（周五）](daily/2026/11/2026-11-06.md) —— 美股周四暴跌、纳指 -5.5% 进入技术性修正；OpenAI 发布 GPT-6 Cyber；英国央行加息 25bp 至 4%
 
 
 
 ## 🔥 活跃故事线
 
-- [Anthropic IPO 冲刺](threads/anthropic-ipo.md) — 路演首日认购踊跃，投行拟提价、估值或超 1.5 万亿美元
+- [Anthropic IPO 冲刺](threads/anthropic-ipo.md) — 路演两天认购达可供股份数倍，定价上调在即
+- [英伟达 CEO 换帅](threads/nvidia-ceo-transition.md) — 黄仁勋突然辞任，CFO Kress 暂代，董事会启动继任者遴选
 - [AI 融资潮](threads/ai-funding-wave.md) — Fractile C 轮 7.2 亿美元、估值 70 亿美元；Rox B 轮 1 亿美元、估值 13 亿美元
 - [美联储利率路径](threads/fed-rate-path.md) — 高盛上调路径：2027 年 3 月或再加息，12 月 50bp 概率 13.5%
 - [中东局势与油价](threads/middle-east-oil.md) — 布伦特从两个月低点反弹至约 92 美元；金价一度跌破 4,015 美元
 - [存储/HBM 短缺](threads/memory-hbm-shortage.md) — 谷歌 TPU 扩张带来 HBM 外溢机会，定制芯片 HBM 需求 2024–2028 年或增 35 倍
 - [Agent 安全](threads/agent-security.md) — NEAR AI 披露 SGLang 漏洞致约 100 用户数据泄露；澳大利亚强制上报失控行为
-- [AI 出口管制](threads/ai-export-controls.md) — 路透曝黑名单大学仍买到 H200；国会推三项管制法案进 NDAA
-- [AI 资本开支"算账"](threads/ai-capex-reckoning.md) — CoreWeave Q3 营收 +168%、股价 +24.7%，美股 AI 股反弹
+- [AI 出口管制](threads/ai-export-controls.md) — BIS 拟将 7 国纳入许可范围堵租卡漏洞，国会追责升级
+- [AI 资本开支"算账"](threads/ai-capex-reckoning.md) — 黄仁勋辞任拖累 AI 硬件股，Nebius 营收 +571% 但股价跌约 16%
 - [数据中心监管](threads/data-center-regulation.md) — 参议院 73-25 通过 BAAJA 程序性投票，进入全院辩论
 
 [完整故事线总览 →](threads/index.md)

@@ -14,6 +14,7 @@
 
 ## 最新 7 天
 
+- [2026-11-14（周六）](daily/2026/11/2026-11-14.md) —— 英伟达董事会接洽 Arm CEO Haas；OpenAI 推出 ChatGPT Wallet；10 月 PPI 同比 +6.5% 创近四年最大涨幅
 - [2026-11-13（周五）](daily/2026/11/2026-11-13.md) —— 黄仁勋辞任英伟达 CEO、股价盘中一度跌 14.4%；Anthropic IPO 认购达可供股份数倍；BIS 拟将 7 国纳入 AI 芯片许可范围
 - [2026-11-12（周四）](daily/2026/11/2026-11-12.md) —— Anthropic IPO 拟提价、估值或超 1.5 万亿美元；CoreWeave Q3 营收增 168%、股价涨近 25%；路透曝黑名单大学仍买到 H200
 - [2026-11-11（周三）](daily/2026/11/2026-11-11.md) —— Anthropic IPO 路演启动、定价 70–78 美元；10 月 CPI 超预期、Waller 提 50bp；TI 曝约 24 万枚英伟达芯片流入中国
@@ -23,21 +24,20 @@
 - [2026-11-09（周一）](daily/2026/11/2026-11-09.md) —— 英伟达董事会启动独立调查黄仁勋遭 targeting；Claude Code 泄露 2,539 个密钥；比特币 ETF 单周净流出 12.8 亿美元
 
 - [2026-11-08（周日）](daily/2026/11/2026-11-08.md) —— WorkOS 失控 Agent 真实得手、协作实验泄露 token；美股周五芯片领涨反弹、全周仍跌 3.4%；NYT 调查 H200 许可审查现漏洞
-- [2026-11-07（周六）](daily/2026/11/2026-11-07.md) —— 非农新增 16.5 万远超预期、12 月加息定价升至约 77%–78%；亚洲股市暴跌、美股周五反弹；Kakao 与 Salesforce 同日推决策模型
 
 
 
 ## 🔥 活跃故事线
 
-- [Anthropic IPO 冲刺](threads/anthropic-ipo.md) — 路演两天认购达可供股份数倍，定价上调在即
-- [英伟达 CEO 换帅](threads/nvidia-ceo-transition.md) — 黄仁勋突然辞任，CFO Kress 暂代，董事会启动继任者遴选
-- [AI 融资潮](threads/ai-funding-wave.md) — Fractile C 轮 7.2 亿美元、估值 70 亿美元；Rox B 轮 1 亿美元、估值 13 亿美元
-- [美联储利率路径](threads/fed-rate-path.md) — 高盛上调路径：2027 年 3 月或再加息，12 月 50bp 概率 13.5%
-- [中东局势与油价](threads/middle-east-oil.md) — 布伦特从两个月低点反弹至约 92 美元；金价一度跌破 4,015 美元
+- [Anthropic IPO 冲刺](threads/anthropic-ipo.md) — 认购约 6 倍于可供股份，定价 11 月 18 日、首日交易 11 月 19 日
+- [英伟达 CEO 换帅](threads/nvidia-ceo-transition.md) — 董事会接洽 Arm CEO Haas，又声明未正式接洽任何人；分析师集体下调目标价
+- [AI 融资潮](threads/ai-funding-wave.md) — LangChain C 轮 3 亿美元、估值 30 亿美元；OpenAI 修订目标 11 月 15 日到期在即
+- [美联储利率路径](threads/fed-rate-path.md) — PPI 同比 +6.5% 近四年最大，10 年期破 5.10%，12 月加息 25bp 定价约 85%–88%
+- [中东局势与油价](threads/middle-east-oil.md) — 布伦特涨至约 96 美元，金价跌破 3900 美元；IEA 称四季度重回过剩
 - [存储/HBM 短缺](threads/memory-hbm-shortage.md) — 谷歌 TPU 扩张带来 HBM 外溢机会，定制芯片 HBM 需求 2024–2028 年或增 35 倍
-- [Agent 安全](threads/agent-security.md) — NEAR AI 披露 SGLang 漏洞致约 100 用户数据泄露；澳大利亚强制上报失控行为
-- [AI 出口管制](threads/ai-export-controls.md) — BIS 拟将 7 国纳入许可范围堵租卡漏洞，国会追责升级
-- [AI 资本开支"算账"](threads/ai-capex-reckoning.md) — 黄仁勋辞任拖累 AI 硬件股，Nebius 营收 +571% 但股价跌约 16%
+- [Agent 安全](threads/agent-security.md) — 微软 365 故障大范围恢复、尚未关闭；Notion AI 聊天记录泄露更新
+- [AI 出口管制](threads/ai-export-controls.md) — 议长称四法案搭车 NDAA 已成共识，国会传唤升级、白宫讨论撤换 Lutnick
+- [AI 资本开支"算账"](threads/ai-capex-reckoning.md) — AMD、博通轮动大涨，英伟达 5000 亿美元融资计划受阻
 - [数据中心监管](threads/data-center-regulation.md) — 参议院 73-25 通过 BAAJA 程序性投票，进入全院辩论
 
 [完整故事线总览 →](threads/index.md)
@@ -51,6 +51,7 @@
 - `monthly/YYYY-MM.md` — 每月 1 日发布的月报（最重要的 5 条故事线、预判成绩单）
 - `config/` — 规则配置：scope.md（日报结构）、knowledge.md（沉淀规则）、foresight.md（预判规则）
 - `data/` — 结构化数据：history.json（近 14 天事件索引）、threads.json（故事线）、calls.json（预判）
+
 
 
 

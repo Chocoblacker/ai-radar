@@ -1,107 +1,5 @@
 [
  {
-  "id": "2026-10-30-A1",
-  "date": "2026-10-30",
-  "title": "Cohere 完成加拿大史上最大私人融资：Series E 目标 70 亿加元，联邦政府直接入股",
-  "link": "https://www.newswire.ca/news-releases/cohere-announces-series-e-fundraise-targeting-cad-7-billion-to-meet-surging-global-demand-for-secure-sovereign-ai-811489745.html"
- },
- {
-  "id": "2026-10-30-A2",
-  "date": "2026-10-30",
-  "title": "美国司法部询问英伟达 129.3 亿美元收购 Hugging Face 对 AI 竞争的影响",
-  "link": "https://www.reuters.com/world/us-doj-is-inquiring-about-nvidias-purchase-hugging-face-sources-say-2026-10-28/"
- },
- {
-  "id": "2026-10-30-A3",
-  "date": "2026-10-30",
-  "title": "ServiceNow 与 OpenAI 扩大合作：ChatGPT 里直接跑企业工作流",
-  "link": "https://www.businesswire.com/news/home/20261028776113/en/ServiceNow-and-OpenAI-accelerate-enterprise-AI-from-models-and-operations-to-cybersecurity-and-agentic-development"
- },
- {
-  "id": "2026-10-30-A4",
-  "date": "2026-10-30",
-  "title": "三星 Q3 创纪录：营业利润 107.44 万亿韩元同比增 783%，HBM4 销售额环比翻三倍",
-  "link": "https://www.reuters.com/world/china/samsung-posts-record-profit-q3-ai-chip-boom-2026-10-29/"
- },
- {
-  "id": "2026-10-30-A5",
-  "date": "2026-10-30",
-  "title": "Sandisk FY27 Q1：营收 110.3 亿美元同比增 378%，NAND 涨价周期同样凶猛",
-  "link": "https://www.wsj.com/business/earnings/sandisk-profit-soars-as-ai-demand-drives-up-prices-6a83fffd"
- },
- {
-  "id": "2026-10-30-A6",
-  "date": "2026-10-30",
-  "title": "Neocloud 板块分化：CoreWeave 盘前跌近 6%，债市开始按发行人区别定价",
-  "link": "https://www.tipranks.com/news/why-are-coreweave-nebius-and-iren-stocks-tumbling-in-pre-market-today-oct-29"
- },
- {
-  "id": "2026-10-30-A7",
-  "date": "2026-10-30",
-  "title": "Anthropic 红队披露后续：CVE 细节公布，补丁覆盖现分歧",
-  "link": "https://www.cyberkendra.com/2026/10/anthropic-claude-exploit-chains-chrome-safari-linux.html"
- },
- {
-  "id": "2026-10-30-A8",
-  "date": "2026-10-30",
-  "title": "Arize 实测：网页一句伪装成常规对账步骤的注入让客服 Agent 在 28% 运行中泄露陌生客户数据",
-  "link": "https://arize.com/blog/indirect-prompt-injection-ai-agents/"
- },
- {
-  "id": "2026-10-30-A9",
-  "date": "2026-10-30",
-  "title": "GitHub Octoverse 2026：9 月单月 1.1 亿个 PR 由 Agent 首发",
-  "link": "https://github.blog/news-insights/octoverse/octoverse-commits-pushes-reach-new-highs-in-2026-as-developers-build-with-agents/"
- },
- {
-  "id": "2026-10-30-A10",
-  "date": "2026-10-30",
-  "title": "Gartner：近半供应链企业过去两年因 AI 减员，平均 10.5%",
-  "link": "https://www.gartner.com/en/newsroom/press-releases/2026-10-28-gartner-survey-shows-47-percent-of-supply-chains-reduced-headcount-by-an-average-of-10-5-percent-over-the-past-two-years-primarily-due-to-the-impact-of-ai"
- },
- {
-  "id": "2026-10-30-B1",
-  "date": "2026-10-30",
-  "title": "亚马逊 Q3：AWS 增速 39% 创 5 年最快，但 EPS miss、盘后大跌",
-  "link": "https://www.businesswire.com/news/home/20261028373648/en/Amazon.com-Announces-Third-Quarter-Results"
- },
- {
-  "id": "2026-10-30-B2",
-  "date": "2026-10-30",
-  "title": "Alphabet 周四常规交易再跌约 13%，AI 烧钱担忧蔓延至全天",
-  "link": "https://www.barchart.com/story/news/8539407/stocks-close-lower-as-alphabet-disappoints-and-chip-stocks-fall"
- },
- {
-  "id": "2026-10-30-B3",
-  "date": "2026-10-30",
-  "title": "9 月 PCE 反弹至 3.6%，Q3 GDP 超预期 3.4%，12 月加息定价升至约 85%",
-  "link": "https://www.tradingview.com/news/te_news:596308:0-us-pce-inflation-accelerated-as-expected/"
- },
- {
-  "id": "2026-10-30-B4",
-  "date": "2026-10-30",
-  "title": "拉加德宣布提前离任欧洲央行行长，2027 年 2 月 7 日生效",
-  "link": "https://www.reuters.com/business/finance/ecb-president-lagarde-resigns-effective-feb-7-2026-10-29/"
- },
- {
-  "id": "2026-10-30-B5",
-  "date": "2026-10-30",
-  "title": "Intel Q3：数据中心 AI 业务增长 78%，但 Q4 指引暴雷",
-  "link": "https://www.reuters.com/business/intel-signals-slower-growth-pc-market-remains-under-pressure-2026-10-29/"
- },
- {
-  "id": "2026-10-30-C1",
-  "date": "2026-10-30",
-  "title": "美 DHS 将华大基因系三家公司列入 UFLPA 实体清单",
-  "link": "https://www.theweek.in/wire-updates/international/2026/10/29/us-bans-imports-from-3-chinese-biotech-companies-over-forced-labour-allegations.html"
- },
- {
-  "id": "2026-10-30-C2",
-  "date": "2026-10-30",
-  "title": "美军中央司令部司令库珀上将亲赴白宫汇报对伊军事选项",
-  "link": "https://www.wsj.com/politics/national-security/top-admiral-briefs-trump-on-iran-attack-options-5bd6f13c"
- },
- {
   "id": "2026-10-31-A1",
   "date": "2026-10-31",
   "title": "Blackstone 警告：Anthropic IPO 后或仅获垃圾级信用评级",
@@ -1516,5 +1414,113 @@
   "date": "2026-11-13",
   "title": "四家非营利组织起诉五家 AI 公司，要求冻结前沿模型开发",
   "link": "https://stacks921.com/2026/11/12/openai-google-anthropic-hit-with-lawsuit-seeking-halt-to-frontier-ai-development/"
+ },
+ {
+  "id": "2026-11-14-A1",
+  "date": "2026-11-14",
+  "title": "英伟达董事会接洽 Arm CEO Haas 商谈接任，董事会否认正式接洽任何人",
+  "link": "https://www.koreatimes.co.kr/world/20261114/nvidia-approached-arm-ceo-haas-to-succeed-huang-ft-reports"
+ },
+ {
+  "id": "2026-11-14-A2",
+  "date": "2026-11-14",
+  "title": "OpenAI 推出 ChatGPT Wallet，dots 智能体可代用户付款",
+  "link": "https://www.reuters.com/technology/openai-launches-chatgpt-wallet-letting-ai-agents-pay-purchases-2026-11-13/"
+ },
+ {
+  "id": "2026-11-14-A3",
+  "date": "2026-11-14",
+  "title": "Anthropic IPO 认购约 6 倍，Amodei 与 Dimon 直播路演",
+  "link": "https://www.thehindubusinessline.com/markets/anthropic-ipo-draws-sixfold-demand-targets-14-trillion-valuation/article71696359.ece/amp/"
+ },
+ {
+  "id": "2026-11-14-A4",
+  "date": "2026-11-14",
+  "title": "LangChain 完成 3 亿美元 C 轮融资，估值 30 亿美元",
+  "link": "https://www.businesswire.com/news/home/20261113716429/en/LangChain-Raises-$300M-to-Enable-Every-Company-to-Own-Their-Intelligence"
+ },
+ {
+  "id": "2026-11-14-A5",
+  "date": "2026-11-14",
+  "title": "Thinking Machines 开源 Inkling 2 Small 权重，Apache 2.0 可商用",
+  "link": "https://aiagentupdate.com/post/thinking-machines-inkling-2-small-weights-2026-11-13"
+ },
+ {
+  "id": "2026-11-14-A6",
+  "date": "2026-11-14",
+  "title": "微软 365 故障大范围恢复，但尚未正式关闭",
+  "link": "https://www.reuters.com/business/finance/faxes-phones-bluetooth-microsoft-outage-forces-businesses-find-fixes-2026-11-13/"
+ },
+ {
+  "id": "2026-11-14-A7",
+  "date": "2026-11-14",
+  "title": "Notion AI 聊天记录泄露更新：第三方 API 密钥已通报发证方",
+  "link": "https://www.skimwire.com/notion-ai-fireworks-breach-chat-transcripts-what-to-do/"
+ },
+ {
+  "id": "2026-11-14-A8",
+  "date": "2026-11-14",
+  "title": "AMD、博通成英伟达动荡受益者：单日涨约 6%，本周 AMD 涨 30%",
+  "link": "https://www.zacks.com/stock/news/3029327/nvidia-leadership-crisis-opens-door-for-chip-rivals-etfs-in-focus"
+ },
+ {
+  "id": "2026-11-14-A9",
+  "date": "2026-11-14",
+  "title": "英伟达 5000 亿美元融资计划受阻，分析师集体下调目标价",
+  "link": "https://economictimes.indiatimes.com/news/international/world-news/nvidia-faced-pressure-to-boost-its-ai-backstop-before-jensen-huangs-exit/articleshow/135785679.cms"
+ },
+ {
+  "id": "2026-11-14-B1",
+  "date": "2026-11-14",
+  "title": "美国 10 月 PPI 同比涨 6.5%，创近四年最大涨幅",
+  "link": "https://985theriver.com/2026/11/13/us-producer-prices-rise-further-in-october/"
+ },
+ {
+  "id": "2026-11-14-B2",
+  "date": "2026-11-14",
+  "title": "比特币跌破 7 万美元，创 8 月 19 日以来新低",
+  "link": "https://www.freemalaysiatoday.com/category/business/2026/11/13/bitcoin-slides-below-us-70-000-as-inflation-concerns-hurt-crypto"
+ },
+ {
+  "id": "2026-11-14-B3",
+  "date": "2026-11-14",
+  "title": "美债 10 年期收益率破 5.10%，美元创 19 个月新高",
+  "link": "https://www.leadlagreport.com/the-dollar-is-at-a-19-month-high-and-the-yen-is-back-at-160/"
+ },
+ {
+  "id": "2026-11-14-B4",
+  "date": "2026-11-14",
+  "title": "油价周四跳涨近 4%、金价跌破 3900 美元至 13 个月低点；IEA 称四季度重回过剩",
+  "link": "https://www.tradingkey.com/analysis/commodities/metal/262303668-gold-price-forecast-trump-no-iran-deal-below-3900-october-ppi-rebound-tradingkey"
+ },
+ {
+  "id": "2026-11-14-B5",
+  "date": "2026-11-14",
+  "title": "港股跌 1.55% 三连跌，恒科跌 3.02%；A 股齐跌",
+  "link": "https://www.bastillepost.com/global/article/6357160-hong-kong-stocks-close-lower-40"
+ },
+ {
+  "id": "2026-11-14-B6",
+  "date": "2026-11-14",
+  "title": "美股周五盘中科技股再度走弱，费城半导体指数跌 6%",
+  "link": "https://beta.manilatimes.net/2026/11/13/business/foreign-business/wall-street-shakes-with-swings-for-nvidia-and-oil-prices-but-recovers-most-of-its-early-losses/2469267"
+ },
+ {
+  "id": "2026-11-14-C1",
+  "date": "2026-11-14",
+  "title": "国会议长称收紧对华芯片出口已成共识，四项法案拟搭车国防授权法案",
+  "link": "https://www.koreatimes.co.kr/world/20261113/chinas-access-to-nvidia-chips-in-doubt-as-curbs-gain-traction-in-us-congress"
+ },
+ {
+  "id": "2026-11-14-C2",
+  "date": "2026-11-14",
+  "title": "国会传唤升级：黄仁勋 12 月 1 日闭门访谈、12 月 3 日公开听证；白宫讨论撤换 Lutnick",
+  "link": "https://iol.co.za/news/world/2026-11-13-us-lawmakers-summon-nvidia-ex-ceo-after-affair-with-suspected-spy/"
+ },
+ {
+  "id": "2026-11-14-C3",
+  "date": "2026-11-14",
+  "title": "民主党议员启动 H200 调查：质疑 25% 关税变相收“出口税”",
+  "link": "https://techcrunch.com/2026/11/12/democrats-launch-nvidia-investigation-write-scathing-letter-on-huangs-scheme-with-trump/"
  }
 ]

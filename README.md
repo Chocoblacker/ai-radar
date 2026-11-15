@@ -14,6 +14,7 @@
 
 ## 最新 7 天
 
+- [2026-11-15（周日）](daily/2026/11/2026-11-15.md) —— 英伟达员工请愿要求黄仁勋回归、签名冲至约 9 万；微软 365 故障正式关闭；OpenAI 约 300 亿美元融资预判到期落空
 - [2026-11-14（周六）](daily/2026/11/2026-11-14.md) —— 英伟达董事会接洽 Arm CEO Haas；OpenAI 推出 ChatGPT Wallet；10 月 PPI 同比 +6.5% 创近四年最大涨幅
 - [2026-11-13（周五）](daily/2026/11/2026-11-13.md) —— 黄仁勋辞任英伟达 CEO、股价盘中一度跌 14.4%；Anthropic IPO 认购达可供股份数倍；BIS 拟将 7 国纳入 AI 芯片许可范围
 - [2026-11-12（周四）](daily/2026/11/2026-11-12.md) —— Anthropic IPO 拟提价、估值或超 1.5 万亿美元；CoreWeave Q3 营收增 168%、股价涨近 25%；路透曝黑名单大学仍买到 H200
@@ -23,21 +24,20 @@
 
 - [2026-11-09（周一）](daily/2026/11/2026-11-09.md) —— 英伟达董事会启动独立调查黄仁勋遭 targeting；Claude Code 泄露 2,539 个密钥；比特币 ETF 单周净流出 12.8 亿美元
 
-- [2026-11-08（周日）](daily/2026/11/2026-11-08.md) —— WorkOS 失控 Agent 真实得手、协作实验泄露 token；美股周五芯片领涨反弹、全周仍跌 3.4%；NYT 调查 H200 许可审查现漏洞
 
 
 
 ## 🔥 活跃故事线
 
-- [Anthropic IPO 冲刺](threads/anthropic-ipo.md) — 认购约 6 倍于可供股份，定价 11 月 18 日、首日交易 11 月 19 日
-- [英伟达 CEO 换帅](threads/nvidia-ceo-transition.md) — 董事会接洽 Arm CEO Haas，又声明未正式接洽任何人；分析师集体下调目标价
-- [AI 融资潮](threads/ai-funding-wave.md) — LangChain C 轮 3 亿美元、估值 30 亿美元；OpenAI 修订目标 11 月 15 日到期在即
-- [美联储利率路径](threads/fed-rate-path.md) — PPI 同比 +6.5% 近四年最大，10 年期破 5.10%，12 月加息 25bp 定价约 85%–88%
-- [中东局势与油价](threads/middle-east-oil.md) — 布伦特涨至约 96 美元，金价跌破 3900 美元；IEA 称四季度重回过剩
+- [Anthropic IPO 冲刺](threads/anthropic-ipo.md) — 承销行以 ITAR 为由拒接中港机构订单，认购仍约 6 倍；定价 11 月 18 日、首日交易 11 月 19 日
+- [英伟达 CEO 换帅](threads/nvidia-ceo-transition.md) — 员工请愿签名冲至约 9 万、马斯克签署；市值跌破 4 万亿美元；12 月 1 日访谈确认期限已过
+- [AI 融资潮](threads/ai-funding-wave.md) — OpenAI 约 300 亿美元融资预判 11 月 15 日到期落空；Anthropic IPO 定价 11 月 18 日
+- [美联储利率路径](threads/fed-rate-path.md) — CME 定价 12 月加息 25bp 占 88.5%、50bp 占 11.5%，加息概率 100%；高盛称 2027 年 3 月可能再加一次
+- [中东局势与油价](threads/middle-east-oil.md) — 布伦特 95.84 美元、WTI 88.56 美元，双双周跌约 2.5%；金价周跌约 4.5%
 - [存储/HBM 短缺](threads/memory-hbm-shortage.md) — 谷歌 TPU 扩张带来 HBM 外溢机会，定制芯片 HBM 需求 2024–2028 年或增 35 倍
-- [Agent 安全](threads/agent-security.md) — 微软 365 故障大范围恢复、尚未关闭；Notion AI 聊天记录泄露更新
-- [AI 出口管制](threads/ai-export-controls.md) — 议长称四法案搭车 NDAA 已成共识，国会传唤升级、白宫讨论撤换 Lutnick
-- [AI 资本开支"算账"](threads/ai-capex-reckoning.md) — AMD、博通轮动大涨，英伟达 5000 亿美元融资计划受阻
+- [Agent 安全](threads/agent-security.md) — 微软 365 故障正式关闭；钓鱼邮件冒充服务健康通知；Cursor 公布 10 月事件完整链条
+- [AI 出口管制](threads/ai-export-controls.md) — 中国 AI 出口管制草案征求意见已截止；Lutnick 同意 12 月 10 日作证
+- [AI 资本开支"算账"](threads/ai-capex-reckoning.md) — 英伟达市值跌破 4 万亿美元、单周蒸发约 5730 亿美元；费半收盘跌 3.4%
 - [数据中心监管](threads/data-center-regulation.md) — 参议院 73-25 通过 BAAJA 程序性投票，进入全院辩论
 
 [完整故事线总览 →](threads/index.md)

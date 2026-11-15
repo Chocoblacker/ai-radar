@@ -142,13 +142,13 @@
    "估值口径是否再次下调",
    "Anthropic IPO 认购热度（同类资产定价参照）"
   ],
-  "outcome": null,
+  "outcome": false,
   "probability": 0.2,
   "resolution_criteria": "Reuters / OpenAI 官方确认的融资公告",
-  "resolved_date": null,
-  "review": null,
+  "resolved_date": "2026-11-15",
+  "review": "落空：窗口内未见任何相关公告。最新为 CNBC 11 月 12 日称已募资 150 亿美元（单一信源、待证实）、彭博 11 月 6 日称首笔约 110 亿美元已到账，目标已下调至约 200 亿美元。复盘：20% 的概率仍偏高——\"宣布完成\"的标准比\"募到一部分钱\"严格得多。",
   "statement": "OpenAI 在 2026 年 11 月 15 日前宣布新一轮约 300 亿美元融资完成或已锁定足额投资人承诺，投后估值不低于 1.25 万亿美元",
-  "status": "open",
+  "status": "resolved",
   "thread": "ai-funding-wave",
   "updates": [
    {
@@ -160,6 +160,11 @@
     "date": "2026-11-02",
     "probability": 0.2,
     "reason": "WSJ 称首轮实际承诺仅约 110 亿美元，FT 称投后估值从 1.4 万亿降至约 1.25 万亿美元；募资目标已下调至约 200 亿美元，300 亿美元口径在 11 月 15 日前兑现的可能性极低（2026-11-02-A3）"
+   },
+   {
+    "date": "2026-11-15",
+    "probability": 0.2,
+    "reason": "窗口内未见任何相关公告，2026-11-15 到期结案落空（2026-11-15 预判结案）"
    }
   ]
  },
@@ -501,7 +506,13 @@
    "董事会称遴选将持续数月",
    "Kress 获明确转正信号"
   ],
-  "updates": [],
+  "updates": [
+   {
+    "date": "2026-11-15",
+    "probability": 0.55,
+    "reason": "员工请愿签名冲至约 9 万、马斯克签署，董事会尚未回应，遴选可能拖长（2026-11-15-A1）"
+   }
+  ],
   "status": "open",
   "outcome": null,
   "resolved_date": null,
@@ -523,7 +534,13 @@
    "发出传票",
    "英伟达以已辞任为由拒绝"
   ],
-  "updates": [],
+  "updates": [
+   {
+    "date": "2026-11-15",
+    "probability": 0.7,
+    "reason": "12 月 1 日访谈书面确认期限已过、未见报道，但 12 月 3 日听证是另一场安排（2026-11-15-C1）"
+   }
+  ],
   "status": "open",
   "outcome": null,
   "resolved_date": null,

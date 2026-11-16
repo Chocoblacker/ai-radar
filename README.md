@@ -14,6 +14,7 @@
 
 ## 最新 7 天
 
+- [2026-11-16（周一）](daily/2026/11/2026-11-16.md) —— 贝森特要求英伟达外部选帅、黄仁勋同意闭门作证；比特币周日新低 62,112 美元；NYT 披露 Lutnick 弱化版芯片规则
 - [2026-11-15（周日）](daily/2026/11/2026-11-15.md) —— 英伟达员工请愿要求黄仁勋回归、签名冲至约 9 万；微软 365 故障正式关闭；OpenAI 约 300 亿美元融资预判到期落空
 - [2026-11-14（周六）](daily/2026/11/2026-11-14.md) —— 英伟达董事会接洽 Arm CEO Haas；OpenAI 推出 ChatGPT Wallet；10 月 PPI 同比 +6.5% 创近四年最大涨幅
 - [2026-11-13（周五）](daily/2026/11/2026-11-13.md) —— 黄仁勋辞任英伟达 CEO、股价盘中一度跌 14.4%；Anthropic IPO 认购达可供股份数倍；BIS 拟将 7 国纳入 AI 芯片许可范围
@@ -22,7 +23,6 @@
 
 - [2026-11-10（周二）](daily/2026/11/2026-11-10.md) —— Anthropic 发布 Claude Fable 5.2（降价 20%）、Meta 推出 Muse Ember；美股周一大涨、英伟达逆势跌约 4.9%；中美稀土与 BIS 规则暂停双双延至 2027 年 1 月 10 日
 
-- [2026-11-09（周一）](daily/2026/11/2026-11-09.md) —— 英伟达董事会启动独立调查黄仁勋遭 targeting；Claude Code 泄露 2,539 个密钥；比特币 ETF 单周净流出 12.8 亿美元
 
 
 
@@ -30,14 +30,14 @@
 ## 🔥 活跃故事线
 
 - [Anthropic IPO 冲刺](threads/anthropic-ipo.md) — 承销行以 ITAR 为由拒接中港机构订单，认购仍约 6 倍；定价 11 月 18 日、首日交易 11 月 19 日
-- [英伟达 CEO 换帅](threads/nvidia-ceo-transition.md) — 员工请愿签名冲至约 9 万、马斯克签署；市值跌破 4 万亿美元；12 月 1 日访谈确认期限已过
+- [英伟达 CEO 换帅](threads/nvidia-ceo-transition.md) — 黄仁勋同意闭门访谈、日期待定；贝森特要求外部选帅、10 天内作答
 - [AI 融资潮](threads/ai-funding-wave.md) — OpenAI 约 300 亿美元融资预判 11 月 15 日到期落空；Anthropic IPO 定价 11 月 18 日
 - [美联储利率路径](threads/fed-rate-path.md) — CME 定价 12 月加息 25bp 占 88.5%、50bp 占 11.5%，加息概率 100%；高盛称 2027 年 3 月可能再加一次
 - [中东局势与油价](threads/middle-east-oil.md) — 布伦特 95.84 美元、WTI 88.56 美元，双双周跌约 2.5%；金价周跌约 4.5%
 - [存储/HBM 短缺](threads/memory-hbm-shortage.md) — 谷歌 TPU 扩张带来 HBM 外溢机会，定制芯片 HBM 需求 2024–2028 年或增 35 倍
-- [Agent 安全](threads/agent-security.md) — 微软 365 故障正式关闭；钓鱼邮件冒充服务健康通知；Cursor 公布 10 月事件完整链条
-- [AI 出口管制](threads/ai-export-controls.md) — 中国 AI 出口管制草案征求意见已截止；Lutnick 同意 12 月 10 日作证
-- [AI 资本开支"算账"](threads/ai-capex-reckoning.md) — 英伟达市值跌破 4 万亿美元、单周蒸发约 5730 亿美元；费半收盘跌 3.4%
+- [Agent 安全](threads/agent-security.md) — AWS 美东 1 区短暂连接问题后恢复；Qwen Code 自动模式高风险操作收紧
+- [AI 出口管制](threads/ai-export-controls.md) — NYT 披露 Lutnick 推动弱化版租赁规则；国会拟将管制法案搭车 NDAA；黄仁勋同意闭门访谈
+- [AI 资本开支"算账"](threads/ai-capex-reckoning.md) — 比特币周日再创四个月新低、爆仓约 20 亿美元；恒指一周跌 844 点
 - [数据中心监管](threads/data-center-regulation.md) — 参议院 73-25 通过 BAAJA 程序性投票，进入全院辩论
 
 [完整故事线总览 →](threads/index.md)

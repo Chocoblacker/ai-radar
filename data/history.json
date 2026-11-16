@@ -1,113 +1,5 @@
 [
  {
-  "id": "2026-11-02-A1",
-  "date": "2026-11-02",
-  "title": "DeepSeek 发布 super-agent 完整技术文章并开源原型，首日获 1500+ star",
-  "link": "https://chinamodelapi.com/news/deepseek-superagent-open-source"
- },
- {
-  "id": "2026-11-02-A2",
-  "date": "2026-11-02",
-  "title": "Nace AI 开源 27B 决策模型 Drex Max v1 权重",
-  "link": "https://www.marktechpost.com/2026/11/01/nace-ai-open-sources-drex-max-v1-local-inference/"
- },
- {
-  "id": "2026-11-02-A3",
-  "date": "2026-11-02",
-  "title": "OpenAI 募资首轮仅获约 110 亿美元承诺，估值从 1.4 万亿降至约 1.25 万亿美元",
-  "link": "https://www.manilatimes.net/2026/11/01/business/openai-slashes-funding-target-by-10-billion/2458702"
- },
- {
-  "id": "2026-11-02-A4",
-  "date": "2026-11-02",
-  "title": "Anthropic S-1 新细节：创始人拟捐出约 800 亿美元个人持股",
-  "link": "https://pivotnews.ai/five/anthropic-s-ipo-filing-pledges-cofounder-stock-and"
- },
- {
-  "id": "2026-11-02-A5",
-  "date": "2026-11-02",
-  "title": "英国主权 AI 基金参投 Fractile，约 7 亿美元融资、估值 65 亿美元",
-  "link": "https://www.telecompaper.com/news/uk-sovereign-ai-fund-invests-in-ai-chip-start-up-fractile-report--1587427"
- },
- {
-  "id": "2026-11-02-A6",
-  "date": "2026-11-02",
-  "title": "OpenAI 拟从 11 月 29 日起用 Daybreak Blue 会话数据训练模型",
-  "link": "https://www.abijita.com/openai-daybreak-blue-training-data/"
- },
- {
-  "id": "2026-11-02-A7",
-  "date": "2026-11-02",
-  "title": "纽约州 S.10731 法案：拟授权州政府限制前沿模型训练算力",
-  "link": "https://catenaa.com/markets/regulations/new-york-ai-safety-bill-raise-act/"
- },
- {
-  "id": "2026-11-02-A8",
-  "date": "2026-11-02",
-  "title": "Anthropic 11 月 3 日起对 4 款旧 Claude 模型启用文本水印",
-  "link": "https://fourweekmba.com/ai-anthropic-to-watermark-4-older-claude-models-for-eu-ai-act/"
- },
- {
-  "id": "2026-11-02-A9",
-  "date": "2026-11-02",
-  "title": "Cornell/Yale 研究：9/10 的 AI 模型会自己给自己“加额度”，绕开人类审批",
-  "link": "https://www.coindesk.com/tech/2026/11/01/ai-agents-bypassed-crypto-spending-limits-without-human-approval-researchers-find-in-a-new-test"
- },
- {
-  "id": "2026-11-02-A10",
-  "date": "2026-11-02",
-  "title": "Cisco Talos 披露 Windows 木马 VOLTA，用 LLM 给窃取的受害者做“价值评估”",
-  "link": "https://blog.talosintelligence.com/category/ai/"
- },
- {
-  "id": "2026-11-02-A11",
-  "date": "2026-11-02",
-  "title": "Aramco 完成收购沙特 HUMAIN 49% 股权，锁定 2030 年 3GW AI 数据中心目标",
-  "link": "https://el7.ai/en/news/2026-11-01-aramco-acquires-49-stake-in-humain-ai-for-2-6-billion"
- },
- {
-  "id": "2026-11-02-A12",
-  "date": "2026-11-02",
-  "title": "Intel 产能重组新细节：Nova Lake 首用 18A-P，Wildcat Lake 售罄",
-  "link": "https://hwbusters.com/news/intel-18a-capacity-shifts-from-panther-lake-to-xeon-as-memory-prices-choke-pc-demand/"
- },
- {
-  "id": "2026-11-02-A13",
-  "date": "2026-11-02",
-  "title": "KT Cloud 双轨扩产：目标 2031 年供应 1GW AI 数据中心容量",
-  "link": "https://en.sedaily.com/finance/2026/11/01/kt-cloud-pursues-two-track-push-to-expand-ai-data-centers"
- },
- {
-  "id": "2026-11-02-B1",
-  "date": "2026-11-02",
-  "title": "中国 10 月官方制造业 PMI 跌至 49.3，重回收缩区",
-  "link": "https://borneobulletin.com.bn/chinas-factory-activity-returns-to-contraction-in-october/"
- },
- {
-  "id": "2026-11-02-B2",
-  "date": "2026-11-02",
-  "title": "币安 11 月 1 日恢复提币，自报已补回 95% 被盗资产",
-  "link": "https://crypto.news/binance-reopens-bitcoin-withdrawals-after-hack/"
- },
- {
-  "id": "2026-11-02-B3",
-  "date": "2026-11-02",
-  "title": "加密周末：BTC 回升至约 7.8 万美元，现货 ETH ETF 单周净流出 4.31 亿美元",
-  "link": "https://crypto.news/crypto-prices-today-bitcoin-78k-lit-altcoin-gainers/"
- },
- {
-  "id": "2026-11-02-B4",
-  "date": "2026-11-02",
-  "title": "莫斯科交易所确认 12 月 1 日上线 BTC/ETH/USDT 交易",
-  "link": "https://crypto.news/moscow-exchange-bitcoin-ethereum-usdt-trading-december/"
- },
- {
-  "id": "2026-11-02-C1",
-  "date": "2026-11-02",
-  "title": "美日印澳 Quad 外长联合声明：谴责“经济胁迫”式出口管制",
-  "link": "https://asia.nikkei.com/politics/international-relations/indo-pacific/quad-ministers-discuss-supply-chains-denounce-export-restrictions"
- },
- {
   "id": "2026-11-03-A1",
   "date": "2026-11-03",
   "title": "Anthropic 修订 S-1：Q3 收入 169.6 亿美元，算力采购承诺 8954 亿美元",
@@ -1408,5 +1300,83 @@
   "date": "2026-11-15",
   "title": "美国商务部长 Lutnick 已同意 12 月 10 日自愿出席参议院银行委员会听证",
   "link": "https://www.tribuneindia.com/news/usa-news/us-commerce-secretary-lutnick-agrees-to-testify-before-senate-panel-over-nvidia-export-controls-controversy/"
+ },
+ {
+  "id": "2026-11-16-A1",
+  "date": "2026-11-16",
+  "title": "Claude Fable 5.2 不用图像模型、靠写代码\"画画\"，70 万笔模拟笔触画出近照片级画面",
+  "link": "https://the-decoder.com/anthropics-claude-fable-5-2-doesnt-generate-images-it-paints-them/"
+ },
+ {
+  "id": "2026-11-16-A2",
+  "date": "2026-11-16",
+  "title": "Qwen Code 发布 v0.27.4，托管 Agent 会话与自动模式安全收紧",
+  "link": "https://github.com/QwenLM/qwen-code/releases/tag/v0.27.4"
+ },
+ {
+  "id": "2026-11-16-A3",
+  "date": "2026-11-16",
+  "title": "开源项目 Pinky 让 MCP Agent 直接操作真机，人工网关卡住高风险操作",
+  "link": "https://github.com/DIYgod/pinky/releases/tag/v2026.1115.4"
+ },
+ {
+  "id": "2026-11-16-A4",
+  "date": "2026-11-16",
+  "title": "马斯克发帖警告：英伟达不少关键供应链协议是黄仁勋的\"握手协议\"，\"没有黄仁勋，至少部分关键协议会丢\"",
+  "link": "https://www.storyboard18.com/brand-marketing/without-jensen-critical-deals-will-be-lost-elon-musk-warns-nvidia-after-huangs-exit-114763.htm"
+ },
+ {
+  "id": "2026-11-16-A5",
+  "date": "2026-11-16",
+  "title": "AWS 美东 1 区 11 月 15 日出现约 2 小时 15 分钟的连接问题，已解决",
+  "link": "https://monitorworld.app/live/internet-outage-map"
+ },
+ {
+  "id": "2026-11-16-B1",
+  "date": "2026-11-16",
+  "title": "比特币周日再创四个月新低 62,112 美元，以太币跌至 1,711 美元",
+  "link": "https://www.businesstimes.com.sg/wealth/crypto-alternative-assets/bitcoin-hits-four-month-low-sell-wipes-out-us2-billion-crypto-bets"
+ },
+ {
+  "id": "2026-11-16-B2",
+  "date": "2026-11-16",
+  "title": "24 小时加密爆仓约 20 亿美元，32.9 万交易者被清算",
+  "link": "https://www.businesstimes.com.sg/wealth/crypto-alternative-assets/bitcoin-hits-four-month-low-sell-wipes-out-us2-billion-crypto-bets"
+ },
+ {
+  "id": "2026-11-16-B3",
+  "date": "2026-11-16",
+  "title": "美国比特币现货 ETF 七连流出，11 月累计流出约 21 亿美元",
+  "link": "https://decrypt.co/383282/bitcoin-etfs-lose-2-1-billion-november-outflow-streak-seven-days"
+ },
+ {
+  "id": "2026-11-16-B4",
+  "date": "2026-11-16",
+  "title": "恒生指数一周跌 844 点、收于 23,637 点，港股科技股领跌",
+  "link": "https://www.businesstoday.com.my/2026/11/15/nvidia-uncertainty-deepens-hong-kongs-tech-rout-hang-seng-sheds-844-points/"
+ },
+ {
+  "id": "2026-11-16-C1",
+  "date": "2026-11-16",
+  "title": "黄仁勋已同意赴众议院闭门作证，但 12 月 1 日日期未定、暂不发传票",
+  "link": "https://ameriledger.com/article/transcript-rep-john-moolenaar-on-face-the-nation-with-margaret-brennan"
+ },
+ {
+  "id": "2026-11-16-C2",
+  "date": "2026-11-16",
+  "title": "财长贝森特：英伟达须从外部选帅、\"大幅改组\"，10 天内就出口合规作答",
+  "link": "https://kwsn.com/2026/11/15/bessent-says-nvidia-must-go-outside-the-company-to-find-new-ceo/"
+ },
+ {
+  "id": "2026-11-16-C3",
+  "date": "2026-11-16",
+  "title": "NYT 调查：Lutnick 推动弱化版芯片规则，涉及其家族企业 Cantor 的客户",
+  "link": "https://www.business-standard.com/amp/world-news/nvidia-row-lutnick-pushed-to-weaken-chip-rules-linked-to-family-business-126111500775_1.html"
+ },
+ {
+  "id": "2026-11-16-C4",
+  "date": "2026-11-16",
+  "title": "FT：国会两党加速收紧对华 AI 芯片出口管制，拟搭上国防授权法案",
+  "link": "https://tradersunion.com/news/regulators/show/4255376-us-congress-ai-chip-export-china/"
  }
 ]

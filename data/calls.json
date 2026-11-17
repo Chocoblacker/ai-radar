@@ -69,7 +69,7 @@
    "主席 Warsh 公开表态的措辞转向"
   ],
   "outcome": null,
-  "probability": 0.8,
+  "probability": 0.9,
   "resolution_criteria": "美联储官网 12 月 FOMC 声明",
   "resolved_date": null,
   "review": null,
@@ -126,6 +126,11 @@
     "date": "2026-11-14",
     "probability": 0.88,
     "reason": "PPI 同比 +6.5% 近四年最大、CME 12 月加息 25bp 定价约 85%–88%（2026-11-14-B1、B3）"
+   },
+   {
+    "date": "2026-11-17",
+    "probability": 0.9,
+    "reason": "CME 12 月加息 25bp 定价升至约 93.7%（11 月 15 日为 88.5%），50bp 回落至约 6%（2026-11-17-B5）"
    }
   ]
  },
@@ -462,7 +467,7 @@
   "created": "2026-11-08",
   "thread": "ai-export-controls",
   "statement": "美国商务部（BIS）在 2026 年 11 月 30 日前就 H200 对华许可审查公开采取行动（收紧审批规则、撤销个别许可或发布正式回应）",
-  "probability": 0.6,
+  "probability": 0.75,
   "deadline": "2026-11-30",
   "basis": [
    "2026-11-08-C1"
@@ -483,6 +488,11 @@
     "date": "2026-11-14",
     "probability": 0.7,
     "reason": "国会共识四法案搭车 NDAA、传唤升级、白宫讨论撤换 Lutnick（2026-11-14-C1、C2）"
+   },
+   {
+    "date": "2026-11-17",
+    "probability": 0.75,
+    "reason": "BIS 发布临时最终规则，把远程租用先进 AI 芯片纳入许可（1200 万 TPP 阈值，约当 750 块 H100/H200）；但规则针对远程访问，H200 许可审查本身尚未单独表态（2026-11-17-C1）"
    }
   ],
   "status": "open",

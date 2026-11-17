@@ -1,113 +1,5 @@
 [
  {
-  "id": "2026-11-04-A1",
-  "date": "2026-11-04",
-  "title": "Anthropic 修订版 S-1 暴露增速放缓，WSJ 称机构要求 IPO 估值压到 1.5–1.6 万亿美元",
-  "link": "https://biz.chosun.com/en/en-it/2026/11/03/DSQRMRCYIVF3BHNGVMONJXPBEQ/"
- },
- {
-  "id": "2026-11-04-A2",
-  "date": "2026-11-04",
-  "title": "智元发布具身基础模型 GO-3 Preview，承诺年底前完全开源",
-  "link": "https://aapnews.aap.com.au/aapreleases/cision20261102AE87486"
- },
- {
-  "id": "2026-11-04-A3",
-  "date": "2026-11-04",
-  "title": "OpenAI 聘前美国陆军部长 Dan Driscoll 任国家安全高级顾问",
-  "link": "https://www.reuters.com/business/openai-taps-former-us-army-secretary-dan-driscoll-national-security-role-2026-11-03/"
- },
- {
-  "id": "2026-11-04-A4",
-  "date": "2026-11-04",
-  "title": "Fiserv 财报电话会：CEO 披露已裁员+承包商 3000 人，AI 降本目标翻倍至 10 亿美元",
-  "link": "https://www.pymnts.com/earnings/2026/fiserv-wants-ai-to-fix-what-decades-of-payments-growth-made-expensive/"
- },
- {
-  "id": "2026-11-04-A5",
-  "date": "2026-11-04",
-  "title": "Nice 宣布裁员约 500 人（全球 5%），官方称“为 AI 驱动的客服重新调配资源”",
-  "link": "https://www.calcalistech.com/ctechnews/article/selqjgkso"
- },
- {
-  "id": "2026-11-04-A6",
-  "date": "2026-11-04",
-  "title": "Virgin Media O2 宣布裁员“数千人”，加码 AI 客服与网络运维",
-  "link": "https://kuwaittimes.com/article/52928/business/virgin-media-o2-to-cut-thousands-of-jobs-slash-costs/amp/"
- },
- {
-  "id": "2026-11-04-A7",
-  "date": "2026-11-04",
-  "title": "Check Point 首披“Prompt Adware”：中文“海鸥”越狱包劫持 Codex/Claude Code 注入广告",
-  "link": "https://malware.news/t/free-the-model-sell-the-gateway-prompt-adware-hidden-in-jailbreak-bundles/126965"
- },
- {
-  "id": "2026-11-04-A8",
-  "date": "2026-11-04",
-  "title": "GitBook 遭“使用 AI Agent 的高度定向攻击”，撤销全部客户个人 API token",
-  "link": "https://decrypt.co/382465/crypto-docs-gitbook-ai-agent-security-breach"
- },
- {
-  "id": "2026-11-04-A9",
-  "date": "2026-11-04",
-  "title": "DDR5 大宗交易价格连续 9 个月上涨，达 2025 年底水平约 2 倍",
-  "link": "https://feng.ifeng.com/c/8xkXy0inQ0Y"
- },
- {
-  "id": "2026-11-04-A10",
-  "date": "2026-11-04",
-  "title": "FT 独家：英伟达要求云客户新合同至少 51% 服务卖给非中国企业",
-  "link": "https://www.cna.com.tw/news/ait/202611030199.aspx"
- },
- {
-  "id": "2026-11-04-B1",
-  "date": "2026-11-04",
-  "title": "苹果 Q4 超预期但毛利率指引“塌陷”，盘前一度跌约 4.5%",
-  "link": "https://www.apple.com"
- },
- {
-  "id": "2026-11-04-B2",
-  "date": "2026-11-04",
-  "title": "12 月加息预期升温：CME 定价 12 月加息概率约 73%–76%",
-  "link": "https://m.economictimes.com/markets/commodities/news/gold-edges-higher-on-softer-oil-us-midterm-elections-in-focus/amp_articleshow/135478813.cms"
- },
- {
-  "id": "2026-11-04-B3",
-  "date": "2026-11-04",
-  "title": "AI 概念股再遭抛售：Marvell 跌 12.7%、Oracle 跌 8.8%，费半指数跌 3.37%",
-  "link": "https://www.tipranks.com/news/u-s-stock-futures-fall-as-apple-earnings-disappoint-midterm-elections-in-focus"
- },
- {
-  "id": "2026-11-04-B4",
-  "date": "2026-11-04",
-  "title": "币安累计净流出升至 47.2 亿美元，BTC 守住 7.7 万美元",
-  "link": "https://www.coindesk.com/markets/2026/11/03/bitcoin-steadies-after-dip-to-usd76-300-as-etf-outflows-and-midterm-elections-weigh-on-crypto"
- },
- {
-  "id": "2026-11-04-B5",
-  "date": "2026-11-04",
-  "title": "港股三连阳、A 股 AI 硬件链补跌",
-  "link": "https://finance.sina.com.cn/roll/2026-11-03/doc-inixnpzn9774637.shtml"
- },
- {
-  "id": "2026-11-04-B6",
-  "date": "2026-11-04",
-  "title": "油价再跌超 7%：Brent 收 104.77 美元、WTI 收 96.46 美元",
-  "link": "https://m.economictimes.com/markets/commodities/news/gold-edges-higher-on-softer-oil-us-midterm-elections-in-focus/amp_articleshow/135478813.cms"
- },
- {
-  "id": "2026-11-04-C1",
-  "date": "2026-11-04",
-  "title": "美伊多哈谈判取得实质进展：美方被曝已批准卡塔尔草案备忘录",
-  "link": "https://tribune.com.pk/story/2638448/us-and-iran-review-draft-proposal-to-end-war-qatar-says?amp=1"
- },
- {
-  "id": "2026-11-04-C2",
-  "date": "2026-11-04",
-  "title": "霍尔木兹海峡三艘油轮触雷起火（伊方单方声称），沙特阿美加速扩建绕行管道",
-  "link": "https://www3.nhk.or.jp/nhkworld/news/20261103de69889/"
- },
- {
   "id": "2026-11-05-A1",
   "date": "2026-11-05",
   "title": "腾讯正式发布混元 Hy4：新增视觉理解与计算机使用能力，权重尚未开源",
@@ -1378,5 +1270,113 @@
   "date": "2026-11-17",
   "title": "Megaspeed 首次发声：否认转运指控，称 Alice Huang 已于 2025 年 8 月 30 日离职并启动外部调查",
   "link": "https://srnnews.com/megaspeed-says-alice-huang-left-company-in-august-2025/"
+ },
+ {
+  "id": "2026-11-18-A1",
+  "date": "2026-11-18",
+  "title": "Anthropic IPO：第三版 S-1 获批上市、订单簿关闭，彭博称预计定价在区间顶或之上；算力承诺约 9009 亿美元",
+  "link": "https://stocktwits.com/news-articles/markets/equity/anthropic-s-new-ipo-filing-shows-amazon-google-will-own-over-a-quarter-of-the-claude-maker/cNbaxuHR9Ws"
+ },
+ {
+  "id": "2026-11-18-A2",
+  "date": "2026-11-18",
+  "title": "OpenAI 发布 GPT-6.2 Astra 与 Sol，旗舰降价 20%",
+  "link": "https://community.openai.com/t/gpt-6-2-astra-and-sol-are-now-available/1417531"
+ },
+ {
+  "id": "2026-11-18-A3",
+  "date": "2026-11-18",
+  "title": "微软 Ignite：Copilot 变身「工作操作系统」，自研 MAI Code 2 进 GitHub Copilot",
+  "link": "https://news.microsoft.com/source/2026/11/17/microsoft-ignite-2026-empowering-human-ambition-intelligence-and-trust/"
+ },
+ {
+  "id": "2026-11-18-A4",
+  "date": "2026-11-18",
+  "title": "Google Gemini Tasks 向 6 国免费开放，可代打电话、订约、付款",
+  "link": "https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features/"
+ },
+ {
+  "id": "2026-11-18-A5",
+  "date": "2026-11-18",
+  "title": "黄仁勋首次公开表态愿回归，董事会同日设出口管制监督委员会",
+  "link": "https://techcrunch.com/2026/11/17/jensen-huang-says-he-would-be-honored-if-allowed-to-return-as-nvidia-ceo/"
+ },
+ {
+  "id": "2026-11-18-A6",
+  "date": "2026-11-18",
+  "title": "Isomorphic Labs 完成 50 亿美元 C 轮，AI 制药史上最大单轮融资",
+  "link": "https://techcrunch.com/2026/11/17/isomorphic-labs-raises-5b-as-it-looks-to-take-drug-candidates-to-clinical-trials/"
+ },
+ {
+  "id": "2026-11-18-A7",
+  "date": "2026-11-18",
+  "title": "AMD 完成 29 亿美元收购 Taalas，两天内连收两家 AI 公司",
+  "link": "https://www.unite.ai/amd-closes-taalas-deal-to-add-model-specific-ai-inference-chips/"
+ },
+ {
+  "id": "2026-11-18-A8",
+  "date": "2026-11-18",
+  "title": "英伟达 13F 减持英特尔 25%，SpaceX 跃升为最大披露持仓",
+  "link": "https://trendandticker.com/news/markets/semiconductors/2026-11-17/nvidia-nvda-13f-cuts-intel-stake-spacex-largest-holding"
+ },
+ {
+  "id": "2026-11-18-A9",
+  "date": "2026-11-18",
+  "title": "三星与 SK 海力士存储产线 1–9 月满负荷运转，三星内存均价同比涨 270%",
+  "link": "https://www.ajupress.com/view/20261117103521486"
+ },
+ {
+  "id": "2026-11-18-A10",
+  "date": "2026-11-18",
+  "title": "英伟达发布 Rubin HPC GPU，华硕四季度放量出货 Vera Rubin NVL72",
+  "link": "https://blogs.nvidia.com/blog/ian-buck-sc26/?preview_id=100058"
+ },
+ {
+  "id": "2026-11-18-B1",
+  "date": "2026-11-18",
+  "title": "美股周二盘中续跌，纳指创七个月盘中低点，尾盘跌幅收窄",
+  "link": "https://www.kitco.com/news/off-the-wire/2026-11-17/wall-st-falls-nvidia-earnings-key-ai-test-huang-says-open-return"
+ },
+ {
+  "id": "2026-11-18-B2",
+  "date": "2026-11-18",
+  "title": "亚洲周二普跌，韩国 KOSPI 跌破 5000 点、台股再跌 2.31%",
+  "link": "https://hkbusinesswire.com/tech-fears-continue-to-chip-away-at-regional-markets/"
+ },
+ {
+  "id": "2026-11-18-B3",
+  "date": "2026-11-18",
+  "title": "美国 10 月零售销售仅增 0.2%，进口价格涨 1.1%",
+  "link": "https://www.census.gov/retail/marts/www/marts_current.pdf?os"
+ },
+ {
+  "id": "2026-11-18-B4",
+  "date": "2026-11-18",
+  "title": "12 月加息 25bp 定价升至约 95%，50bp 概率大幅回落",
+  "link": "https://www.investopedia.com/5-things-to-know-stock-market-november-17-2026-12260055"
+ },
+ {
+  "id": "2026-11-18-B5",
+  "date": "2026-11-18",
+  "title": "比特币 6.5 万美元下方受阻、ETF 结束七连流出；黄金小幅反弹、布伦特 92–93 美元拉锯",
+  "link": "https://www.coindesk.com/markets/2026/11/17/bitcoin-remains-penned-in-near-usd64-000-even-as-etf-outflow-streak-ends"
+ },
+ {
+  "id": "2026-11-18-C1",
+  "date": "2026-11-18",
+  "title": "BIS 新规发布后各方回应：中国商务部威胁反制，新加坡寻求「可信准入」",
+  "link": "https://www.reuters.com/world/china/china-says-it-will-take-countermeasures-if-us-imposes-new-chip-curbs-2026-11-17/"
+ },
+ {
+  "id": "2026-11-18-C2",
+  "date": "2026-11-18",
+  "title": "美商务部与司法部确认 Megaspeed 调查始于 2024 年，英伟达未被指控违规",
+  "link": "https://www.devdiscourse.com/article/international/4007946-us-releases-details-ofmegaspeed-probe-says-investigation-began-in-2024?amp"
+ },
+ {
+  "id": "2026-11-18-C3",
+  "date": "2026-11-18",
+  "title": "美伊局势升级：伊朗袭击巴林美军雷达，霍尔木兹油轮二度遇袭、1 名船员失踪",
+  "link": "https://www.reuters.com/world/middle-east/crew-abandon-gas-tanker-off-hormuz-after-being-hit-by-projectile-sources-say-2026-11-17/"
  }
 ]

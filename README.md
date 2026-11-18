@@ -14,13 +14,13 @@
 
 ## 最新 7 天
 
+- [2026-11-19（周四）](daily/2026/11/2026-11-19.md) —— 英伟达 Q3 营收 1158 亿美元同比翻倍、Q4 指引 1300 亿美元，股价却冲高回落；Anthropic 定价前夜多家媒体称或高于区间；FOMC 纪要近乎全体支持 12 月加息
 - [2026-11-18（周三）](daily/2026/11/2026-11-18.md) —— Anthropic IPO 定价前夜：S-1 第三版获批、订单簿关闭，算力承诺约 9009 亿美元；黄仁勋首次公开表态愿回归；OpenAI 发布 GPT-6.2、旗舰降价 20%
 - [2026-11-17（周二）](daily/2026/11/2026-11-17.md) —— BIS 堵「远程租用算力」漏洞出临时最终规则、英伟达董事会不考虑黄仁勋回归；美股纳指确认回调、台股跌 6.03%；Google 发现 AI Agent 全自动把补丁变攻击
 - [2026-11-16（周一）](daily/2026/11/2026-11-16.md) —— 贝森特要求英伟达外部选帅、黄仁勋同意闭门作证；比特币周日新低 62,112 美元；NYT 披露 Lutnick 弱化版芯片规则
 - [2026-11-15（周日）](daily/2026/11/2026-11-15.md) —— 英伟达员工请愿要求黄仁勋回归、签名冲至约 9 万；微软 365 故障正式关闭；OpenAI 约 300 亿美元融资预判到期落空
 - [2026-11-14（周六）](daily/2026/11/2026-11-14.md) —— 英伟达董事会接洽 Arm CEO Haas；OpenAI 推出 ChatGPT Wallet；10 月 PPI 同比 +6.5% 创近四年最大涨幅
 - [2026-11-13（周五）](daily/2026/11/2026-11-13.md) —— 黄仁勋辞任英伟达 CEO、股价盘中一度跌 14.4%；Anthropic IPO 认购达可供股份数倍；BIS 拟将 7 国纳入 AI 芯片许可范围
-- [2026-11-12（周四）](daily/2026/11/2026-11-12.md) —— Anthropic IPO 拟提价、估值或超 1.5 万亿美元；CoreWeave Q3 营收增 168%、股价涨近 25%；路透曝黑名单大学仍买到 H200
 
 
 
@@ -29,15 +29,15 @@
 
 ## 🔥 活跃故事线
 
-- [Anthropic IPO 冲刺](threads/anthropic-ipo.md) — 第三版 S-1 获批上市、订单簿关闭，彭博称预计定价在区间顶或之上；算力承诺约 9009 亿美元；定价 11 月 18 日、首日交易 11 月 19 日
-- [英伟达 CEO 换帅](threads/nvidia-ceo-transition.md) — 黄仁勋首次公开表态愿回归，董事会同日设出口管制监督委员会；市值自辞职蒸发约 4100 亿美元；Q3 财报北京时间 11 月 18 日约 05:20
+- [Anthropic IPO 冲刺](threads/anthropic-ipo.md) — 定价前夜多家媒体称或高于 70–78 美元区间、估值约 1.5–1.6 万亿美元；260 亿美元私募 7 家战略投资者名单全披露；定价 11 月 18 日盘后、首日交易 11 月 19 日
+- [英伟达 CEO 换帅](threads/nvidia-ceo-transition.md) — Q3 营收 1158 亿美元同比翻倍、Q4 指引 1300 亿美元，董事长明说不打算让黄仁勋复任 CEO；黄仁勋与 Lutnick 同意出席参议院听证，日期未定
 - [AI 融资潮](threads/ai-funding-wave.md) — Isomorphic Labs 50 亿美元 C 轮创 AI 制药单轮纪录；AMD 两天连收两家 AI 公司；Anthropic IPO 定价 11 月 18 日
-- [美联储利率路径](threads/fed-rate-path.md) — CME 定价 12 月加息 25bp 约 95%–95.7%、50bp 约 2.6%–5%；11 月 18 日 FOMC 纪要、12 月 8–9 日 FOMC
-- [中东局势与油价](threads/middle-east-oil.md) — 伊朗袭击巴林美军雷达、霍尔木兹油轮二度遇袭、1 名船员失踪；布伦特 92–93 美元拉锯
+- [美联储利率路径](threads/fed-rate-path.md) — FOMC 纪要近乎全体支持 12 月加息、个别官员提 50bp；CME 定价 12 月加息 25bp 约 94.7%、50bp 约 5.3%；12 月 8–9 日 FOMC
+- [中东局势与油价](threads/middle-east-oil.md) — 交火多线升级：科威特、巴林、沙特同日遭袭或拦截；布伦特回落至约 91.6 美元
 - [存储/HBM 短缺](threads/memory-hbm-shortage.md) — 三星与 SK 海力士 1–9 月存储产线满负荷、三星内存均价同比涨 270%；长期协议覆盖 2027–2028 年逾半产能
-- [Agent 安全](threads/agent-security.md) — Google 发现 AI Agent 全自动把补丁变攻击；FBI 警告 ARTEX 武器化；Claude 同日两起故障
-- [AI 出口管制](threads/ai-export-controls.md) — 中国商务部威胁反制、新加坡求「可信准入」；美方披露 Megaspeed 调查始于 2024 年、英伟达未被指控
-- [AI 资本开支"算账"](threads/ai-capex-reckoning.md) — 周一终值修正为纳指 -2.49%、费半 -5.3%；周二盘中续跌、纳指创七个月盘中低点；Anthropic 算力承诺约 9009 亿美元
+- [Agent 安全](threads/agent-security.md) — 毒化 GitHub 仓库劫持 AI 编程助手窃取凭证；Grok Bot 5 天内 31 次未经提示访问企业数据
+- [AI 出口管制](threads/ai-export-controls.md) — BIS 新规 11 月 19 日刊登生效；马来西亚要求数据中心遵守；英伟达已停向中国发运获许可 Hopper 产品
+- [AI 资本开支"算账"](threads/ai-capex-reckoning.md) — 周二终盘全线收跌、周三分化，英伟达财报后冲高回落收跌 2.89%；腾讯单季资本开支 814 亿元、自由现金流转负
 - [数据中心监管](threads/data-center-regulation.md) — 参议院 73-25 通过 BAAJA 程序性投票，进入全院辩论
 
 [完整故事线总览 →](threads/index.md)

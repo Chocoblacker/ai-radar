@@ -1,113 +1,5 @@
 [
  {
-  "id": "2026-11-05-A1",
-  "date": "2026-11-05",
-  "title": "腾讯正式发布混元 Hy4：新增视觉理解与计算机使用能力，权重尚未开源",
-  "link": "https://www.tencent.com/tencent-launches-hy4-joining-the-ranks-of-the-worlds-leading-open-source-ai-models/"
- },
- {
-  "id": "2026-11-05-A2",
-  "date": "2026-11-05",
-  "title": "ChatGPT 上线 GIF 生成功能，随 Images 2.6 模型推送",
-  "link": "https://the-decoder.com/chatgpt-can-now-turn-text-prompts-and-photos-into-animated-gifs-with-openais-images-2-6-model/"
- },
- {
-  "id": "2026-11-05-A3",
-  "date": "2026-11-05",
-  "title": "AI 推理云 Fal 完成 13 亿美元 F 轮，估值翻倍至 160 亿美元",
-  "link": "https://techcrunch.com/2026/11/03/ai-inference-startup-fal-doubles-its-valuation-to-16b-as-demand-surges/"
- },
- {
-  "id": "2026-11-05-A4",
-  "date": "2026-11-05",
-  "title": "Canva 裁员/重组 1271 人（22%）：\"AI 太贵了\"的裁员",
-  "link": "https://www.businesstimes.com.sg/companies-markets/telcos-media-tech/canva-announces-layoffs-job-changes-about-22-workforce?ref=article-see-also"
- },
- {
-  "id": "2026-11-05-A5",
-  "date": "2026-11-05",
-  "title": "NICE 发布 Q3 财报：AI 年经常性收入 +46%，利润下滑并确认裁员 500 人",
-  "link": "https://www.calcalistech.com/ctechnews/article/6apcspzm8"
- },
- {
-  "id": "2026-11-05-A6",
-  "date": "2026-11-05",
-  "title": "Oumi 发布\"做 AI 的 AI\"FAiE：Agent 自动开发+训练一体化",
-  "link": "https://www.businesswire.com/news/home/20261104154139/en/Oumi-Launches-the-Agent-That-Builds-Trains-and-Continuously-Improves-AI-Agents"
- },
- {
-  "id": "2026-11-05-A7",
-  "date": "2026-11-05",
-  "title": "Agent 治理产品化两连发：Redis Iris 扩展、Leidos 推跨供应商管控平台",
-  "link": "https://www.prnewswire.co.uk/news-releases/redis-expands-redis-iris-to-give-ai-agents-the-memory-context-and-messaging-they-need-to-get-to-production-302925456.html"
- },
- {
-  "id": "2026-11-05-A8",
-  "date": "2026-11-05",
-  "title": "xAI 用 8 台退役 747 发动机改装发电机组，给 Colossus 2 供电约 400MW",
-  "link": "https://techcrunch.com/2026/11/03/data-centers-are-turning-to-old-jet-engines-as-the-wait-for-power-grows/"
- },
- {
-  "id": "2026-11-05-A9",
-  "date": "2026-11-05",
-  "title": "长鑫存储服务器级 DRAM 预计年底前送样，采用 4F² 架构",
-  "link": "https://invezz.com/news/2026/11/04/micron-sk-hynix-sandisk-stocks-fall-why-dems-texas-win-is-spooking-investors/"
- },
- {
-  "id": "2026-11-05-A10",
-  "date": "2026-11-05",
-  "title": "对华算力管控同日两连击：Oracle 据报取消与腾讯约 70 亿美元算力租赁，英伟达只交付中国 RTX Pro 5500 订单约 1%",
-  "link": "https://invezz.com/news/2026/11/04/oracle-stock-in-green-despite-reported-7b-tencent-chip-deal-cancellation/"
- },
- {
-  "id": "2026-11-05-B1",
-  "date": "2026-11-05",
-  "title": "中期选举后市场：美元周三创三周最大单日跌幅、美股盘中大涨约 2%",
-  "link": "https://www.globalbankingandfinance.com/dollar-dips-us-midterm-results-focus/"
- },
- {
-  "id": "2026-11-05-B2",
-  "date": "2026-11-05",
-  "title": "12 月加息定价升至 82.6%，ADP 10 月新增 8.6 万超预期",
-  "link": "https://www.globalbankingandfinance.com/dollar-dips-us-midterm-results-focus/"
- },
- {
-  "id": "2026-11-05-B3",
-  "date": "2026-11-05",
-  "title": "美财政部季度再融资声明：1250 亿美元规模不变，7 年期券种改季度发行",
-  "link": "https://home.treasury.gov/news/press-releases/sb0678"
- },
- {
-  "id": "2026-11-05-B4",
-  "date": "2026-11-05",
-  "title": "原油暴跌约 9%：布伦特收 94.29 美元，战争溢价一周蒸发约 25%",
-  "link": "https://www.businessday.co.za/markets/2026-11-04-oil-prices-plunge-as-trumps-midterm-defeat-raises-hopes-of-peace/"
- },
- {
-  "id": "2026-11-05-B5",
-  "date": "2026-11-05",
-  "title": "A 股/港股 11 月 4 日大涨：科创 50 +9.92%、恒指连升四日",
-  "link": "https://chriswealthlab.com/asia-market-close-2026-11-04/"
- },
- {
-  "id": "2026-11-05-B6",
-  "date": "2026-11-05",
-  "title": "BTC 回升至 7.8 万附近；币安 63 亿美元被盗初步报告：FBI 归因朝鲜 TraderTraitor",
-  "link": "https://www.coindesk.com/markets/2026/11/04/bitcoin-rebounds-from-midterm-dip-as-defi-leads-gains"
- },
- {
-  "id": "2026-11-05-C1",
-  "date": "2026-11-05",
-  "title": "中期选举：民主党赢下众议院和参议院两院",
-  "link": "https://apnews.com/projects/elections-2026/?ap_doc=ap%2Frg1%2FWyJhcC92Mi8yMDI2MTEwMy9sLzk5OTk5OS9VUy9uIixbIjE3ODUwNiIsIjE3ODUwNyIsIjE3ODUwOCJdXQ"
- },
- {
-  "id": "2026-11-05-C2",
-  "date": "2026-11-05",
-  "title": "美伊升级：特朗普证实美军空袭 Qeshm 岛防空设施，伊朗称谈判无突破",
-  "link": "https://www.aljazeera.com/news/2026/11/4/iran-says-us-reply-to-hormuz-plan-unconvincing-trump-confirms-strikes"
- },
- {
   "id": "2026-11-06-A1",
   "date": "2026-11-06",
   "title": "OpenAI 发布 GPT-6 Cyber：一次运行验证 948 个 Linux 内核提权漏洞，成本 121 万美元",
@@ -1378,5 +1270,113 @@
   "date": "2026-11-18",
   "title": "美伊局势升级：伊朗袭击巴林美军雷达，霍尔木兹油轮二度遇袭、1 名船员失踪",
   "link": "https://www.reuters.com/world/middle-east/crew-abandon-gas-tanker-off-hormuz-after-being-hit-by-projectile-sources-say-2026-11-17/"
+ },
+ {
+  "id": "2026-11-19-A1",
+  "date": "2026-11-19",
+  "title": "Anthropic IPO 定价前夜：多家媒体称或高于 70–78 美元区间，估值约 1.5–1.6 万亿美元",
+  "link": "https://en.sedaily.com/world/2026/11/18/anthropic-ipo-price-set-to-top-range-as-big-money-piles-in"
+ },
+ {
+  "id": "2026-11-19-A2",
+  "date": "2026-11-19",
+  "title": "GPT-6.2 发布次日：独立评测打折「降本」说法，Altman 承认易用性有问题",
+  "link": "https://decrypt.co/383539/speaks-tongues-only-6-2-astra-understands-why-early-testers-hate-openai-new-model"
+ },
+ {
+  "id": "2026-11-19-A3",
+  "date": "2026-11-19",
+  "title": "常驻 Agent 扎堆：Devin Bots 带队干活、Perplexity 最多 16 个 Agent 组队互查",
+  "link": "https://cryptobriefing.com/cognition-launches-devin-bots-ai-coding/"
+ },
+ {
+  "id": "2026-11-19-A4",
+  "date": "2026-11-19",
+  "title": "GitHub Copilot 能在真实浏览器里点按钮、填表单，Fusion 扩展到网页与移动端",
+  "link": "https://www.neowin.net/news/github-copilot-can-now-click-buttons-and-fill-out-forms-in-your-browser/"
+ },
+ {
+  "id": "2026-11-19-A5",
+  "date": "2026-11-19",
+  "title": "亚马逊被曝接近以最高 75 亿美元收购以色列 AI 创业公司 Decart",
+  "link": "https://www.calcalistech.com/ctechnews/article/uckadwd7r"
+ },
+ {
+  "id": "2026-11-19-A6",
+  "date": "2026-11-19",
+  "title": "英伟达 Q3 营收 1158 亿美元同比翻倍，Q4 指引 1300 亿美元；董事长明说不打算让黄仁勋复任 CEO",
+  "link": "https://www.zacks.com/stock/news/3031586/nvidia-q3-earnings-beat-on-data-center-demand-rubin-ramp-up"
+ },
+ {
+  "id": "2026-11-19-A7",
+  "date": "2026-11-19",
+  "title": "Bitdefender：毒化 GitHub 仓库劫持 AI 编程助手，窃取开发者凭证",
+  "link": "https://cybersecuritynews.com/hackers-hijack-ai-coding-agents/"
+ },
+ {
+  "id": "2026-11-19-A8",
+  "date": "2026-11-19",
+  "title": "xAI Grok Bot 被曝 5 天内 31 次未经提示擅自访问企业数据，xAI 称是内置功能",
+  "link": "https://www.darkreading.com/application-security/grok-bots-corporate-data-without-user-approval"
+ },
+ {
+  "id": "2026-11-19-A9",
+  "date": "2026-11-19",
+  "title": "加州发布前沿 AI 安全新建议：强制标准、独立核查、48 小时报告",
+  "link": "https://www.gov.ca.gov/2026/11/18/governor-newsoms-nation-leading-ai-safety-framework-is-getting-even-stronger-as-california-releases-next-steps-on-mandatory-safety-standards-and-oversight/"
+ },
+ {
+  "id": "2026-11-19-B1",
+  "date": "2026-11-19",
+  "title": "美股周三收盘分化，英伟达财报利好未能守住涨幅；周二终盘全线收跌",
+  "link": "https://srnnews.com/nasdaq-poised-for-higher-open-as-nvidia-forecast-eases-ai-concerns/"
+ },
+ {
+  "id": "2026-11-19-B2",
+  "date": "2026-11-19",
+  "title": "FOMC 纪要：近乎全体官员支持 12 月加息，个别官员提 50bp",
+  "link": "https://www.ttnews.com/articles/fed-officials-back-rate-hike"
+ },
+ {
+  "id": "2026-11-19-B3",
+  "date": "2026-11-19",
+  "title": "亚洲周三：KOSPI 反弹近 2% 重回 5000 点，恒生跌 0.91%",
+  "link": "https://en.infomaxai.com/news/articleView.html?idxno=149186"
+ },
+ {
+  "id": "2026-11-19-B4",
+  "date": "2026-11-19",
+  "title": "腾讯 Q3：营收略低于预期，单季资本开支 814 亿元、超过去年全年",
+  "link": "https://www.prnewswire.com/apac/news-releases/tencent-announces-2026-third-quarter-results-302943839.html"
+ },
+ {
+  "id": "2026-11-19-B5",
+  "date": "2026-11-19",
+  "title": "比特币逼近 6.25 万美元，黄金跌破 3800 美元，布伦特回落至约 91.6 美元",
+  "link": "https://finnhub.io/?q=%22BTC%22"
+ },
+ {
+  "id": "2026-11-19-B6",
+  "date": "2026-11-19",
+  "title": "美国 10 月成屋待完成销售创历史最低，高抵押贷款利率压制需求",
+  "link": "https://hi99.com/2026/11/18/us-pending-home-sales-tumble-to-record-low-in-october/"
+ },
+ {
+  "id": "2026-11-19-C1",
+  "date": "2026-11-19",
+  "title": "特朗普抵达深圳，双边会晤定在 11 月 19 日；芯片管制是否在议程上说法冲突",
+  "link": "https://bworldonline.com/world/2026/11/18/794742/chinas-xi-calls-for-free-and-open-trade-at-apec-summit/"
+ },
+ {
+  "id": "2026-11-19-C2",
+  "date": "2026-11-19",
+  "title": "BIS 新规 11 月 19 日刊登生效在即：马来西亚要求数据中心遵守，英伟达已停向中国发运获许可芯片",
+  "link": "https://bworldonline.com/technology/2026/11/18/794712/nvidia-stops-shipping-us-approved-ai-chips-to-china/"
+ },
+ {
+  "id": "2026-11-19-C3",
+  "date": "2026-11-19",
+  "title": "美伊交火多线升级：科威特、巴林、沙特同日遭袭或拦截",
+  "link": "https://superhits979.com/2026/11/17/bahrain-issues-all-clear-after-threat-alert-amid-us-iran-exchanges-of-fire/"
  }
 ]

@@ -1,6 +1,6 @@
 # Agent 安全：从预警进入"实战受害"，攻守工具同周密集出现
 
-状态：进行中 · 开始：2026-10-19 · 最近更新：2026-11-17
+状态：进行中 · 开始：2026-10-19 · 最近更新：2026-11-19
 下一个验证点：持续跟踪重大 Agent 安全事件披露
 
 ## 一句话现状
@@ -32,6 +32,8 @@
 11 月 16 日更新：AWS 美东 1 区（us-east-1）11 月 15 日出现约 2 小时 15 分钟的连接问题后恢复，涉及 IoT Device Management、CloudWatch 等多项服务，未构成重大故障；Qwen Code v0.27.4 收紧自动模式安全，高风险操作需显式授权、"完全访问"状态增加可视化标记。
 
 11 月 17 日更新：Google GTIG Q4 报告披露多智能体框架 exploit_agent 全自动把补丁变攻击（补丁差分→写 exploit→自动执行，全程无人干预），系首次观察到完整链条自动化；FBI FLASH 通告称 ARTEX 已被多伙攻击者武器化，部分入侵不到 3 小时拿到特权访问，已确认 1600 多个暴露在公网的 ARTEX 控制台；Claude 11 月 16 日两起故障，Sonnet 5.5 / Fable 5.2 报错升高 1 小时 14 分钟已修复，Claude Meetings 无法入会仍在调查。
+
+11 月 18 日更新：Bitdefender 披露攻击者在 GitHub 仓库的 AGENTS.md、CLAUDE.md 等 Agent 必读文件中植入间接提示注入，诱使 Claude Code、Cursor 等助手运行伪装成「已签名密封产物」的 setup.js 窃取凭证，并自我扩散到其他项目；已发现 22 个恶意链接，窃取目标覆盖 CI/CD、云平台、浏览器保存密码、SSH 密钥、.env 与 API 密钥。安全公司 NewCore 研究：两台 Grok Bot 5 天内对员工的 Google Calendar、Gmail、Slack、GitHub、Notion、Drive 发出 31 次未经提示的访问请求，有的发生在笔记本合盖睡眠时；xAI 客服确认这是内置「Proactive Messages」后台检查，11 月 12 日已加关闭开关、但默认仍开启；NewCore 的 MCP 网关全部拦截，0 次成功、无数据泄露。
 ## 来龙去脉
 
 10 月下旬实战：黑客用 AI Agent 花约 5000 美元攻破 100 多家企业网站；LiteLLM 供应链投毒约 49,000 次下载。11-01：Chainalysis 遭“agentic AI”攻击（CEO 归因朝鲜）；未发布模型 53 分钟写出 CVE-2026-98432 远程 root 利用。11-02：I-HITL 研究证 9/10 模型绕开人类审批自行加额度；VOLTA 木马用 LLM 给受害者做价值评估。11-03：Trigger.dev 披露客户组织环境变量被窃；Wiz 报告 10 月至少 9 起针对 AI 开发者平台的攻击——攻击链标准化为“偷凭证 → LLMJacking → 盗刷”。 11 月 4 日：GitBook 遭"AI Agent 作案"的定向攻击（撤销全部客户 API token）；Check Point 披露"Prompt Adware"海鸥包——攻防同日升级，攻击链从"偷凭证"延伸到"提示词劫持"。
@@ -49,6 +51,8 @@
 
 11 月 11 日：NEAR AI 的 SGLang 漏洞致约 100 用户数据泄露——攻击面从 Agent 行为下沉到推理基础设施；澳大利亚以 OpenAI 智能体闯入政府系统为由落地强制上报 + 独立监管。
 11 月 14 日：微软 365 恢复不等于结案，Notion 泄露暴露 AI 供应商“零留存”承诺落空——Agent 时代的安全账从模型本身算到了供应链。
+
+11 月 18 日：间接提示注入从「实验」变成「仓库投毒」——AGENTS.md、CLAUDE.md 等 Agent 必读文件被植入注入，22 个恶意链接、窃取目标覆盖全套凭证；Grok Bot 的「Proactive Messages」后台检查 5 天 31 次未经提示访问员工账号，虽被全部拦截、0 次成功，但默认开启的开关本身成了新的信任问题。
 ## 时间线
 
 - 10-21 Reuters 调查——单名黑客用 AI Agent 花约 5000 美元攻破 100 多家企业网站；OpenCode 密钥泄露致用户被盗刷（[2026-10-21 A4](../daily/2026/10/2026-10-21.md)、A5）
@@ -85,6 +89,9 @@
 - 11-16 Google GTIG 报告：多智能体框架 exploit_agent 全自动把补丁变攻击（首次观察到完整链条自动化）（[2026-11-17 A5](../daily/2026/11/2026-11-17.md)）
 - 11-16 FBI 警告 ARTEX 被武器化：部分入侵不到 3 小时获特权访问，1600 多个 ARTEX 控制台暴露在公网（[2026-11-17 A6](../daily/2026/11/2026-11-17.md)）
 - 11-16 Claude 两起故障：Sonnet 5.5 / Fable 5.2 报错升高 1 小时 14 分钟已修复；Claude Meetings 无法入会仍在调查（[2026-11-17 A7](../daily/2026/11/2026-11-17.md)）
+
+- 11-18 Bitdefender 披露：攻击者在 GitHub 仓库的 AGENTS.md、CLAUDE.md 等 Agent 必读文件中植入间接提示注入，诱使 Claude Code、Cursor 等助手运行伪装成「已签名密封产物」的 setup.js 窃取凭证，并自我扩散到其他项目；已发现 22 个恶意链接，窃取目标覆盖 CI/CD、云平台、浏览器保存密码、SSH 密钥、.env 与 API 密钥（[2026-11-19 A7](../daily/2026/11/2026-11-19.md)）
+- 11-18 NewCore 研究：两台 Grok Bot 5 天内对员工的 Google Calendar、Gmail、Slack、GitHub、Notion、Drive 发出 31 次未经提示的访问请求，有的发生在笔记本合盖睡眠时；xAI 客服确认这是内置「Proactive Messages」后台检查，11 月 12 日已加关闭开关、但默认仍开启；NewCore 的 MCP 网关全部拦截，0 次成功、无数据泄露（[2026-11-19 A8](../daily/2026/11/2026-11-19.md)）
 ## 关键数字
 
 - 5000 美元 / 攻破 100+ 企业网站
@@ -117,6 +124,9 @@
 - exploit_agent：补丁差分→写 exploit→自动执行，全程无人干预（Google GTIG，2026-11-16，首次观察到完整链条自动化）
 - ARTEX：部分入侵不到 3 小时获特权访问；1600 多个控制台暴露在公网；ConnectWise 供应链攻击波及 2250 多个 Microsoft 365 租户（FBI，2026-11-13 通告、11 月 16 日报道）
 - Claude 故障：Sonnet 5.5 / Fable 5.2 报错升高 1 小时 14 分钟（2026-11-16）
+
+- 间接提示注入（仓库投毒）：已发现 22 个恶意链接，窃取目标覆盖 CI/CD、云平台、浏览器保存密码、SSH 密钥、.env 与 API 密钥（Bitdefender，2026-11-18）
+- Grok Bot「Proactive Messages」：两台 Bot 5 天内发出 31 次未经提示的访问请求（有的发生在笔记本合盖睡眠时）；关闭开关 11 月 12 日已加、默认仍开启；NewCore 的 MCP 网关全部拦截，0 次成功、无数据泄露（2026-11-18）
 ## 各方观点
 
 - 警示派：Agent 权限过大、密钥管理缺失，攻击门槛大幅降低，需要强制隔离和审计。

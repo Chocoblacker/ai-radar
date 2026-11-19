@@ -1,113 +1,5 @@
 [
  {
-  "id": "2026-11-06-A1",
-  "date": "2026-11-06",
-  "title": "OpenAI 发布 GPT-6 Cyber：一次运行验证 948 个 Linux 内核提权漏洞，成本 121 万美元",
-  "link": "https://www.theregister.com/security/2026/11/05/openai-releases-gpt-6-cyber-and-promises-this-one-stays-within-rules-of-engagement/5307855"
- },
- {
-  "id": "2026-11-06-A2",
-  "date": "2026-11-06",
-  "title": "Google 一日双发：Gemini Omni 1.2 Flash 视频 GA 降价 30%，Canvas 草图变 App",
-  "link": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/"
- },
- {
-  "id": "2026-11-06-A3",
-  "date": "2026-11-06",
-  "title": "百度开源 ERNIE-5.5-Flash-Base：280B 参数 MoE 基座模型，33.5T token 预训练",
-  "link": "https://the-decoder.com/baidu-releases-ernie-5-5-flash-base-with-280-billion-parameters-as-an-open-source-foundation-model/"
- },
- {
-  "id": "2026-11-06-A4",
-  "date": "2026-11-06",
-  "title": "Claude 接入个人理财：只读读银行账户，Pro/Max/Ultra 美国用户本周 Beta 上线",
-  "link": "https://letsdatascience.com/news/anthropic-adds-read-only-personal-finance-feature-to-claude-c37a00b0"
- },
- {
-  "id": "2026-11-06-A5",
-  "date": "2026-11-06",
-  "title": "Salesforce Agentforce Coworker 三个月用量涨 21 倍，定价 50 美元/人/月",
-  "link": "https://www.salesforce.com/ap/news/press-releases/2026/11/05/sg-salesforces-agentforce-coworker-usage-soars-21x-in-three-months-as-enterprises-delegate-real-work-to-ai/?bc=OTH"
- },
- {
-  "id": "2026-11-06-A6",
-  "date": "2026-11-06",
-  "title": "同一天两起 AI 编程工具并购：Meta 收 Conductor，OpenAI 拟收 Pierre",
-  "link": "https://techcrunch.com/2026/11/04/meta-acquires-ai-coding-startup-conductor/"
- },
- {
-  "id": "2026-11-06-A7",
-  "date": "2026-11-06",
-  "title": "月之暗面 Kimi 正式推出 Hosted Agents：托管运行长任务、多 Agent 协作",
-  "link": "https://www.unite.ai/kimi-formally-launches-hosted-agents-for-enterprise-ai-workloads/"
- },
- {
-  "id": "2026-11-06-A8",
-  "date": "2026-11-06",
-  "title": "Shield AI 53 亿美元收购反无人机雷达公司 Echodyne，融资 25 亿美元、估值 288 亿美元",
-  "link": "https://www.prnewswire.com/news-releases/shield-to-acquire-echodyne-in-a-transaction-valued-at-5-3-billion-and-raise-2-5-billion-at-a-28-8-billion-valuation-302930012.html"
- },
- {
-  "id": "2026-11-06-A9",
-  "date": "2026-11-06",
-  "title": "高通 Q4：手机芯片收入同比跌 26% 至 51.37 亿美元，存储涨价挤压手机需求",
-  "link": "https://s204.q4cdn.com/645488518/files/content_files/FY2026-4th-Quarter-Earnings-Release.pdf"
- },
- {
-  "id": "2026-11-06-A10",
-  "date": "2026-11-06",
-  "title": "谷歌为 Anthropic 的 190 亿美元 TeraWulf 租约提供信用担保，违约可接管租约或换取项目股权",
-  "link": "https://www.coindesk.com/tech/2026/11/05/google-could-take-ownership-stake-in-bitcoin-miner-terawulf-s-ai-project-if-anthropic-defaults"
- },
- {
-  "id": "2026-11-06-A11",
-  "date": "2026-11-06",
-  "title": "美光被曝暂停 45 亿美元台湾 Fab 11E 工厂建设，劳资纠纷升级",
-  "link": "https://www.ad-hoc-news.de/boerse/corporate-news/micron-technology-stock-faces-taiwan-expansion-pause-report/70464912"
- },
- {
-  "id": "2026-11-06-B1",
-  "date": "2026-11-06",
-  "title": "美股周四暴跌：道指 -3.4%、标普 -4.4%、纳指 -5.5% 进入技术性修正",
-  "link": "https://www.marketwatch.com/livecoverage/stock-market-today-dow-s-p-500-nasdaq-democrat-sweep-midterm-elections-rally/card/u-s-stocks-end-sharply-lower-as-nasdaq-enters-correction-xVitICpiEnyNJay19Rrk"
- },
- {
-  "id": "2026-11-06-B2",
-  "date": "2026-11-06",
-  "title": "美国初请失业金降至 189,000 创 57 年新低，生产率 +3.6%；联储官员放鹰，12 月加息定价回落至约 76%",
-  "link": "https://ktwb.com/2026/11/05/us-weekly-jobless-claims-at-57-year-lows-amid-low-layoffs/"
- },
- {
-  "id": "2026-11-06-B3",
-  "date": "2026-11-06",
-  "title": "亚洲 11 月 5 日分化：恒生大涨 3.67% 五连涨，韩国 Kospi 暴跌 5.28%，A 股小涨",
-  "link": "https://www.thestandard.com.hk/finance/article/347630/Hang-Seng-Index-surges-nearly-900-points-at-close"
- },
- {
-  "id": "2026-11-06-B4",
-  "date": "2026-11-06",
-  "title": "加密与大宗日内反转：比特币冲上 8 万美元后回落至 7.6 万美元下方，黄金守住 4,100 美元，布伦特反弹 3.9% 至 98.29 美元",
-  "link": "https://www.coindesk.com/markets/2026/11/05/bitcoin-holds-above-usd80-000-as-zcash-jumps-12-in-post-election-crypto-rebound"
- },
- {
-  "id": "2026-11-06-B5",
-  "date": "2026-11-06",
-  "title": "英国央行加息 25bp 至 4%：8-1 投票，通胀峰值预测上调至约 4.9%",
-  "link": "https://jack1065.com/2026/11/05/bank-of-england-policymakers-set-out-views-on-rates-outlook-2/"
- },
- {
-  "id": "2026-11-06-C1",
-  "date": "2026-11-06",
-  "title": "约 60 万颗英伟达 H200 芯片滞留香港，北京迟迟不批大规模进口",
-  "link": "https://www.reuters.com/world/china/nvidia-chips-pile-up-hong-kong-china-withholds-import-approval-2026-11-05/"
- },
- {
-  "id": "2026-11-06-C2",
-  "date": "2026-11-06",
-  "title": "中期选举后续：三州新当选州长拟冻结数据中心建设，141GW 规划产能面临审查；OpenAI 承诺自付全部电费回应",
-  "link": "https://www.firstpost.com/tech/us-midterm-aftermath-can-democrats-put-the-brakes-on-americas-ai-data-centre-boom-14057956.html"
- },
- {
   "id": "2026-11-07-A1",
   "date": "2026-11-07",
   "title": "Kakao 开源 3.67B 参数决策模型 Kanana-2-v-decide，不生成文本、只输出判断结果",
@@ -1378,5 +1270,113 @@
   "date": "2026-11-19",
   "title": "美伊交火多线升级：科威特、巴林、沙特同日遭袭或拦截",
   "link": "https://superhits979.com/2026/11/17/bahrain-issues-all-clear-after-threat-alert-amid-us-iran-exchanges-of-fire/"
+ },
+ {
+  "id": "2026-11-20-A1",
+  "date": "2026-11-20",
+  "title": "Anthropic 首日交易：定价 83 美元、募资 813 亿美元，开盘 111.50 美元、收盘 97.17 美元",
+  "link": "https://www.fool.com/investing/2026/11/19/anthropic-was-worth-111-50-on-its-first-day-of-trading-is-that-a-problem-for-investors/"
+ },
+ {
+  "id": "2026-11-20-A2",
+  "date": "2026-11-20",
+  "title": "Google 一日双发：Gemini 4 Neon 上线、Genie 4 向 Ultra 用户开放",
+  "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/"
+ },
+ {
+  "id": "2026-11-20-A3",
+  "date": "2026-11-20",
+  "title": "OpenAI 推出 ChatGPT for Accounting，接通 QuickBooks、Xero 等 7 家财会系统",
+  "link": "https://dataconomy.com/2026/11/19/openai-launches-chatgpt-for-accounting-with-finance/"
+ },
+ {
+  "id": "2026-11-20-A4",
+  "date": "2026-11-20",
+  "title": "路透曝 Meta 个人助手 Muse 串号：员工称其读取他人 Signal 消息、错发私人对话",
+  "link": "https://techcrunch.com/2026/11/19/metas-ai-agent-muse-is-mixing-up-conversations-and-exposing-private-data-report-says/"
+ },
+ {
+  "id": "2026-11-20-A5",
+  "date": "2026-11-20",
+  "title": "GPT-6.2 系统卡披露：Astra 首获「自我改进 High」评级，双模型网络安全均为 Critical",
+  "link": "https://pivotnews.ai/five/openai-releases-gpt-6-2-astra-and-claims-benchmark-lead"
+ },
+ {
+  "id": "2026-11-20-A6",
+  "date": "2026-11-20",
+  "title": "哈佛工作论文：AI 编程 Agent 让代码量 +30%，评审时间却 +49%",
+  "link": "https://pivotnews.ai/five/harvard-working-paper-ties-ai-coding-agents-to-slower-code"
+ },
+ {
+  "id": "2026-11-20-A7",
+  "date": "2026-11-20",
+  "title": "英伟达股价六连跌收 145.98 美元，分析师分化；猎头已接触 Arm CEO Haas",
+  "link": "https://finnhub.io/?q=%22NVDA%22"
+ },
+ {
+  "id": "2026-11-20-A8",
+  "date": "2026-11-20",
+  "title": "Palo Alto Networks 45 亿美元全股票收购 AI 创业公司 Applied Compute",
+  "link": "https://www.kcau9.com/business/press-releases/cision/20261118SF01838/palo-alto-networks-to-acquire-applied-compute-bringing-secure-open-weight-ai-to-the-enterprise/"
+ },
+ {
+  "id": "2026-11-20-A9",
+  "date": "2026-11-20",
+  "title": "亚马逊收购 Decart 有望感恩节前达成，计划在 re:Invent 上公布",
+  "link": "https://www.calcalistech.com/ctechnews/article/uckadwd7r"
+ },
+ {
+  "id": "2026-11-20-A10",
+  "date": "2026-11-20",
+  "title": "德国电信向 Mistral 注资 1 亿欧元，慕尼黑 AI 工厂追加 2.5 亿欧元",
+  "link": "https://www.telekom.com/en/newsroom/latest-updates/media-information/2026/11/deutsche-telekom-advances-sovereign-ai-in-germany"
+ },
+ {
+  "id": "2026-11-20-B1",
+  "date": "2026-11-20",
+  "title": "美股周四全线大跌，标普五连跌；Anthropic 首秀冲高回落未能救市",
+  "link": "https://wixx.com/2026/11/19/wall-street-slides-as-anthropics-debut-fails-to-revive-ai-enthusiasm/"
+ },
+ {
+  "id": "2026-11-20-B2",
+  "date": "2026-11-20",
+  "title": "亚洲周四分化：日经 +0.71%、KOSPI +1.39%，恒生 -1.95%、台股 -4.40%",
+  "link": "https://www.sharecast.com/news/market-report-asia/asia-report-asia-report-stocks-mixed-as-attention-turns-to-shenzhen-summit--24228042.html"
+ },
+ {
+  "id": "2026-11-20-B3",
+  "date": "2026-11-20",
+  "title": "美国初请失业金 20.3 万、费城联储指数骤降至 6.3；12 月加息 25bp 定价仍约 95%",
+  "link": "https://www.zacks.com/stock/news/3032598/jobless-claims-increased-more-than-expected"
+ },
+ {
+  "id": "2026-11-20-B4",
+  "date": "2026-11-20",
+  "title": "比特币跌破 6.2 万美元、黄金盘中跌破 3700 美元；胡塞再袭利雅得，霍尔木兹原油流量腰斩",
+  "link": "https://finnhub.io/?q=%22BTC%22"
+ },
+ {
+  "id": "2026-11-20-C1",
+  "date": "2026-11-20",
+  "title": "特朗普—习近平深圳会晤：AI 安全「最低限度护栏」口头共识，芯片管制与稀土无突破",
+  "link": "https://www.fmprc.gov.cn/eng/xw/zyxw/202611/t20261119_12063139.html"
+ },
+ {
+  "id": "2026-11-20-C2",
+  "date": "2026-11-20",
+  "title": "美中俄史上首次三方会晤：约 90 分钟，四点「和平宣言」",
+  "link": "https://www.usatoday.com/story/news/world/2026/11/19/trump-china-russia-xi-putin-apec-summit/92856409007/"
+ },
+ {
+  "id": "2026-11-20-C3",
+  "date": "2026-11-20",
+  "title": "BIS 远程算力新规 11 月 19 日正式生效：联邦公报号、90 天宽限期与意见截止日落地",
+  "link": "https://www.overduinpllc.com/post/after-the-affair-how-washington-is-rewriting-ai-chip-rules"
+ },
+ {
+  "id": "2026-11-20-B5",
+  "date": "2026-11-20",
+  "title": "美联储副主席杰斐逊：AI 建设正在推高通胀，生产率红利「在未来」",
+  "link": "https://www.kitco.com/news/off-the-wire/2026-11-19/feds-jefferson-says-ai-boosting-inflation-productivity-impact-possible"
  }
 ]

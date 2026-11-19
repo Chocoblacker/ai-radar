@@ -13,13 +13,13 @@
    "IPO 路演在 11 月 9 日当周按期启动",
    "散户认购通道（摩根大通牵头）正式开放"
   ],
-  "outcome": null,
+  "outcome": true,
   "probability": 0.75,
   "resolution_criteria": "纳斯达克官网 / SEC EDGAR 查询 ANT 的上市公告与首日交易记录",
-  "resolved_date": null,
-  "review": null,
+  "resolved_date": "2026-11-19",
+  "review": "Anthropic 11月19日以 ANT 在纳斯达克首日交易，定价 83 美元、高于 70–78 美元区间，募资 813 亿美元；按最后一次更新概率 90% 命中。首日开盘 +34.3%、收盘 +17.1%，冲高回落幅度大于预期。",
   "statement": "Anthropic 在 2026 年 11 月 30 日前完成在纳斯达克的 IPO 上市（代码 ANT）",
-  "status": "open",
+  "status": "resolved",
   "thread": "anthropic-ipo",
   "updates": [
    {
@@ -151,6 +151,11 @@
     "date": "2026-11-19",
     "probability": 0.9,
     "reason": "FOMC 纪要近乎全体支持 12 月加息，CME 12 月加息 25bp 定价约 94.7%（2026-11-19-B2）"
+   },
+   {
+    "date": "2026-11-20",
+    "probability": 0.9,
+    "reason": "初请失业金 20.3 万、费城联储指数骤降至 6.3，但 12 月加息 25bp 定价仍约 95%（2026-11-20-B3）"
    }
   ]
  },
@@ -317,6 +322,11 @@
     "date": "2026-11-19",
     "probability": 0.05,
     "reason": "布伦特回落至约 91.6 美元、美国原油库存增加 528 万桶，距 120 美元目标更远（2026-11-19-B5）"
+   },
+   {
+    "date": "2026-11-20",
+    "probability": 0.05,
+    "reason": "布伦特约 92 美元，霍尔木兹流量腰斩也未推高油价（2026-11-20-B4）"
    }
   ]
  },
@@ -538,6 +548,11 @@
     "date": "2026-11-19",
     "probability": 0.75,
     "reason": "英伟达已停运获许可 Hopper 产品、Q4 对华收入按零计，但 BIS 对 H200 许可审查本身仍未表态（2026-11-19-C2）"
+   },
+   {
+    "date": "2026-11-20",
+    "probability": 0.75,
+    "reason": "BIS 远程算力新规正式生效，但 H200 许可审查本身仍未单独表态（2026-11-20-C3）"
    }
   ],
   "status": "open",
@@ -576,6 +591,11 @@
     "date": "2026-11-19",
     "probability": 0.55,
     "reason": "董事长明说董事会不打算让黄仁勋复任 CEO，遴选仍在继续（2026-11-19-A6）"
+   },
+   {
+    "date": "2026-11-20",
+    "probability": 0.55,
+    "reason": "猎头已接触 Arm CEO Haas，但无正式邀约、Haas 未表态（2026-11-20-A7）"
    }
   ],
   "status": "open",
@@ -616,6 +636,28 @@
     "reason": "黄仁勋与 Lutnick 已同意出席参议院公开听证，但具体听证日期尚未确认"
    }
   ],
+  "status": "open",
+  "outcome": null,
+  "resolved_date": null,
+  "review": null
+ },
+ {
+  "id": "P-2026-11-20-01",
+  "created": "2026-11-20",
+  "thread": "ai-funding-wave",
+  "statement": "亚马逊在 2026 年 12 月 31 日前宣布签署收购 Decart 的协议",
+  "probability": 0.6,
+  "deadline": "2026-12-31",
+  "basis": [
+   "2026-11-20-A9"
+  ],
+  "resolution_criteria": "亚马逊或 Decart 官方公告，或路透/彭博/WSJ 对签署的报道",
+  "leading_indicators": [
+   "感恩节前签署",
+   "re:Invent（11 月 30 日）上公布",
+   "价格或条款谈崩、延期至 2027 年"
+  ],
+  "updates": [],
   "status": "open",
   "outcome": null,
   "resolved_date": null,

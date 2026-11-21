@@ -1378,5 +1378,113 @@
   "date": "2026-11-20",
   "title": "美联储副主席杰斐逊：AI 建设正在推高通胀，生产率红利「在未来」",
   "link": "https://www.kitco.com/news/off-the-wire/2026-11-19/feds-jefferson-says-ai-boosting-inflation-productivity-impact-possible"
+ },
+ {
+  "id": "2026-11-21-A1",
+  "date": "2026-11-21",
+  "title": "Anthropic IPO 交割完成：绿鞋全额行使、总募资约 935 亿美元，次日跌 9.13% 至 88.30 美元",
+  "link": "https://www.anthropic.com/news/ipo-close"
+ },
+ {
+  "id": "2026-11-21-A2",
+  "date": "2026-11-21",
+  "title": "DeepSeek 完成约 1000 亿元第二轮融资，筹备科创板 IPO",
+  "link": "https://www.caixinglobal.com/2026-11-20/deepseek-closes-100-billion-yuan-funding-round-102506825.html"
+ },
+ {
+  "id": "2026-11-21-A3",
+  "date": "2026-11-21",
+  "title": "SEC 调查英伟达会计问题，加州总检察长向英伟达发出调查传票",
+  "link": "https://www.reuters.com/world/us-secs-nvidia-probe-is-examining-potential-accounting-issues-sources-say-2026-11-20/"
+ },
+ {
+  "id": "2026-11-21-A4",
+  "date": "2026-11-21",
+  "title": "英伟达七连跌收 125.84 美元，市值跌破 Alphabet 退居美股第四",
+  "link": "https://www.reuters.com/business/retail-consumer/nvidias-share-slide-knocks-it-below-alphabet-valuation-2026-11-20/"
+ },
+ {
+  "id": "2026-11-21-A5",
+  "date": "2026-11-21",
+  "title": "OpenAI 披露 Performance Factory：Codex Agent 自动查 ChatGPT 性能回退",
+  "link": "https://venturebeat.com/orchestration/exclusive-openai-reveals-performance-factory-a-codex-powered-software-optimization-system-that-keeps-chatgpt-fast"
+ },
+ {
+  "id": "2026-11-21-A6",
+  "date": "2026-11-21",
+  "title": "OpenAI 常驻 Agent Dots 扩围至 Plus 测试、Business Standard 全开",
+  "link": "https://www.engadget.com/2322656/openai-is-testing-dots-personal-agents-on-its-20-per-month-plus-tier/"
+ },
+ {
+  "id": "2026-11-21-A7",
+  "date": "2026-11-21",
+  "title": "Google Gemini Mac 版上线 Computer Use，可在后台替用户操作电脑",
+  "link": "https://blog.google/innovation-and-ai/products/gemini-app/computer-use-mac/"
+ },
+ {
+  "id": "2026-11-21-A8",
+  "date": "2026-11-21",
+  "title": "彭博曝苹果正招聘打造自主 AI Agent，目标最快 2027 年底推出",
+  "link": "https://www.macrumors.com/2026/11/19/apple-ai-agent-development/"
+ },
+ {
+  "id": "2026-11-21-A9",
+  "date": "2026-11-21",
+  "title": "Google 公开 Mirror Dimension：造假互联网训练测试 Chrome 浏览 Agent",
+  "link": "https://blog.google/security/mirror-dimension-for-agents/"
+ },
+ {
+  "id": "2026-11-21-A10",
+  "date": "2026-11-21",
+  "title": "微软 Agent Framework PyPI 投毒事件：三仓库仍 404、微软仍无官方说明",
+  "link": "https://www.wiz.io/blog/malicious-version-of-microsofts-agent-framework-published-to-pypi"
+ },
+ {
+  "id": "2026-11-21-B1",
+  "date": "2026-11-21",
+  "title": "美股周五暴跌：纳指抹去全年涨幅，标普七连跌、与道指双双跌入修正区间",
+  "link": "https://www.cnn.com/2026/11/20/investing/us-stocks-anthropic-ai?cid=external-feeds_iluminar_meta"
+ },
+ {
+  "id": "2026-11-21-B2",
+  "date": "2026-11-21",
+  "title": "亚洲周五全线大跌：日经跌 5.06%、KOSPI 跌 5.21%、台股跌约 6.4%",
+  "link": "https://www.reflector.com/news/national/global-shares-drop-on-ai-worries-echoing-wall-streets-decline-despite-the-strong-anthropic-debut/article_dd3fc1e1-5754-5df8-b701-d40141a18638.html"
+ },
+ {
+  "id": "2026-11-21-B3",
+  "date": "2026-11-21",
+  "title": "比特币跌破 5.8 万美元、黄金跌至 14 个月低点，现货 ETF 单日流出 5.82 亿美元",
+  "link": "https://www.investopedia.com/stock-market-today-dow-jones-s-and-p-500-nasdaq-11202026-12266027"
+ },
+ {
+  "id": "2026-11-21-B4",
+  "date": "2026-11-21",
+  "title": "日本 10 月核心 CPI 同比 2.2%，12 月加息预期升温",
+  "link": "https://northlandnewsradio.com/2026/11/19/japans-core-inflation-accelerates-in-october-cementing-rate-hike-expectations/"
+ },
+ {
+  "id": "2026-11-21-B5",
+  "date": "2026-11-21",
+  "title": "密歇根消费者信心终值 51.5，12 月加息 25bp 定价仍约 95%",
+  "link": "https://www.actionnetwork.com/politics/next-fed-interest-rate-decision-becoming-clearer-as-inflation-report-looms"
+ },
+ {
+  "id": "2026-11-21-C1",
+  "date": "2026-11-21",
+  "title": "特朗普：只卖旧芯片给中国，称正与中国谈「非常全面的协议」",
+  "link": "https://www.reuters.com/world/china/trump-says-only-older-chips-should-be-sold-china-2026-11-20/"
+ },
+ {
+  "id": "2026-11-21-C2",
+  "date": "2026-11-21",
+  "title": "贝森特披露特朗普—习近平军事 AI 共识：人类全程参与",
+  "link": "https://www.reuters.com/world/china/trump-xi-agreed-that-military-ai-decisions-should-involve-humans-bessent-says-2026-11-20/"
+ },
+ {
+  "id": "2026-11-21-C3",
+  "date": "2026-11-21",
+  "title": "霍尔木兹油轮再遇袭，美军封锁扩至海上过驳油轮",
+  "link": "https://www.mix1069.com/2026/11/20/tanker-catches-fire-after-projectile-strike-near-strait-of-hormuz-ukmto-says/"
  }
 ]

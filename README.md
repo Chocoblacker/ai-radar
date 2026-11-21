@@ -13,6 +13,7 @@
 日报是地基，在此之上持续沉淀故事线、概念卡和预判，目标是看懂事情怎么演变，并尽量提前判断接下来会发生什么。
 
 ## 最新 7 天
+- [2026-11-21（周六）](daily/2026/11/2026-11-21.md) —— 美股周五暴跌、纳指抹去全年涨幅；英伟达 SEC 查会计、加州发传票，股价七连跌收 125.84 美元；Anthropic IPO 交割完成、总募资约 935 亿美元
 - [2026-11-20（周五）](daily/2026/11/2026-11-20.md) —— Anthropic 首日交易收涨 17.1%、史上最大 IPO 落地；美股周四全线大跌、标普六连跌；深圳会晤 AI 安全有口头共识、芯片管制无突破
 
 - [2026-11-19（周四）](daily/2026/11/2026-11-19.md) —— 英伟达 Q3 营收 1158 亿美元同比翻倍、Q4 指引 1300 亿美元，股价却冲高回落；Anthropic 定价前夜多家媒体称或高于区间；FOMC 纪要近乎全体支持 12 月加息
@@ -20,7 +21,6 @@
 - [2026-11-17（周二）](daily/2026/11/2026-11-17.md) —— BIS 堵「远程租用算力」漏洞出临时最终规则、英伟达董事会不考虑黄仁勋回归；美股纳指确认回调、台股跌 6.03%；Google 发现 AI Agent 全自动把补丁变攻击
 - [2026-11-16（周一）](daily/2026/11/2026-11-16.md) —— 贝森特要求英伟达外部选帅、黄仁勋同意闭门作证；比特币周日新低 62,112 美元；NYT 披露 Lutnick 弱化版芯片规则
 - [2026-11-15（周日）](daily/2026/11/2026-11-15.md) —— 英伟达员工请愿要求黄仁勋回归、签名冲至约 9 万；微软 365 故障正式关闭；OpenAI 约 300 亿美元融资预判到期落空
-- [2026-11-14（周六）](daily/2026/11/2026-11-14.md) —— 英伟达董事会接洽 Arm CEO Haas；OpenAI 推出 ChatGPT Wallet；10 月 PPI 同比 +6.5% 创近四年最大涨幅
 
 
 
@@ -29,14 +29,14 @@
 
 ## 🔥 活跃故事线
 
-- [英伟达 CEO 换帅](threads/nvidia-ceo-transition.md) — 股价六连跌收 145.98 美元，猎头已接触 Arm CEO Haas；黄仁勋与 Lutnick 同意出席参议院听证，日期未定
-- [AI 融资潮](threads/ai-funding-wave.md) — Palo Alto Networks 45 亿美元收购 Applied Compute；亚马逊拟收购 Decart 有望感恩节前达成；德国电信向 Mistral 注资 1 亿欧元
-- [美联储利率路径](threads/fed-rate-path.md) — 初请 20.3 万、费城联储指数骤降至 6.3，12 月加息 25bp 定价仍约 95%；12 月 8–9 日 FOMC
-- [中东局势与油价](threads/middle-east-oil.md) — 胡塞再袭利雅得，霍尔木兹原油流量腰斩至约战前一半；布伦特约 92 美元
+- [英伟达 CEO 换帅](threads/nvidia-ceo-transition.md) — SEC 查会计问题、加州总检察长发传票，股价七连跌收 125.84 美元；黄仁勋与 Lutnick 同意出席参议院听证，日期未定
+- [AI 融资潮](threads/ai-funding-wave.md) — Anthropic IPO 交割完成、总募资约 935 亿美元；DeepSeek 约 1000 亿元第二轮融资落地；亚马逊拟收购 Decart 有望感恩节前达成
+- [美联储利率路径](threads/fed-rate-path.md) — 密歇根信心终值 51.5，12 月加息 25bp 定价仍约 95%；日本 10 月核心 CPI 同比 2.2%；12 月 8–9 日 FOMC
+- [中东局势与油价](threads/middle-east-oil.md) — 霍尔木兹油轮再遇袭，美军封锁扩至海上过驳油轮；布伦特约 92 美元
 - [存储/HBM 短缺](threads/memory-hbm-shortage.md) — 三星与 SK 海力士 1–9 月存储产线满负荷、三星内存均价同比涨 270%；长期协议覆盖 2027–2028 年逾半产能
-- [Agent 安全](threads/agent-security.md) — 毒化 GitHub 仓库劫持 AI 编程助手窃取凭证；Grok Bot 5 天内 31 次未经提示访问企业数据
-- [AI 出口管制](threads/ai-export-controls.md) — BIS 远程算力新规 11 月 19 日正式生效；深圳会晤芯片管制与稀土无突破
-- [AI 资本开支"算账"](threads/ai-capex-reckoning.md) — 美股周四全线大跌、标普五连跌，Anthropic 首秀冲高回落也没能救市
+- [Agent 安全](threads/agent-security.md) — 微软 Agent Framework PyPI 投毒：三仓库仍 404、微软仍无官方说明；Grok Bot 5 天内 31 次未经提示访问企业数据
+- [AI 出口管制](threads/ai-export-controls.md) — 特朗普称只卖旧芯片给中国；贝森特披露军事 AI 共识：人类全程参与；BIS 远程算力新规 11 月 19 日正式生效
+- [AI 资本开支"算账"](threads/ai-capex-reckoning.md) — 美股周五暴跌、纳指抹去全年涨幅；Anthropic 次日跌 9.13%；新增预判：纳指年底前收复年内跌幅 45%（P-2026-11-21-01）
 - [数据中心监管](threads/data-center-regulation.md) — 参议院 73-25 通过 BAAJA 程序性投票，进入全院辩论
 
 [完整故事线总览 →](threads/index.md)

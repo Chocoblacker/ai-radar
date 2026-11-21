@@ -156,6 +156,11 @@
     "date": "2026-11-20",
     "probability": 0.9,
     "reason": "初请失业金 20.3 万、费城联储指数骤降至 6.3，但 12 月加息 25bp 定价仍约 95%（2026-11-20-B3）"
+   },
+   {
+    "date": "2026-11-21",
+    "probability": 0.9,
+    "reason": "密歇根信心终值回升至 51.5，股灾未动摇 12 月加息定价（CME 约 95%）（2026-11-21-B5）"
    }
   ]
  },
@@ -327,6 +332,11 @@
     "date": "2026-11-20",
     "probability": 0.05,
     "reason": "布伦特约 92 美元，霍尔木兹流量腰斩也未推高油价（2026-11-20-B4）"
+   },
+   {
+    "date": "2026-11-21",
+    "probability": 0.05,
+    "reason": "布伦特约 92 美元，霍尔木兹油轮再遇袭也未推高油价（2026-11-21-C3）"
    }
   ]
  },
@@ -508,21 +518,25 @@
   "updates": []
  },
  {
-  "id": "P-2026-11-08-01",
-  "created": "2026-11-08",
-  "thread": "ai-export-controls",
-  "statement": "美国商务部（BIS）在 2026 年 11 月 30 日前就 H200 对华许可审查公开采取行动（收紧审批规则、撤销个别许可或发布正式回应）",
-  "probability": 0.75,
-  "deadline": "2026-11-30",
   "basis": [
    "2026-11-08-C1"
   ],
-  "resolution_criteria": "BIS 官网公告，或路透/彭博对 BIS 行动的报道",
+  "created": "2026-11-08",
+  "deadline": "2026-11-30",
+  "id": "P-2026-11-08-01",
   "leading_indicators": [
    "BIS 发言人回应 NYT 调查",
    "获批公司被曝更多空壳关联",
    "白宫/商务部称审查程序无问题"
   ],
+  "outcome": null,
+  "probability": 0.75,
+  "resolution_criteria": "BIS 官网公告，或路透/彭博对 BIS 行动的报道",
+  "resolved_date": null,
+  "review": null,
+  "statement": "美国商务部（BIS）在 2026 年 11 月 30 日前就 H200 对华许可审查公开采取行动（收紧审批规则、撤销个别许可或发布正式回应）",
+  "status": "open",
+  "thread": "ai-export-controls",
   "updates": [
    {
     "date": "2026-11-13",
@@ -553,29 +567,34 @@
     "date": "2026-11-20",
     "probability": 0.75,
     "reason": "BIS 远程算力新规正式生效，但 H200 许可审查本身仍未单独表态（2026-11-20-C3）"
+   },
+   {
+    "date": "2026-11-21",
+    "probability": 0.75,
+    "reason": "特朗普称对华只卖旧芯片、众议院披露 BIS 批准 87.9 万枚芯片输华，审查压力加码，但 BIS 本身仍未单独表态（2026-11-21-C1）"
    }
-  ],
-  "status": "open",
-  "outcome": null,
-  "resolved_date": null,
-  "review": null
+  ]
  },
  {
-  "id": "P-2026-11-13-01",
-  "created": "2026-11-13",
-  "thread": "nvidia-ceo-transition",
-  "statement": "英伟达在 2026 年 12 月 31 日前任命常任 CEO（非临时）",
-  "probability": 0.55,
-  "deadline": "2026-12-31",
   "basis": [
    "2026-11-13-A1"
   ],
-  "resolution_criteria": "英伟达官网 / SEC 8-K 公告常任 CEO 任命",
+  "created": "2026-11-13",
+  "deadline": "2026-12-31",
+  "id": "P-2026-11-13-01",
   "leading_indicators": [
    "内部候选人浮现",
    "董事会称遴选将持续数月",
    "Kress 获明确转正信号"
   ],
+  "outcome": null,
+  "probability": 0.55,
+  "resolution_criteria": "英伟达官网 / SEC 8-K 公告常任 CEO 任命",
+  "resolved_date": null,
+  "review": null,
+  "statement": "英伟达在 2026 年 12 月 31 日前任命常任 CEO（非临时）",
+  "status": "open",
+  "thread": "nvidia-ceo-transition",
   "updates": [
    {
     "date": "2026-11-15",
@@ -596,29 +615,34 @@
     "date": "2026-11-20",
     "probability": 0.55,
     "reason": "猎头已接触 Arm CEO Haas，但无正式邀约、Haas 未表态（2026-11-20-A7）"
+   },
+   {
+    "date": "2026-11-21",
+    "probability": 0.55,
+    "reason": "调查线扩大到三条（SEC 会计审查、加州传票），但 CEO 搜寻本身无新进展（2026-11-21-A3、A4）"
    }
-  ],
-  "status": "open",
-  "outcome": null,
-  "resolved_date": null,
-  "review": null
+  ]
  },
  {
-  "id": "P-2026-11-14-01",
-  "created": "2026-11-14",
-  "thread": "ai-export-controls",
-  "statement": "黄仁勋在 2026 年 12 月 3 日出席参议院银行委员会公开听证",
-  "probability": 0.7,
-  "deadline": "2026-12-03",
   "basis": [
    "2026-11-14-C2"
   ],
-  "resolution_criteria": "参议院银行委员会听证记录 / 直播显示黄仁勋出席作证",
+  "created": "2026-11-14",
+  "deadline": "2026-12-03",
+  "id": "P-2026-11-14-01",
   "leading_indicators": [
    "11 月 13 日 20:00 前书面确认",
    "发出传票",
    "英伟达以已辞任为由拒绝"
   ],
+  "outcome": null,
+  "probability": 0.7,
+  "resolution_criteria": "参议院银行委员会听证记录 / 直播显示黄仁勋出席作证",
+  "resolved_date": null,
+  "review": null,
+  "statement": "黄仁勋在 2026 年 12 月 3 日出席参议院银行委员会公开听证",
+  "status": "open",
+  "thread": "ai-export-controls",
   "updates": [
    {
     "date": "2026-11-15",
@@ -634,33 +658,62 @@
     "date": "2026-11-19",
     "probability": 0.7,
     "reason": "黄仁勋与 Lutnick 已同意出席参议院公开听证，但具体听证日期尚未确认"
+   },
+   {
+    "date": "2026-11-21",
+    "probability": 0.7,
+    "reason": "窗口内无新确认，参议院公开听证日期仍未确认"
    }
-  ],
-  "status": "open",
-  "outcome": null,
-  "resolved_date": null,
-  "review": null
+  ]
  },
  {
-  "id": "P-2026-11-20-01",
-  "created": "2026-11-20",
-  "thread": "ai-funding-wave",
-  "statement": "亚马逊在 2026 年 12 月 31 日前宣布签署收购 Decart 的协议",
-  "probability": 0.6,
-  "deadline": "2026-12-31",
   "basis": [
    "2026-11-20-A9"
   ],
-  "resolution_criteria": "亚马逊或 Decart 官方公告，或路透/彭博/WSJ 对签署的报道",
+  "created": "2026-11-20",
+  "deadline": "2026-12-31",
+  "id": "P-2026-11-20-01",
   "leading_indicators": [
    "感恩节前签署",
    "re:Invent（11 月 30 日）上公布",
    "价格或条款谈崩、延期至 2027 年"
   ],
-  "updates": [],
-  "status": "open",
   "outcome": null,
+  "probability": 0.6,
+  "resolution_criteria": "亚马逊或 Decart 官方公告，或路透/彭博/WSJ 对签署的报道",
   "resolved_date": null,
-  "review": null
+  "review": null,
+  "statement": "亚马逊在 2026 年 12 月 31 日前宣布签署收购 Decart 的协议",
+  "status": "open",
+  "thread": "ai-funding-wave",
+  "updates": [
+   {
+    "date": "2026-11-21",
+    "probability": 0.6,
+    "reason": "窗口内无新进展"
+   }
+  ]
+ },
+ {
+  "basis": [
+   "2026-11-21-B1"
+  ],
+  "created": "2026-11-21",
+  "deadline": "2026-12-31",
+  "id": "P-2026-11-21-01",
+  "leading_indicators": [
+   "英伟达止跌企稳",
+   "12 月 FOMC 加息 50bp",
+   "Anthropic 跌破 83 美元发行价"
+  ],
+  "outcome": null,
+  "probability": 0.45,
+  "resolution_criteria": "纳斯达克综合指数 2026 年 12 月 31 日收盘年内涨跌幅为正",
+  "resolved_date": null,
+  "review": null,
+  "statement": "纳斯达克综合指数在 2026 年 12 月 31 日前收复 2026 年全部跌幅（年内转正）",
+  "status": "open",
+  "thread": "ai-capex-reckoning",
+  "updates": []
  }
 ]

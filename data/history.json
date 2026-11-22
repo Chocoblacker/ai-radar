@@ -1,89 +1,5 @@
 [
  {
-  "date": "2026-11-08",
-  "id": "2026-11-08-A1",
-  "link": "https://www.bleepingcomputer.com/news/security/runaway-ai-hacking-agent-behind-workos-breach-after-escaping-sandbox/",
-  "title": "WorkOS 证实：研究员的 AI 黑客 Agent 逃出沙箱，批量拖走客户数据"
- },
- {
-  "date": "2026-11-08",
-  "id": "2026-11-08-A2",
-  "link": "https://assets.theregister.com/2026/11/06/202618/",
-  "title": "协作实验：9 个 AI 编程 Agent 为换取帮助交出私密 token、运行外部脚本"
- },
- {
-  "date": "2026-11-08",
-  "id": "2026-11-08-A3",
-  "link": "https://pingoru.io/providers/amazon-web-services/incidents/12473997",
-  "title": "AWS 美西 EC2 大面积启动失败约 2 小时 21 分，波及 Databricks、Supabase"
- },
- {
-  "date": "2026-11-08",
-  "id": "2026-11-08-A4",
-  "link": "https://www.reuters.com/world/asia-pacific/tsmc-considers-making-advanced-memory-chips-information-reports-2026-11-06/",
-  "title": "台积电否认应英伟达要求生产 3D DRAM，传闻一日内反转"
- },
- {
-  "date": "2026-11-08",
-  "id": "2026-11-08-A5",
-  "link": "https://dev.to/delimitter/tesla-unveils-si-accelerator-roadmap-si6-targets-80x-compute-of-ai4-39bl",
-  "title": "特斯拉披露 AI 芯片新路线图：SI6 算力目标为现款 80 倍，Dojo 3 改用 chiplet + HBM"
- },
- {
-  "date": "2026-11-08",
-  "id": "2026-11-08-A6",
-  "link": "https://docs.x.ai/developers/advanced-api-usage/watermarking",
-  "title": "Grok API 文本默认加水印，11 月 7 日起生效"
- },
- {
-  "date": "2026-11-08",
-  "id": "2026-11-08-A7",
-  "link": "https://fourweekmba.com/ai-oracle-to-lay-off-800-in-seattle-and-bay-area-filings-show/",
-  "title": "Oracle 四份 WARN 备案曝光：西雅图及湾区裁员 800 人，11 月 13 日生效"
- },
- {
-  "date": "2026-11-08",
-  "id": "2026-11-08-A8",
-  "link": "https://www.accessallgpt.com/research/liquid-lfm3-1-7b-openrouter-free-api-price-context-privacy-launch",
-  "title": "Liquid AI 小模型 LFM3-1.7B 上架 OpenRouter，含免费路线"
- },
- {
-  "date": "2026-11-08",
-  "id": "2026-11-08-B1",
-  "link": "https://www.business-standard.com/amp/markets/news/wall-street-rebounds-as-chip-stocks-rally-after-heavy-ai-related-selloff-126110700047_1.html",
-  "title": "美股周五反弹：纳指 +1.09% 至 24,579.42 点，芯片领涨，但全周仍跌 3.4%"
- },
- {
-  "date": "2026-11-08",
-  "id": "2026-11-08-B2",
-  "link": "https://www.wysl1040.com/daly-says-fed-rate-hike-likely-despite-painful-tech-stock-dive/",
-  "title": "戴利称美联储可能还需进一步加息，12 月加息定价守在约 78%"
- },
- {
-  "date": "2026-11-08",
-  "id": "2026-11-08-B3",
-  "link": "https://www.kitco.com/news/article/2026-11-06/gold-price-trades-near-4050oz-after-preliminary-consumer-sentiment-rises-51",
-  "title": "美国 11 月密歇根消费者信心初值 51.0 超预期，通胀预期回落"
- },
- {
-  "date": "2026-11-08",
-  "id": "2026-11-08-B4",
-  "link": "https://www.coindesk.com/business/2026/11/07/u-s-treasury-moves-to-cut-off-crypto-exchange-mexc-over-usd16-billion-in-alleged-illicit-flows",
-  "title": "美国财政部下令切断加密交易所 MEXC 与美国金融系统联系，涉至少 160 亿美元非法交易"
- },
- {
-  "date": "2026-11-08",
-  "id": "2026-11-08-B5",
-  "link": "https://www.brecorder.com/news/40447851",
-  "title": "中港股市周五跟跌，但全周逆势收涨，恒指创 2025 年 3 月以来最佳周涨幅"
- },
- {
-  "date": "2026-11-08",
-  "id": "2026-11-08-C1",
-  "link": "https://www.jpost.com/business-and-innovation/tech-and-start-ups/article-914132",
-  "title": "NYT 调查：美商务部批准的 H200 对华买家中有空壳公司，许可审查现漏洞"
- },
- {
   "date": "2026-11-09",
   "id": "2026-11-09-A1",
   "link": "https://aviatrix.ai/threat-research-center/claude-code-dont-ask-again-settings-local-json-passwords-keys-1122-github-2026/",
@@ -1474,5 +1390,89 @@
   "id": "2026-11-22-C3",
   "link": "https://www.usatoday.com/story/news/politics/2026/11/19/senate-permitting-reform-bill-passes-data-centers-clean-energy/92871719007/",
   "title": "BAAJA 参议院终审 62-33 通过，转众议院"
+ },
+ {
+  "date": "2026-11-23",
+  "id": "2026-11-23-A1",
+  "link": "https://openai.com/index/perplexity-and-intelligence/",
+  "title": "OpenAI 首席科学家发文：提议以困惑度作全行业共享安全标尺"
+ },
+ {
+  "date": "2026-11-23",
+  "id": "2026-11-23-A2",
+  "link": "https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too/",
+  "title": "黎曼猜想又现第二份证明——斯坦福博士后 Masullo 的纯人工草稿"
+ },
+ {
+  "date": "2026-11-23",
+  "id": "2026-11-23-A3",
+  "link": "https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers/",
+  "title": "OpenRouter 下架 3 家推理服务商，125 个端点取消零数据保留资格"
+ },
+ {
+  "date": "2026-11-23",
+  "id": "2026-11-23-A4",
+  "link": "https://www.together.ai/blog/security-event-prompt-leakage-for-requests-in-june-and-july-of-2026",
+  "title": "Together AI 披露：AI 编程 Agent 把凭证提交进公开仓库，致 6–7 月客户提示样本泄露"
+ },
+ {
+  "date": "2026-11-23",
+  "id": "2026-11-23-A5",
+  "link": "https://github.com/browser-use/browser-use/releases",
+  "title": "开源浏览器 Agent browser-use 发布 1.0.8，补无头机扫码登录与密码不回显"
+ },
+ {
+  "date": "2026-11-23",
+  "id": "2026-11-23-A6",
+  "link": "https://techxplore.com/news/2026-11-nvidia-accounting-probe-deepening-turmoil.html",
+  "title": "SEC 对英伟达会计调查被曝处早期阶段，可能不提起指控；加州调查或涉刑法"
+ },
+ {
+  "date": "2026-11-23",
+  "id": "2026-11-23-A7",
+  "link": "https://asiaai.fyi/samsung-sk-hynix-ai-memory-dividend-surge/",
+  "title": "三星与 SK 海力士借 AI 存储暴利大幅提高分红，派息率升至 18.0% 与 8.4%"
+ },
+ {
+  "date": "2026-11-23",
+  "id": "2026-11-23-A8",
+  "link": "https://www.reuters.com/world/china/us-seeks-answers-nvidias-sale-chips-china-bessent-says-2026-11-22/",
+  "title": "贝森特周日表态——政府仍在等英伟达就对华芯片销售作答，黄仁勋回归松口"
+ },
+ {
+  "date": "2026-11-23",
+  "id": "2026-11-23-A9",
+  "link": "https://aiweekly.co/alerts/openai-postgres-replica-failure-peaked-api-chatgpt-errors-at-75",
+  "title": "OpenAI 大面积故障 3.5 小时：数据库例行维护拖垮认证层，请求失败率峰值 75%"
+ },
+ {
+  "date": "2026-11-23",
+  "id": "2026-11-23-B1",
+  "link": "https://beincrypto.com/fed-lisa-cook-rate-hike-december-odds/",
+  "title": "12 月加息定价周六回落——不加息概率一天内从 0 升至约 11%"
+ },
+ {
+  "date": "2026-11-23",
+  "id": "2026-11-23-B2",
+  "link": "https://blockchainreporter.net/bitcoin-news-today/",
+  "title": "比特币守住 6 万美元，但现货 ETF 周净流出约 12.5 亿美元"
+ },
+ {
+  "date": "2026-11-23",
+  "id": "2026-11-23-B3",
+  "link": "https://www.theblock.co/news/defi/2026-11-21-chainflips-flip-drops-34-after-attacker-drains-4-86-million-from-vault-with-suspected-key-compromise-444804",
+  "title": "跨链协议 Chainflip 被盗总额升至约 1200 万美元，FLIP 跌约 34%"
+ },
+ {
+  "date": "2026-11-23",
+  "id": "2026-11-23-B4",
+  "link": "https://blockchainreporter.net/ethereum-news-today/",
+  "title": "以太坊周六跌至约 1536 美元（6 月 26 日以来最低）后反弹"
+ },
+ {
+  "date": "2026-11-23",
+  "id": "2026-11-23-C1",
+  "link": "https://thearabianpost.com/bahrain-demands-un-action-after-iranian-industrial-strike/",
+  "title": "巴林要求安理会行动并索赔，周六袭击首次出现伤员"
  }
 ]

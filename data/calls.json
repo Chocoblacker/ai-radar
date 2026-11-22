@@ -79,7 +79,7 @@
    "主席 Warsh 公开表态的措辞转向"
   ],
   "outcome": null,
-  "probability": 0.9,
+  "probability": 0.85,
   "resolution_criteria": "美联储官网 12 月 FOMC 声明",
   "resolved_date": null,
   "review": null,
@@ -161,6 +161,11 @@
     "date": "2026-11-21",
     "probability": 0.9,
     "reason": "密歇根信心终值回升至 51.5，股灾未动摇 12 月加息定价（CME 约 95%）（2026-11-21-B5）"
+   },
+   {
+    "date": "2026-11-23",
+    "probability": 0.85,
+    "reason": "12 月加息定价从约 96.9% 回落至约 88.6%，不加息概率一天内从 0 升至约 11%（2026-11-23-B1）"
    }
   ]
  },

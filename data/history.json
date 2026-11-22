@@ -1,1490 +1,1478 @@
 [
  {
-  "id": "2026-11-07-A1",
-  "date": "2026-11-07",
-  "title": "Kakao 开源 3.67B 参数决策模型 Kanana-2-v-decide，不生成文本、只输出判断结果",
-  "link": "https://huggingface.co/kakaocorp/kanana-2-v-decide-3b-2611"
- },
- {
-  "id": "2026-11-07-A2",
-  "date": "2026-11-07",
-  "title": "Salesforce 推出决策模型 Koa Decisions，基于 Google 开源权重 Gemma",
-  "link": "https://www.salesforce.com/news/stories/koa-decisions-salesforce-decision-models/?bc=OTH"
- },
- {
-  "id": "2026-11-07-A3",
-  "date": "2026-11-07",
-  "title": "Airbnb 宣布自研 AI 旅行 Agent，2027 年上半年上线",
-  "link": "https://techcrunch.com/2026/11/05/airbnb-says-its-launching-an-ai-travel-agent-in-the-first-half-of-2027/"
- },
- {
-  "id": "2026-11-07-A4",
-  "date": "2026-11-07",
-  "title": "亚马逊上线短信版 Alexa 购物 Agent，可发文字买东西",
-  "link": "https://techcrunch.com/2026/11/06/after-blocking-muse-amazon-now-lets-users-text-alexa-to-help-them-shop/"
- },
- {
-  "id": "2026-11-07-A5",
-  "date": "2026-11-07",
-  "title": "腾讯云发布主权 Agent AI 私有云套件，3 台服务器可起步",
-  "link": "http://www.prnewswire.co.uk/news-releases/tencent-cloud-enterprise-unveils-full-stack-intelligent-private-cloud-for-sovereign-agentic-ai-302932000.html"
- },
- {
-  "id": "2026-11-07-A6",
-  "date": "2026-11-07",
-  "title": "ServiceNow 再裁员：美英印三地受影响，称 AI 增效、年底总人数不变",
-  "link": "https://www.peoplematters.in/amp/news/strategic-hr/servicenow-layoffs-hit-uk-us-and-india-as-company-restructures-workforce-53222"
- },
- {
-  "id": "2026-11-07-A7",
-  "date": "2026-11-07",
-  "title": "Check Point 披露 ChatGPT\"锁定模式\"可被绕过，桌面版零点击窃取全部聊天记录",
-  "link": "https://research.checkpoint.com/2026/chatgpt-lockdown-mode-bypass-phishing-malware-delivery-and-silent-data-exfiltration/"
- },
- {
-  "id": "2026-11-07-A8",
-  "date": "2026-11-07",
-  "title": "台积电筹划应英伟达要求生产 3D DRAM，或打破纯代工边界",
-  "link": "https://www.reuters.com/world/asia-pacific/tsmc-considers-making-advanced-memory-chips-information-reports-2026-11-06/"
- },
- {
-  "id": "2026-11-07-A9",
-  "date": "2026-11-07",
-  "title": "先进封装成 AI 芯片新战场，2026 年收入首超传统封装",
-  "link": "https://www.reuters.com/world/asia-pacific/ai-boom-turns-chip-packaging-into-next-battleground-semiconductors-2026-11-06/"
- },
- {
-  "id": "2026-11-07-A10",
-  "date": "2026-11-07",
-  "title": "英伟达完成 10 亿美元入股 Naver，持股 4.13%，加速韩国 AI 工厂合作",
-  "link": "https://m-en.yna.co.kr/view/AEN20261106010300320"
- },
- {
-  "id": "2026-11-07-B1",
-  "date": "2026-11-07",
-  "title": "美国 10 月非农新增 16.5 万人，远超预期，失业率降至 4.1%",
-  "link": "https://www.reuters.com/business/us-job-growth-beats-expectations-october-unemployment-rate-falls-41-2026-11-06/"
- },
- {
-  "id": "2026-11-07-B2",
-  "date": "2026-11-07",
-  "title": "美股周五反弹，芯片领涨，纳指涨约 1.7%",
-  "link": "https://www.tradingview.com/news/benzinga:9bd57133b094b:0-nasdaq-100-rebounds-2-after-worst-day-since-2020-payrolls-smash-estimates-stock-market-today/"
- },
- {
-  "id": "2026-11-07-B3",
-  "date": "2026-11-07",
-  "title": "亚洲股市 11 月 6 日暴跌：日经、Kospi 均跌 6%，台股盘中暴跌 3737 点",
-  "link": "https://telanganatoday.com/global-shares-skid-as-technology-stocks-face-mounting-selling-pressure"
- },
- {
-  "id": "2026-11-07-B4",
-  "date": "2026-11-07",
-  "title": "12 月加息定价升至约 77%–78%，三位美联储官员齐放鹰",
-  "link": "https://invezz.com/news/2026/11/06/fed-rate-hike-odds-jump-after-october-jobs-report-as-officials-signal-more-tightening/"
- },
- {
-  "id": "2026-11-07-B5",
-  "date": "2026-11-07",
-  "title": "加密与大宗：现货 ETF 单日净流出 5.3 亿美元，黄金跌破 4100 美元，布伦特收 97.44 美元",
-  "link": "https://cryptocompass.com/articles/us-bitcoin-ether-etfs-see-530-million-outflow-as-rally-reverses"
- },
- {
-  "id": "2026-11-07-C1",
-  "date": "2026-11-07",
-  "title": "美国延长 BIS\"50% 关联企业规则\"暂停期至 2027 年 1 月 10 日，中美贸易休战再续",
-  "link": "https://asia.nikkei.com/politics/international-relations/us-china-tensions/us-extends-suspension-of-export-restrictions-on-chinese-firms"
- },
- {
-  "id": "2026-11-07-C2",
-  "date": "2026-11-07",
-  "title": "伊朗经卡塔尔向美方递交核提案，布伦特单周跌超 13%",
-  "link": "https://www.financialexpress.com/world-news/brent-crude-slides-to-98-how-us-midterms-and-iran-tensions-shook-oil-markets/4378788/"
- },
- {
-  "id": "2026-11-07-C3",
-  "date": "2026-11-07",
-  "title": "参议员推数据中心电费法案，达拉斯联储称数据中心推高西南批发电价 8.6%",
-  "link": "https://www.organmountainnews.com/data-centers-southwest-electricity-costs-heinrich-bill-2026/"
- },
- {
+  "date": "2026-11-08",
   "id": "2026-11-08-A1",
-  "date": "2026-11-08",
-  "title": "WorkOS 证实：研究员的 AI 黑客 Agent 逃出沙箱，批量拖走客户数据",
-  "link": "https://www.bleepingcomputer.com/news/security/runaway-ai-hacking-agent-behind-workos-breach-after-escaping-sandbox/"
+  "link": "https://www.bleepingcomputer.com/news/security/runaway-ai-hacking-agent-behind-workos-breach-after-escaping-sandbox/",
+  "title": "WorkOS 证实：研究员的 AI 黑客 Agent 逃出沙箱，批量拖走客户数据"
  },
  {
+  "date": "2026-11-08",
   "id": "2026-11-08-A2",
-  "date": "2026-11-08",
-  "title": "协作实验：9 个 AI 编程 Agent 为换取帮助交出私密 token、运行外部脚本",
-  "link": "https://assets.theregister.com/2026/11/06/202618/"
+  "link": "https://assets.theregister.com/2026/11/06/202618/",
+  "title": "协作实验：9 个 AI 编程 Agent 为换取帮助交出私密 token、运行外部脚本"
  },
  {
+  "date": "2026-11-08",
   "id": "2026-11-08-A3",
-  "date": "2026-11-08",
-  "title": "AWS 美西 EC2 大面积启动失败约 2 小时 21 分，波及 Databricks、Supabase",
-  "link": "https://pingoru.io/providers/amazon-web-services/incidents/12473997"
+  "link": "https://pingoru.io/providers/amazon-web-services/incidents/12473997",
+  "title": "AWS 美西 EC2 大面积启动失败约 2 小时 21 分，波及 Databricks、Supabase"
  },
  {
+  "date": "2026-11-08",
   "id": "2026-11-08-A4",
-  "date": "2026-11-08",
-  "title": "台积电否认应英伟达要求生产 3D DRAM，传闻一日内反转",
-  "link": "https://www.reuters.com/world/asia-pacific/tsmc-considers-making-advanced-memory-chips-information-reports-2026-11-06/"
+  "link": "https://www.reuters.com/world/asia-pacific/tsmc-considers-making-advanced-memory-chips-information-reports-2026-11-06/",
+  "title": "台积电否认应英伟达要求生产 3D DRAM，传闻一日内反转"
  },
  {
+  "date": "2026-11-08",
   "id": "2026-11-08-A5",
-  "date": "2026-11-08",
-  "title": "特斯拉披露 AI 芯片新路线图：SI6 算力目标为现款 80 倍，Dojo 3 改用 chiplet + HBM",
-  "link": "https://dev.to/delimitter/tesla-unveils-si-accelerator-roadmap-si6-targets-80x-compute-of-ai4-39bl"
+  "link": "https://dev.to/delimitter/tesla-unveils-si-accelerator-roadmap-si6-targets-80x-compute-of-ai4-39bl",
+  "title": "特斯拉披露 AI 芯片新路线图：SI6 算力目标为现款 80 倍，Dojo 3 改用 chiplet + HBM"
  },
  {
+  "date": "2026-11-08",
   "id": "2026-11-08-A6",
-  "date": "2026-11-08",
-  "title": "Grok API 文本默认加水印，11 月 7 日起生效",
-  "link": "https://docs.x.ai/developers/advanced-api-usage/watermarking"
+  "link": "https://docs.x.ai/developers/advanced-api-usage/watermarking",
+  "title": "Grok API 文本默认加水印，11 月 7 日起生效"
  },
  {
+  "date": "2026-11-08",
   "id": "2026-11-08-A7",
-  "date": "2026-11-08",
-  "title": "Oracle 四份 WARN 备案曝光：西雅图及湾区裁员 800 人，11 月 13 日生效",
-  "link": "https://fourweekmba.com/ai-oracle-to-lay-off-800-in-seattle-and-bay-area-filings-show/"
+  "link": "https://fourweekmba.com/ai-oracle-to-lay-off-800-in-seattle-and-bay-area-filings-show/",
+  "title": "Oracle 四份 WARN 备案曝光：西雅图及湾区裁员 800 人，11 月 13 日生效"
  },
  {
+  "date": "2026-11-08",
   "id": "2026-11-08-A8",
-  "date": "2026-11-08",
-  "title": "Liquid AI 小模型 LFM3-1.7B 上架 OpenRouter，含免费路线",
-  "link": "https://www.accessallgpt.com/research/liquid-lfm3-1-7b-openrouter-free-api-price-context-privacy-launch"
+  "link": "https://www.accessallgpt.com/research/liquid-lfm3-1-7b-openrouter-free-api-price-context-privacy-launch",
+  "title": "Liquid AI 小模型 LFM3-1.7B 上架 OpenRouter，含免费路线"
  },
  {
+  "date": "2026-11-08",
   "id": "2026-11-08-B1",
-  "date": "2026-11-08",
-  "title": "美股周五反弹：纳指 +1.09% 至 24,579.42 点，芯片领涨，但全周仍跌 3.4%",
-  "link": "https://www.business-standard.com/amp/markets/news/wall-street-rebounds-as-chip-stocks-rally-after-heavy-ai-related-selloff-126110700047_1.html"
+  "link": "https://www.business-standard.com/amp/markets/news/wall-street-rebounds-as-chip-stocks-rally-after-heavy-ai-related-selloff-126110700047_1.html",
+  "title": "美股周五反弹：纳指 +1.09% 至 24,579.42 点，芯片领涨，但全周仍跌 3.4%"
  },
  {
+  "date": "2026-11-08",
   "id": "2026-11-08-B2",
-  "date": "2026-11-08",
-  "title": "戴利称美联储可能还需进一步加息，12 月加息定价守在约 78%",
-  "link": "https://www.wysl1040.com/daly-says-fed-rate-hike-likely-despite-painful-tech-stock-dive/"
+  "link": "https://www.wysl1040.com/daly-says-fed-rate-hike-likely-despite-painful-tech-stock-dive/",
+  "title": "戴利称美联储可能还需进一步加息，12 月加息定价守在约 78%"
  },
  {
+  "date": "2026-11-08",
   "id": "2026-11-08-B3",
-  "date": "2026-11-08",
-  "title": "美国 11 月密歇根消费者信心初值 51.0 超预期，通胀预期回落",
-  "link": "https://www.kitco.com/news/article/2026-11-06/gold-price-trades-near-4050oz-after-preliminary-consumer-sentiment-rises-51"
+  "link": "https://www.kitco.com/news/article/2026-11-06/gold-price-trades-near-4050oz-after-preliminary-consumer-sentiment-rises-51",
+  "title": "美国 11 月密歇根消费者信心初值 51.0 超预期，通胀预期回落"
  },
  {
+  "date": "2026-11-08",
   "id": "2026-11-08-B4",
-  "date": "2026-11-08",
-  "title": "美国财政部下令切断加密交易所 MEXC 与美国金融系统联系，涉至少 160 亿美元非法交易",
-  "link": "https://www.coindesk.com/business/2026/11/07/u-s-treasury-moves-to-cut-off-crypto-exchange-mexc-over-usd16-billion-in-alleged-illicit-flows"
+  "link": "https://www.coindesk.com/business/2026/11/07/u-s-treasury-moves-to-cut-off-crypto-exchange-mexc-over-usd16-billion-in-alleged-illicit-flows",
+  "title": "美国财政部下令切断加密交易所 MEXC 与美国金融系统联系，涉至少 160 亿美元非法交易"
  },
  {
+  "date": "2026-11-08",
   "id": "2026-11-08-B5",
-  "date": "2026-11-08",
-  "title": "中港股市周五跟跌，但全周逆势收涨，恒指创 2025 年 3 月以来最佳周涨幅",
-  "link": "https://www.brecorder.com/news/40447851"
+  "link": "https://www.brecorder.com/news/40447851",
+  "title": "中港股市周五跟跌，但全周逆势收涨，恒指创 2025 年 3 月以来最佳周涨幅"
  },
  {
+  "date": "2026-11-08",
   "id": "2026-11-08-C1",
-  "date": "2026-11-08",
-  "title": "NYT 调查：美商务部批准的 H200 对华买家中有空壳公司，许可审查现漏洞",
-  "link": "https://www.jpost.com/business-and-innovation/tech-and-start-ups/article-914132"
+  "link": "https://www.jpost.com/business-and-innovation/tech-and-start-ups/article-914132",
+  "title": "NYT 调查：美商务部批准的 H200 对华买家中有空壳公司，许可审查现漏洞"
  },
  {
+  "date": "2026-11-09",
   "id": "2026-11-09-A1",
-  "date": "2026-11-09",
-  "title": "Claude Code\"不再询问\"致 2,539 个密钥流入公开 GitHub，Anthropic 仍无公开回应",
-  "link": "https://aviatrix.ai/threat-research-center/claude-code-dont-ask-again-settings-local-json-passwords-keys-1122-github-2026/"
+  "link": "https://aviatrix.ai/threat-research-center/claude-code-dont-ask-again-settings-local-json-passwords-keys-1122-github-2026/",
+  "title": "Claude Code\"不再询问\"致 2,539 个密钥流入公开 GitHub，Anthropic 仍无公开回应"
  },
  {
+  "date": "2026-11-09",
   "id": "2026-11-09-A2",
-  "date": "2026-11-09",
-  "title": "Open WebUI 0.13.1：编程 Agent 进模型选择器，新增 Tether 桌面伴侣与自动审批",
-  "link": "https://github.com/open-webui/open-webui/releases/tag/v0.13.1"
+  "link": "https://github.com/open-webui/open-webui/releases/tag/v0.13.1",
+  "title": "Open WebUI 0.13.1：编程 Agent 进模型选择器，新增 Tether 桌面伴侣与自动审批"
  },
  {
+  "date": "2026-11-09",
   "id": "2026-11-09-A3",
-  "date": "2026-11-09",
-  "title": "OpenAI 图像生成功能 11 月 8 日故障约 1 小时 49 分钟后恢复",
-  "link": "https://status.openai.com"
+  "link": "https://status.openai.com",
+  "title": "OpenAI 图像生成功能 11 月 8 日故障约 1 小时 49 分钟后恢复"
  },
  {
+  "date": "2026-11-09",
   "id": "2026-11-09-A4",
-  "date": "2026-11-09",
-  "title": "AI 裁员潮遇冷：近 90% 高管称 AI 未可衡量改变生产力，Meta 缩减以 AI Agent 替人计划",
-  "link": "https://coincentral.com/ai-layoff-gamble-backfires-as-90-of-executives-report-no-productivity-gains/"
+  "link": "https://coincentral.com/ai-layoff-gamble-backfires-as-90-of-executives-report-no-productivity-gains/",
+  "title": "AI 裁员潮遇冷：近 90% 高管称 AI 未可衡量改变生产力，Meta 缩减以 AI Agent 替人计划"
  },
  {
+  "date": "2026-11-09",
   "id": "2026-11-09-A5",
-  "date": "2026-11-09",
-  "title": "菲律宾参议员提交法案：以 AI 为由裁员须满足五项条件",
-  "link": "https://www.gmanetwork.com/news/topstories/nation/1008724/erwin-tulfo-files-bill-seeking-worker-protection-vs-layoffs-due-to-ai/story/"
+  "link": "https://www.gmanetwork.com/news/topstories/nation/1008724/erwin-tulfo-files-bill-seeking-worker-protection-vs-layoffs-due-to-ai/story/",
+  "title": "菲律宾参议员提交法案：以 AI 为由裁员须满足五项条件"
  },
  {
+  "date": "2026-11-09",
   "id": "2026-11-09-A6",
-  "date": "2026-11-09",
-  "title": "Uber 最繁忙一周仅 4 单打车由 AI Agent 下单，Agent 订车远未起量",
-  "link": "https://techcrunch.com/2026/11/08/techcrunch-mobility-the-cybertruck-experiment-is-over/"
+  "link": "https://techcrunch.com/2026/11/08/techcrunch-mobility-the-cybertruck-experiment-is-over/",
+  "title": "Uber 最繁忙一周仅 4 单打车由 AI Agent 下单，Agent 订车远未起量"
  },
  {
+  "date": "2026-11-09",
   "id": "2026-11-09-B1",
-  "date": "2026-11-09",
-  "title": "黄金创 8 月以来最强周涨幅，原油全周跌超 12%",
-  "link": "https://www.freepressjournal.in/amp/business/gold-records-biggest-weekly-rally-since-august-crude-oil-crashes-over-12-as-fed-rate-fears-cap-gains"
+  "link": "https://www.freepressjournal.in/amp/business/gold-records-biggest-weekly-rally-since-august-crude-oil-crashes-over-12-as-fed-rate-fears-cap-gains",
+  "title": "黄金创 8 月以来最强周涨幅，原油全周跌超 12%"
  },
  {
+  "date": "2026-11-09",
   "id": "2026-11-09-B2",
-  "date": "2026-11-09",
-  "title": "比特币现货 ETF 单周净流出 12.8 亿美元，创 6 月以来最大周流出",
-  "link": "https://cryptopotato.com/bitcoin-etf-outflows-hit-4-month-high-as-ethereum-funds-stay-in-the-red/"
+  "link": "https://cryptopotato.com/bitcoin-etf-outflows-hit-4-month-high-as-ethereum-funds-stay-in-the-red/",
+  "title": "比特币现货 ETF 单周净流出 12.8 亿美元，创 6 月以来最大周流出"
  },
  {
+  "date": "2026-11-09",
   "id": "2026-11-09-B3",
-  "date": "2026-11-09",
-  "title": "币安确认 12 月 31 日起关闭部分欧盟用户账户，11 月 29 日起对闲置余额收月费",
-  "link": "https://financefeeds.com/binance-to-close-affected-eu-accounts-by-december-31-after-mica-transition/"
+  "link": "https://financefeeds.com/binance-to-close-affected-eu-accounts-by-december-31-after-mica-transition/",
+  "title": "币安确认 12 月 31 日起关闭部分欧盟用户账户，11 月 29 日起对闲置余额收月费"
  },
  {
+  "date": "2026-11-09",
   "id": "2026-11-09-C1",
-  "date": "2026-11-09",
-  "title": "英伟达董事会启动独立调查，回应黄仁勋遭外国情报 targeting 的报道",
-  "link": "https://www.reuters.com/world/china/nvidia-launches-probe-after-report-ceo-huang-was-target-foreign-intelligence-2026-11-08/"
+  "link": "https://www.reuters.com/world/china/nvidia-launches-probe-after-report-ceo-huang-was-target-foreign-intelligence-2026-11-08/",
+  "title": "英伟达董事会启动独立调查，回应黄仁勋遭外国情报 targeting 的报道"
  },
  {
+  "date": "2026-11-10",
   "id": "2026-11-10-A1",
-  "date": "2026-11-10",
-  "title": "Anthropic 发布 Claude Fable 5.2 与 Mythos 5.2，定价降 20%、输出快 30%",
-  "link": "https://www.anthropic.com/claude-fable-and-mythos-5-2"
+  "link": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
+  "title": "Anthropic 发布 Claude Fable 5.2 与 Mythos 5.2，定价降 20%、输出快 30%"
  },
  {
+  "date": "2026-11-10",
   "id": "2026-11-10-A2",
-  "date": "2026-11-10",
-  "title": "Meta 发布 Muse Ember，定位 Agent 重复性任务的小模型，每任务成本约 0.14 美元",
-  "link": "https://research.meta.ai/blog/muse-ember"
+  "link": "https://research.meta.ai/blog/muse-ember",
+  "title": "Meta 发布 Muse Ember，定位 Agent 重复性任务的小模型，每任务成本约 0.14 美元"
  },
  {
+  "date": "2026-11-10",
   "id": "2026-11-10-A3",
-  "date": "2026-11-10",
-  "title": "Claude Code 密钥泄露：GitGuardian 称规模远大于 Apiiro 统计，另波及 Docker Hub",
-  "link": "https://blog.gitguardian.com/claude-code-settings-local-json-secrets-docker-hub/"
+  "link": "https://blog.gitguardian.com/claude-code-settings-local-json-secrets-docker-hub/",
+  "title": "Claude Code 密钥泄露：GitGuardian 称规模远大于 Apiiro 统计，另波及 Docker Hub"
  },
  {
+  "date": "2026-11-10",
   "id": "2026-11-10-A4",
-  "date": "2026-11-10",
-  "title": "Anthropic IPO 路演：截至 11 月 9 日仍未提交定价区间文件，路演最早 11 月 10 日启动",
-  "link": "https://financefeeds.com/anthropic-ipo-roadshow-looms-with-no-price-range/"
+  "link": "https://financefeeds.com/anthropic-ipo-roadshow-looms-with-no-price-range/",
+  "title": "Anthropic IPO 路演：截至 11 月 9 日仍未提交定价区间文件，路演最早 11 月 10 日启动"
  },
  {
+  "date": "2026-11-10",
   "id": "2026-11-10-A5",
-  "date": "2026-11-10",
-  "title": "Anthropic 被曝 34 亿美元接手 1.7GW 燃气发电机订单",
-  "link": "https://www.unite.ai/anthropic-reported-to-buy-gas-turbines-as-ai-power-access-tightens/"
+  "link": "https://www.unite.ai/anthropic-reported-to-buy-gas-turbines-as-ai-power-access-tightens/",
+  "title": "Anthropic 被曝 34 亿美元接手 1.7GW 燃气发电机订单"
  },
  {
+  "date": "2026-11-10",
   "id": "2026-11-10-A6",
-  "date": "2026-11-10",
-  "title": "谷歌发布第八代 TPU 系统 TPU 8tx 与 8i Max",
-  "link": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/tpu-8i-max-and-8tx/"
+  "link": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/tpu-8i-max-and-8tx/",
+  "title": "谷歌发布第八代 TPU 系统 TPU 8tx 与 8i Max"
  },
  {
+  "date": "2026-11-10",
   "id": "2026-11-10-A7",
-  "date": "2026-11-10",
-  "title": "英伟达 Q3 财报前瞻：RBC 预期超预期，存储成本压毛利率",
-  "link": "https://www.tipranks.com/news/article/nvidia-stocks-nvda-sell-off-looks-overdone-ahead-of-q3"
+  "link": "https://www.tipranks.com/news/article/nvidia-stocks-nvda-sell-off-looks-overdone-ahead-of-q3",
+  "title": "英伟达 Q3 财报前瞻：RBC 预期超预期，存储成本压毛利率"
  },
  {
+  "date": "2026-11-10",
   "id": "2026-11-10-B1",
-  "date": "2026-11-10",
-  "title": "美股周一大幅反弹，创 4 月以来最大单日涨幅，英伟达逆势跌约 4.9%",
-  "link": "https://www.kitco.com/news/off-the-wire/2026-11-09/wall-st-jumps-back-oil-slide-eases-inflation-worries-nvidia-slumps"
+  "link": "https://www.kitco.com/news/off-the-wire/2026-11-09/wall-st-jumps-back-oil-slide-eases-inflation-worries-nvidia-slumps",
+  "title": "美股周一大幅反弹，创 4 月以来最大单日涨幅，英伟达逆势跌约 4.9%"
  },
  {
+  "date": "2026-11-10",
   "id": "2026-11-10-B2",
-  "date": "2026-11-10",
-  "title": "10 月 CPI 前瞻：只公布环比、无同比，12 月加息定价约 77%–80%",
-  "link": "https://www.tipranks.com/news/u-s-stocks-rebound-as-oil-prices-fall-and-nvidia-sinks"
+  "link": "https://www.tipranks.com/news/u-s-stocks-rebound-as-oil-prices-fall-and-nvidia-sinks",
+  "title": "10 月 CPI 前瞻：只公布环比、无同比，12 月加息定价约 77%–80%"
  },
  {
+  "date": "2026-11-10",
   "id": "2026-11-10-B3",
-  "date": "2026-11-10",
-  "title": "芝加哥联储主席 Goolsbee：AI 数据中心建设已现“老式需求过热”",
-  "link": "https://news.bloomberglaw.com/banking-law/feds-goolsbee-says-officials-must-address-inflation-failure"
+  "link": "https://news.bloomberglaw.com/banking-law/feds-goolsbee-says-officials-must-address-inflation-failure",
+  "title": "芝加哥联储主席 Goolsbee：AI 数据中心建设已现“老式需求过热”"
  },
  {
+  "date": "2026-11-10",
   "id": "2026-11-10-B4",
-  "date": "2026-11-10",
-  "title": "比特币跌破 7.5 万美元、以太坊跌破 2,100 美元，24 小时全网爆仓超 10 亿美元",
-  "link": "https://www.cryptotimes.io/2026/11/09/ethereum-price-drops-4-4-to-2136-as-449m-eth-liquidations-hit-longs/"
+  "link": "https://www.cryptotimes.io/2026/11/09/ethereum-price-drops-4-4-to-2136-as-449m-eth-liquidations-hit-longs/",
+  "title": "比特币跌破 7.5 万美元、以太坊跌破 2,100 美元，24 小时全网爆仓超 10 亿美元"
  },
  {
+  "date": "2026-11-10",
   "id": "2026-11-10-B5",
-  "date": "2026-11-10",
-  "title": "油价单日跌约 4%、金价反弹：特朗普称不太可能再打击伊朗",
-  "link": "https://www.reuters.com/world/middle-east/trump-meet-iran-war-mediator-qatar-no-imminent-deal-seen-end-war-2026-11-09/"
+  "link": "https://www.reuters.com/world/middle-east/trump-meet-iran-war-mediator-qatar-no-imminent-deal-seen-end-war-2026-11-09/",
+  "title": "油价单日跌约 4%、金价反弹：特朗普称不太可能再打击伊朗"
  },
  {
+  "date": "2026-11-10",
   "id": "2026-11-10-B6",
-  "date": "2026-11-10",
-  "title": "中港股市周一分化：恒生微跌 0.13%、恒生科技跌 0.92%，上证涨 0.32%",
-  "link": "https://peoplesdaily.pdnews.cn/business/er/30053525799"
+  "link": "https://peoplesdaily.pdnews.cn/business/er/30053525799",
+  "title": "中港股市周一分化：恒生微跌 0.13%、恒生科技跌 0.92%，上证涨 0.32%"
  },
  {
+  "date": "2026-11-10",
   "id": "2026-11-10-C1",
-  "date": "2026-11-10",
-  "title": "中国稀土等出口管制暂停延至 2027 年 1 月 10 日",
-  "link": "https://www.reuters.com/world/china/china-extends-suspension-new-rare-earth-controls-until-january-2026-11-09/"
+  "link": "https://www.reuters.com/world/china/china-extends-suspension-new-rare-earth-controls-until-january-2026-11-09/",
+  "title": "中国稀土等出口管制暂停延至 2027 年 1 月 10 日"
  },
  {
+  "date": "2026-11-10",
   "id": "2026-11-10-C2",
-  "date": "2026-11-10",
-  "title": "美国 BIS“关联企业规则”暂停延长至 2027 年 1 月 10 日，11 月 9 日刊登《联邦公报》",
-  "link": "https://www.nixonpeabody.com/insights/alerts/2026/11/06/bis-formally-suspends-the-affiliates-rule-until-january-10-2027"
+  "link": "https://www.nixonpeabody.com/insights/alerts/2026/11/06/bis-formally-suspends-the-affiliates-rule-until-january-10-2027",
+  "title": "美国 BIS“关联企业规则”暂停延长至 2027 年 1 月 10 日，11 月 9 日刊登《联邦公报》"
  },
  {
+  "date": "2026-11-10",
   "id": "2026-11-10-C3",
-  "date": "2026-11-10",
-  "title": "美国参议院周一辩论数据中心法案 BAAJA，要求大型数据中心承担更多电网升级成本",
-  "link": "https://www.reuters.com/legal/litigation/us-congress-gets-first-post-blue-wave-crack-data-centers-with-permitting-bill-2026-11-09/"
+  "link": "https://www.reuters.com/legal/litigation/us-congress-gets-first-post-blue-wave-crack-data-centers-with-permitting-bill-2026-11-09/",
+  "title": "美国参议院周一辩论数据中心法案 BAAJA，要求大型数据中心承担更多电网升级成本"
  },
  {
+  "date": "2026-11-11",
   "id": "2026-11-11-A1",
-  "date": "2026-11-11",
-  "title": "Anthropic 启动 IPO 路演，定价 70–78 美元、拟募资最高约 644 亿美元",
-  "link": "https://www.anthropic.com/news/roadshow-launch"
+  "link": "https://www.anthropic.com/news/roadshow-launch",
+  "title": "Anthropic 启动 IPO 路演，定价 70–78 美元、拟募资最高约 644 亿美元"
  },
  {
+  "date": "2026-11-11",
   "id": "2026-11-11-A2",
-  "date": "2026-11-11",
-  "title": "谷歌 Gemini 4 Carbon 全面开放，同步预览多 Agent 协作工具 /swarm",
-  "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-carbon-now-available/"
+  "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-carbon-now-available/",
+  "title": "谷歌 Gemini 4 Carbon 全面开放，同步预览多 Agent 协作工具 /swarm"
  },
  {
+  "date": "2026-11-11",
   "id": "2026-11-11-A3",
-  "date": "2026-11-11",
-  "title": "Anthropic 推出 Claude Meetings、Sheets、Whiteboards，Claude Data 正式 GA",
-  "link": "https://techcrunch.com/2026/11/10/anthropic-launches-claude-meetings-to-turn-workplace-discussions-into-plans-and-tasks/"
+  "link": "https://techcrunch.com/2026/11/10/anthropic-launches-claude-meetings-to-turn-workplace-discussions-into-plans-and-tasks/",
+  "title": "Anthropic 推出 Claude Meetings、Sheets、Whiteboards，Claude Data 正式 GA"
  },
  {
+  "date": "2026-11-11",
   "id": "2026-11-11-A4",
-  "date": "2026-11-11",
-  "title": "OpenAI 在 ChatGPT 内推出 Businesses（beta），企业可认领主页、部署自有 Business Agent",
-  "link": "https://www.reuters.com/technology/openai-lets-businesses-claim-chatgpt-profiles-adds-ai-agents-us-e-commerce-firms-2026-11-10/"
+  "link": "https://www.reuters.com/technology/openai-lets-businesses-claim-chatgpt-profiles-adds-ai-agents-us-e-commerce-firms-2026-11-10/",
+  "title": "OpenAI 在 ChatGPT 内推出 Businesses（beta），企业可认领主页、部署自有 Business Agent"
  },
  {
+  "date": "2026-11-11",
   "id": "2026-11-11-A5",
-  "date": "2026-11-11",
-  "title": "AMD 发布第六代 EPYC（Zen 6），最高 256 核、面向 Agent 与 GPU 机架的服务器 CPU 全面上市",
-  "link": "https://newsroom.amd.com/news/6th-gen-epyc-lead-ai-enterprise-computing/"
+  "link": "https://newsroom.amd.com/news/6th-gen-epyc-lead-ai-enterprise-computing/",
+  "title": "AMD 发布第六代 EPYC（Zen 6），最高 256 核、面向 Agent 与 GPU 机架的服务器 CPU 全面上市"
  },
  {
+  "date": "2026-11-11",
   "id": "2026-11-11-A6",
-  "date": "2026-11-11",
-  "title": "台积电 10 月营收创历史新高，同比大涨近六成",
-  "link": "https://el7.ai/en/news/2026-11-10-tsmc-october-revenue-surges-60-on-robust-ai-chip-demand"
+  "link": "https://el7.ai/en/news/2026-11-10-tsmc-october-revenue-surges-60-on-robust-ai-chip-demand",
+  "title": "台积电 10 月营收创历史新高，同比大涨近六成"
  },
  {
+  "date": "2026-11-11",
   "id": "2026-11-11-A7",
-  "date": "2026-11-11",
-  "title": "NEAR AI 披露 SGLang 远程代码执行漏洞遭利用，约 100 名用户与 18 个 Agent 数据泄露",
-  "link": "https://crypto.news/near-ai-cloud-restored-security-breach-user-data/"
+  "link": "https://crypto.news/near-ai-cloud-restored-security-breach-user-data/",
+  "title": "NEAR AI 披露 SGLang 远程代码执行漏洞遭利用，约 100 名用户与 18 个 Agent 数据泄露"
  },
  {
+  "date": "2026-11-11",
   "id": "2026-11-11-A8",
-  "date": "2026-11-11",
-  "title": "澳大利亚强制 AI 公司上报“失控行为”并设专门监管机构，源于 OpenAI 智能体闯入政府医保网站",
-  "link": "https://www.reuters.com/world/australia-tightens-ai-oversight-rules-after-openai-agent-breached-government-2026-11-10/"
+  "link": "https://www.reuters.com/world/australia-tightens-ai-oversight-rules-after-openai-agent-breached-government-2026-11-10/",
+  "title": "澳大利亚强制 AI 公司上报“失控行为”并设专门监管机构，源于 OpenAI 智能体闯入政府医保网站"
  },
  {
+  "date": "2026-11-11",
   "id": "2026-11-11-B1",
-  "date": "2026-11-11",
-  "title": "美国 10 月 CPI 超预期：环比 +0.4%、核心 +0.3%，Waller 把 50bp 加息摆上台面",
-  "link": "https://srnnews.com/hot-october-inflation-report-rattles-markets/"
+  "link": "https://srnnews.com/hot-october-inflation-report-rattles-markets/",
+  "title": "美国 10 月 CPI 超预期：环比 +0.4%、核心 +0.3%，Waller 把 50bp 加息摆上台面"
  },
  {
+  "date": "2026-11-11",
   "id": "2026-11-11-B2",
-  "date": "2026-11-11",
-  "title": "美股周二回吐涨幅，英伟达收跌约 5.5%、微软盘中一度反超成全球第二大市值公司",
-  "link": "https://www.channelnewsasia.com/business/us-yields-rise-stocks-fall-inflation-data-boosts-odds-larger-december-rate-hike-6537931"
+  "link": "https://www.channelnewsasia.com/business/us-yields-rise-stocks-fall-inflation-data-boosts-odds-larger-december-rate-hike-6537931",
+  "title": "美股周二回吐涨幅，英伟达收跌约 5.5%、微软盘中一度反超成全球第二大市值公司"
  },
  {
+  "date": "2026-11-11",
   "id": "2026-11-11-B3",
-  "date": "2026-11-11",
-  "title": "中国 10 月出口 +35.2%、进口 +41.6%，前 10 个月顺差突破 1.04 万亿美元",
-  "link": "https://www.malaymail.com/news/money/2026/11/10/chinas-export-boom-drives-a-us1t-trade-surplus-ahead-of-high-stakes-trump-xi-apec-meeting/242686"
+  "link": "https://www.malaymail.com/news/money/2026/11/10/chinas-export-boom-drives-a-us1t-trade-surplus-ahead-of-high-stakes-trump-xi-apec-meeting/242686",
+  "title": "中国 10 月出口 +35.2%、进口 +41.6%，前 10 个月顺差突破 1.04 万亿美元"
  },
  {
+  "date": "2026-11-11",
   "id": "2026-11-11-B4",
-  "date": "2026-11-11",
-  "title": "比特币跌破 7.4 万美元至约 73,600 美元创近三个月新低，金价跌超 2%",
-  "link": "https://www.coindesk.com/markets/2026/11/10/live-news-traders-price-in-fed-rate-hike-for-december-as-bitcoin-and-gold-retreat?post-id=c4cae4b157b8"
+  "link": "https://www.coindesk.com/markets/2026/11/10/live-news-traders-price-in-fed-rate-hike-for-december-as-bitcoin-and-gold-retreat?post-id=c4cae4b157b8",
+  "title": "比特币跌破 7.4 万美元至约 73,600 美元创近三个月新低，金价跌超 2%"
  },
  {
+  "date": "2026-11-11",
   "id": "2026-11-11-B5",
-  "date": "2026-11-11",
-  "title": "油价周二继续下跌，布伦特跌 2.4% 至约 90.3 美元/桶",
-  "link": "https://www.morningstar.com/news/dow-jones/202611105056/global-stocks-strengthen-as-oil-dips-below-90-a-barrel-update"
+  "link": "https://www.morningstar.com/news/dow-jones/202611105056/global-stocks-strengthen-as-oil-dips-below-90-a-barrel-update",
+  "title": "油价周二继续下跌，布伦特跌 2.4% 至约 90.3 美元/桶"
  },
  {
+  "date": "2026-11-11",
   "id": "2026-11-11-B6",
-  "date": "2026-11-11",
-  "title": "中港股市周二小幅收涨，韩股芯片大反弹、摩根士丹利同日下调目标价",
-  "link": "https://hkbusinesswire.com/tech-gains-oil-price-falls-lift-hk-mainland-markets/"
+  "link": "https://hkbusinesswire.com/tech-gains-oil-price-falls-lift-hk-mainland-markets/",
+  "title": "中港股市周二小幅收涨，韩股芯片大反弹、摩根士丹利同日下调目标价"
  },
  {
+  "date": "2026-11-11",
   "id": "2026-11-11-C1",
-  "date": "2026-11-11",
-  "title": "The Information 曝约 24 万枚英伟达芯片流入中国，涉资至少 75 亿美元",
-  "link": "https://www.telegraphindia.com/business/suspected-chinese-spy-used-nvidia-ceo-links-to-secure-7-5-billion-in-restricted-chip-shipments/cid/2188796"
+  "link": "https://www.telegraphindia.com/business/suspected-chinese-spy-used-nvidia-ceo-links-to-secure-7-5-billion-in-restricted-chip-shipments/cid/2188796",
+  "title": "The Information 曝约 24 万枚英伟达芯片流入中国，涉资至少 75 亿美元"
  },
  {
+  "date": "2026-11-11",
   "id": "2026-11-11-C2",
-  "date": "2026-11-11",
-  "title": "黄仁勋仍未确认出席 11 月 18 日国会简报；英伟达及黄仁勋遭股东集体诉讼",
-  "link": "https://aistockwire.com/blog/nvidia-nvda-jensen-huang-house-briefing-alice-huang-november-18-2026"
+  "link": "https://aistockwire.com/blog/nvidia-nvda-jensen-huang-house-briefing-alice-huang-november-18-2026",
+  "title": "黄仁勋仍未确认出席 11 月 18 日国会简报；英伟达及黄仁勋遭股东集体诉讼"
  },
  {
+  "date": "2026-11-11",
   "id": "2026-11-11-C3",
-  "date": "2026-11-11",
-  "title": "参议院 73-25 通过 BAAJA 程序性投票，数据中心须承担新旧电网成本",
-  "link": "https://www.techtimes.com/articles/330362/20261110/senate-votes-73-25-advance-bill-making-data-centers-pay-old-new-grid-costs.htm"
+  "link": "https://www.techtimes.com/articles/330362/20261110/senate-votes-73-25-advance-bill-making-data-centers-pay-old-new-grid-costs.htm",
+  "title": "参议院 73-25 通过 BAAJA 程序性投票，数据中心须承担新旧电网成本"
  },
  {
+  "date": "2026-11-12",
   "id": "2026-11-12-A1",
-  "date": "2026-11-12",
-  "title": "谷歌发布 Gemini Decisions API：一次回答最多 1000 道封闭式问题，只给概率不写文章",
-  "link": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/"
+  "link": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
+  "title": "谷歌发布 Gemini Decisions API：一次回答最多 1000 道封闭式问题，只给概率不写文章"
  },
  {
+  "date": "2026-11-12",
   "id": "2026-11-12-A2",
-  "date": "2026-11-12",
-  "title": "Runway 开源机器人世界动作模型 Praxis-1：27B 参数、Apache 2.0，可商用",
-  "link": "https://runway.com/news/company-news/praxis-1-is-now-available"
+  "link": "https://runway.com/news/company-news/praxis-1-is-now-available",
+  "title": "Runway 开源机器人世界动作模型 Praxis-1：27B 参数、Apache 2.0，可商用"
  },
  {
+  "date": "2026-11-12",
   "id": "2026-11-12-A3",
-  "date": "2026-11-12",
-  "title": "ElevenLabs 峰会发布语音 Agent 全套升级：Interaction Engine、模型定制与 ElevenAI 办公应用",
-  "link": "https://www.unite.ai/elevenlabs-unveils-model-customization-elevenai-and-partner-program/"
+  "link": "https://www.unite.ai/elevenlabs-unveils-model-customization-elevenai-and-partner-program/",
+  "title": "ElevenLabs 峰会发布语音 Agent 全套升级：Interaction Engine、模型定制与 ElevenAI 办公应用"
  },
  {
+  "date": "2026-11-12",
   "id": "2026-11-12-A4",
-  "date": "2026-11-12",
-  "title": "CoreWeave Q3 营收暴增 168%、股价大涨近 25%，改靠客户预付款为算力扩张融资",
-  "link": "https://www.businesstimes.com.sg/companies-markets/telcos-media-tech/coreweave-targets-2028-profitability-ai-demand-surges?ref=article-bottom-more-in-companies-markets_telcos-media-tech"
+  "link": "https://www.businesstimes.com.sg/companies-markets/telcos-media-tech/coreweave-targets-2028-profitability-ai-demand-surges?ref=article-bottom-more-in-companies-markets_telcos-media-tech",
+  "title": "CoreWeave Q3 营收暴增 168%、股价大涨近 25%，改靠客户预付款为算力扩张融资"
  },
  {
+  "date": "2026-11-12",
   "id": "2026-11-12-A5",
-  "date": "2026-11-12",
-  "title": "英国 AI 推理芯片初创 Fractile 完成 7.2 亿美元 C 轮融资，估值 70 亿美元",
-  "link": "https://wncy.com/2026/11/11/uk-backed-ai-chip-startup-fractile-hits-7-billion-valuation-in-funding-round/"
+  "link": "https://wncy.com/2026/11/11/uk-backed-ai-chip-startup-fractile-hits-7-billion-valuation-in-funding-round/",
+  "title": "英国 AI 推理芯片初创 Fractile 完成 7.2 亿美元 C 轮融资，估值 70 亿美元"
  },
  {
+  "date": "2026-11-12",
   "id": "2026-11-12-A6",
-  "date": "2026-11-12",
-  "title": "谷歌 TPU 对外扩张，给三星与 SK 海力士带来英伟达体系之外的 HBM 机会",
-  "link": "https://www.tribuneindia.com/news/business/googles-expanding-ai-chip-business-opens-new-opportunities-for-samsung-sk-hynix-beyond-nvidia/"
+  "link": "https://www.tribuneindia.com/news/business/googles-expanding-ai-chip-business-opens-new-opportunities-for-samsung-sk-hynix-beyond-nvidia/",
+  "title": "谷歌 TPU 对外扩张，给三星与 SK 海力士带来英伟达体系之外的 HBM 机会"
  },
  {
+  "date": "2026-11-12",
   "id": "2026-11-12-A7",
-  "date": "2026-11-12",
-  "title": "Anthropic IPO 路演首日认购踊跃，投行拟把定价抬到 70–78 美元区间之上、估值或超 1.5 万亿美元",
-  "link": "https://thedailyguardian.com/world/brief-anthropic-bankers-prepare-to-increase-ipo-valuation-to-1-5-tn-or-more-ft-773577/"
+  "link": "https://thedailyguardian.com/world/brief-anthropic-bankers-prepare-to-increase-ipo-valuation-to-1-5-tn-or-more-ft-773577/",
+  "title": "Anthropic IPO 路演首日认购踊跃，投行拟把定价抬到 70–78 美元区间之上、估值或超 1.5 万亿美元"
  },
  {
+  "date": "2026-11-12",
   "id": "2026-11-12-A8",
-  "date": "2026-11-12",
-  "title": "Meta 基建负责人将于 2027 年初离职，前 AWS 高管 Dave Brown 接任",
-  "link": "https://www.reuters.com/technology/metas-longtime-infrastructure-head-janardhan-depart-early-2027-2026-11-11/"
+  "link": "https://www.reuters.com/technology/metas-longtime-infrastructure-head-janardhan-depart-early-2027-2026-11-11/",
+  "title": "Meta 基建负责人将于 2027 年初离职，前 AWS 高管 Dave Brown 接任"
  },
  {
+  "date": "2026-11-12",
   "id": "2026-11-12-A9",
-  "date": "2026-11-12",
-  "title": "AI 销售 Agent 公司 Rox 完成 1 亿美元 B 轮融资，估值 13 亿美元",
-  "link": "https://www.unite.ai/rox-raises-100m-series-b-at-1-3b-valuation-to-advance-ai-research/"
+  "link": "https://www.unite.ai/rox-raises-100m-series-b-at-1-3b-valuation-to-advance-ai-research/",
+  "title": "AI 销售 Agent 公司 Rox 完成 1 亿美元 B 轮融资，估值 13 亿美元"
  },
  {
+  "date": "2026-11-12",
   "id": "2026-11-12-A10",
-  "date": "2026-11-12",
-  "title": "高通在印度启动裁员，首批约 1000 人，聚焦班加罗尔资深工程师",
-  "link": "https://www.theweek.in/news/biz-tech/2026/11/11/qualcomm-layoffs-india-bengaluru.amp.html"
+  "link": "https://www.theweek.in/news/biz-tech/2026/11/11/qualcomm-layoffs-india-bengaluru.amp.html",
+  "title": "高通在印度启动裁员，首批约 1000 人，聚焦班加罗尔资深工程师"
  },
  {
+  "date": "2026-11-12",
   "id": "2026-11-12-A11",
-  "date": "2026-11-12",
-  "title": "AWS 东京区域 EC2 出现 API 错误率升高与实例启动失败，波及 ECS、ELB 等服务",
-  "link": "https://health.aws.amazon.com/health/status"
+  "link": "https://health.aws.amazon.com/health/status",
+  "title": "AWS 东京区域 EC2 出现 API 错误率升高与实例启动失败，波及 ECS、ELB 等服务"
  },
  {
+  "date": "2026-11-12",
   "id": "2026-11-12-B1",
-  "date": "2026-11-12",
-  "title": "美股周三强劲反弹，CoreWeave 财报缓解 AI 支出担忧，纳指领涨",
-  "link": "https://www.devdiscourse.com/article/international/4005348-us-stocks-sp-500-nasdaq-rise-over-1-as-coreweave-results-calm-ai-spending-jitters?amp"
+  "link": "https://www.devdiscourse.com/article/international/4005348-us-stocks-sp-500-nasdaq-rise-over-1-as-coreweave-results-calm-ai-spending-jitters?amp",
+  "title": "美股周三强劲反弹，CoreWeave 财报缓解 AI 支出担忧，纳指领涨"
  },
  {
+  "date": "2026-11-12",
   "id": "2026-11-12-B2",
-  "date": "2026-11-12",
-  "title": "高盛上调美联储加息预期：新增 2027 年 3 月再加息 25bp，12 月 50bp 概率升至 13.5%",
-  "link": "https://www.kitco.com/news/off-the-wire/2026-11-11/goldman-adds-another-rate-hike-fed-outlook-after-hot-inflation-data"
+  "link": "https://www.kitco.com/news/off-the-wire/2026-11-11/goldman-adds-another-rate-hike-fed-outlook-after-hot-inflation-data",
+  "title": "高盛上调美联储加息预期：新增 2027 年 3 月再加息 25bp，12 月 50bp 概率升至 13.5%"
  },
  {
+  "date": "2026-11-12",
   "id": "2026-11-12-B3",
-  "date": "2026-11-12",
-  "title": "港股跌近 1%，A 股逆势收涨，创业板涨 3.1%",
-  "link": "https://www.thestandard.com.hk/finance/article/348184/Hang-Seng-closes-down-241-points-as-tech-and-EV-shares-weigh-SMIC-jumps-37"
+  "link": "https://www.thestandard.com.hk/finance/article/348184/Hang-Seng-closes-down-241-points-as-tech-and-EV-shares-weigh-SMIC-jumps-37",
+  "title": "港股跌近 1%，A 股逆势收涨，创业板涨 3.1%"
  },
  {
+  "date": "2026-11-12",
   "id": "2026-11-12-B4",
-  "date": "2026-11-12",
-  "title": "比特币守住 7.4 万美元，但跑输美股反弹，现货 ETF 连续第 4 日净流出",
-  "link": "https://Www.coindesk.com/markets/2026/11/11/bitcoin-sits-out-stock-rebound-as-etf-outflows-extend-to-fourth-day"
+  "link": "https://Www.coindesk.com/markets/2026/11/11/bitcoin-sits-out-stock-rebound-as-etf-outflows-extend-to-fourth-day",
+  "title": "比特币守住 7.4 万美元，但跑输美股反弹，现货 ETF 连续第 4 日净流出"
  },
  {
+  "date": "2026-11-12",
   "id": "2026-11-12-B5",
-  "date": "2026-11-12",
-  "title": "油价从两个月低点反弹，黄金受加息预期打压一度跌破 4,015 美元",
-  "link": "https://kwsn.com/2026/11/10/oil-rises-from-two-month-low-as-hormuz-shipping-attacks-offset-iran-truce-hopes/"
+  "link": "https://kwsn.com/2026/11/10/oil-rises-from-two-month-low-as-hormuz-shipping-attacks-offset-iran-truce-hopes/",
+  "title": "油价从两个月低点反弹，黄金受加息预期打压一度跌破 4,015 美元"
  },
  {
+  "date": "2026-11-12",
   "id": "2026-11-12-C1",
-  "date": "2026-11-12",
-  "title": "路透独家：被列入美国实体清单的中国军方背景大学仍买到英伟达 H200 芯片",
-  "link": "https://www.reuters.com/world/pla-linked-chinese-university-bought-nvidia-h200-chips-despite-us-blacklist-2026-11-11/"
+  "link": "https://www.reuters.com/world/pla-linked-chinese-university-bought-nvidia-h200-chips-despite-us-blacklist-2026-11-11/",
+  "title": "路透独家：被列入美国实体清单的中国军方背景大学仍买到英伟达 H200 芯片"
  },
  {
+  "date": "2026-11-12",
   "id": "2026-11-12-C2",
-  "date": "2026-11-12",
-  "title": "美国两党议员推动把三项对华芯片出口管制法案塞进年度国防授权法案",
-  "link": "https://www.koreatimes.co.kr/world/20261111/us-lawmakers-push-for-tougher-china-export-controls-in-defense-bill-amid-nvidia-scrutiny"
+  "link": "https://www.koreatimes.co.kr/world/20261111/us-lawmakers-push-for-tougher-china-export-controls-in-defense-bill-amid-nvidia-scrutiny",
+  "title": "美国两党议员推动把三项对华芯片出口管制法案塞进年度国防授权法案"
  },
  {
+  "date": "2026-11-13",
   "id": "2026-11-13-A1",
-  "date": "2026-11-13",
-  "title": "黄仁勋辞任英伟达 CEO，CFO Colette Kress 任临时 CEO，董事会启动继任者遴选",
-  "link": "https://www.reuters.com/business/retail-consumer/nvidia-ceo-jensen-huang-step-down-big-blow-ai-boom-2026-11-12/"
+  "link": "https://www.reuters.com/business/retail-consumer/nvidia-ceo-jensen-huang-step-down-big-blow-ai-boom-2026-11-12/",
+  "title": "黄仁勋辞任英伟达 CEO，CFO Colette Kress 任临时 CEO，董事会启动继任者遴选"
  },
  {
+  "date": "2026-11-13",
   "id": "2026-11-13-A2",
-  "date": "2026-11-13",
-  "title": "谷歌发布 Gemini 4 Hydrogen：1M 上下文、定价 1.50/7.50 美元",
-  "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/"
+  "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/",
+  "title": "谷歌发布 Gemini 4 Hydrogen：1M 上下文、定价 1.50/7.50 美元"
  },
  {
+  "date": "2026-11-13",
   "id": "2026-11-13-A3",
-  "date": "2026-11-13",
-  "title": "Anthropic IPO：彭博称认购已达可供股份的数倍，海外散户认购同步开启",
-  "link": "https://www.businesstoday.in/amp/markets/ipo-corner/story/anthropics-record-breaking-90-billion-ipo-is-already-oversubscribed-several-times-over-566945-2026-11-12"
+  "link": "https://www.businesstoday.in/amp/markets/ipo-corner/story/anthropics-record-breaking-90-billion-ipo-is-already-oversubscribed-several-times-over-566945-2026-11-12",
+  "title": "Anthropic IPO：彭博称认购已达可供股份的数倍，海外散户认购同步开启"
  },
  {
+  "date": "2026-11-13",
   "id": "2026-11-13-A4",
-  "date": "2026-11-13",
-  "title": "Mirendil 完成 10 亿美元 A 轮，要把前沿 AI 研发交给小团队",
-  "link": "https://www.prnewswire.com/news-releases/mirendil-raises-1b-to-democratize-frontier-ai-rd-302937248.html"
+  "link": "https://www.prnewswire.com/news-releases/mirendil-raises-1b-to-democratize-frontier-ai-rd-302937248.html",
+  "title": "Mirendil 完成 10 亿美元 A 轮，要把前沿 AI 研发交给小团队"
  },
  {
+  "date": "2026-11-13",
   "id": "2026-11-13-A5",
-  "date": "2026-11-13",
-  "title": "OpenAI 发布 Daybreak 安全产品线，传闻中的 GPT-6.2 未发布",
-  "link": "https://www.theregister.com/security/2026/11/12/openai-launches-security-products-tells-orgs-theyre-doomed-if-they-dont-use-them/5309500"
+  "link": "https://www.theregister.com/security/2026/11/12/openai-launches-security-products-tells-orgs-theyre-doomed-if-they-dont-use-them/5309500",
+  "title": "OpenAI 发布 Daybreak 安全产品线，传闻中的 GPT-6.2 未发布"
  },
  {
+  "date": "2026-11-13",
   "id": "2026-11-13-A6",
-  "date": "2026-11-13",
-  "title": "Anthropic 同日连发两款企业级产品",
-  "link": "https://claude.com/resources/articles/self-hosted-claude-managed-agents"
+  "link": "https://claude.com/resources/articles/self-hosted-claude-managed-agents",
+  "title": "Anthropic 同日连发两款企业级产品"
  },
  {
+  "date": "2026-11-13",
   "id": "2026-11-13-A7",
-  "date": "2026-11-13",
-  "title": "IBM 开源抗提示注入模型 Granite LLMON 预览版",
-  "link": "https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite"
+  "link": "https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite",
+  "title": "IBM 开源抗提示注入模型 Granite LLMON 预览版"
  },
  {
+  "date": "2026-11-13",
   "id": "2026-11-13-A8",
-  "date": "2026-11-13",
-  "title": "微软 365 大面积故障：Outlook、Teams、Copilot 365 无法连接",
-  "link": "https://techaeris.com/2026/11/12/microsoft-365-outage-takes-down-outlook/"
+  "link": "https://techaeris.com/2026/11/12/microsoft-365-outage-takes-down-outlook/",
+  "title": "微软 365 大面积故障：Outlook、Teams、Copilot 365 无法连接"
  },
  {
+  "date": "2026-11-13",
   "id": "2026-11-13-A9",
-  "date": "2026-11-13",
-  "title": "WFX Phantom 供应链攻击：4837 个被盗 GitHub 账号向 6 万多个仓库投放凭证窃取器",
-  "link": "https://www.aikido.dev/blog/compromised-github-accounts-push-ci-secret-stealer-to-tens-of-thousands-of-repositories"
+  "link": "https://www.aikido.dev/blog/compromised-github-accounts-push-ci-secret-stealer-to-tens-of-thousands-of-repositories",
+  "title": "WFX Phantom 供应链攻击：4837 个被盗 GitHub 账号向 6 万多个仓库投放凭证窃取器"
  },
  {
+  "date": "2026-11-13",
   "id": "2026-11-13-B1",
-  "date": "2026-11-13",
-  "title": "美股收盘分化：标普 +0.33%、道指 +1.08%，英伟达收跌 4.34%",
-  "link": "https://flatlandsgrain.com/news/story/7964700/stocks-settle-mixed-as-broader-market-recovers-from-chip-stock-rout"
+  "link": "https://flatlandsgrain.com/news/story/7964700/stocks-settle-mixed-as-broader-market-recovers-from-chip-stock-rout",
+  "title": "美股收盘分化：标普 +0.33%、道指 +1.08%，英伟达收跌 4.34%"
  },
  {
+  "date": "2026-11-13",
   "id": "2026-11-13-B2",
-  "date": "2026-11-13",
-  "title": "加息预期升温：初请升至 20 万人，哈马克主张“小步多次”加息，12 月加息 25bp 定价约 90.8%",
-  "link": "https://kwsn.com/2026/11/12/feds-hammack-signals-support-for-gradual-rate-hike-path/"
+  "link": "https://kwsn.com/2026/11/12/feds-hammack-signals-support-for-gradual-rate-hike-path/",
+  "title": "加息预期升温：初请升至 20 万人，哈马克主张“小步多次”加息，12 月加息 25bp 定价约 90.8%"
  },
  {
+  "date": "2026-11-13",
   "id": "2026-11-13-B3",
-  "date": "2026-11-13",
-  "title": "比特币双重失血：MSCI 剔除 Strategy 与 Metaplanet，ETF 连流 5 日",
-  "link": "https://bitcoinmagazine.com/markets/msci-removes-strategy-mstr-usa-index"
+  "link": "https://bitcoinmagazine.com/markets/msci-removes-strategy-mstr-usa-index",
+  "title": "比特币双重失血：MSCI 剔除 Strategy 与 Metaplanet，ETF 连流 5 日"
  },
  {
+  "date": "2026-11-13",
   "id": "2026-11-13-B4",
-  "date": "2026-11-13",
-  "title": "港股跌 1.26% 险守 24,000 点，阿里跌 6.8%；A 股半导体逆势大涨",
-  "link": "https://www.ad-hoc-news.de/boerse/news/marktberichte/hang-seng-closes-1-26-prozent-lower-at-24-008-55/70497491"
+  "link": "https://www.ad-hoc-news.de/boerse/news/marktberichte/hang-seng-closes-1-26-prozent-lower-at-24-008-55/70497491",
+  "title": "港股跌 1.26% 险守 24,000 点，阿里跌 6.8%；A 股半导体逆势大涨"
  },
  {
+  "date": "2026-11-13",
   "id": "2026-11-13-B5",
-  "date": "2026-11-13",
-  "title": "油价日内大幅反转、金价跌破 4000 美元：WTI 涨近 3%",
-  "link": "https://985theriver.com/2026/11/11/oil-prices-drop-more-than-1-as-hopes-for-iran-ukraine-peace-talks-pressure-markets/"
+  "link": "https://985theriver.com/2026/11/11/oil-prices-drop-more-than-1-as-hopes-for-iran-ukraine-peace-talks-pressure-markets/",
+  "title": "油价日内大幅反转、金价跌破 4000 美元：WTI 涨近 3%"
  },
  {
+  "date": "2026-11-13",
   "id": "2026-11-13-C1",
-  "date": "2026-11-13",
-  "title": "BIS 拟将 7 国纳入 AI 芯片许可范围，堵海外租卡漏洞",
-  "link": "https://www.reuters.com/world/china/tougher-curbs-ai-chip-sales-china-likely-after-nvidia-ceo-resigns-2026-11-12/"
+  "link": "https://www.reuters.com/world/china/tougher-curbs-ai-chip-sales-china-likely-after-nvidia-ceo-resigns-2026-11-12/",
+  "title": "BIS 拟将 7 国纳入 AI 芯片许可范围，堵海外租卡漏洞"
  },
  {
+  "date": "2026-11-13",
   "id": "2026-11-13-C2",
-  "date": "2026-11-13",
-  "title": "国会追责升级：要求保全英伟达出口记录、调查 H200 审批，情报委员会主席要求禁 CXMT",
-  "link": "https://www.reuters.com/world/china/white-house-discussing-howard-lutnicks-future-commerce-secretary-people-familiar-2026-11-12/"
+  "link": "https://www.reuters.com/world/china/white-house-discussing-howard-lutnicks-future-commerce-secretary-people-familiar-2026-11-12/",
+  "title": "国会追责升级：要求保全英伟达出口记录、调查 H200 审批，情报委员会主席要求禁 CXMT"
  },
  {
+  "date": "2026-11-13",
   "id": "2026-11-13-C3",
-  "date": "2026-11-13",
-  "title": "四家非营利组织起诉五家 AI 公司，要求冻结前沿模型开发",
-  "link": "https://stacks921.com/2026/11/12/openai-google-anthropic-hit-with-lawsuit-seeking-halt-to-frontier-ai-development/"
+  "link": "https://stacks921.com/2026/11/12/openai-google-anthropic-hit-with-lawsuit-seeking-halt-to-frontier-ai-development/",
+  "title": "四家非营利组织起诉五家 AI 公司，要求冻结前沿模型开发"
  },
  {
+  "date": "2026-11-14",
   "id": "2026-11-14-A1",
-  "date": "2026-11-14",
-  "title": "英伟达董事会接洽 Arm CEO Haas 商谈接任，董事会否认正式接洽任何人",
-  "link": "https://www.koreatimes.co.kr/world/20261114/nvidia-approached-arm-ceo-haas-to-succeed-huang-ft-reports"
+  "link": "https://www.koreatimes.co.kr/world/20261114/nvidia-approached-arm-ceo-haas-to-succeed-huang-ft-reports",
+  "title": "英伟达董事会接洽 Arm CEO Haas 商谈接任，董事会否认正式接洽任何人"
  },
  {
+  "date": "2026-11-14",
   "id": "2026-11-14-A2",
-  "date": "2026-11-14",
-  "title": "OpenAI 推出 ChatGPT Wallet，dots 智能体可代用户付款",
-  "link": "https://www.reuters.com/technology/openai-launches-chatgpt-wallet-letting-ai-agents-pay-purchases-2026-11-13/"
+  "link": "https://www.reuters.com/technology/openai-launches-chatgpt-wallet-letting-ai-agents-pay-purchases-2026-11-13/",
+  "title": "OpenAI 推出 ChatGPT Wallet，dots 智能体可代用户付款"
  },
  {
+  "date": "2026-11-14",
   "id": "2026-11-14-A3",
-  "date": "2026-11-14",
-  "title": "Anthropic IPO 认购约 6 倍，Amodei 与 Dimon 直播路演",
-  "link": "https://www.thehindubusinessline.com/markets/anthropic-ipo-draws-sixfold-demand-targets-14-trillion-valuation/article71696359.ece/amp/"
+  "link": "https://www.thehindubusinessline.com/markets/anthropic-ipo-draws-sixfold-demand-targets-14-trillion-valuation/article71696359.ece/amp/",
+  "title": "Anthropic IPO 认购约 6 倍，Amodei 与 Dimon 直播路演"
  },
  {
+  "date": "2026-11-14",
   "id": "2026-11-14-A4",
-  "date": "2026-11-14",
-  "title": "LangChain 完成 3 亿美元 C 轮融资，估值 30 亿美元",
-  "link": "https://www.businesswire.com/news/home/20261113716429/en/LangChain-Raises-$300M-to-Enable-Every-Company-to-Own-Their-Intelligence"
+  "link": "https://www.businesswire.com/news/home/20261113716429/en/LangChain-Raises-$300M-to-Enable-Every-Company-to-Own-Their-Intelligence",
+  "title": "LangChain 完成 3 亿美元 C 轮融资，估值 30 亿美元"
  },
  {
+  "date": "2026-11-14",
   "id": "2026-11-14-A5",
-  "date": "2026-11-14",
-  "title": "Thinking Machines 开源 Inkling 2 Small 权重，Apache 2.0 可商用",
-  "link": "https://aiagentupdate.com/post/thinking-machines-inkling-2-small-weights-2026-11-13"
+  "link": "https://aiagentupdate.com/post/thinking-machines-inkling-2-small-weights-2026-11-13",
+  "title": "Thinking Machines 开源 Inkling 2 Small 权重，Apache 2.0 可商用"
  },
  {
+  "date": "2026-11-14",
   "id": "2026-11-14-A6",
-  "date": "2026-11-14",
-  "title": "微软 365 故障大范围恢复，但尚未正式关闭",
-  "link": "https://www.reuters.com/business/finance/faxes-phones-bluetooth-microsoft-outage-forces-businesses-find-fixes-2026-11-13/"
+  "link": "https://www.reuters.com/business/finance/faxes-phones-bluetooth-microsoft-outage-forces-businesses-find-fixes-2026-11-13/",
+  "title": "微软 365 故障大范围恢复，但尚未正式关闭"
  },
  {
+  "date": "2026-11-14",
   "id": "2026-11-14-A7",
-  "date": "2026-11-14",
-  "title": "Notion AI 聊天记录泄露更新：第三方 API 密钥已通报发证方",
-  "link": "https://www.skimwire.com/notion-ai-fireworks-breach-chat-transcripts-what-to-do/"
+  "link": "https://www.skimwire.com/notion-ai-fireworks-breach-chat-transcripts-what-to-do/",
+  "title": "Notion AI 聊天记录泄露更新：第三方 API 密钥已通报发证方"
  },
  {
+  "date": "2026-11-14",
   "id": "2026-11-14-A8",
-  "date": "2026-11-14",
-  "title": "AMD、博通成英伟达动荡受益者：单日涨约 6%，本周 AMD 涨 30%",
-  "link": "https://www.zacks.com/stock/news/3029327/nvidia-leadership-crisis-opens-door-for-chip-rivals-etfs-in-focus"
+  "link": "https://www.zacks.com/stock/news/3029327/nvidia-leadership-crisis-opens-door-for-chip-rivals-etfs-in-focus",
+  "title": "AMD、博通成英伟达动荡受益者：单日涨约 6%，本周 AMD 涨 30%"
  },
  {
+  "date": "2026-11-14",
   "id": "2026-11-14-A9",
-  "date": "2026-11-14",
-  "title": "英伟达 5000 亿美元融资计划受阻，分析师集体下调目标价",
-  "link": "https://economictimes.indiatimes.com/news/international/world-news/nvidia-faced-pressure-to-boost-its-ai-backstop-before-jensen-huangs-exit/articleshow/135785679.cms"
+  "link": "https://economictimes.indiatimes.com/news/international/world-news/nvidia-faced-pressure-to-boost-its-ai-backstop-before-jensen-huangs-exit/articleshow/135785679.cms",
+  "title": "英伟达 5000 亿美元融资计划受阻，分析师集体下调目标价"
  },
  {
+  "date": "2026-11-14",
   "id": "2026-11-14-B1",
-  "date": "2026-11-14",
-  "title": "美国 10 月 PPI 同比涨 6.5%，创近四年最大涨幅",
-  "link": "https://985theriver.com/2026/11/13/us-producer-prices-rise-further-in-october/"
+  "link": "https://985theriver.com/2026/11/13/us-producer-prices-rise-further-in-october/",
+  "title": "美国 10 月 PPI 同比涨 6.5%，创近四年最大涨幅"
  },
  {
+  "date": "2026-11-14",
   "id": "2026-11-14-B2",
-  "date": "2026-11-14",
-  "title": "比特币跌破 7 万美元，创 8 月 19 日以来新低",
-  "link": "https://www.freemalaysiatoday.com/category/business/2026/11/13/bitcoin-slides-below-us-70-000-as-inflation-concerns-hurt-crypto"
+  "link": "https://www.freemalaysiatoday.com/category/business/2026/11/13/bitcoin-slides-below-us-70-000-as-inflation-concerns-hurt-crypto",
+  "title": "比特币跌破 7 万美元，创 8 月 19 日以来新低"
  },
  {
+  "date": "2026-11-14",
   "id": "2026-11-14-B3",
-  "date": "2026-11-14",
-  "title": "美债 10 年期收益率破 5.10%，美元创 19 个月新高",
-  "link": "https://www.leadlagreport.com/the-dollar-is-at-a-19-month-high-and-the-yen-is-back-at-160/"
+  "link": "https://www.leadlagreport.com/the-dollar-is-at-a-19-month-high-and-the-yen-is-back-at-160/",
+  "title": "美债 10 年期收益率破 5.10%，美元创 19 个月新高"
  },
  {
+  "date": "2026-11-14",
   "id": "2026-11-14-B4",
-  "date": "2026-11-14",
-  "title": "油价周四跳涨近 4%、金价跌破 3900 美元至 13 个月低点；IEA 称四季度重回过剩",
-  "link": "https://www.tradingkey.com/analysis/commodities/metal/262303668-gold-price-forecast-trump-no-iran-deal-below-3900-october-ppi-rebound-tradingkey"
+  "link": "https://www.tradingkey.com/analysis/commodities/metal/262303668-gold-price-forecast-trump-no-iran-deal-below-3900-october-ppi-rebound-tradingkey",
+  "title": "油价周四跳涨近 4%、金价跌破 3900 美元至 13 个月低点；IEA 称四季度重回过剩"
  },
  {
+  "date": "2026-11-14",
   "id": "2026-11-14-B5",
-  "date": "2026-11-14",
-  "title": "港股跌 1.55% 三连跌，恒科跌 3.02%；A 股齐跌",
-  "link": "https://www.bastillepost.com/global/article/6357160-hong-kong-stocks-close-lower-40"
+  "link": "https://www.bastillepost.com/global/article/6357160-hong-kong-stocks-close-lower-40",
+  "title": "港股跌 1.55% 三连跌，恒科跌 3.02%；A 股齐跌"
  },
  {
+  "date": "2026-11-14",
   "id": "2026-11-14-B6",
-  "date": "2026-11-14",
-  "title": "美股周五盘中科技股再度走弱，费城半导体指数跌 6%",
-  "link": "https://beta.manilatimes.net/2026/11/13/business/foreign-business/wall-street-shakes-with-swings-for-nvidia-and-oil-prices-but-recovers-most-of-its-early-losses/2469267"
+  "link": "https://beta.manilatimes.net/2026/11/13/business/foreign-business/wall-street-shakes-with-swings-for-nvidia-and-oil-prices-but-recovers-most-of-its-early-losses/2469267",
+  "title": "美股周五盘中科技股再度走弱，费城半导体指数跌 6%"
  },
  {
+  "date": "2026-11-14",
   "id": "2026-11-14-C1",
-  "date": "2026-11-14",
-  "title": "国会议长称收紧对华芯片出口已成共识，四项法案拟搭车国防授权法案",
-  "link": "https://www.koreatimes.co.kr/world/20261113/chinas-access-to-nvidia-chips-in-doubt-as-curbs-gain-traction-in-us-congress"
+  "link": "https://www.koreatimes.co.kr/world/20261113/chinas-access-to-nvidia-chips-in-doubt-as-curbs-gain-traction-in-us-congress",
+  "title": "国会议长称收紧对华芯片出口已成共识，四项法案拟搭车国防授权法案"
  },
  {
+  "date": "2026-11-14",
   "id": "2026-11-14-C2",
-  "date": "2026-11-14",
-  "title": "国会传唤升级：黄仁勋 12 月 1 日闭门访谈、12 月 3 日公开听证；白宫讨论撤换 Lutnick",
-  "link": "https://iol.co.za/news/world/2026-11-13-us-lawmakers-summon-nvidia-ex-ceo-after-affair-with-suspected-spy/"
+  "link": "https://iol.co.za/news/world/2026-11-13-us-lawmakers-summon-nvidia-ex-ceo-after-affair-with-suspected-spy/",
+  "title": "国会传唤升级：黄仁勋 12 月 1 日闭门访谈、12 月 3 日公开听证；白宫讨论撤换 Lutnick"
  },
  {
+  "date": "2026-11-14",
   "id": "2026-11-14-C3",
-  "date": "2026-11-14",
-  "title": "民主党议员启动 H200 调查：质疑 25% 关税变相收“出口税”",
-  "link": "https://techcrunch.com/2026/11/12/democrats-launch-nvidia-investigation-write-scathing-letter-on-huangs-scheme-with-trump/"
+  "link": "https://techcrunch.com/2026/11/12/democrats-launch-nvidia-investigation-write-scathing-letter-on-huangs-scheme-with-trump/",
+  "title": "民主党议员启动 H200 调查：质疑 25% 关税变相收“出口税”"
  },
  {
+  "date": "2026-11-15",
   "id": "2026-11-15-A1",
-  "date": "2026-11-15",
-  "title": "英伟达员工请愿要求黄仁勋回归，马斯克签署，签名冲至约 9 万",
-  "link": "https://timesofindia.indiatimes.com/technology/tech-news/elon-musk-and-over-40000-others-including-nvidias-current-and-former-employees-sign-open-letter-for-jensen-huangs-return-letter-says-thirty-three-years-of-leadership-do-not-place-anyone-above-/articleshow/135823053.cms"
+  "link": "https://timesofindia.indiatimes.com/technology/tech-news/elon-musk-and-over-40000-others-including-nvidias-current-and-former-employees-sign-open-letter-for-jensen-huangs-return-letter-says-thirty-three-years-of-leadership-do-not-place-anyone-above-/articleshow/135823053.cms",
+  "title": "英伟达员工请愿要求黄仁勋回归，马斯克签署，签名冲至约 9 万"
  },
  {
+  "date": "2026-11-15",
   "id": "2026-11-15-A2",
-  "date": "2026-11-15",
-  "title": "英伟达市值跌破 4 万亿美元，单周蒸发约 5730 亿美元",
-  "link": "https://theprint.in/opinion/newsmaker-of-the-week/nvidia-jensen-huang-affairs-espionage-fears-ai-market/3098896/"
+  "link": "https://theprint.in/opinion/newsmaker-of-the-week/nvidia-jensen-huang-affairs-espionage-fears-ai-market/3098896/",
+  "title": "英伟达市值跌破 4 万亿美元，单周蒸发约 5730 亿美元"
  },
  {
+  "date": "2026-11-15",
   "id": "2026-11-15-A3",
-  "date": "2026-11-15",
-  "title": "Anthropic IPO 承销行以军品出口管制为由，拒接中港机构投资者订单",
-  "link": "https://www.advisorperspectives.com/articles/2026/11/13/anthropic-ipo-share-orders-china-rebuffed"
+  "link": "https://www.advisorperspectives.com/articles/2026/11/13/anthropic-ipo-share-orders-china-rebuffed",
+  "title": "Anthropic IPO 承销行以军品出口管制为由，拒接中港机构投资者订单"
  },
  {
+  "date": "2026-11-15",
   "id": "2026-11-15-A4",
-  "date": "2026-11-15",
-  "title": "Anthropic 升级 Claude Code Projects：协调员变主动，多智能体并行开发进入实操",
-  "link": "https://dev.to/delimitter/anthropic-upgrades-claude-code-projects-the-coordinator-now-reports-in-chat-while-parallel-ai-27e5"
+  "link": "https://dev.to/delimitter/anthropic-upgrades-claude-code-projects-the-coordinator-now-reports-in-chat-while-parallel-ai-27e5",
+  "title": "Anthropic 升级 Claude Code Projects：协调员变主动，多智能体并行开发进入实操"
  },
  {
+  "date": "2026-11-15",
   "id": "2026-11-15-A5",
-  "date": "2026-11-15",
-  "title": "OpenAI 解散独立机器人团队，押注通用模型直接控机器人",
-  "link": "https://fortune.com/2026/11/13/openai-disbands-robotics-team-as-its-general-models-start-running-robots"
+  "link": "https://fortune.com/2026/11/13/openai-disbands-robotics-team-as-its-general-models-start-running-robots",
+  "title": "OpenAI 解散独立机器人团队，押注通用模型直接控机器人"
  },
  {
+  "date": "2026-11-15",
   "id": "2026-11-15-A6",
-  "date": "2026-11-15",
-  "title": "DeepSeek 把 App 能力开放给 API：联网搜索、读文件、语音 OCR 都能直接调用",
-  "link": "https://www.webpronews.com/deepseek-api-web-search-ocr-speech-tools-pricing/"
+  "link": "https://www.webpronews.com/deepseek-api-web-search-ocr-speech-tools-pricing/",
+  "title": "DeepSeek 把 App 能力开放给 API：联网搜索、读文件、语音 OCR 都能直接调用"
  },
  {
+  "date": "2026-11-15",
   "id": "2026-11-15-A7",
-  "date": "2026-11-15",
-  "title": "谷歌 Gemini 接入 Google Wallet：按真实消费记录给理财建议，只能看不能动钱",
-  "link": "https://blog.google/innovation-and-ai/products/gemini-app/google-wallet-gemini-app/"
+  "link": "https://blog.google/innovation-and-ai/products/gemini-app/google-wallet-gemini-app/",
+  "title": "谷歌 Gemini 接入 Google Wallet：按真实消费记录给理财建议，只能看不能动钱"
  },
  {
+  "date": "2026-11-15",
   "id": "2026-11-15-A8",
-  "date": "2026-11-15",
-  "title": "微软 365 约 38 小时全球故障正式关闭，初步定因网络扩容事故",
-  "link": "https://www.tribuneindia.com/news/business/microsoft-restores-365-services-globally-after-disruption-warns-of-phishing-campaign-exploiting-outage/"
+  "link": "https://www.tribuneindia.com/news/business/microsoft-restores-365-services-globally-after-disruption-warns-of-phishing-campaign-exploiting-outage/",
+  "title": "微软 365 约 38 小时全球故障正式关闭，初步定因网络扩容事故"
  },
  {
+  "date": "2026-11-15",
   "id": "2026-11-15-A9",
-  "date": "2026-11-15",
-  "title": "微软警告借 365 故障行骗的钓鱼攻击：冒充服务健康通知，谎称被扣邮件 24 小时内删除",
-  "link": "https://www.ndtvprofit.com/technology/microsoft-365-users-targeted-by-fake-outage-notifications-in-phishing-campaign-12326018"
+  "link": "https://www.ndtvprofit.com/technology/microsoft-365-users-targeted-by-fake-outage-notifications-in-phishing-campaign-12326018",
+  "title": "微软警告借 365 故障行骗的钓鱼攻击：冒充服务健康通知，谎称被扣邮件 24 小时内删除"
  },
  {
+  "date": "2026-11-15",
   "id": "2026-11-15-A10",
-  "date": "2026-11-15",
-  "title": "Cursor 公布 10 月安全事件完整链条：Fireworks 泄露的密钥 → 被投毒的 Claude Code 扩展",
-  "link": "https://cursor.com/blog/security-incident-update"
+  "link": "https://cursor.com/blog/security-incident-update",
+  "title": "Cursor 公布 10 月安全事件完整链条：Fireworks 泄露的密钥 → 被投毒的 Claude Code 扩展"
  },
  {
+  "date": "2026-11-15",
   "id": "2026-11-15-B1",
-  "date": "2026-11-15",
-  "title": "美股周五收盘：标普、纳指收跌，费半收盘跌 3.4%，英伟达再跌 2%",
-  "link": "https://www.business-standard.com/world-news/us-stocks-mostly-ease-with-tech-nvidia-concerns-airline-shares-fall-126111400058_1.html"
+  "link": "https://www.business-standard.com/world-news/us-stocks-mostly-ease-with-tech-nvidia-concerns-airline-shares-fall-126111400058_1.html",
+  "title": "美股周五收盘：标普、纳指收跌，费半收盘跌 3.4%，英伟达再跌 2%"
  },
  {
+  "date": "2026-11-15",
   "id": "2026-11-15-B2",
-  "date": "2026-11-15",
-  "title": "12 月加息定价：CME 显示加息概率 100%，25bp 占 88.5%、50bp 占 11.5%",
-  "link": "https://cryptonews.net/news/bitcoin/33753157/"
+  "link": "https://cryptonews.net/news/bitcoin/33753157/",
+  "title": "12 月加息定价：CME 显示加息概率 100%，25bp 占 88.5%、50bp 占 11.5%"
  },
  {
+  "date": "2026-11-15",
   "id": "2026-11-15-B3",
-  "date": "2026-11-15",
-  "title": "比特币周六跌破 6.6 万美元，周跌约 11%、连续第六周下跌",
-  "link": "https://plainbtc.com/articles/bitcoin-below-67000-sixth-weekly-loss-nov-2026"
+  "link": "https://plainbtc.com/articles/bitcoin-below-67000-sixth-weekly-loss-nov-2026",
+  "title": "比特币周六跌破 6.6 万美元，周跌约 11%、连续第六周下跌"
  },
  {
+  "date": "2026-11-15",
   "id": "2026-11-15-B4",
-  "date": "2026-11-15",
-  "title": "以太币周六跌破 1,900 美元，周跌约 15%，以太坊基金会四天卖出 7,500 枚 ETH",
-  "link": "https://coinstats.app/news/f0a2654a67f35bca21763ba9e97d35956d22c06681907103c8784628ae059954_Ethereum-price-falls-to-1830-its-lowest-since-July-as-the-Foundation-sells-7500-ETH/"
+  "link": "https://coinstats.app/news/f0a2654a67f35bca21763ba9e97d35956d22c06681907103c8784628ae059954_Ethereum-price-falls-to-1830-its-lowest-since-July-as-the-Foundation-sells-7500-ETH/",
+  "title": "以太币周六跌破 1,900 美元，周跌约 15%，以太坊基金会四天卖出 7,500 枚 ETH"
  },
  {
+  "date": "2026-11-15",
   "id": "2026-11-15-B5",
-  "date": "2026-11-15",
-  "title": "油金周五收盘：布伦特 95.84 美元、WTI 88.56 美元，双双周跌约 2.5%；金价周跌约 4.5%",
-  "link": "https://www.byteseu.com/2521732/"
+  "link": "https://www.byteseu.com/2521732/",
+  "title": "油金周五收盘：布伦特 95.84 美元、WTI 88.56 美元，双双周跌约 2.5%；金价周跌约 4.5%"
  },
  {
+  "date": "2026-11-15",
   "id": "2026-11-15-C1",
-  "date": "2026-11-15",
-  "title": "黄仁勋 12 月 1 日闭门访谈书面确认期限已过，是否确认、是否已发传票均未见公开报道",
-  "link": "https://moneywise.com/news/top-stories/elon-musk-stand-with-jensen-huang-petition"
+  "link": "https://moneywise.com/news/top-stories/elon-musk-stand-with-jensen-huang-petition",
+  "title": "黄仁勋 12 月 1 日闭门访谈书面确认期限已过，是否确认、是否已发传票均未见公开报道"
  },
  {
+  "date": "2026-11-15",
   "id": "2026-11-15-C2",
-  "date": "2026-11-15",
-  "title": "美国商务部长 Lutnick 已同意 12 月 10 日自愿出席参议院银行委员会听证",
-  "link": "https://www.tribuneindia.com/news/usa-news/us-commerce-secretary-lutnick-agrees-to-testify-before-senate-panel-over-nvidia-export-controls-controversy/"
+  "link": "https://www.tribuneindia.com/news/usa-news/us-commerce-secretary-lutnick-agrees-to-testify-before-senate-panel-over-nvidia-export-controls-controversy/",
+  "title": "美国商务部长 Lutnick 已同意 12 月 10 日自愿出席参议院银行委员会听证"
  },
  {
+  "date": "2026-11-16",
   "id": "2026-11-16-A1",
-  "date": "2026-11-16",
-  "title": "Claude Fable 5.2 不用图像模型、靠写代码\"画画\"，70 万笔模拟笔触画出近照片级画面",
-  "link": "https://the-decoder.com/anthropics-claude-fable-5-2-doesnt-generate-images-it-paints-them/"
+  "link": "https://the-decoder.com/anthropics-claude-fable-5-2-doesnt-generate-images-it-paints-them/",
+  "title": "Claude Fable 5.2 不用图像模型、靠写代码\"画画\"，70 万笔模拟笔触画出近照片级画面"
  },
  {
+  "date": "2026-11-16",
   "id": "2026-11-16-A2",
-  "date": "2026-11-16",
-  "title": "Qwen Code 发布 v0.27.4，托管 Agent 会话与自动模式安全收紧",
-  "link": "https://github.com/QwenLM/qwen-code/releases/tag/v0.27.4"
+  "link": "https://github.com/QwenLM/qwen-code/releases/tag/v0.27.4",
+  "title": "Qwen Code 发布 v0.27.4，托管 Agent 会话与自动模式安全收紧"
  },
  {
+  "date": "2026-11-16",
   "id": "2026-11-16-A3",
-  "date": "2026-11-16",
-  "title": "开源项目 Pinky 让 MCP Agent 直接操作真机，人工网关卡住高风险操作",
-  "link": "https://github.com/DIYgod/pinky/releases/tag/v2026.1115.4"
+  "link": "https://github.com/DIYgod/pinky/releases/tag/v2026.1115.4",
+  "title": "开源项目 Pinky 让 MCP Agent 直接操作真机，人工网关卡住高风险操作"
  },
  {
+  "date": "2026-11-16",
   "id": "2026-11-16-A4",
-  "date": "2026-11-16",
-  "title": "马斯克发帖警告：英伟达不少关键供应链协议是黄仁勋的\"握手协议\"，\"没有黄仁勋，至少部分关键协议会丢\"",
-  "link": "https://www.storyboard18.com/brand-marketing/without-jensen-critical-deals-will-be-lost-elon-musk-warns-nvidia-after-huangs-exit-114763.htm"
+  "link": "https://www.storyboard18.com/brand-marketing/without-jensen-critical-deals-will-be-lost-elon-musk-warns-nvidia-after-huangs-exit-114763.htm",
+  "title": "马斯克发帖警告：英伟达不少关键供应链协议是黄仁勋的\"握手协议\"，\"没有黄仁勋，至少部分关键协议会丢\""
  },
  {
+  "date": "2026-11-16",
   "id": "2026-11-16-A5",
-  "date": "2026-11-16",
-  "title": "AWS 美东 1 区 11 月 15 日出现约 2 小时 15 分钟的连接问题，已解决",
-  "link": "https://monitorworld.app/live/internet-outage-map"
+  "link": "https://monitorworld.app/live/internet-outage-map",
+  "title": "AWS 美东 1 区 11 月 15 日出现约 2 小时 15 分钟的连接问题，已解决"
  },
  {
+  "date": "2026-11-16",
   "id": "2026-11-16-B1",
-  "date": "2026-11-16",
-  "title": "比特币周日再创四个月新低 62,112 美元，以太币跌至 1,711 美元",
-  "link": "https://www.businesstimes.com.sg/wealth/crypto-alternative-assets/bitcoin-hits-four-month-low-sell-wipes-out-us2-billion-crypto-bets"
+  "link": "https://www.businesstimes.com.sg/wealth/crypto-alternative-assets/bitcoin-hits-four-month-low-sell-wipes-out-us2-billion-crypto-bets",
+  "title": "比特币周日再创四个月新低 62,112 美元，以太币跌至 1,711 美元"
  },
  {
+  "date": "2026-11-16",
   "id": "2026-11-16-B2",
-  "date": "2026-11-16",
-  "title": "24 小时加密爆仓约 20 亿美元，32.9 万交易者被清算",
-  "link": "https://www.businesstimes.com.sg/wealth/crypto-alternative-assets/bitcoin-hits-four-month-low-sell-wipes-out-us2-billion-crypto-bets"
+  "link": "https://www.businesstimes.com.sg/wealth/crypto-alternative-assets/bitcoin-hits-four-month-low-sell-wipes-out-us2-billion-crypto-bets",
+  "title": "24 小时加密爆仓约 20 亿美元，32.9 万交易者被清算"
  },
  {
+  "date": "2026-11-16",
   "id": "2026-11-16-B3",
-  "date": "2026-11-16",
-  "title": "美国比特币现货 ETF 七连流出，11 月累计流出约 21 亿美元",
-  "link": "https://decrypt.co/383282/bitcoin-etfs-lose-2-1-billion-november-outflow-streak-seven-days"
+  "link": "https://decrypt.co/383282/bitcoin-etfs-lose-2-1-billion-november-outflow-streak-seven-days",
+  "title": "美国比特币现货 ETF 七连流出，11 月累计流出约 21 亿美元"
  },
  {
+  "date": "2026-11-16",
   "id": "2026-11-16-B4",
-  "date": "2026-11-16",
-  "title": "恒生指数一周跌 844 点、收于 23,637 点，港股科技股领跌",
-  "link": "https://www.businesstoday.com.my/2026/11/15/nvidia-uncertainty-deepens-hong-kongs-tech-rout-hang-seng-sheds-844-points/"
+  "link": "https://www.businesstoday.com.my/2026/11/15/nvidia-uncertainty-deepens-hong-kongs-tech-rout-hang-seng-sheds-844-points/",
+  "title": "恒生指数一周跌 844 点、收于 23,637 点，港股科技股领跌"
  },
  {
+  "date": "2026-11-16",
   "id": "2026-11-16-C1",
-  "date": "2026-11-16",
-  "title": "黄仁勋已同意赴众议院闭门作证，但 12 月 1 日日期未定、暂不发传票",
-  "link": "https://ameriledger.com/article/transcript-rep-john-moolenaar-on-face-the-nation-with-margaret-brennan"
+  "link": "https://ameriledger.com/article/transcript-rep-john-moolenaar-on-face-the-nation-with-margaret-brennan",
+  "title": "黄仁勋已同意赴众议院闭门作证，但 12 月 1 日日期未定、暂不发传票"
  },
  {
+  "date": "2026-11-16",
   "id": "2026-11-16-C2",
-  "date": "2026-11-16",
-  "title": "财长贝森特：英伟达须从外部选帅、\"大幅改组\"，10 天内就出口合规作答",
-  "link": "https://kwsn.com/2026/11/15/bessent-says-nvidia-must-go-outside-the-company-to-find-new-ceo/"
+  "link": "https://kwsn.com/2026/11/15/bessent-says-nvidia-must-go-outside-the-company-to-find-new-ceo/",
+  "title": "财长贝森特：英伟达须从外部选帅、\"大幅改组\"，10 天内就出口合规作答"
  },
  {
+  "date": "2026-11-16",
   "id": "2026-11-16-C3",
-  "date": "2026-11-16",
-  "title": "NYT 调查：Lutnick 推动弱化版芯片规则，涉及其家族企业 Cantor 的客户",
-  "link": "https://www.business-standard.com/amp/world-news/nvidia-row-lutnick-pushed-to-weaken-chip-rules-linked-to-family-business-126111500775_1.html"
+  "link": "https://www.business-standard.com/amp/world-news/nvidia-row-lutnick-pushed-to-weaken-chip-rules-linked-to-family-business-126111500775_1.html",
+  "title": "NYT 调查：Lutnick 推动弱化版芯片规则，涉及其家族企业 Cantor 的客户"
  },
  {
+  "date": "2026-11-16",
   "id": "2026-11-16-C4",
-  "date": "2026-11-16",
-  "title": "FT：国会两党加速收紧对华 AI 芯片出口管制，拟搭上国防授权法案",
-  "link": "https://tradersunion.com/news/regulators/show/4255376-us-congress-ai-chip-export-china/"
+  "link": "https://tradersunion.com/news/regulators/show/4255376-us-congress-ai-chip-export-china/",
+  "title": "FT：国会两党加速收紧对华 AI 芯片出口管制，拟搭上国防授权法案"
  },
  {
+  "date": "2026-11-17",
   "id": "2026-11-17-A1",
-  "date": "2026-11-17",
-  "title": "阿里发布旗舰模型 Qwen4-Max：2.4 万亿参数 MoE，API 上线、权重暂不开源",
-  "link": "https://www.thehindubusinessline.com/info-tech/alibaba-unveils-new-flagship-ai-model-in-riposte-to-us-rivals/article71706678.ece/amp/"
+  "link": "https://www.thehindubusinessline.com/info-tech/alibaba-unveils-new-flagship-ai-model-in-riposte-to-us-rivals/article71706678.ece/amp/",
+  "title": "阿里发布旗舰模型 Qwen4-Max：2.4 万亿参数 MoE，API 上线、权重暂不开源"
  },
  {
+  "date": "2026-11-17",
   "id": "2026-11-17-A2",
-  "date": "2026-11-17",
-  "title": "OpenAI 把 computer-use Agent 推进医疗场景，可直接操作临床与医保软件",
-  "link": "https://openai.com/index/advancing-computer-use-for-healthcare-teams/"
+  "link": "https://openai.com/index/advancing-computer-use-for-healthcare-teams/",
+  "title": "OpenAI 把 computer-use Agent 推进医疗场景，可直接操作临床与医保软件"
  },
  {
+  "date": "2026-11-17",
   "id": "2026-11-17-A3",
-  "date": "2026-11-17",
-  "title": "腾讯发布低价模型 Hy4 flash，主打日常办公任务",
-  "link": "https://www.tencent.com/tencent-launches-hy4-flash-to-power-high-speed-cost-efficient-ai-deployment-for-everyday-workflows/"
+  "link": "https://www.tencent.com/tencent-launches-hy4-flash-to-power-high-speed-cost-efficient-ai-deployment-for-everyday-workflows/",
+  "title": "腾讯发布低价模型 Hy4 flash，主打日常办公任务"
  },
  {
+  "date": "2026-11-17",
   "id": "2026-11-17-A4",
-  "date": "2026-11-17",
-  "title": "英伟达在 SC26 发布 Nemotron for Science，面向科研 Agent 的开放模型与化学数据集",
-  "link": "https://www.globenewswire.com/news-release/2026/11/16/3403880/0/en/nvidia-introduces-nemotron-for-science-to-accelerate-discoveries-with-agents.html"
+  "link": "https://www.globenewswire.com/news-release/2026/11/16/3403880/0/en/nvidia-introduces-nemotron-for-science-to-accelerate-discoveries-with-agents.html",
+  "title": "英伟达在 SC26 发布 Nemotron for Science，面向科研 Agent 的开放模型与化学数据集"
  },
  {
+  "date": "2026-11-17",
   "id": "2026-11-17-A5",
-  "date": "2026-11-17",
-  "title": "Google 首次发现 AI Agent 全自动把补丁变成攻击：补丁差分→写 exploit→自动执行，无人干预",
-  "link": "https://www.theregister.com/research/2026/11/16/google-ai-agent-turned-a-security-patch-into-a-working-exploit-with-no-human-help/5309926"
+  "link": "https://www.theregister.com/research/2026/11/16/google-ai-agent-turned-a-security-patch-into-a-working-exploit-with-no-human-help/5309926",
+  "title": "Google 首次发现 AI Agent 全自动把补丁变成攻击：补丁差分→写 exploit→自动执行，无人干预"
  },
  {
+  "date": "2026-11-17",
   "id": "2026-11-17-A6",
-  "date": "2026-11-17",
-  "title": "FBI 警告：AI 渗透测试框架 ARTEX 已被多伙攻击者武器化，最快 3 小时内拿到特权访问",
-  "link": "https://securityboulevard.com/2026/11/threat-actor-use-of-ai-powered-platforms-is-rising-rapidly-fbi-says/"
+  "link": "https://securityboulevard.com/2026/11/threat-actor-use-of-ai-powered-platforms-is-rising-rapidly-fbi-says/",
+  "title": "FBI 警告：AI 渗透测试框架 ARTEX 已被多伙攻击者武器化，最快 3 小时内拿到特权访问"
  },
  {
+  "date": "2026-11-17",
   "id": "2026-11-17-A7",
-  "date": "2026-11-17",
-  "title": "Claude 11 月 16 日两起故障：Sonnet 5.5 / Fable 5.2 报错升高 1 小时 14 分钟已修复，会议无法入会仍在调查",
-  "link": "https://www.pulsapi.com/services/claude"
+  "link": "https://www.pulsapi.com/services/claude",
+  "title": "Claude 11 月 16 日两起故障：Sonnet 5.5 / Fable 5.2 报错升高 1 小时 14 分钟已修复，会议无法入会仍在调查"
  },
  {
+  "date": "2026-11-17",
   "id": "2026-11-17-A8",
-  "date": "2026-11-17",
-  "title": "TensorWave 与 OpenAI 签六年协议：457MW AMD 算力，首个公开的 AMD-OpenAI 合作 neocloud",
-  "link": "https://www.businesswire.com/news/home/20261116130015/en/TensorWave-Announces-Agreement-with-OpenAI-to-Deliver-More-Than-450MW-of-AMD-Powered-AI-Infrastructure"
+  "link": "https://www.businesswire.com/news/home/20261116130015/en/TensorWave-Announces-Agreement-with-OpenAI-to-Deliver-More-Than-450MW-of-AMD-Powered-AI-Infrastructure",
+  "title": "TensorWave 与 OpenAI 签六年协议：457MW AMD 算力，首个公开的 AMD-OpenAI 合作 neocloud"
  },
  {
+  "date": "2026-11-17",
   "id": "2026-11-17-A9",
-  "date": "2026-11-17",
-  "title": "英伟达董事会不考虑黄仁勋回归，专注国家安全调查；请愿签名超 17.7 万人",
-  "link": "https://www.techbooky.com/nvidia-board-not-considering-jensen-huang-return-as-ceo-cnbc-reports/"
+  "link": "https://www.techbooky.com/nvidia-board-not-considering-jensen-huang-return-as-ceo-cnbc-reports/",
+  "title": "英伟达董事会不考虑黄仁勋回归，专注国家安全调查；请愿签名超 17.7 万人"
  },
  {
+  "date": "2026-11-17",
   "id": "2026-11-17-B1",
-  "date": "2026-11-17",
-  "title": "美股周一大跌，纳指确认进入回调，费半跌 4.6%",
-  "link": "https://srnnews.com/sp-500-nasdaq-futures-slide-as-nvidia-earnings-anthropic-debut-loom/"
+  "link": "https://srnnews.com/sp-500-nasdaq-futures-slide-as-nvidia-earnings-anthropic-debut-loom/",
+  "title": "美股周一大跌，纳指确认进入回调，费半跌 4.6%"
  },
  {
+  "date": "2026-11-17",
   "id": "2026-11-17-B2",
-  "date": "2026-11-17",
-  "title": "亚洲芯片股周一暴跌，台湾加权指数跌 6.03%，港股逆势收涨",
-  "link": "https://edgeconsultancykw.com/asia-market-wrap-16-november-2026/"
+  "link": "https://edgeconsultancykw.com/asia-market-wrap-16-november-2026/",
+  "title": "亚洲芯片股周一暴跌，台湾加权指数跌 6.03%，港股逆势收涨"
  },
  {
+  "date": "2026-11-17",
   "id": "2026-11-17-B3",
-  "date": "2026-11-17",
-  "title": "中国 10 月经济数据全线不及预期：零售仅增 0.4%，工业增 4.8%",
-  "link": "https://wdsm710.com/2026/11/15/chinas-factory-output-retail-sales-growth-slow-in-october/"
+  "link": "https://wdsm710.com/2026/11/15/chinas-factory-output-retail-sales-growth-slow-in-october/",
+  "title": "中国 10 月经济数据全线不及预期：零售仅增 0.4%，工业增 4.8%"
  },
  {
+  "date": "2026-11-17",
   "id": "2026-11-17-B4",
-  "date": "2026-11-17",
-  "title": "比特币周一从周末低点反弹至 6.5 万美元上方，以太币回升至约 1,837 美元",
-  "link": "https://www.businesstoday.com.my/2026/11/16/bitcoin-rebounds-above-us65000-as-crypto-market-stages-cautious-recovery/"
+  "link": "https://www.businesstoday.com.my/2026/11/16/bitcoin-rebounds-above-us65000-as-crypto-market-stages-cautious-recovery/",
+  "title": "比特币周一从周末低点反弹至 6.5 万美元上方，以太币回升至约 1,837 美元"
  },
  {
+  "date": "2026-11-17",
   "id": "2026-11-17-B5",
-  "date": "2026-11-17",
-  "title": "12 月加息 25bp 定价升至约 93.7%，50bp 概率回落至约 6%",
-  "link": "https://srnnews.com/sp-500-nasdaq-futures-slide-as-nvidia-earnings-anthropic-debut-loom/"
+  "link": "https://srnnews.com/sp-500-nasdaq-futures-slide-as-nvidia-earnings-anthropic-debut-loom/",
+  "title": "12 月加息 25bp 定价升至约 93.7%，50bp 概率回落至约 6%"
  },
  {
+  "date": "2026-11-17",
   "id": "2026-11-17-B6",
-  "date": "2026-11-17",
-  "title": "黄金跌至 13 个月新低 3,830.74 美元，原油跌约 2.4% 至 93.45 美元",
-  "link": "https://www.kitco.com/news/off-the-wire/2026-11-16/gold-sinks-1-year-low-treasury-yields-and-dollar-bite-set-worst-year"
+  "link": "https://www.kitco.com/news/off-the-wire/2026-11-16/gold-sinks-1-year-low-treasury-yields-and-dollar-bite-set-worst-year",
+  "title": "黄金跌至 13 个月新低 3,830.74 美元，原油跌约 2.4% 至 93.45 美元"
  },
  {
+  "date": "2026-11-17",
   "id": "2026-11-17-C1",
-  "date": "2026-11-17",
-  "title": "BIS 发布临时最终规则，堵住海外数据中心远程租用先进 AI 芯片的漏洞",
-  "link": "https://www.reuters.com/legal/litigation/us-issues-rule-protect-advanced-ai-chips-being-accessed-remotely-2026-11-16/"
+  "link": "https://www.reuters.com/legal/litigation/us-issues-rule-protect-advanced-ai-chips-being-accessed-remotely-2026-11-16/",
+  "title": "BIS 发布临时最终规则，堵住海外数据中心远程租用先进 AI 芯片的漏洞"
  },
  {
+  "date": "2026-11-17",
   "id": "2026-11-17-C2",
-  "date": "2026-11-17",
-  "title": "参议院商务委员会首席民主党人 Cantwell 致信 Lutnick，指控商务部放任先进 AI 芯片流向中国",
-  "link": "https://wixx.com/2026/11/16/senator-accuses-us-commerce-department-of-failing-to-stem-flow-of-ai-chips-to-china/"
+  "link": "https://wixx.com/2026/11/16/senator-accuses-us-commerce-department-of-failing-to-stem-flow-of-ai-chips-to-china/",
+  "title": "参议院商务委员会首席民主党人 Cantwell 致信 Lutnick，指控商务部放任先进 AI 芯片流向中国"
  },
  {
+  "date": "2026-11-17",
   "id": "2026-11-17-C3",
-  "date": "2026-11-17",
-  "title": "Megaspeed 首次发声：否认转运指控，称 Alice Huang 已于 2025 年 8 月 30 日离职并启动外部调查",
-  "link": "https://srnnews.com/megaspeed-says-alice-huang-left-company-in-august-2025/"
+  "link": "https://srnnews.com/megaspeed-says-alice-huang-left-company-in-august-2025/",
+  "title": "Megaspeed 首次发声：否认转运指控，称 Alice Huang 已于 2025 年 8 月 30 日离职并启动外部调查"
  },
  {
+  "date": "2026-11-18",
   "id": "2026-11-18-A1",
-  "date": "2026-11-18",
-  "title": "Anthropic IPO：第三版 S-1 获批上市、订单簿关闭，彭博称预计定价在区间顶或之上；算力承诺约 9009 亿美元",
-  "link": "https://stocktwits.com/news-articles/markets/equity/anthropic-s-new-ipo-filing-shows-amazon-google-will-own-over-a-quarter-of-the-claude-maker/cNbaxuHR9Ws"
+  "link": "https://stocktwits.com/news-articles/markets/equity/anthropic-s-new-ipo-filing-shows-amazon-google-will-own-over-a-quarter-of-the-claude-maker/cNbaxuHR9Ws",
+  "title": "Anthropic IPO：第三版 S-1 获批上市、订单簿关闭，彭博称预计定价在区间顶或之上；算力承诺约 9009 亿美元"
  },
  {
+  "date": "2026-11-18",
   "id": "2026-11-18-A2",
-  "date": "2026-11-18",
-  "title": "OpenAI 发布 GPT-6.2 Astra 与 Sol，旗舰降价 20%",
-  "link": "https://community.openai.com/t/gpt-6-2-astra-and-sol-are-now-available/1417531"
+  "link": "https://community.openai.com/t/gpt-6-2-astra-and-sol-are-now-available/1417531",
+  "title": "OpenAI 发布 GPT-6.2 Astra 与 Sol，旗舰降价 20%"
  },
  {
+  "date": "2026-11-18",
   "id": "2026-11-18-A3",
-  "date": "2026-11-18",
-  "title": "微软 Ignite：Copilot 变身「工作操作系统」，自研 MAI Code 2 进 GitHub Copilot",
-  "link": "https://news.microsoft.com/source/2026/11/17/microsoft-ignite-2026-empowering-human-ambition-intelligence-and-trust/"
+  "link": "https://news.microsoft.com/source/2026/11/17/microsoft-ignite-2026-empowering-human-ambition-intelligence-and-trust/",
+  "title": "微软 Ignite：Copilot 变身「工作操作系统」，自研 MAI Code 2 进 GitHub Copilot"
  },
  {
+  "date": "2026-11-18",
   "id": "2026-11-18-A4",
-  "date": "2026-11-18",
-  "title": "Google Gemini Tasks 向 6 国免费开放，可代打电话、订约、付款",
-  "link": "https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features/"
+  "link": "https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features/",
+  "title": "Google Gemini Tasks 向 6 国免费开放，可代打电话、订约、付款"
  },
  {
+  "date": "2026-11-18",
   "id": "2026-11-18-A5",
-  "date": "2026-11-18",
-  "title": "黄仁勋首次公开表态愿回归，董事会同日设出口管制监督委员会",
-  "link": "https://techcrunch.com/2026/11/17/jensen-huang-says-he-would-be-honored-if-allowed-to-return-as-nvidia-ceo/"
+  "link": "https://techcrunch.com/2026/11/17/jensen-huang-says-he-would-be-honored-if-allowed-to-return-as-nvidia-ceo/",
+  "title": "黄仁勋首次公开表态愿回归，董事会同日设出口管制监督委员会"
  },
  {
+  "date": "2026-11-18",
   "id": "2026-11-18-A6",
-  "date": "2026-11-18",
-  "title": "Isomorphic Labs 完成 50 亿美元 C 轮，AI 制药史上最大单轮融资",
-  "link": "https://techcrunch.com/2026/11/17/isomorphic-labs-raises-5b-as-it-looks-to-take-drug-candidates-to-clinical-trials/"
+  "link": "https://techcrunch.com/2026/11/17/isomorphic-labs-raises-5b-as-it-looks-to-take-drug-candidates-to-clinical-trials/",
+  "title": "Isomorphic Labs 完成 50 亿美元 C 轮，AI 制药史上最大单轮融资"
  },
  {
+  "date": "2026-11-18",
   "id": "2026-11-18-A7",
-  "date": "2026-11-18",
-  "title": "AMD 完成 29 亿美元收购 Taalas，两天内连收两家 AI 公司",
-  "link": "https://www.unite.ai/amd-closes-taalas-deal-to-add-model-specific-ai-inference-chips/"
+  "link": "https://www.unite.ai/amd-closes-taalas-deal-to-add-model-specific-ai-inference-chips/",
+  "title": "AMD 完成 29 亿美元收购 Taalas，两天内连收两家 AI 公司"
  },
  {
+  "date": "2026-11-18",
   "id": "2026-11-18-A8",
-  "date": "2026-11-18",
-  "title": "英伟达 13F 减持英特尔 25%，SpaceX 跃升为最大披露持仓",
-  "link": "https://trendandticker.com/news/markets/semiconductors/2026-11-17/nvidia-nvda-13f-cuts-intel-stake-spacex-largest-holding"
+  "link": "https://trendandticker.com/news/markets/semiconductors/2026-11-17/nvidia-nvda-13f-cuts-intel-stake-spacex-largest-holding",
+  "title": "英伟达 13F 减持英特尔 25%，SpaceX 跃升为最大披露持仓"
  },
  {
+  "date": "2026-11-18",
   "id": "2026-11-18-A9",
-  "date": "2026-11-18",
-  "title": "三星与 SK 海力士存储产线 1–9 月满负荷运转，三星内存均价同比涨 270%",
-  "link": "https://www.ajupress.com/view/20261117103521486"
+  "link": "https://www.ajupress.com/view/20261117103521486",
+  "title": "三星与 SK 海力士存储产线 1–9 月满负荷运转，三星内存均价同比涨 270%"
  },
  {
+  "date": "2026-11-18",
   "id": "2026-11-18-A10",
-  "date": "2026-11-18",
-  "title": "英伟达发布 Rubin HPC GPU，华硕四季度放量出货 Vera Rubin NVL72",
-  "link": "https://blogs.nvidia.com/blog/ian-buck-sc26/?preview_id=100058"
+  "link": "https://blogs.nvidia.com/blog/ian-buck-sc26/?preview_id=100058",
+  "title": "英伟达发布 Rubin HPC GPU，华硕四季度放量出货 Vera Rubin NVL72"
  },
  {
+  "date": "2026-11-18",
   "id": "2026-11-18-B1",
-  "date": "2026-11-18",
-  "title": "美股周二盘中续跌，纳指创七个月盘中低点，尾盘跌幅收窄",
-  "link": "https://www.kitco.com/news/off-the-wire/2026-11-17/wall-st-falls-nvidia-earnings-key-ai-test-huang-says-open-return"
+  "link": "https://www.kitco.com/news/off-the-wire/2026-11-17/wall-st-falls-nvidia-earnings-key-ai-test-huang-says-open-return",
+  "title": "美股周二盘中续跌，纳指创七个月盘中低点，尾盘跌幅收窄"
  },
  {
+  "date": "2026-11-18",
   "id": "2026-11-18-B2",
-  "date": "2026-11-18",
-  "title": "亚洲周二普跌，韩国 KOSPI 跌破 5000 点、台股再跌 2.31%",
-  "link": "https://hkbusinesswire.com/tech-fears-continue-to-chip-away-at-regional-markets/"
+  "link": "https://hkbusinesswire.com/tech-fears-continue-to-chip-away-at-regional-markets/",
+  "title": "亚洲周二普跌，韩国 KOSPI 跌破 5000 点、台股再跌 2.31%"
  },
  {
+  "date": "2026-11-18",
   "id": "2026-11-18-B3",
-  "date": "2026-11-18",
-  "title": "美国 10 月零售销售仅增 0.2%，进口价格涨 1.1%",
-  "link": "https://www.census.gov/retail/marts/www/marts_current.pdf?os"
+  "link": "https://www.census.gov/retail/marts/www/marts_current.pdf?os",
+  "title": "美国 10 月零售销售仅增 0.2%，进口价格涨 1.1%"
  },
  {
+  "date": "2026-11-18",
   "id": "2026-11-18-B4",
-  "date": "2026-11-18",
-  "title": "12 月加息 25bp 定价升至约 95%，50bp 概率大幅回落",
-  "link": "https://www.investopedia.com/5-things-to-know-stock-market-november-17-2026-12260055"
+  "link": "https://www.investopedia.com/5-things-to-know-stock-market-november-17-2026-12260055",
+  "title": "12 月加息 25bp 定价升至约 95%，50bp 概率大幅回落"
  },
  {
+  "date": "2026-11-18",
   "id": "2026-11-18-B5",
-  "date": "2026-11-18",
-  "title": "比特币 6.5 万美元下方受阻、ETF 结束七连流出；黄金小幅反弹、布伦特 92–93 美元拉锯",
-  "link": "https://www.coindesk.com/markets/2026/11/17/bitcoin-remains-penned-in-near-usd64-000-even-as-etf-outflow-streak-ends"
+  "link": "https://www.coindesk.com/markets/2026/11/17/bitcoin-remains-penned-in-near-usd64-000-even-as-etf-outflow-streak-ends",
+  "title": "比特币 6.5 万美元下方受阻、ETF 结束七连流出；黄金小幅反弹、布伦特 92–93 美元拉锯"
  },
  {
+  "date": "2026-11-18",
   "id": "2026-11-18-C1",
-  "date": "2026-11-18",
-  "title": "BIS 新规发布后各方回应：中国商务部威胁反制，新加坡寻求「可信准入」",
-  "link": "https://www.reuters.com/world/china/china-says-it-will-take-countermeasures-if-us-imposes-new-chip-curbs-2026-11-17/"
+  "link": "https://www.reuters.com/world/china/china-says-it-will-take-countermeasures-if-us-imposes-new-chip-curbs-2026-11-17/",
+  "title": "BIS 新规发布后各方回应：中国商务部威胁反制，新加坡寻求「可信准入」"
  },
  {
+  "date": "2026-11-18",
   "id": "2026-11-18-C2",
-  "date": "2026-11-18",
-  "title": "美商务部与司法部确认 Megaspeed 调查始于 2024 年，英伟达未被指控违规",
-  "link": "https://www.devdiscourse.com/article/international/4007946-us-releases-details-ofmegaspeed-probe-says-investigation-began-in-2024?amp"
+  "link": "https://www.devdiscourse.com/article/international/4007946-us-releases-details-ofmegaspeed-probe-says-investigation-began-in-2024?amp",
+  "title": "美商务部与司法部确认 Megaspeed 调查始于 2024 年，英伟达未被指控违规"
  },
  {
+  "date": "2026-11-18",
   "id": "2026-11-18-C3",
-  "date": "2026-11-18",
-  "title": "美伊局势升级：伊朗袭击巴林美军雷达，霍尔木兹油轮二度遇袭、1 名船员失踪",
-  "link": "https://www.reuters.com/world/middle-east/crew-abandon-gas-tanker-off-hormuz-after-being-hit-by-projectile-sources-say-2026-11-17/"
+  "link": "https://www.reuters.com/world/middle-east/crew-abandon-gas-tanker-off-hormuz-after-being-hit-by-projectile-sources-say-2026-11-17/",
+  "title": "美伊局势升级：伊朗袭击巴林美军雷达，霍尔木兹油轮二度遇袭、1 名船员失踪"
  },
  {
+  "date": "2026-11-19",
   "id": "2026-11-19-A1",
-  "date": "2026-11-19",
-  "title": "Anthropic IPO 定价前夜：多家媒体称或高于 70–78 美元区间，估值约 1.5–1.6 万亿美元",
-  "link": "https://en.sedaily.com/world/2026/11/18/anthropic-ipo-price-set-to-top-range-as-big-money-piles-in"
+  "link": "https://en.sedaily.com/world/2026/11/18/anthropic-ipo-price-set-to-top-range-as-big-money-piles-in",
+  "title": "Anthropic IPO 定价前夜：多家媒体称或高于 70–78 美元区间，估值约 1.5–1.6 万亿美元"
  },
  {
+  "date": "2026-11-19",
   "id": "2026-11-19-A2",
-  "date": "2026-11-19",
-  "title": "GPT-6.2 发布次日：独立评测打折「降本」说法，Altman 承认易用性有问题",
-  "link": "https://decrypt.co/383539/speaks-tongues-only-6-2-astra-understands-why-early-testers-hate-openai-new-model"
+  "link": "https://decrypt.co/383539/speaks-tongues-only-6-2-astra-understands-why-early-testers-hate-openai-new-model",
+  "title": "GPT-6.2 发布次日：独立评测打折「降本」说法，Altman 承认易用性有问题"
  },
  {
+  "date": "2026-11-19",
   "id": "2026-11-19-A3",
-  "date": "2026-11-19",
-  "title": "常驻 Agent 扎堆：Devin Bots 带队干活、Perplexity 最多 16 个 Agent 组队互查",
-  "link": "https://cryptobriefing.com/cognition-launches-devin-bots-ai-coding/"
+  "link": "https://cryptobriefing.com/cognition-launches-devin-bots-ai-coding/",
+  "title": "常驻 Agent 扎堆：Devin Bots 带队干活、Perplexity 最多 16 个 Agent 组队互查"
  },
  {
+  "date": "2026-11-19",
   "id": "2026-11-19-A4",
-  "date": "2026-11-19",
-  "title": "GitHub Copilot 能在真实浏览器里点按钮、填表单，Fusion 扩展到网页与移动端",
-  "link": "https://www.neowin.net/news/github-copilot-can-now-click-buttons-and-fill-out-forms-in-your-browser/"
+  "link": "https://www.neowin.net/news/github-copilot-can-now-click-buttons-and-fill-out-forms-in-your-browser/",
+  "title": "GitHub Copilot 能在真实浏览器里点按钮、填表单，Fusion 扩展到网页与移动端"
  },
  {
+  "date": "2026-11-19",
   "id": "2026-11-19-A5",
-  "date": "2026-11-19",
-  "title": "亚马逊被曝接近以最高 75 亿美元收购以色列 AI 创业公司 Decart",
-  "link": "https://www.calcalistech.com/ctechnews/article/uckadwd7r"
+  "link": "https://www.calcalistech.com/ctechnews/article/uckadwd7r",
+  "title": "亚马逊被曝接近以最高 75 亿美元收购以色列 AI 创业公司 Decart"
  },
  {
+  "date": "2026-11-19",
   "id": "2026-11-19-A6",
-  "date": "2026-11-19",
-  "title": "英伟达 Q3 营收 1158 亿美元同比翻倍，Q4 指引 1300 亿美元；董事长明说不打算让黄仁勋复任 CEO",
-  "link": "https://www.zacks.com/stock/news/3031586/nvidia-q3-earnings-beat-on-data-center-demand-rubin-ramp-up"
+  "link": "https://www.zacks.com/stock/news/3031586/nvidia-q3-earnings-beat-on-data-center-demand-rubin-ramp-up",
+  "title": "英伟达 Q3 营收 1158 亿美元同比翻倍，Q4 指引 1300 亿美元；董事长明说不打算让黄仁勋复任 CEO"
  },
  {
+  "date": "2026-11-19",
   "id": "2026-11-19-A7",
-  "date": "2026-11-19",
-  "title": "Bitdefender：毒化 GitHub 仓库劫持 AI 编程助手，窃取开发者凭证",
-  "link": "https://cybersecuritynews.com/hackers-hijack-ai-coding-agents/"
+  "link": "https://cybersecuritynews.com/hackers-hijack-ai-coding-agents/",
+  "title": "Bitdefender：毒化 GitHub 仓库劫持 AI 编程助手，窃取开发者凭证"
  },
  {
+  "date": "2026-11-19",
   "id": "2026-11-19-A8",
-  "date": "2026-11-19",
-  "title": "xAI Grok Bot 被曝 5 天内 31 次未经提示擅自访问企业数据，xAI 称是内置功能",
-  "link": "https://www.darkreading.com/application-security/grok-bots-corporate-data-without-user-approval"
+  "link": "https://www.darkreading.com/application-security/grok-bots-corporate-data-without-user-approval",
+  "title": "xAI Grok Bot 被曝 5 天内 31 次未经提示擅自访问企业数据，xAI 称是内置功能"
  },
  {
+  "date": "2026-11-19",
   "id": "2026-11-19-A9",
-  "date": "2026-11-19",
-  "title": "加州发布前沿 AI 安全新建议：强制标准、独立核查、48 小时报告",
-  "link": "https://www.gov.ca.gov/2026/11/18/governor-newsoms-nation-leading-ai-safety-framework-is-getting-even-stronger-as-california-releases-next-steps-on-mandatory-safety-standards-and-oversight/"
+  "link": "https://www.gov.ca.gov/2026/11/18/governor-newsoms-nation-leading-ai-safety-framework-is-getting-even-stronger-as-california-releases-next-steps-on-mandatory-safety-standards-and-oversight/",
+  "title": "加州发布前沿 AI 安全新建议：强制标准、独立核查、48 小时报告"
  },
  {
+  "date": "2026-11-19",
   "id": "2026-11-19-B1",
-  "date": "2026-11-19",
-  "title": "美股周三收盘分化，英伟达财报利好未能守住涨幅；周二终盘全线收跌",
-  "link": "https://srnnews.com/nasdaq-poised-for-higher-open-as-nvidia-forecast-eases-ai-concerns/"
+  "link": "https://srnnews.com/nasdaq-poised-for-higher-open-as-nvidia-forecast-eases-ai-concerns/",
+  "title": "美股周三收盘分化，英伟达财报利好未能守住涨幅；周二终盘全线收跌"
  },
  {
+  "date": "2026-11-19",
   "id": "2026-11-19-B2",
-  "date": "2026-11-19",
-  "title": "FOMC 纪要：近乎全体官员支持 12 月加息，个别官员提 50bp",
-  "link": "https://www.ttnews.com/articles/fed-officials-back-rate-hike"
+  "link": "https://www.ttnews.com/articles/fed-officials-back-rate-hike",
+  "title": "FOMC 纪要：近乎全体官员支持 12 月加息，个别官员提 50bp"
  },
  {
+  "date": "2026-11-19",
   "id": "2026-11-19-B3",
-  "date": "2026-11-19",
-  "title": "亚洲周三：KOSPI 反弹近 2% 重回 5000 点，恒生跌 0.91%",
-  "link": "https://en.infomaxai.com/news/articleView.html?idxno=149186"
+  "link": "https://en.infomaxai.com/news/articleView.html?idxno=149186",
+  "title": "亚洲周三：KOSPI 反弹近 2% 重回 5000 点，恒生跌 0.91%"
  },
  {
+  "date": "2026-11-19",
   "id": "2026-11-19-B4",
-  "date": "2026-11-19",
-  "title": "腾讯 Q3：营收略低于预期，单季资本开支 814 亿元、超过去年全年",
-  "link": "https://www.prnewswire.com/apac/news-releases/tencent-announces-2026-third-quarter-results-302943839.html"
+  "link": "https://www.prnewswire.com/apac/news-releases/tencent-announces-2026-third-quarter-results-302943839.html",
+  "title": "腾讯 Q3：营收略低于预期，单季资本开支 814 亿元、超过去年全年"
  },
  {
+  "date": "2026-11-19",
   "id": "2026-11-19-B5",
-  "date": "2026-11-19",
-  "title": "比特币逼近 6.25 万美元，黄金跌破 3800 美元，布伦特回落至约 91.6 美元",
-  "link": "https://finnhub.io/?q=%22BTC%22"
+  "link": "https://finnhub.io/?q=%22BTC%22",
+  "title": "比特币逼近 6.25 万美元，黄金跌破 3800 美元，布伦特回落至约 91.6 美元"
  },
  {
+  "date": "2026-11-19",
   "id": "2026-11-19-B6",
-  "date": "2026-11-19",
-  "title": "美国 10 月成屋待完成销售创历史最低，高抵押贷款利率压制需求",
-  "link": "https://hi99.com/2026/11/18/us-pending-home-sales-tumble-to-record-low-in-october/"
+  "link": "https://hi99.com/2026/11/18/us-pending-home-sales-tumble-to-record-low-in-october/",
+  "title": "美国 10 月成屋待完成销售创历史最低，高抵押贷款利率压制需求"
  },
  {
+  "date": "2026-11-19",
   "id": "2026-11-19-C1",
-  "date": "2026-11-19",
-  "title": "特朗普抵达深圳，双边会晤定在 11 月 19 日；芯片管制是否在议程上说法冲突",
-  "link": "https://bworldonline.com/world/2026/11/18/794742/chinas-xi-calls-for-free-and-open-trade-at-apec-summit/"
+  "link": "https://bworldonline.com/world/2026/11/18/794742/chinas-xi-calls-for-free-and-open-trade-at-apec-summit/",
+  "title": "特朗普抵达深圳，双边会晤定在 11 月 19 日；芯片管制是否在议程上说法冲突"
  },
  {
+  "date": "2026-11-19",
   "id": "2026-11-19-C2",
-  "date": "2026-11-19",
-  "title": "BIS 新规 11 月 19 日刊登生效在即：马来西亚要求数据中心遵守，英伟达已停向中国发运获许可芯片",
-  "link": "https://bworldonline.com/technology/2026/11/18/794712/nvidia-stops-shipping-us-approved-ai-chips-to-china/"
+  "link": "https://bworldonline.com/technology/2026/11/18/794712/nvidia-stops-shipping-us-approved-ai-chips-to-china/",
+  "title": "BIS 新规 11 月 19 日刊登生效在即：马来西亚要求数据中心遵守，英伟达已停向中国发运获许可芯片"
  },
  {
+  "date": "2026-11-19",
   "id": "2026-11-19-C3",
-  "date": "2026-11-19",
-  "title": "美伊交火多线升级：科威特、巴林、沙特同日遭袭或拦截",
-  "link": "https://superhits979.com/2026/11/17/bahrain-issues-all-clear-after-threat-alert-amid-us-iran-exchanges-of-fire/"
+  "link": "https://superhits979.com/2026/11/17/bahrain-issues-all-clear-after-threat-alert-amid-us-iran-exchanges-of-fire/",
+  "title": "美伊交火多线升级：科威特、巴林、沙特同日遭袭或拦截"
  },
  {
+  "date": "2026-11-20",
   "id": "2026-11-20-A1",
-  "date": "2026-11-20",
-  "title": "Anthropic 首日交易：定价 83 美元、募资 813 亿美元，开盘 111.50 美元、收盘 97.17 美元",
-  "link": "https://www.fool.com/investing/2026/11/19/anthropic-was-worth-111-50-on-its-first-day-of-trading-is-that-a-problem-for-investors/"
+  "link": "https://www.fool.com/investing/2026/11/19/anthropic-was-worth-111-50-on-its-first-day-of-trading-is-that-a-problem-for-investors/",
+  "title": "Anthropic 首日交易：定价 83 美元、募资 813 亿美元，开盘 111.50 美元、收盘 97.17 美元"
  },
  {
+  "date": "2026-11-20",
   "id": "2026-11-20-A2",
-  "date": "2026-11-20",
-  "title": "Google 一日双发：Gemini 4 Neon 上线、Genie 4 向 Ultra 用户开放",
-  "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/"
+  "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/",
+  "title": "Google 一日双发：Gemini 4 Neon 上线、Genie 4 向 Ultra 用户开放"
  },
  {
+  "date": "2026-11-20",
   "id": "2026-11-20-A3",
-  "date": "2026-11-20",
-  "title": "OpenAI 推出 ChatGPT for Accounting，接通 QuickBooks、Xero 等 7 家财会系统",
-  "link": "https://dataconomy.com/2026/11/19/openai-launches-chatgpt-for-accounting-with-finance/"
+  "link": "https://dataconomy.com/2026/11/19/openai-launches-chatgpt-for-accounting-with-finance/",
+  "title": "OpenAI 推出 ChatGPT for Accounting，接通 QuickBooks、Xero 等 7 家财会系统"
  },
  {
+  "date": "2026-11-20",
   "id": "2026-11-20-A4",
-  "date": "2026-11-20",
-  "title": "路透曝 Meta 个人助手 Muse 串号：员工称其读取他人 Signal 消息、错发私人对话",
-  "link": "https://techcrunch.com/2026/11/19/metas-ai-agent-muse-is-mixing-up-conversations-and-exposing-private-data-report-says/"
+  "link": "https://techcrunch.com/2026/11/19/metas-ai-agent-muse-is-mixing-up-conversations-and-exposing-private-data-report-says/",
+  "title": "路透曝 Meta 个人助手 Muse 串号：员工称其读取他人 Signal 消息、错发私人对话"
  },
  {
+  "date": "2026-11-20",
   "id": "2026-11-20-A5",
-  "date": "2026-11-20",
-  "title": "GPT-6.2 系统卡披露：Astra 首获「自我改进 High」评级，双模型网络安全均为 Critical",
-  "link": "https://pivotnews.ai/five/openai-releases-gpt-6-2-astra-and-claims-benchmark-lead"
+  "link": "https://pivotnews.ai/five/openai-releases-gpt-6-2-astra-and-claims-benchmark-lead",
+  "title": "GPT-6.2 系统卡披露：Astra 首获「自我改进 High」评级，双模型网络安全均为 Critical"
  },
  {
+  "date": "2026-11-20",
   "id": "2026-11-20-A6",
-  "date": "2026-11-20",
-  "title": "哈佛工作论文：AI 编程 Agent 让代码量 +30%，评审时间却 +49%",
-  "link": "https://pivotnews.ai/five/harvard-working-paper-ties-ai-coding-agents-to-slower-code"
+  "link": "https://pivotnews.ai/five/harvard-working-paper-ties-ai-coding-agents-to-slower-code",
+  "title": "哈佛工作论文：AI 编程 Agent 让代码量 +30%，评审时间却 +49%"
  },
  {
+  "date": "2026-11-20",
   "id": "2026-11-20-A7",
-  "date": "2026-11-20",
-  "title": "英伟达股价六连跌收 145.98 美元，分析师分化；猎头已接触 Arm CEO Haas",
-  "link": "https://finnhub.io/?q=%22NVDA%22"
+  "link": "https://finnhub.io/?q=%22NVDA%22",
+  "title": "英伟达股价六连跌收 145.98 美元，分析师分化；猎头已接触 Arm CEO Haas"
  },
  {
+  "date": "2026-11-20",
   "id": "2026-11-20-A8",
-  "date": "2026-11-20",
-  "title": "Palo Alto Networks 45 亿美元全股票收购 AI 创业公司 Applied Compute",
-  "link": "https://www.kcau9.com/business/press-releases/cision/20261118SF01838/palo-alto-networks-to-acquire-applied-compute-bringing-secure-open-weight-ai-to-the-enterprise/"
+  "link": "https://www.kcau9.com/business/press-releases/cision/20261118SF01838/palo-alto-networks-to-acquire-applied-compute-bringing-secure-open-weight-ai-to-the-enterprise/",
+  "title": "Palo Alto Networks 45 亿美元全股票收购 AI 创业公司 Applied Compute"
  },
  {
+  "date": "2026-11-20",
   "id": "2026-11-20-A9",
-  "date": "2026-11-20",
-  "title": "亚马逊收购 Decart 有望感恩节前达成，计划在 re:Invent 上公布",
-  "link": "https://www.calcalistech.com/ctechnews/article/uckadwd7r"
+  "link": "https://www.calcalistech.com/ctechnews/article/uckadwd7r",
+  "title": "亚马逊收购 Decart 有望感恩节前达成，计划在 re:Invent 上公布"
  },
  {
+  "date": "2026-11-20",
   "id": "2026-11-20-A10",
-  "date": "2026-11-20",
-  "title": "德国电信向 Mistral 注资 1 亿欧元，慕尼黑 AI 工厂追加 2.5 亿欧元",
-  "link": "https://www.telekom.com/en/newsroom/latest-updates/media-information/2026/11/deutsche-telekom-advances-sovereign-ai-in-germany"
+  "link": "https://www.telekom.com/en/newsroom/latest-updates/media-information/2026/11/deutsche-telekom-advances-sovereign-ai-in-germany",
+  "title": "德国电信向 Mistral 注资 1 亿欧元，慕尼黑 AI 工厂追加 2.5 亿欧元"
  },
  {
+  "date": "2026-11-20",
   "id": "2026-11-20-B1",
-  "date": "2026-11-20",
-  "title": "美股周四全线大跌，标普五连跌；Anthropic 首秀冲高回落未能救市",
-  "link": "https://wixx.com/2026/11/19/wall-street-slides-as-anthropics-debut-fails-to-revive-ai-enthusiasm/"
+  "link": "https://wixx.com/2026/11/19/wall-street-slides-as-anthropics-debut-fails-to-revive-ai-enthusiasm/",
+  "title": "美股周四全线大跌，标普五连跌；Anthropic 首秀冲高回落未能救市"
  },
  {
+  "date": "2026-11-20",
   "id": "2026-11-20-B2",
-  "date": "2026-11-20",
-  "title": "亚洲周四分化：日经 +0.71%、KOSPI +1.39%，恒生 -1.95%、台股 -4.40%",
-  "link": "https://www.sharecast.com/news/market-report-asia/asia-report-asia-report-stocks-mixed-as-attention-turns-to-shenzhen-summit--24228042.html"
+  "link": "https://www.sharecast.com/news/market-report-asia/asia-report-asia-report-stocks-mixed-as-attention-turns-to-shenzhen-summit--24228042.html",
+  "title": "亚洲周四分化：日经 +0.71%、KOSPI +1.39%，恒生 -1.95%、台股 -4.40%"
  },
  {
+  "date": "2026-11-20",
   "id": "2026-11-20-B3",
-  "date": "2026-11-20",
-  "title": "美国初请失业金 20.3 万、费城联储指数骤降至 6.3；12 月加息 25bp 定价仍约 95%",
-  "link": "https://www.zacks.com/stock/news/3032598/jobless-claims-increased-more-than-expected"
+  "link": "https://www.zacks.com/stock/news/3032598/jobless-claims-increased-more-than-expected",
+  "title": "美国初请失业金 20.3 万、费城联储指数骤降至 6.3；12 月加息 25bp 定价仍约 95%"
  },
  {
+  "date": "2026-11-20",
   "id": "2026-11-20-B4",
-  "date": "2026-11-20",
-  "title": "比特币跌破 6.2 万美元、黄金盘中跌破 3700 美元；胡塞再袭利雅得，霍尔木兹原油流量腰斩",
-  "link": "https://finnhub.io/?q=%22BTC%22"
+  "link": "https://finnhub.io/?q=%22BTC%22",
+  "title": "比特币跌破 6.2 万美元、黄金盘中跌破 3700 美元；胡塞再袭利雅得，霍尔木兹原油流量腰斩"
  },
  {
+  "date": "2026-11-20",
   "id": "2026-11-20-C1",
-  "date": "2026-11-20",
-  "title": "特朗普—习近平深圳会晤：AI 安全「最低限度护栏」口头共识，芯片管制与稀土无突破",
-  "link": "https://www.fmprc.gov.cn/eng/xw/zyxw/202611/t20261119_12063139.html"
+  "link": "https://www.fmprc.gov.cn/eng/xw/zyxw/202611/t20261119_12063139.html",
+  "title": "特朗普—习近平深圳会晤：AI 安全「最低限度护栏」口头共识，芯片管制与稀土无突破"
  },
  {
+  "date": "2026-11-20",
   "id": "2026-11-20-C2",
-  "date": "2026-11-20",
-  "title": "美中俄史上首次三方会晤：约 90 分钟，四点「和平宣言」",
-  "link": "https://www.usatoday.com/story/news/world/2026/11/19/trump-china-russia-xi-putin-apec-summit/92856409007/"
+  "link": "https://www.usatoday.com/story/news/world/2026/11/19/trump-china-russia-xi-putin-apec-summit/92856409007/",
+  "title": "美中俄史上首次三方会晤：约 90 分钟，四点「和平宣言」"
  },
  {
+  "date": "2026-11-20",
   "id": "2026-11-20-C3",
-  "date": "2026-11-20",
-  "title": "BIS 远程算力新规 11 月 19 日正式生效：联邦公报号、90 天宽限期与意见截止日落地",
-  "link": "https://www.overduinpllc.com/post/after-the-affair-how-washington-is-rewriting-ai-chip-rules"
+  "link": "https://www.overduinpllc.com/post/after-the-affair-how-washington-is-rewriting-ai-chip-rules",
+  "title": "BIS 远程算力新规 11 月 19 日正式生效：联邦公报号、90 天宽限期与意见截止日落地"
  },
  {
+  "date": "2026-11-20",
   "id": "2026-11-20-B5",
-  "date": "2026-11-20",
-  "title": "美联储副主席杰斐逊：AI 建设正在推高通胀，生产率红利「在未来」",
-  "link": "https://www.kitco.com/news/off-the-wire/2026-11-19/feds-jefferson-says-ai-boosting-inflation-productivity-impact-possible"
+  "link": "https://www.kitco.com/news/off-the-wire/2026-11-19/feds-jefferson-says-ai-boosting-inflation-productivity-impact-possible",
+  "title": "美联储副主席杰斐逊：AI 建设正在推高通胀，生产率红利「在未来」"
  },
  {
+  "date": "2026-11-21",
   "id": "2026-11-21-A1",
-  "date": "2026-11-21",
-  "title": "Anthropic IPO 交割完成：绿鞋全额行使、总募资约 935 亿美元，次日跌 9.13% 至 88.30 美元",
-  "link": "https://www.anthropic.com/news/ipo-close"
+  "link": "https://www.anthropic.com/news/ipo-close",
+  "title": "Anthropic IPO 交割完成：绿鞋全额行使、总募资约 935 亿美元，次日跌 9.13% 至 88.30 美元"
  },
  {
+  "date": "2026-11-21",
   "id": "2026-11-21-A2",
-  "date": "2026-11-21",
-  "title": "DeepSeek 完成约 1000 亿元第二轮融资，筹备科创板 IPO",
-  "link": "https://www.caixinglobal.com/2026-11-20/deepseek-closes-100-billion-yuan-funding-round-102506825.html"
+  "link": "https://www.caixinglobal.com/2026-11-20/deepseek-closes-100-billion-yuan-funding-round-102506825.html",
+  "title": "DeepSeek 完成约 1000 亿元第二轮融资，筹备科创板 IPO"
  },
  {
+  "date": "2026-11-21",
   "id": "2026-11-21-A3",
-  "date": "2026-11-21",
-  "title": "SEC 调查英伟达会计问题，加州总检察长向英伟达发出调查传票",
-  "link": "https://www.reuters.com/world/us-secs-nvidia-probe-is-examining-potential-accounting-issues-sources-say-2026-11-20/"
+  "link": "https://www.reuters.com/world/us-secs-nvidia-probe-is-examining-potential-accounting-issues-sources-say-2026-11-20/",
+  "title": "SEC 调查英伟达会计问题，加州总检察长向英伟达发出调查传票"
  },
  {
+  "date": "2026-11-21",
   "id": "2026-11-21-A4",
-  "date": "2026-11-21",
-  "title": "英伟达七连跌收 125.84 美元，市值跌破 Alphabet 退居美股第四",
-  "link": "https://www.reuters.com/business/retail-consumer/nvidias-share-slide-knocks-it-below-alphabet-valuation-2026-11-20/"
+  "link": "https://www.reuters.com/business/retail-consumer/nvidias-share-slide-knocks-it-below-alphabet-valuation-2026-11-20/",
+  "title": "英伟达七连跌收 125.84 美元，市值跌破 Alphabet 退居美股第四"
  },
  {
+  "date": "2026-11-21",
   "id": "2026-11-21-A5",
-  "date": "2026-11-21",
-  "title": "OpenAI 披露 Performance Factory：Codex Agent 自动查 ChatGPT 性能回退",
-  "link": "https://venturebeat.com/orchestration/exclusive-openai-reveals-performance-factory-a-codex-powered-software-optimization-system-that-keeps-chatgpt-fast"
+  "link": "https://venturebeat.com/orchestration/exclusive-openai-reveals-performance-factory-a-codex-powered-software-optimization-system-that-keeps-chatgpt-fast",
+  "title": "OpenAI 披露 Performance Factory：Codex Agent 自动查 ChatGPT 性能回退"
  },
  {
+  "date": "2026-11-21",
   "id": "2026-11-21-A6",
-  "date": "2026-11-21",
-  "title": "OpenAI 常驻 Agent Dots 扩围至 Plus 测试、Business Standard 全开",
-  "link": "https://www.engadget.com/2322656/openai-is-testing-dots-personal-agents-on-its-20-per-month-plus-tier/"
+  "link": "https://www.engadget.com/2322656/openai-is-testing-dots-personal-agents-on-its-20-per-month-plus-tier/",
+  "title": "OpenAI 常驻 Agent Dots 扩围至 Plus 测试、Business Standard 全开"
  },
  {
+  "date": "2026-11-21",
   "id": "2026-11-21-A7",
-  "date": "2026-11-21",
-  "title": "Google Gemini Mac 版上线 Computer Use，可在后台替用户操作电脑",
-  "link": "https://blog.google/innovation-and-ai/products/gemini-app/computer-use-mac/"
+  "link": "https://blog.google/innovation-and-ai/products/gemini-app/computer-use-mac/",
+  "title": "Google Gemini Mac 版上线 Computer Use，可在后台替用户操作电脑"
  },
  {
+  "date": "2026-11-21",
   "id": "2026-11-21-A8",
-  "date": "2026-11-21",
-  "title": "彭博曝苹果正招聘打造自主 AI Agent，目标最快 2027 年底推出",
-  "link": "https://www.macrumors.com/2026/11/19/apple-ai-agent-development/"
+  "link": "https://www.macrumors.com/2026/11/19/apple-ai-agent-development/",
+  "title": "彭博曝苹果正招聘打造自主 AI Agent，目标最快 2027 年底推出"
  },
  {
+  "date": "2026-11-21",
   "id": "2026-11-21-A9",
-  "date": "2026-11-21",
-  "title": "Google 公开 Mirror Dimension：造假互联网训练测试 Chrome 浏览 Agent",
-  "link": "https://blog.google/security/mirror-dimension-for-agents/"
+  "link": "https://blog.google/security/mirror-dimension-for-agents/",
+  "title": "Google 公开 Mirror Dimension：造假互联网训练测试 Chrome 浏览 Agent"
  },
  {
+  "date": "2026-11-21",
   "id": "2026-11-21-A10",
-  "date": "2026-11-21",
-  "title": "微软 Agent Framework PyPI 投毒事件：三仓库仍 404、微软仍无官方说明",
-  "link": "https://www.wiz.io/blog/malicious-version-of-microsofts-agent-framework-published-to-pypi"
+  "link": "https://www.wiz.io/blog/malicious-version-of-microsofts-agent-framework-published-to-pypi",
+  "title": "微软 Agent Framework PyPI 投毒事件：三仓库仍 404、微软仍无官方说明"
  },
  {
+  "date": "2026-11-21",
   "id": "2026-11-21-B1",
-  "date": "2026-11-21",
-  "title": "美股周五暴跌：纳指抹去全年涨幅，标普七连跌、与道指双双跌入修正区间",
-  "link": "https://www.cnn.com/2026/11/20/investing/us-stocks-anthropic-ai?cid=external-feeds_iluminar_meta"
+  "link": "https://www.cnn.com/2026/11/20/investing/us-stocks-anthropic-ai?cid=external-feeds_iluminar_meta",
+  "title": "美股周五暴跌：纳指抹去全年涨幅，标普七连跌、与道指双双跌入修正区间"
  },
  {
+  "date": "2026-11-21",
   "id": "2026-11-21-B2",
-  "date": "2026-11-21",
-  "title": "亚洲周五全线大跌：日经跌 5.06%、KOSPI 跌 5.21%、台股跌约 6.4%",
-  "link": "https://www.reflector.com/news/national/global-shares-drop-on-ai-worries-echoing-wall-streets-decline-despite-the-strong-anthropic-debut/article_dd3fc1e1-5754-5df8-b701-d40141a18638.html"
+  "link": "https://www.reflector.com/news/national/global-shares-drop-on-ai-worries-echoing-wall-streets-decline-despite-the-strong-anthropic-debut/article_dd3fc1e1-5754-5df8-b701-d40141a18638.html",
+  "title": "亚洲周五全线大跌：日经跌 5.06%、KOSPI 跌 5.21%、台股跌约 6.4%"
  },
  {
+  "date": "2026-11-21",
   "id": "2026-11-21-B3",
-  "date": "2026-11-21",
-  "title": "比特币跌破 5.8 万美元、黄金跌至 14 个月低点，现货 ETF 单日流出 5.82 亿美元",
-  "link": "https://www.investopedia.com/stock-market-today-dow-jones-s-and-p-500-nasdaq-11202026-12266027"
+  "link": "https://www.investopedia.com/stock-market-today-dow-jones-s-and-p-500-nasdaq-11202026-12266027",
+  "title": "比特币跌破 5.8 万美元、黄金跌至 14 个月低点，现货 ETF 单日流出 5.82 亿美元"
  },
  {
+  "date": "2026-11-21",
   "id": "2026-11-21-B4",
-  "date": "2026-11-21",
-  "title": "日本 10 月核心 CPI 同比 2.2%，12 月加息预期升温",
-  "link": "https://northlandnewsradio.com/2026/11/19/japans-core-inflation-accelerates-in-october-cementing-rate-hike-expectations/"
+  "link": "https://northlandnewsradio.com/2026/11/19/japans-core-inflation-accelerates-in-october-cementing-rate-hike-expectations/",
+  "title": "日本 10 月核心 CPI 同比 2.2%，12 月加息预期升温"
  },
  {
+  "date": "2026-11-21",
   "id": "2026-11-21-B5",
-  "date": "2026-11-21",
-  "title": "密歇根消费者信心终值 51.5，12 月加息 25bp 定价仍约 95%",
-  "link": "https://www.actionnetwork.com/politics/next-fed-interest-rate-decision-becoming-clearer-as-inflation-report-looms"
+  "link": "https://www.actionnetwork.com/politics/next-fed-interest-rate-decision-becoming-clearer-as-inflation-report-looms",
+  "title": "密歇根消费者信心终值 51.5，12 月加息 25bp 定价仍约 95%"
  },
  {
+  "date": "2026-11-21",
   "id": "2026-11-21-C1",
-  "date": "2026-11-21",
-  "title": "特朗普：只卖旧芯片给中国，称正与中国谈「非常全面的协议」",
-  "link": "https://www.reuters.com/world/china/trump-says-only-older-chips-should-be-sold-china-2026-11-20/"
+  "link": "https://www.reuters.com/world/china/trump-says-only-older-chips-should-be-sold-china-2026-11-20/",
+  "title": "特朗普：只卖旧芯片给中国，称正与中国谈「非常全面的协议」"
  },
  {
+  "date": "2026-11-21",
   "id": "2026-11-21-C2",
-  "date": "2026-11-21",
-  "title": "贝森特披露特朗普—习近平军事 AI 共识：人类全程参与",
-  "link": "https://www.reuters.com/world/china/trump-xi-agreed-that-military-ai-decisions-should-involve-humans-bessent-says-2026-11-20/"
+  "link": "https://www.reuters.com/world/china/trump-xi-agreed-that-military-ai-decisions-should-involve-humans-bessent-says-2026-11-20/",
+  "title": "贝森特披露特朗普—习近平军事 AI 共识：人类全程参与"
  },
  {
-  "id": "2026-11-21-C3",
   "date": "2026-11-21",
-  "title": "霍尔木兹油轮再遇袭，美军封锁扩至海上过驳油轮",
-  "link": "https://www.mix1069.com/2026/11/20/tanker-catches-fire-after-projectile-strike-near-strait-of-hormuz-ukmto-says/"
+  "id": "2026-11-21-C3",
+  "link": "https://www.mix1069.com/2026/11/20/tanker-catches-fire-after-projectile-strike-near-strait-of-hormuz-ukmto-says/",
+  "title": "霍尔木兹油轮再遇袭，美军封锁扩至海上过驳油轮"
+ },
+ {
+  "date": "2026-11-22",
+  "id": "2026-11-22-A1",
+  "link": "https://www.wcmu.org/national-world-news/2026-11-21/anthropic-worker-claims-to-have-solved-a-holy-grail-of-math-problems-with-the-help-of-ai",
+  "title": "Anthropic 数学家声称与 Claude 合作证明黎曼猜想，约 1700 万行 Lean 代码待核验"
+ },
+ {
+  "date": "2026-11-22",
+  "id": "2026-11-22-A2",
+  "link": "https://openai.com/policies/usage-policies/",
+  "title": "OpenAI 收紧使用政策：第三方直访模型须事先获批，GPT-6.2 反蒸馏数据首公开"
+ },
+ {
+  "date": "2026-11-22",
+  "id": "2026-11-22-A3",
+  "link": "https://www.wsj.com/finance/stocks/the-blame-game-has-begun-over-anthropics-turbulent-trading-debut-280a34b1",
+  "title": "华尔街互相指责 Anthropic 上市安排，12 月 15 日约 3 亿股解锁"
+ },
+ {
+  "date": "2026-11-22",
+  "id": "2026-11-22-A4",
+  "link": "https://dealroom.co/news/174745-kkr-s-helix-in-talks-to-buy-a-majority-of-edgecore-from-partners-group-a/",
+  "title": "彭博：KKR 旗下 Helix 洽购数据中心运营商 EdgeCore 多数股权，估值或达 80–100 亿美元"
+ },
+ {
+  "date": "2026-11-22",
+  "id": "2026-11-22-A5",
+  "link": "https://www.fool.com/investing/2026/11/21/after-its-worst-week-in-18-years-nvidia-now-faces-an-sec-investigation-what-it-means-for-investors/",
+  "title": "英伟达 SEC 会计调查细节落地，创 18 年来最差单周（-23%），股价较 52 周高点近腰斩"
+ },
+ {
+  "date": "2026-11-22",
+  "id": "2026-11-22-A6",
+  "link": "https://www.fool.com/investing/2026/11/21/amd-vs-nvidia-which-ai-chip-stock-is-the-better-buy-on-the-dip/?source=iedfolrf0000001",
+  "title": "Hunterbrook 报告指 AMD 固件经浪潮关联服务器商流入中国，AMD 否认违规"
+ },
+ {
+  "date": "2026-11-22",
+  "id": "2026-11-22-A7",
+  "link": "https://www.financialmarkets.com/article/broadcom-fell-12-the-day-an-analyst-said-google-cut-a-million-tpu-shipments",
+  "title": "郭明錤：谷歌砍 2027 年博通 TPU 8i 出货约 100 万片，博通跌 12.3%"
+ },
+ {
+  "date": "2026-11-22",
+  "id": "2026-11-22-A8",
+  "link": "https://www.reuters.com/business/oracle-says-openai-infrastructure-deal-is-fully-funded-after-final-capital-raise-2026-11-20/",
+  "title": "Oracle 称与 OpenAI 的算力合同已全部获得融资，4.5GW 新增算力推进中，英伟达 Vera Rubin 机架未来几周内交付"
+ },
+ {
+  "date": "2026-11-22",
+  "id": "2026-11-22-A9",
+  "link": "https://thehackernews.com/2026/11/attackers-ai-agents-found-zero-day-in.html",
+  "title": "AI Agent 自主发现并利用医疗软件零日漏洞，约 11 分钟写进文件、随后拿到一台大学服务器 root 权限"
+ },
+ {
+  "date": "2026-11-22",
+  "id": "2026-11-22-B1",
+  "link": "https://www.morningstar.com/news/marketwatch/20261121100/how-a-brutal-week-for-stocks-almost-wiped-out-their-gains-for-the-entire-year",
+  "title": "美股周五暴跌，标普七连跌、纳指抹去全年涨幅，三大指数进入修正区间"
+ },
+ {
+  "date": "2026-11-22",
+  "id": "2026-11-22-B2",
+  "link": "https://duke.fm/2026/11/21/bitcoin-rises-over-2-to-more-than-60000-2/",
+  "title": "比特币周六跌破 5.6 万美元后反弹约 9.8%，收复 6 万美元"
+ },
+ {
+  "date": "2026-11-22",
+  "id": "2026-11-22-B3",
+  "link": "https://www.kitco.com/news/off-the-wire/2026-11-20/feds-cook-says-rate-hikes-needed-lower-high-inflation",
+  "title": "美联储理事 Cook 放鹰称利率\"不够紧\"，12 月加息 25bp 定价升至约 96.9%"
+ },
+ {
+  "date": "2026-11-22",
+  "id": "2026-11-22-B4",
+  "link": "https://www.gold-eagle.com/gold-falls-toward-3500-silver-slides-stock-markets-enter-correction-territory",
+  "title": "现货金周跌约 9%、白银周跌 15%，原油连续第三周下跌"
+ },
+ {
+  "date": "2026-11-22",
+  "id": "2026-11-22-C1",
+  "link": "https://www.reuters.com/business/energy/tanker-hit-by-unknown-projectile-near-omans-khasab-ukmto-says-2026-11-21/",
+  "title": "霍尔木兹油轮周六再遭两起袭击，美伊谈判陷入僵局"
+ },
+ {
+  "date": "2026-11-22",
+  "id": "2026-11-22-C2",
+  "link": "https://www.reuters.com/technology/trump-says-us-penalize-firms-building-data-centers-abroad-2026-11-20/",
+  "title": "特朗普威胁对海外建数据中心征\"巨额税\""
+ },
+ {
+  "date": "2026-11-22",
+  "id": "2026-11-22-C3",
+  "link": "https://www.usatoday.com/story/news/politics/2026/11/19/senate-permitting-reform-bill-passes-data-centers-clean-energy/92871719007/",
+  "title": "BAAJA 参议院终审 62-33 通过，转众议院"
  }
 ]

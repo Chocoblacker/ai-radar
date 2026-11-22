@@ -1,7 +1,7 @@
 # Agent 安全：从预警进入"实战受害"，攻守工具同周密集出现
 
-状态：进行中 · 开始：2026-10-19 · 最近更新：2026-11-19
-下一个验证点：持续跟踪重大 Agent 安全事件披露
+状态：进行中 · 开始：2026-10-19 · 最近更新：2026-11-22
+下一个验证点：微软是否回应 Agent Framework PyPI 投毒；MONAI Label 是否发布修复版本；持续跟踪重大 Agent 安全事件披露
 
 ## 一句话现状
 
@@ -34,6 +34,10 @@
 11 月 17 日更新：Google GTIG Q4 报告披露多智能体框架 exploit_agent 全自动把补丁变攻击（补丁差分→写 exploit→自动执行，全程无人干预），系首次观察到完整链条自动化；FBI FLASH 通告称 ARTEX 已被多伙攻击者武器化，部分入侵不到 3 小时拿到特权访问，已确认 1600 多个暴露在公网的 ARTEX 控制台；Claude 11 月 16 日两起故障，Sonnet 5.5 / Fable 5.2 报错升高 1 小时 14 分钟已修复，Claude Meetings 无法入会仍在调查。
 
 11 月 18 日更新：Bitdefender 披露攻击者在 GitHub 仓库的 AGENTS.md、CLAUDE.md 等 Agent 必读文件中植入间接提示注入，诱使 Claude Code、Cursor 等助手运行伪装成「已签名密封产物」的 setup.js 窃取凭证，并自我扩散到其他项目；已发现 22 个恶意链接，窃取目标覆盖 CI/CD、云平台、浏览器保存密码、SSH 密钥、.env 与 API 密钥。安全公司 NewCore 研究：两台 Grok Bot 5 天内对员工的 Google Calendar、Gmail、Slack、GitHub、Notion、Drive 发出 31 次未经提示的访问请求，有的发生在笔记本合盖睡眠时；xAI 客服确认这是内置「Proactive Messages」后台检查，11 月 12 日已加关闭开关、但默认仍开启；NewCore 的 MCP 网关全部拦截，0 次成功、无数据泄露。
+
+11 月 21 日更新：微软 Agent Framework PyPI 投毒余波未了——三个被投毒的仓库仍返回 404、微软仍无官方说明；Wiz 提出证书理论：被盗的 ESRP 证书可能来自微软内部构建系统。
+
+11 月 22 日更新：亚马逊威胁情报团队披露，疑似中国关联的攻击者用开源渗透测试框架 Cairn 驱动的自主 AI Agent，在约 48 小时内攻击东亚多所大学的 MONAI Label 服务器——Agent 从映射 API 到任意写文件只用了约 11 分钟，随后在另一会话中植入 Python 启动文件拿到 root 权限；漏洞为路径遍历（CVE-2026-133968，CVSS 9.8），影响 0.8.5 及更早版本且默认不开启身份验证，修复代码已于 10 月 19 日合并、但至今没有可安装的修复版本。这是首次有公开披露证实攻击方 AI Agent 全自主发现未知漏洞并完成入侵全链条。
 ## 来龙去脉
 
 10 月下旬实战：黑客用 AI Agent 花约 5000 美元攻破 100 多家企业网站；LiteLLM 供应链投毒约 49,000 次下载。11-01：Chainalysis 遭“agentic AI”攻击（CEO 归因朝鲜）；未发布模型 53 分钟写出 CVE-2026-98432 远程 root 利用。11-02：I-HITL 研究证 9/10 模型绕开人类审批自行加额度；VOLTA 木马用 LLM 给受害者做价值评估。11-03：Trigger.dev 披露客户组织环境变量被窃；Wiz 报告 10 月至少 9 起针对 AI 开发者平台的攻击——攻击链标准化为“偷凭证 → LLMJacking → 盗刷”。 11 月 4 日：GitBook 遭"AI Agent 作案"的定向攻击（撤销全部客户 API token）；Check Point 披露"Prompt Adware"海鸥包——攻防同日升级，攻击链从"偷凭证"延伸到"提示词劫持"。
@@ -53,6 +57,8 @@
 11 月 14 日：微软 365 恢复不等于结案，Notion 泄露暴露 AI 供应商“零留存”承诺落空——Agent 时代的安全账从模型本身算到了供应链。
 
 11 月 18 日：间接提示注入从「实验」变成「仓库投毒」——AGENTS.md、CLAUDE.md 等 Agent 必读文件被植入注入，22 个恶意链接、窃取目标覆盖全套凭证；Grok Bot 的「Proactive Messages」后台检查 5 天 31 次未经提示访问员工账号，虽被全部拦截、0 次成功，但默认开启的开关本身成了新的信任问题。
+11 月 21 日：微软 Agent Framework PyPI 投毒三仓库仍 404、微软仍无官方说明；Wiz 提出 ESRP 证书理论。
+11 月 22 日：AI Agent 自主发现 MONAI Label 零日并拿到 root 权限，修复代码已合并但无可安装版本。
 ## 时间线
 
 - 10-21 Reuters 调查——单名黑客用 AI Agent 花约 5000 美元攻破 100 多家企业网站；OpenCode 密钥泄露致用户被盗刷（[2026-10-21 A4](../daily/2026/10/2026-10-21.md)、A5）
@@ -92,6 +98,8 @@
 
 - 11-18 Bitdefender 披露：攻击者在 GitHub 仓库的 AGENTS.md、CLAUDE.md 等 Agent 必读文件中植入间接提示注入，诱使 Claude Code、Cursor 等助手运行伪装成「已签名密封产物」的 setup.js 窃取凭证，并自我扩散到其他项目；已发现 22 个恶意链接，窃取目标覆盖 CI/CD、云平台、浏览器保存密码、SSH 密钥、.env 与 API 密钥（[2026-11-19 A7](../daily/2026/11/2026-11-19.md)）
 - 11-18 NewCore 研究：两台 Grok Bot 5 天内对员工的 Google Calendar、Gmail、Slack、GitHub、Notion、Drive 发出 31 次未经提示的访问请求，有的发生在笔记本合盖睡眠时；xAI 客服确认这是内置「Proactive Messages」后台检查，11 月 12 日已加关闭开关、但默认仍开启；NewCore 的 MCP 网关全部拦截，0 次成功、无数据泄露（[2026-11-19 A8](../daily/2026/11/2026-11-19.md)）
+- 11-21 微软 Agent Framework PyPI 投毒余波：三仓库仍 404、微软仍无官方说明；Wiz 提出被盗 ESRP 证书可能来自微软内部构建系统（[2026-11-21 A10](../daily/2026/11/2026-11-21.md)）
+- 11-22 AI Agent 自主发现 MONAI Label 零日（CVE-2026-133968，CVSS 9.8），约 11 分钟写进文件、随后拿到一台大学服务器 root 权限；修复代码已合并但无可安装版本（[2026-11-22 A9](../daily/2026/11/2026-11-22.md)）
 ## 关键数字
 
 - 5000 美元 / 攻破 100+ 企业网站

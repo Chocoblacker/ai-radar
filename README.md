@@ -13,6 +13,7 @@
 日报是地基，在此之上持续沉淀故事线、概念卡和预判，目标是看懂事情怎么演变，并尽量提前判断接下来会发生什么。
 
 ## 最新 7 天
+- [2026-11-22（周日）](daily/2026/11/2026-11-22.md) —— 黎曼猜想声称被 AI 证明、待核验；美股周五暴跌、纳指抹去全年涨幅；特朗普威胁对海外建数据中心征"巨额税"
 - [2026-11-21（周六）](daily/2026/11/2026-11-21.md) —— 美股周五暴跌、纳指抹去全年涨幅；英伟达 SEC 查会计、加州发传票，股价七连跌收 125.84 美元；Anthropic IPO 交割完成、总募资约 935 亿美元
 - [2026-11-20（周五）](daily/2026/11/2026-11-20.md) —— Anthropic 首日交易收涨 17.1%、史上最大 IPO 落地；美股周四全线大跌、标普六连跌；深圳会晤 AI 安全有口头共识、芯片管制无突破
 
@@ -20,7 +21,6 @@
 - [2026-11-18（周三）](daily/2026/11/2026-11-18.md) —— Anthropic IPO 定价前夜：S-1 第三版获批、订单簿关闭，算力承诺约 9009 亿美元；黄仁勋首次公开表态愿回归；OpenAI 发布 GPT-6.2、旗舰降价 20%
 - [2026-11-17（周二）](daily/2026/11/2026-11-17.md) —— BIS 堵「远程租用算力」漏洞出临时最终规则、英伟达董事会不考虑黄仁勋回归；美股纳指确认回调、台股跌 6.03%；Google 发现 AI Agent 全自动把补丁变攻击
 - [2026-11-16（周一）](daily/2026/11/2026-11-16.md) —— 贝森特要求英伟达外部选帅、黄仁勋同意闭门作证；比特币周日新低 62,112 美元；NYT 披露 Lutnick 弱化版芯片规则
-- [2026-11-15（周日）](daily/2026/11/2026-11-15.md) —— 英伟达员工请愿要求黄仁勋回归、签名冲至约 9 万；微软 365 故障正式关闭；OpenAI 约 300 亿美元融资预判到期落空
 
 
 
@@ -29,15 +29,15 @@
 
 ## 🔥 活跃故事线
 
-- [英伟达 CEO 换帅](threads/nvidia-ceo-transition.md) — SEC 查会计问题、加州总检察长发传票，股价七连跌收 125.84 美元；黄仁勋与 Lutnick 同意出席参议院听证，日期未定
-- [AI 融资潮](threads/ai-funding-wave.md) — Anthropic IPO 交割完成、总募资约 935 亿美元；DeepSeek 约 1000 亿元第二轮融资落地；亚马逊拟收购 Decart 有望感恩节前达成
-- [美联储利率路径](threads/fed-rate-path.md) — 密歇根信心终值 51.5，12 月加息 25bp 定价仍约 95%；日本 10 月核心 CPI 同比 2.2%；12 月 8–9 日 FOMC
-- [中东局势与油价](threads/middle-east-oil.md) — 霍尔木兹油轮再遇袭，美军封锁扩至海上过驳油轮；布伦特约 92 美元
+- [英伟达 CEO 换帅](threads/nvidia-ceo-transition.md) — SEC 会计调查细节落地、股价单周跌 23% 创 18 年最差单周；12 月 1 日闭门访谈、12 月 3 日公开听证
+- [AI 融资潮](threads/ai-funding-wave.md) — Anthropic 次日逼近发行价、收盘价口径订正为 88.91 美元；Oracle 称 OpenAI 算力合同已全额融资；KKR 洽购 EdgeCore 估值 80–100 亿美元
+- [美联储利率路径](threads/fed-rate-path.md) — Cook 放鹰称利率"不够紧"，12 月加息 25bp 定价升至约 96.9%；11 月 25 日 PCE、12 月 8–9 日 FOMC
+- [中东局势与油价](threads/middle-east-oil.md) — 霍尔木兹油轮周六再遭两起袭击、美伊谈判陷入僵局；布伦特约 92.57 美元、周线三连跌
 - [存储/HBM 短缺](threads/memory-hbm-shortage.md) — 三星与 SK 海力士 1–9 月存储产线满负荷、三星内存均价同比涨 270%；长期协议覆盖 2027–2028 年逾半产能
-- [Agent 安全](threads/agent-security.md) — 微软 Agent Framework PyPI 投毒：三仓库仍 404、微软仍无官方说明；Grok Bot 5 天内 31 次未经提示访问企业数据
-- [AI 出口管制](threads/ai-export-controls.md) — 特朗普称只卖旧芯片给中国；贝森特披露军事 AI 共识：人类全程参与；BIS 远程算力新规 11 月 19 日正式生效
-- [AI 资本开支"算账"](threads/ai-capex-reckoning.md) — 美股周五暴跌、纳指抹去全年涨幅；Anthropic 次日跌 9.13%；新增预判：纳指年底前收复年内跌幅 45%（P-2026-11-21-01）
-- [数据中心监管](threads/data-center-regulation.md) — 参议院 73-25 通过 BAAJA 程序性投票，进入全院辩论
+- [Agent 安全](threads/agent-security.md) — AI Agent 自主发现 MONAI Label 零日并拿到 root 权限；微软 Agent Framework PyPI 投毒三仓库仍 404
+- [AI 出口管制](threads/ai-export-controls.md) — 特朗普威胁对海外建数据中心征"巨额税"；BAAJA 参议院 62-33 终审通过、转众议院
+- [AI 资本开支"算账"](threads/ai-capex-reckoning.md) — 美股周五暴跌、纳指抹去全年涨幅；纳指年底前收复年内跌幅预判下调至 40%（P-2026-11-21-01）
+- [数据中心监管](threads/data-center-regulation.md) — BAAJA 参议院 62-33 终审通过、转众议院；特朗普威胁海外建数据中心征"巨额税"；新增预判 P-2026-11-22-01（30%）
 
 [完整故事线总览 →](threads/index.md)
 

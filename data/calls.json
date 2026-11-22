@@ -707,13 +707,41 @@
    "Anthropic 跌破 83 美元发行价"
   ],
   "outcome": null,
-  "probability": 0.45,
+  "probability": 0.4,
   "resolution_criteria": "纳斯达克综合指数 2026 年 12 月 31 日收盘年内涨跌幅为正",
   "resolved_date": null,
   "review": null,
   "statement": "纳斯达克综合指数在 2026 年 12 月 31 日前收复 2026 年全部跌幅（年内转正）",
   "status": "open",
   "thread": "ai-capex-reckoning",
+  "updates": [
+   {
+    "date": "2026-11-22",
+    "probability": 0.4,
+    "reason": "周线跌约 10%、年内约 -2.7%，纳指-100 距熊市一步之遥，广度恶化（2026-11-22 B1）"
+   }
+  ]
+ },
+ {
+  "basis": [
+   "2026-11-22-C2"
+  ],
+  "created": "2026-11-22",
+  "deadline": "2026-12-31",
+  "id": "P-2026-11-22-01",
+  "leading_indicators": [
+   "白宫官员后续细化方案（↑）",
+   "国会领袖公开反对征税设想（↓）",
+   "Alphabet、Oracle 回应调整海外计划（↑）"
+  ],
+  "outcome": null,
+  "probability": 0.3,
+  "resolution_criteria": "白宫发布行政命令/备忘录，或商务部/财政部发布拟议规则，或国会提出相关法案",
+  "resolved_date": null,
+  "review": null,
+  "statement": "特朗普政府在 2026 年 12 月 31 日前出台针对美国公司在海外建数据中心的具体处罚或限制措施（行政命令、部门拟议规则或正式立法提案）",
+  "status": "open",
+  "thread": "data-center-regulation",
   "updates": []
  }
 ]

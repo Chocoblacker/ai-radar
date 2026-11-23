@@ -1,65 +1,5 @@
 [
  {
-  "date": "2026-11-09",
-  "id": "2026-11-09-A1",
-  "link": "https://aviatrix.ai/threat-research-center/claude-code-dont-ask-again-settings-local-json-passwords-keys-1122-github-2026/",
-  "title": "Claude Code\"不再询问\"致 2,539 个密钥流入公开 GitHub，Anthropic 仍无公开回应"
- },
- {
-  "date": "2026-11-09",
-  "id": "2026-11-09-A2",
-  "link": "https://github.com/open-webui/open-webui/releases/tag/v0.13.1",
-  "title": "Open WebUI 0.13.1：编程 Agent 进模型选择器，新增 Tether 桌面伴侣与自动审批"
- },
- {
-  "date": "2026-11-09",
-  "id": "2026-11-09-A3",
-  "link": "https://status.openai.com",
-  "title": "OpenAI 图像生成功能 11 月 8 日故障约 1 小时 49 分钟后恢复"
- },
- {
-  "date": "2026-11-09",
-  "id": "2026-11-09-A4",
-  "link": "https://coincentral.com/ai-layoff-gamble-backfires-as-90-of-executives-report-no-productivity-gains/",
-  "title": "AI 裁员潮遇冷：近 90% 高管称 AI 未可衡量改变生产力，Meta 缩减以 AI Agent 替人计划"
- },
- {
-  "date": "2026-11-09",
-  "id": "2026-11-09-A5",
-  "link": "https://www.gmanetwork.com/news/topstories/nation/1008724/erwin-tulfo-files-bill-seeking-worker-protection-vs-layoffs-due-to-ai/story/",
-  "title": "菲律宾参议员提交法案：以 AI 为由裁员须满足五项条件"
- },
- {
-  "date": "2026-11-09",
-  "id": "2026-11-09-A6",
-  "link": "https://techcrunch.com/2026/11/08/techcrunch-mobility-the-cybertruck-experiment-is-over/",
-  "title": "Uber 最繁忙一周仅 4 单打车由 AI Agent 下单，Agent 订车远未起量"
- },
- {
-  "date": "2026-11-09",
-  "id": "2026-11-09-B1",
-  "link": "https://www.freepressjournal.in/amp/business/gold-records-biggest-weekly-rally-since-august-crude-oil-crashes-over-12-as-fed-rate-fears-cap-gains",
-  "title": "黄金创 8 月以来最强周涨幅，原油全周跌超 12%"
- },
- {
-  "date": "2026-11-09",
-  "id": "2026-11-09-B2",
-  "link": "https://cryptopotato.com/bitcoin-etf-outflows-hit-4-month-high-as-ethereum-funds-stay-in-the-red/",
-  "title": "比特币现货 ETF 单周净流出 12.8 亿美元，创 6 月以来最大周流出"
- },
- {
-  "date": "2026-11-09",
-  "id": "2026-11-09-B3",
-  "link": "https://financefeeds.com/binance-to-close-affected-eu-accounts-by-december-31-after-mica-transition/",
-  "title": "币安确认 12 月 31 日起关闭部分欧盟用户账户，11 月 29 日起对闲置余额收月费"
- },
- {
-  "date": "2026-11-09",
-  "id": "2026-11-09-C1",
-  "link": "https://www.reuters.com/world/china/nvidia-launches-probe-after-report-ceo-huang-was-target-foreign-intelligence-2026-11-08/",
-  "title": "英伟达董事会启动独立调查，回应黄仁勋遭外国情报 targeting 的报道"
- },
- {
   "date": "2026-11-10",
   "id": "2026-11-10-A1",
   "link": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
@@ -1474,5 +1414,113 @@
   "id": "2026-11-23-C1",
   "link": "https://thearabianpost.com/bahrain-demands-un-action-after-iranian-industrial-strike/",
   "title": "巴林要求安理会行动并索赔，周六袭击首次出现伤员"
+ },
+ {
+  "date": "2026-11-24",
+  "id": "2026-11-24-A1",
+  "link": "https://investor.nvidia.com/news/press-release-details/2026/NVIDIA-Board-Reinstates-Jensen-Huang-as-President-CEO-and-Board-Director/default.aspx",
+  "title": "英伟达董事会全票复职黄仁勋，任总裁、CEO 及董事，即刻生效"
+ },
+ {
+  "date": "2026-11-24",
+  "id": "2026-11-24-A2",
+  "link": "https://seekingalpha.com/news/4675532-anthropic-turns-lower-as-post-ipo-volatility-continues",
+  "title": "Anthropic 上市第三日收 87.64 美元，盘中一度跌破 85 美元"
+ },
+ {
+  "date": "2026-11-24",
+  "id": "2026-11-24-A3",
+  "link": "https://www.wsj.com/finance/investing/anthropic-committed-to-spend-900-billion-wall-street-expects-its-debt-to-be-junk-5514d55d",
+  "title": "WSJ：Anthropic 支出承诺约 9000 亿美元，债市预计其评级为垃圾级"
+ },
+ {
+  "date": "2026-11-24",
+  "id": "2026-11-24-A4",
+  "link": "https://claude.com/resources/articles/zero-data-retention-with-enterprise-frontier-safeguards",
+  "title": "Anthropic 企业前沿防护（EFS）公开 Beta：零数据留存下做滥用监测"
+ },
+ {
+  "date": "2026-11-24",
+  "id": "2026-11-24-A5",
+  "link": "https://status.claude.com",
+  "title": "Claude 11 月 23 日晚大规模报错，多模型错误率升高约 1 小时 18 分"
+ },
+ {
+  "date": "2026-11-24",
+  "id": "2026-11-24-A6",
+  "link": "https://talent.aiinsiders.net/article/tencent-opens-the-weights-of-hy4-a-770b-model-with-1m-token",
+  "title": "腾讯 Hy4 开放权重：770B 参数、100 万 token 上下文"
+ },
+ {
+  "date": "2026-11-24",
+  "id": "2026-11-24-A7",
+  "link": "https://aiweekly.co/alerts/ant-open-sources-lingsante-31-flash-a-560b-medical-moe",
+  "title": "蚂蚁 LingSante 医疗大模型开源：560B 参数、MIT 协议"
+ },
+ {
+  "date": "2026-11-24",
+  "id": "2026-11-24-A8",
+  "link": "https://www.digitaltrends.com/computing/ai-is-squeezing-entry-level-office-jobs-and-workers-without-degrees-are-most-exposed/",
+  "title": "RAISE US 报告：AI 重度行业初级岗位招聘缩水 3–8%"
+ },
+ {
+  "date": "2026-11-24",
+  "id": "2026-11-24-A9",
+  "link": "https://9to5google.com/2026/11/23/ai-mode-wallet-gemini/",
+  "title": "Google：AI Mode 接入 Drive、Wallet 与 Gemini App"
+ },
+ {
+  "date": "2026-11-24",
+  "id": "2026-11-24-A10",
+  "link": "https://www.nashnova.com/feed/special/goldman-sachs-memory-shortage-deepest-in-2027-prices-may-reverse-in-2028-18379",
+  "title": "存储展望分化：高盛称短缺 2027 年最深、2028 年或反转；花旗称明年 Q1 合约价涨幅骤缓至 1%"
+ },
+ {
+  "date": "2026-11-24",
+  "id": "2026-11-24-B1",
+  "link": "https://www.investopedia.com/stock-market-today-dow-jones-s-and-p-500-nasdaq-11232026-12274147",
+  "title": "美股周一暴力反弹，纳指涨约 6.8%、年内转正"
+ },
+ {
+  "date": "2026-11-24",
+  "id": "2026-11-24-B2",
+  "link": "https://www.fxstreet.com/news/british-pound-edges-higher-above-13100-as-traders-pare-fed-rate-hike-bets-202611230628",
+  "title": "12 月加息定价 25bp 约 93%–96%，50bp 已基本出局"
+ },
+ {
+  "date": "2026-11-24",
+  "id": "2026-11-24-B3",
+  "link": "https://www.reuters.com/world/us/us-business-activity-growth-eases-further-november-survey-shows-2026-11-23/",
+  "title": "美国 11 月 Flash PMI 回落至 4 个月低点，但仍指向 Q4 GDP 年化增长约 3%"
+ },
+ {
+  "date": "2026-11-24",
+  "id": "2026-11-24-B4",
+  "link": "https://www.kucoin.com/news/articles/crypto-daily-market-report-november-23-2026",
+  "title": "比特币反弹至约 6.3 万美元，以太坊重回约 1795 美元"
+ },
+ {
+  "date": "2026-11-24",
+  "id": "2026-11-24-B5",
+  "link": "https://www.tradingview.com/news/moneycontrol:a87e12ec2094b:0-commodity-corner-crude-oil-slips-on-supply-concerns-gold-rebounds-as-fed-rate-hike-bets-ease/",
+  "title": "黄金反弹约 3.9% 至约 3653 美元，原油跌逾 3% 至三个月低点"
+ },
+ {
+  "date": "2026-11-24",
+  "id": "2026-11-24-B6",
+  "link": "https://www.chinadailyasia.com/hk/article/643038",
+  "title": "港股五连跌、恒生科技九连跌；A 股探底回升，融资保证金比例将下调"
+ },
+ {
+  "date": "2026-11-24",
+  "id": "2026-11-24-C1",
+  "link": "https://www.military.com/trump-suggests-iran-strikes-will-resume-next-year-if-talks-fail",
+  "title": "特朗普：若谈判失败，1 月 1 日后倾向恢复对伊朗大规模打击"
+ },
+ {
+  "date": "2026-11-24",
+  "id": "2026-11-24-C2",
+  "link": "https://www.publicpower.org/periodical/article/appa-urges-house-leaders-pass-permitting-bill",
+  "title": "BAAJA 众议院进展：电力行业协会致信敦促本届国会通过，众议院 11 月 30 日复会"
  }
 ]

@@ -805,5 +805,27 @@
   "status": "open",
   "thread": "data-center-regulation",
   "updates": []
+ },
+ {
+  "id": "P-2026-11-25-01",
+  "created": "2026-11-25",
+  "thread": "ai-export-controls",
+  "statement": "美国在 2026 年 12 月 31 日前公布 301 条款产能过剩调查结果并加征新关税",
+  "probability": 0.7,
+  "deadline": "2026-12-31",
+  "basis": [
+   "2026-11-25-C2"
+  ],
+  "resolution_criteria": "USTR 官网或《联邦公报》公布调查结果与加征清单",
+  "leading_indicators": [
+   "Greer 公布调查日期",
+   "白宫推迟公布或缩小征税范围",
+   "受影响国家达成新贸易协议"
+  ],
+  "updates": [],
+  "status": "open",
+  "outcome": null,
+  "resolved_date": null,
+  "review": null
  }
 ]

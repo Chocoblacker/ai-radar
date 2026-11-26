@@ -79,7 +79,7 @@
    "主席 Warsh 公开表态的措辞转向"
   ],
   "outcome": null,
-  "probability": 0.9,
+  "probability": 0.92,
   "resolution_criteria": "美联储官网 12 月 FOMC 声明",
   "resolved_date": null,
   "review": null,
@@ -176,6 +176,11 @@
     "date": "2026-11-26",
     "probability": 0.9,
     "reason": "10 月 PCE 3.8%/核心 3.3%、Q3 GDP 二读 4.3% 均超预期，12 月加息 25bp 定价约 95%–96%（2026-11-26-B1、B3）；修正顶层概率字段与 11 月 24 日更新记录一致（90%）"
+   },
+   {
+    "date": "2026-11-27",
+    "probability": 0.92,
+    "reason": "CME 12 月加息 25bp 定价升至约 98%（11 月 25 日数据），韩国央行加息至 3.25%、欧央行 10 月纪要显示多数委员本可支持加息，全球同步转鹰（2026-11-27-B1、B2）"
    }
   ]
  },

@@ -1,107 +1,5 @@
 [
  {
-  "date": "2026-11-13",
-  "id": "2026-11-13-A1",
-  "link": "https://www.reuters.com/business/retail-consumer/nvidia-ceo-jensen-huang-step-down-big-blow-ai-boom-2026-11-12/",
-  "title": "黄仁勋辞任英伟达 CEO，CFO Colette Kress 任临时 CEO，董事会启动继任者遴选"
- },
- {
-  "date": "2026-11-13",
-  "id": "2026-11-13-A2",
-  "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/",
-  "title": "谷歌发布 Gemini 4 Hydrogen：1M 上下文、定价 1.50/7.50 美元"
- },
- {
-  "date": "2026-11-13",
-  "id": "2026-11-13-A3",
-  "link": "https://www.businesstoday.in/amp/markets/ipo-corner/story/anthropics-record-breaking-90-billion-ipo-is-already-oversubscribed-several-times-over-566945-2026-11-12",
-  "title": "Anthropic IPO：彭博称认购已达可供股份的数倍，海外散户认购同步开启"
- },
- {
-  "date": "2026-11-13",
-  "id": "2026-11-13-A4",
-  "link": "https://www.prnewswire.com/news-releases/mirendil-raises-1b-to-democratize-frontier-ai-rd-302937248.html",
-  "title": "Mirendil 完成 10 亿美元 A 轮，要把前沿 AI 研发交给小团队"
- },
- {
-  "date": "2026-11-13",
-  "id": "2026-11-13-A5",
-  "link": "https://www.theregister.com/security/2026/11/12/openai-launches-security-products-tells-orgs-theyre-doomed-if-they-dont-use-them/5309500",
-  "title": "OpenAI 发布 Daybreak 安全产品线，传闻中的 GPT-6.2 未发布"
- },
- {
-  "date": "2026-11-13",
-  "id": "2026-11-13-A6",
-  "link": "https://claude.com/resources/articles/self-hosted-claude-managed-agents",
-  "title": "Anthropic 同日连发两款企业级产品"
- },
- {
-  "date": "2026-11-13",
-  "id": "2026-11-13-A7",
-  "link": "https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite",
-  "title": "IBM 开源抗提示注入模型 Granite LLMON 预览版"
- },
- {
-  "date": "2026-11-13",
-  "id": "2026-11-13-A8",
-  "link": "https://techaeris.com/2026/11/12/microsoft-365-outage-takes-down-outlook/",
-  "title": "微软 365 大面积故障：Outlook、Teams、Copilot 365 无法连接"
- },
- {
-  "date": "2026-11-13",
-  "id": "2026-11-13-A9",
-  "link": "https://www.aikido.dev/blog/compromised-github-accounts-push-ci-secret-stealer-to-tens-of-thousands-of-repositories",
-  "title": "WFX Phantom 供应链攻击：4837 个被盗 GitHub 账号向 6 万多个仓库投放凭证窃取器"
- },
- {
-  "date": "2026-11-13",
-  "id": "2026-11-13-B1",
-  "link": "https://flatlandsgrain.com/news/story/7964700/stocks-settle-mixed-as-broader-market-recovers-from-chip-stock-rout",
-  "title": "美股收盘分化：标普 +0.33%、道指 +1.08%，英伟达收跌 4.34%"
- },
- {
-  "date": "2026-11-13",
-  "id": "2026-11-13-B2",
-  "link": "https://kwsn.com/2026/11/12/feds-hammack-signals-support-for-gradual-rate-hike-path/",
-  "title": "加息预期升温：初请升至 20 万人，哈马克主张“小步多次”加息，12 月加息 25bp 定价约 90.8%"
- },
- {
-  "date": "2026-11-13",
-  "id": "2026-11-13-B3",
-  "link": "https://bitcoinmagazine.com/markets/msci-removes-strategy-mstr-usa-index",
-  "title": "比特币双重失血：MSCI 剔除 Strategy 与 Metaplanet，ETF 连流 5 日"
- },
- {
-  "date": "2026-11-13",
-  "id": "2026-11-13-B4",
-  "link": "https://www.ad-hoc-news.de/boerse/news/marktberichte/hang-seng-closes-1-26-prozent-lower-at-24-008-55/70497491",
-  "title": "港股跌 1.26% 险守 24,000 点，阿里跌 6.8%；A 股半导体逆势大涨"
- },
- {
-  "date": "2026-11-13",
-  "id": "2026-11-13-B5",
-  "link": "https://985theriver.com/2026/11/11/oil-prices-drop-more-than-1-as-hopes-for-iran-ukraine-peace-talks-pressure-markets/",
-  "title": "油价日内大幅反转、金价跌破 4000 美元：WTI 涨近 3%"
- },
- {
-  "date": "2026-11-13",
-  "id": "2026-11-13-C1",
-  "link": "https://www.reuters.com/world/china/tougher-curbs-ai-chip-sales-china-likely-after-nvidia-ceo-resigns-2026-11-12/",
-  "title": "BIS 拟将 7 国纳入 AI 芯片许可范围，堵海外租卡漏洞"
- },
- {
-  "date": "2026-11-13",
-  "id": "2026-11-13-C2",
-  "link": "https://www.reuters.com/world/china/white-house-discussing-howard-lutnicks-future-commerce-secretary-people-familiar-2026-11-12/",
-  "title": "国会追责升级：要求保全英伟达出口记录、调查 H200 审批，情报委员会主席要求禁 CXMT"
- },
- {
-  "date": "2026-11-13",
-  "id": "2026-11-13-C3",
-  "link": "https://stacks921.com/2026/11/12/openai-google-anthropic-hit-with-lawsuit-seeking-halt-to-frontier-ai-development/",
-  "title": "四家非营利组织起诉五家 AI 公司，要求冻结前沿模型开发"
- },
- {
   "date": "2026-11-14",
   "id": "2026-11-14-A1",
   "link": "https://www.koreatimes.co.kr/world/20261114/nvidia-approached-arm-ceo-haas-to-succeed-huang-ft-reports",
@@ -1426,5 +1324,113 @@
   "title": "USTR 正式公布 301 调查结果，拟对 14 个经济体加征关税，中国封顶 20%、谈判破裂则升至 40%",
   "link": "https://ustr.gov/about/policy-offices/press-office/press-releases/2026/november/ustr-makes-determinations-and-proposes-actions-14-section-301-investigations-relating-structural",
   "date": "2026-11-26"
+ },
+ {
+  "date": "2026-11-27",
+  "id": "2026-11-27-A1",
+  "link": "https://www.unite.ai/gigachat-4-debuts-with-1m-token-context-and-two-model-sizes/",
+  "title": "Sber 发布 GigaChat 4：708B 开源旗舰 + 37B 紧凑版，100 万 token 上下文"
+ },
+ {
+  "date": "2026-11-27",
+  "id": "2026-11-27-A2",
+  "link": "https://www.prnewswire.com/apac/news-releases/deepl-introduces-aure-v2-its-fastest-voice-ai-translation-model-302950696.html",
+  "title": "DeepL 发布 Aure v2：端到端语音翻译模型，翻译延迟减半"
+ },
+ {
+  "date": "2026-11-27",
+  "id": "2026-11-27-A3",
+  "link": "https://www.qwencloud.com/models/qwen-audio-3.1-asr-flash",
+  "title": "Qwen-Audio-3.1 多语言升级：ASR 扩至 59 种语言，TTS 65 种、实时对话 53 种"
+ },
+ {
+  "date": "2026-11-27",
+  "id": "2026-11-27-A4",
+  "link": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2341725&reg=48&lang=2",
+  "title": "印度 IndiaAI Mission 发布本土基座模型 Chariot-1：11B MoE + 十种印度语言 TTS"
+ },
+ {
+  "date": "2026-11-27",
+  "id": "2026-11-27-A5",
+  "link": "https://www.cloudflarestatus.com/incidents/xiqj67vl5pqm",
+  "title": "Cloudflare Dashboard 与 API 出现 Major 级故障，约 2 小时 14 分后恢复，CDN 缓存服务未受影响"
+ },
+ {
+  "date": "2026-11-27",
+  "id": "2026-11-27-A6",
+  "link": "https://www.githubstatus.com/incidents/m0wvf9pt3l0l",
+  "title": "GitHub 波动：LFS 降级约 3 小时，OpenAI Codex 的 PR 自动评审报错近 22 小时后恢复"
+ },
+ {
+  "date": "2026-11-27",
+  "id": "2026-11-27-A7",
+  "link": "https://www.wordfence.com/threat-intel/vulnerabilities/id/aa79cc6a-bed7-43d8-8e5f-89b6dbcb81cd?source=cve",
+  "title": "11 月 26 日集中披露一批 AI 工具漏洞：WordPress MCP 服务器插件可提权至管理员（CVSS 8.1）"
+ },
+ {
+  "date": "2026-11-27",
+  "id": "2026-11-27-A8",
+  "link": "https://www.reuters.com/business/sp-global-places-nvidia-rating-creditwatch-negative-rising-management-governance-2026-11-25/",
+  "title": "标普将英伟达 AA 评级列入“信用观察·负面”，90 天内可能下调一档"
+ },
+ {
+  "date": "2026-11-27",
+  "id": "2026-11-27-A9",
+  "link": "https://www.tipranks.com/news/micron-sk-hynix-and-samsung-face-a-new-ai-memory-rival-as-huawei-eyes-new-hbm-chip",
+  "title": "华为拟在 ISSCC 2027 公布新一代 HBM 设计，数据引脚密度为三星/SK 海力士量产产品的 2 倍"
+ },
+ {
+  "date": "2026-11-27",
+  "id": "2026-11-27-A10",
+  "link": "https://www.lapost.com/content/trump-heads-to-arizona-next-week-for-a-high-stakes-expansion-of-tsmc-s-computer-chip-factories",
+  "title": "台积电亚利桑那扩建 12 月 4 日动工，特朗普将出席；A14（1.4nm）PDK 已开放设计"
+ },
+ {
+  "date": "2026-11-27",
+  "id": "2026-11-27-B1",
+  "link": "https://www.bok.or.kr/eng/bbs/E0000627/view.do?depth=400022&menuNo=400022&nttId=11067085&oldMenuNo=400007&programType=newsDataEng&relate=Y",
+  "title": "全球央行同步转鹰：韩国加息至 3.25%，欧央行纪要显示多数委员 10 月本可支持加息"
+ },
+ {
+  "date": "2026-11-27",
+  "id": "2026-11-27-B2",
+  "link": "https://www.ecmarkets.com/insights/fed-rate-hike-odds-pce-inflation/",
+  "title": "12 月加息 25bp 定价升至约 98%，市场已开始定价 1 月连续第二次加息"
+ },
+ {
+  "date": "2026-11-27",
+  "id": "2026-11-27-B3",
+  "link": "https://gmg-wjxt-prod.cdn.arcpublishing.com/business/2026/11/26/asian-shares-rebound-led-by-ai-stocks-after-wall-street-pares-sharp-losses/",
+  "title": "亚欧股市 11 月 26 日普涨，恒指终结七连跌；欧洲股市大涨约 2%"
+ },
+ {
+  "date": "2026-11-27",
+  "id": "2026-11-27-B4",
+  "link": "https://www.coindesk.com/daybook-us/2026/11/26/bitcoin-etfs-are-bleeding-cash-and-the-fed-is-unlikely-to-help",
+  "title": "比特币重回 6 万美元上方，但现货 ETF 流出延至七连日、11 月流出 53.9 亿美元创单月纪录"
+ },
+ {
+  "date": "2026-11-27",
+  "id": "2026-11-27-B5",
+  "link": "https://www.kitco.com/news/article/2026-11-26/gold-slips-silver-steadies-fed-rate-hike-expectations-persist-holiday",
+  "title": "黄金盘中跌至约 3430 美元后反弹收约 3583 美元；布伦特收 94.61 美元后升破 96 美元"
+ },
+ {
+  "date": "2026-11-27",
+  "id": "2026-11-27-C1",
+  "link": "https://www.reuters.com/world/asia-pacific/nvidia-halts-chip-shipments-southeast-asia-ft-reports-2026-11-26/",
+  "title": "英伟达叫停向马来西亚、新加坡、泰国、印尼的 AI 服务器出货"
+ },
+ {
+  "date": "2026-11-27",
+  "id": "2026-11-27-C2",
+  "link": "https://www.chinadailyasia.com/hk/article/643293",
+  "title": "中国商务部就 301 关税首次正式表态：坚决反对，保留采取必要措施的权利"
+ },
+ {
+  "date": "2026-11-27",
+  "id": "2026-11-27-C3",
+  "link": "https://www.unite.ai/nvidia-gpu-sellers-reject-any-chinese-rental-capacity-cnbc-reports/",
+  "title": "CNBC：英伟达芯片卖家要求 neocloud 彻底排除中国租户，“零容忍”取代 50% 红线"
  }
 ]

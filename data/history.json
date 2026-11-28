@@ -1,113 +1,5 @@
 [
  {
-  "date": "2026-11-14",
-  "id": "2026-11-14-A1",
-  "link": "https://www.koreatimes.co.kr/world/20261114/nvidia-approached-arm-ceo-haas-to-succeed-huang-ft-reports",
-  "title": "英伟达董事会接洽 Arm CEO Haas 商谈接任，董事会否认正式接洽任何人"
- },
- {
-  "date": "2026-11-14",
-  "id": "2026-11-14-A2",
-  "link": "https://www.reuters.com/technology/openai-launches-chatgpt-wallet-letting-ai-agents-pay-purchases-2026-11-13/",
-  "title": "OpenAI 推出 ChatGPT Wallet，dots 智能体可代用户付款"
- },
- {
-  "date": "2026-11-14",
-  "id": "2026-11-14-A3",
-  "link": "https://www.thehindubusinessline.com/markets/anthropic-ipo-draws-sixfold-demand-targets-14-trillion-valuation/article71696359.ece/amp/",
-  "title": "Anthropic IPO 认购约 6 倍，Amodei 与 Dimon 直播路演"
- },
- {
-  "date": "2026-11-14",
-  "id": "2026-11-14-A4",
-  "link": "https://www.businesswire.com/news/home/20261113716429/en/LangChain-Raises-$300M-to-Enable-Every-Company-to-Own-Their-Intelligence",
-  "title": "LangChain 完成 3 亿美元 C 轮融资，估值 30 亿美元"
- },
- {
-  "date": "2026-11-14",
-  "id": "2026-11-14-A5",
-  "link": "https://aiagentupdate.com/post/thinking-machines-inkling-2-small-weights-2026-11-13",
-  "title": "Thinking Machines 开源 Inkling 2 Small 权重，Apache 2.0 可商用"
- },
- {
-  "date": "2026-11-14",
-  "id": "2026-11-14-A6",
-  "link": "https://www.reuters.com/business/finance/faxes-phones-bluetooth-microsoft-outage-forces-businesses-find-fixes-2026-11-13/",
-  "title": "微软 365 故障大范围恢复，但尚未正式关闭"
- },
- {
-  "date": "2026-11-14",
-  "id": "2026-11-14-A7",
-  "link": "https://www.skimwire.com/notion-ai-fireworks-breach-chat-transcripts-what-to-do/",
-  "title": "Notion AI 聊天记录泄露更新：第三方 API 密钥已通报发证方"
- },
- {
-  "date": "2026-11-14",
-  "id": "2026-11-14-A8",
-  "link": "https://www.zacks.com/stock/news/3029327/nvidia-leadership-crisis-opens-door-for-chip-rivals-etfs-in-focus",
-  "title": "AMD、博通成英伟达动荡受益者：单日涨约 6%，本周 AMD 涨 30%"
- },
- {
-  "date": "2026-11-14",
-  "id": "2026-11-14-A9",
-  "link": "https://economictimes.indiatimes.com/news/international/world-news/nvidia-faced-pressure-to-boost-its-ai-backstop-before-jensen-huangs-exit/articleshow/135785679.cms",
-  "title": "英伟达 5000 亿美元融资计划受阻，分析师集体下调目标价"
- },
- {
-  "date": "2026-11-14",
-  "id": "2026-11-14-B1",
-  "link": "https://985theriver.com/2026/11/13/us-producer-prices-rise-further-in-october/",
-  "title": "美国 10 月 PPI 同比涨 6.5%，创近四年最大涨幅"
- },
- {
-  "date": "2026-11-14",
-  "id": "2026-11-14-B2",
-  "link": "https://www.freemalaysiatoday.com/category/business/2026/11/13/bitcoin-slides-below-us-70-000-as-inflation-concerns-hurt-crypto",
-  "title": "比特币跌破 7 万美元，创 8 月 19 日以来新低"
- },
- {
-  "date": "2026-11-14",
-  "id": "2026-11-14-B3",
-  "link": "https://www.leadlagreport.com/the-dollar-is-at-a-19-month-high-and-the-yen-is-back-at-160/",
-  "title": "美债 10 年期收益率破 5.10%，美元创 19 个月新高"
- },
- {
-  "date": "2026-11-14",
-  "id": "2026-11-14-B4",
-  "link": "https://www.tradingkey.com/analysis/commodities/metal/262303668-gold-price-forecast-trump-no-iran-deal-below-3900-october-ppi-rebound-tradingkey",
-  "title": "油价周四跳涨近 4%、金价跌破 3900 美元至 13 个月低点；IEA 称四季度重回过剩"
- },
- {
-  "date": "2026-11-14",
-  "id": "2026-11-14-B5",
-  "link": "https://www.bastillepost.com/global/article/6357160-hong-kong-stocks-close-lower-40",
-  "title": "港股跌 1.55% 三连跌，恒科跌 3.02%；A 股齐跌"
- },
- {
-  "date": "2026-11-14",
-  "id": "2026-11-14-B6",
-  "link": "https://beta.manilatimes.net/2026/11/13/business/foreign-business/wall-street-shakes-with-swings-for-nvidia-and-oil-prices-but-recovers-most-of-its-early-losses/2469267",
-  "title": "美股周五盘中科技股再度走弱，费城半导体指数跌 6%"
- },
- {
-  "date": "2026-11-14",
-  "id": "2026-11-14-C1",
-  "link": "https://www.koreatimes.co.kr/world/20261113/chinas-access-to-nvidia-chips-in-doubt-as-curbs-gain-traction-in-us-congress",
-  "title": "国会议长称收紧对华芯片出口已成共识，四项法案拟搭车国防授权法案"
- },
- {
-  "date": "2026-11-14",
-  "id": "2026-11-14-C2",
-  "link": "https://iol.co.za/news/world/2026-11-13-us-lawmakers-summon-nvidia-ex-ceo-after-affair-with-suspected-spy/",
-  "title": "国会传唤升级：黄仁勋 12 月 1 日闭门访谈、12 月 3 日公开听证；白宫讨论撤换 Lutnick"
- },
- {
-  "date": "2026-11-14",
-  "id": "2026-11-14-C3",
-  "link": "https://techcrunch.com/2026/11/12/democrats-launch-nvidia-investigation-write-scathing-letter-on-huangs-scheme-with-trump/",
-  "title": "民主党议员启动 H200 调查：质疑 25% 关税变相收“出口税”"
- },
- {
   "date": "2026-11-15",
   "id": "2026-11-15-A1",
   "link": "https://timesofindia.indiatimes.com/technology/tech-news/elon-musk-and-over-40000-others-including-nvidias-current-and-former-employees-sign-open-letter-for-jensen-huangs-return-letter-says-thirty-three-years-of-leadership-do-not-place-anyone-above-/articleshow/135823053.cms",
@@ -1432,5 +1324,113 @@
   "id": "2026-11-27-C3",
   "link": "https://www.unite.ai/nvidia-gpu-sellers-reject-any-chinese-rental-capacity-cnbc-reports/",
   "title": "CNBC：英伟达芯片卖家要求 neocloud 彻底排除中国租户，“零容忍”取代 50% 红线"
+ },
+ {
+  "date": "2026-11-28",
+  "id": "2026-11-28-A1",
+  "link": "https://openai.com/index/astra-law-6-2/",
+  "title": "OpenAI 发布 Astra for Law：法律基准登顶，向全部 Enterprise 客户开放申请"
+ },
+ {
+  "date": "2026-11-28",
+  "id": "2026-11-28-A2",
+  "link": "https://www.infoworld.com/article/4253883/openais-gpt%e2%80%916-2-correction-means-you-get-less-ai-for-the-same-fee.html",
+  "title": "OpenAI 承认 GPT-6.2 计费错误并修正：同价用量缩水，Astra 快 40%、Sol 快 25%"
+ },
+ {
+  "date": "2026-11-28",
+  "id": "2026-11-28-A3",
+  "link": "https://status.claude.com",
+  "title": "Claude Fable 5.2 短暂故障约 20 分钟后恢复"
+ },
+ {
+  "date": "2026-11-28",
+  "id": "2026-11-28-A4",
+  "link": "https://www.gadgets360.com/ai/news/claude-duet-ai-assistant-india-app-available-research-preview-12380234",
+  "title": "Anthropic 将 Claude Duet 研究预览扩展至印度、巴西、印尼、日本，Team 管理员首次可开通"
+ },
+ {
+  "date": "2026-11-28",
+  "id": "2026-11-28-A5",
+  "link": "https://www.akamaistatus.com",
+  "title": "Akamai 边缘交付故障：HTTP/3 下对象不完整却返回 200 OK，截至当晚仍未解决"
+ },
+ {
+  "date": "2026-11-28",
+  "id": "2026-11-28-A6",
+  "link": "https://github.com/modelcontextprotocol/servers/security/advisories/GHSA-6663-fm5v-gqm5",
+  "title": "MCP 官方工具链同日密集修复：参考服务器 8 条安全公告、Inspector 补 NAT64 SSRF 绕过"
+ },
+ {
+  "date": "2026-11-28",
+  "id": "2026-11-28-A7",
+  "link": "https://www.morningstar.com/news/dow-jones/202611271012/sap-says-no-decisions-made-on-job-cuts-as-ai-reshapes-landscape",
+  "title": "SAP 拟裁至少 1 万人（约 9% 员工），公司回应称\"未作决定\""
+ },
+ {
+  "date": "2026-11-28",
+  "id": "2026-11-28-A8",
+  "link": "https://www.devdiscourse.com/article/business/4012920-ai-may-put-24-million-knowledge-worker-jobs-at-risk-globally-over-five-years-jp-morgan",
+  "title": "摩根大通《2027 展望》：AI 五年内或影响 2400 万知识型岗位，但只是情景测算"
+ },
+ {
+  "date": "2026-11-28",
+  "id": "2026-11-28-A9",
+  "link": "https://www.investopedia.com/stock-market-today-dow-jones-s-and-p-500-nasdaq-11272026-12283022",
+  "title": "芯片股黑色星期五大反弹，费半单日涨 4.69%，英伟达却只涨 0.8%"
+ },
+ {
+  "date": "2026-11-28",
+  "id": "2026-11-28-A10",
+  "link": "https://www.tweaktown.com/news/114934/dram-shortage-pushes-electronics-makers-to-set-up-war-rooms-and-buy-as-few-as-five-chips-at-a-time/index.html",
+  "title": "DRAM 短缺蔓延至中小厂商：设\"战时指挥室\"、在 eBay 上零星扫货"
+ },
+ {
+  "date": "2026-11-28",
+  "id": "2026-11-28-B1",
+  "link": "https://www.kitco.com/news/off-the-wire/2026-11-27/wall-street-ends-higher-battered-ai-stocks-gain-volatile-week",
+  "title": "美股半日大涨：纳指涨 2.31%、年内转正至 +3.8%，道指创三年最佳感恩节周"
+ },
+ {
+  "date": "2026-11-28",
+  "id": "2026-11-28-B2",
+  "link": "https://www.fxstreet.com/news/british-pound-rises-as-boe-hawkishness-counters-fed-rate-hike-bets-202611271533",
+  "title": "12 月加息定价升至约 99%，英国央行 12 月加息定价亦升至 88%"
+ },
+ {
+  "date": "2026-11-28",
+  "id": "2026-11-28-B3",
+  "link": "https://dailyfoxnews.com/news/45865/china-stocks-surge-most-in-two-years-as-beijing-vows-stronger-market-support",
+  "title": "中国国务院常务会议首提\"国家队\"稳市，A 股创两年多最大单日涨幅；欧股跟涨但基本面走弱"
+ },
+ {
+  "date": "2026-11-28",
+  "id": "2026-11-28-B4",
+  "link": "https://www.wsj.com/business/energy-oil/oil-prices-rise-ahead-of-opec-meeting-as-middle-east-supply-risks-persist-63fbb550",
+  "title": "原油冲高回落、周涨 3.1% 终结三连跌；黄金期货反弹 2.7%，白银盘中暴涨逾 10%"
+ },
+ {
+  "date": "2026-11-28",
+  "id": "2026-11-28-B5",
+  "link": "https://talkmarkets.com/article/record-bitcoin-etf-november-outflows-ahead-of-68-billion",
+  "title": "比特币守住 6 万美元关口，约 68 亿美元期权到期；ETF 流出暂无新数据"
+ },
+ {
+  "date": "2026-11-28",
+  "id": "2026-11-28-C1",
+  "link": "https://ustr.gov/about/policy-offices/press-office/press-releases/2026/november/ustr-makes-determinations-and-proposes-actions-14-section-301-investigations-relating-structural",
+  "title": "301 关税进入各国博弈：14 个经济体密集回应，书面意见 1 月 5 日截止、听证 1 月 25 日开"
+ },
+ {
+  "date": "2026-11-28",
+  "id": "2026-11-28-C2",
+  "link": "https://dailyfoxnews.com/news/39920/attack-on-saudi-aramco-s-jazan-refinery-kills-worker-halts-some-operations",
+  "title": "胡塞袭击沙特 Jazan 炼油厂获官方证实：1 名尼泊尔工人死亡、部分装置停运"
+ },
+ {
+  "date": "2026-11-28",
+  "id": "2026-11-28-C3",
+  "link": "https://www.wsj.com/politics/policy/jensen-huangs-comeback-collides-with-furious-lawmakers-demanding-answers-948d6eb9",
+  "title": "英伟达 11 月单月跌约 28%，创 2022 年 4 月以来最差单月；黄仁勋聘调查律师备战听证"
  }
 ]
